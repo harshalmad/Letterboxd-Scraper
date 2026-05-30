@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://letterboxd-scraper.vercel.app/sitemap.xml

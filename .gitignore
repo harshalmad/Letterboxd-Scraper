@@ -1,0 +1,11 @@
+scraper/output/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+node_modules/
+web/.next/
+web/out/
+.DS_Store
+*.log
