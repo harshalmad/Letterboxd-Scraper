@@ -33,13 +33,22 @@ export default function FilmList({ films, year }: FilmListProps) {
             aria-label={`Search films from ${year}`}
           />
         </label>
-        <a
-          href={`/data/years/${year}.json`}
-          download={`letterboxd-popular-${year}.json`}
-          className="inline-flex items-center justify-center rounded-lg border border-[var(--border)] px-4 py-2 text-sm text-[var(--muted)] transition hover:border-[var(--accent)] hover:text-[var(--foreground)] focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent)]"
-        >
-          Download JSON
-        </a>
+        <div className="flex flex-wrap gap-2">
+          <a
+            href={`/data/years/${year}.csv`}
+            download={`letterboxd-popular-${year}.csv`}
+            className="inline-flex items-center justify-center rounded-lg border border-[var(--border)] px-4 py-2 text-sm text-[var(--muted)] transition hover:border-[var(--accent)] hover:text-[var(--foreground)] focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent)]"
+          >
+            Download CSV
+          </a>
+          <a
+            href={`/data/years/${year}.json`}
+            download={`letterboxd-popular-${year}.json`}
+            className="inline-flex items-center justify-center rounded-lg border border-[var(--border)] px-4 py-2 text-sm text-[var(--muted)] transition hover:border-[var(--accent)] hover:text-[var(--foreground)] focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent)]"
+          >
+            Download JSON
+          </a>
+        </div>
       </div>
 
       <div className="overflow-hidden rounded-xl border border-[var(--border)]">

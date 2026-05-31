@@ -4,8 +4,8 @@ const navItems = [
   { href: "/", label: "Years" },
   { href: "/about", label: "About" },
   {
-    href: "https://github.com/harshalmad/Letterboxd-Scraper",
-    label: "GitHub",
+    href: process.env.NEXT_PUBLIC_SITE_URL ?? "https://letterboxd-scraper.vercel.app",
+    label: "Live site",
     external: true,
   },
 ]

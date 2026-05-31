@@ -4,7 +4,7 @@
 
 Periodically scrapes the **50 most popular Letterboxd films** for each release year (1977–2026), using Letterboxd's **year-to-date** popularity window. Results are published as a browsable website and downloadable JSON/CSV datasets.
 
-**Live site:** Deploy to [Vercel](https://vercel.com/new) with root directory `web` (update this link after your first deploy).
+**Live site:** [letterboxd-scraper.vercel.app](https://letterboxd-scraper.vercel.app)
 
 **Repository:** [github.com/harshalmad/Letterboxd-Scraper](https://github.com/harshalmad/Letterboxd-Scraper)
 
@@ -32,7 +32,7 @@ python scraper/scraper.py
 
 This writes:
 
-- CSV files to `scraper/output/{year}.csv`
+- CSV files to `scraper/output/{year}.csv` and `web/public/data/years/{year}.csv`
 - JSON files to `web/public/data/years/{year}.json`
 - Manifest to `web/public/data/manifest.json`
 

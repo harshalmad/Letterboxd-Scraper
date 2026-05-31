@@ -4,6 +4,7 @@
 from __future__ import annotations
 
 import csv
+import shutil
 import sys
 from pathlib import Path
 
@@ -44,6 +45,7 @@ def main() -> int:
                 )
 
         write_year_json(JSON_DIR / "years" / f"{year}.json", year, films)
+        shutil.copy2(csv_path, JSON_DIR / "years" / f"{year}.csv")
         successful_years.append(year)
         total_films += len(films)
         print(f"Converted {year}: {len(films)} films")

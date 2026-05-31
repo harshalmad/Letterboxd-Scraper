@@ -414,6 +414,7 @@ def main(argv: list[str] | None = None) -> int:
             if not args.no_json:
                 json_path = json_years_dir / f"{year}.json"
                 write_year_json(json_path, year, films)
+                write_csv(json_years_dir / f"{year}.csv", films)
 
             total_films += len(films)
             successful_years.append(year)
