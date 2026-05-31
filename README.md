@@ -59,6 +59,17 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000).
 
+## GitHub repository settings
+
+After cloning, you can set the repo homepage and topics (requires [GitHub CLI](https://cli.github.com/) auth):
+
+```powershell
+gh auth login
+./scripts/update-github-about.ps1
+```
+
+This sets the homepage to `https://letterboxd-scraper.vercel.app` and topics: `letterboxd`, `nextjs`, `web-scraping`.
+
 ## Deploy to Vercel
 
 1. Import [harshalmad/Letterboxd-Scraper](https://github.com/harshalmad/Letterboxd-Scraper) on Vercel.
