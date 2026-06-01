@@ -31,11 +31,17 @@ DEFAULT_DELAY = 1.5
 DEFAULT_FILM_DELAY = 0.75
 DEFAULT_MAX_ACTORS = 3
 DEFAULT_RETRIES = 3
+DEFAULT_RETRY_BASE_DELAY = 2.0
+DEFAULT_PAGE_DELAY = 0.0
 DEFAULT_OUTPUT_DIR = Path(__file__).resolve().parent / "output"
 DEFAULT_JSON_DIR = Path(__file__).resolve().parent.parent / "web" / "public" / "data"
 MAX_PAGES_PER_YEAR = 10
+MAX_RATE_LIMIT_RETRY_DELAY = 90.0
 
 logger = logging.getLogger(__name__)
+
+_curl_session = None
+_cloudscraper = None
 
 
 @dataclass(frozen=True)
@@ -101,11 +107,31 @@ def parse_film_details_from_html(html: str, max_actors: int = DEFAULT_MAX_ACTORS
     return {"director": director, "actors": tuple(actors), "genres": genre}
 
 
+def _is_rate_limited(exc: Exception) -> bool:
+    message = str(exc).lower()
+    return any(
+        token in message
+        for token in ("403", "429", "forbidden", "too many requests")
+    )
+
+
+def _retry_delay_seconds(
+    attempt: int,
+    exc: Exception | None,
+    base_delay: float,
+) -> float:
+    """Return seconds to wait before the next retry (attempt is 1-based)."""
+    if exc and _is_rate_limited(exc):
+        return min(MAX_RATE_LIMIT_RETRY_DELAY, base_delay * (2**attempt))
+    return base_delay * attempt
+
+
 def fetch_film_details(
     film: Film,
     retries: int,
     timeout: int,
     max_actors: int,
+    retry_base_delay: float,
 ) -> Film:
     slug = slug_from_url(film.url)
     page_url = urljoin(BASE_URL, f"/film/{slug}/")
@@ -126,7 +152,16 @@ def fetch_film_details(
         except Exception as exc:
             last_error = exc
             if attempt < retries:
-                time.sleep(attempt * 2)
+                backoff = _retry_delay_seconds(attempt, exc, retry_base_delay)
+                logger.warning(
+                    "Film %s attempt %s/%s failed: %s. Retrying in %ss...",
+                    film.title,
+                    attempt,
+                    retries,
+                    exc,
+                    backoff,
+                )
+                time.sleep(backoff)
 
     logger.warning("Could not enrich %s: %s", film.title, last_error)
     return film
@@ -138,6 +173,7 @@ def enrich_films(
     retries: int,
     timeout: int,
     max_actors: int,
+    retry_base_delay: float,
 ) -> list[Film]:
     enriched: list[Film] = []
     for index, film in enumerate(films):
@@ -146,6 +182,7 @@ def enrich_films(
             retries=retries,
             timeout=timeout,
             max_actors=max_actors,
+            retry_base_delay=retry_base_delay,
         )
         enriched.append(enriched_film)
         if index < len(films) - 1 and film_delay > 0:
@@ -175,10 +212,28 @@ def _looks_like_cloudflare(html: str) -> bool:
     return "just a moment" in lowered or "cf-browser-verification" in lowered
 
 
-def _fetch_with_curl_cffi(url: str, referer: str, timeout: int) -> str:
-    from curl_cffi import requests as curl_requests
+def _get_curl_session():
+    global _curl_session
+    if _curl_session is None:
+        from curl_cffi import requests as curl_requests
 
-    response = curl_requests.get(
+        _curl_session = curl_requests.Session()
+    return _curl_session
+
+
+def _get_cloudscraper():
+    global _cloudscraper
+    if _cloudscraper is None:
+        import cloudscraper
+
+        _cloudscraper = cloudscraper.create_scraper(
+            browser={"browser": "chrome", "platform": "windows", "mobile": False}
+        )
+    return _cloudscraper
+
+
+def _fetch_with_curl_cffi(url: str, referer: str, timeout: int) -> str:
+    response = _get_curl_session().get(
         url,
         impersonate="chrome120",
         timeout=timeout,
@@ -194,12 +249,7 @@ def _fetch_with_curl_cffi(url: str, referer: str, timeout: int) -> str:
 
 
 def _fetch_with_cloudscraper(url: str, referer: str, timeout: int) -> str:
-    import cloudscraper
-
-    scraper = cloudscraper.create_scraper(
-        browser={"browser": "chrome", "platform": "windows", "mobile": False}
-    )
-    response = scraper.get(
+    response = _get_cloudscraper().get(
         url,
         timeout=timeout,
         headers={
@@ -301,7 +351,14 @@ def parse_films(html: str) -> list[Film]:
     return films
 
 
-def scrape_year(year: int, max_films: int, retries: int, timeout: int) -> list[Film]:
+def scrape_year(
+    year: int,
+    max_films: int,
+    retries: int,
+    timeout: int,
+    page_delay: float,
+    retry_base_delay: float,
+) -> list[Film]:
     referer = build_referer_url(year)
     collected: list[Film] = []
     seen_urls: set[str] = set()
@@ -327,7 +384,7 @@ def scrape_year(year: int, max_films: int, retries: int, timeout: int) -> list[F
             except Exception as exc:
                 last_error = exc
                 if attempt < retries:
-                    backoff = attempt * 2
+                    backoff = _retry_delay_seconds(attempt, exc, retry_base_delay)
                     logger.warning(
                         "Year %s page %s attempt %s/%s failed: %s. Retrying in %ss...",
                         year,
@@ -356,6 +413,9 @@ def scrape_year(year: int, max_films: int, retries: int, timeout: int) -> list[F
             )
             if len(collected) >= max_films:
                 break
+
+        if page_delay > 0 and len(collected) < max_films and page < MAX_PAGES_PER_YEAR:
+            time.sleep(page_delay)
 
     if not collected:
         raise RuntimeError(f"No films found for year {year}")
@@ -473,10 +533,25 @@ def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
         help=f"Seconds to wait between years (default: {DEFAULT_DELAY})",
     )
     parser.add_argument(
+        "--page-delay",
+        type=float,
+        default=DEFAULT_PAGE_DELAY,
+        help=f"Seconds to wait between list pages within a year (default: {DEFAULT_PAGE_DELAY})",
+    )
+    parser.add_argument(
         "--retries",
         type=int,
         default=DEFAULT_RETRIES,
         help=f"Retry attempts per page (default: {DEFAULT_RETRIES})",
+    )
+    parser.add_argument(
+        "--retry-base-delay",
+        type=float,
+        default=DEFAULT_RETRY_BASE_DELAY,
+        help=(
+            f"Base seconds for retry backoff; 403/429 responses use exponential backoff "
+            f"(default: {DEFAULT_RETRY_BASE_DELAY})"
+        ),
     )
     parser.add_argument(
         "--timeout",
@@ -543,6 +618,8 @@ def main(argv: list[str] | None = None) -> int:
                 max_films=args.max_films,
                 retries=args.retries,
                 timeout=args.timeout,
+                page_delay=args.page_delay,
+                retry_base_delay=args.retry_base_delay,
             )
 
             if not args.no_details:
@@ -553,6 +630,7 @@ def main(argv: list[str] | None = None) -> int:
                     retries=args.retries,
                     timeout=args.timeout,
                     max_actors=args.max_actors,
+                    retry_base_delay=args.retry_base_delay,
                 )
             csv_path = args.output_dir / f"{year}.csv"
             write_csv(csv_path, films)

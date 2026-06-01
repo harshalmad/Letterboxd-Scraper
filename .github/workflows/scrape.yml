@@ -11,6 +11,7 @@ permissions:
 jobs:
   scrape:
     runs-on: ubuntu-latest
+    timeout-minutes: 180
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -26,7 +27,15 @@ jobs:
         run: pip install -r scraper/requirements.txt
 
       - name: Run scraper
-        run: python scraper/scraper.py --json-dir web/public/data --delay 1 --film-delay 0.75
+        run: >
+          python scraper/scraper.py
+          --json-dir web/public/data
+          --delay 3
+          --page-delay 2.5
+          --film-delay 1.5
+          --retries 8
+          --retry-base-delay 5
+          --timeout 45
 
       - name: Commit and push updated data
         run: |

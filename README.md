@@ -49,7 +49,10 @@ Director, cast, and genre are sourced from each film's Letterboxd page (JSON-LD 
 | `--output-dir` | `scraper/output` | CSV output directory |
 | `--max-films` | 50 | Films per year |
 | `--delay` | 1.5 | Seconds between years |
+| `--page-delay` | 0 | Seconds between list pages within a year |
 | `--film-delay` | 0.75 | Seconds between film detail requests |
+| `--retries` | 3 | Retry attempts per request |
+| `--retry-base-delay` | 2 | Base retry backoff; 403/429 uses exponential backoff |
 | `--max-actors` | 3 | Top billed actors stored per film |
 | `--no-details` | — | Skip director, cast, and genre enrichment |
 | `--no-json` | — | Skip JSON output |
