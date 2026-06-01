@@ -1,51 +1,51 @@
-rank,title,url
-1,Se7en,https://letterboxd.com/film/se7en/
-2,Before Sunrise,https://letterboxd.com/film/before-sunrise/
-3,Heat,https://letterboxd.com/film/heat-1995/
-4,La Haine,https://letterboxd.com/film/la-haine/
-5,Clueless,https://letterboxd.com/film/clueless/
-6,The Usual Suspects,https://letterboxd.com/film/the-usual-suspects/
-7,Toy Story,https://letterboxd.com/film/toy-story/
-8,Fallen Angels,https://letterboxd.com/film/fallen-angels/
-9,Casino,https://letterboxd.com/film/casino/
-10,Empire Records,https://letterboxd.com/film/empire-records/
-11,Ghost in the Shell,https://letterboxd.com/film/ghost-in-the-shell/
-12,Whisper of the Heart,https://letterboxd.com/film/whisper-of-the-heart/
-13,Jumanji,https://letterboxd.com/film/jumanji/
-14,Twelve Monkeys,https://letterboxd.com/film/twelve-monkeys/
-15,While You Were Sleeping,https://letterboxd.com/film/while-you-were-sleeping/
-16,The Basketball Diaries,https://letterboxd.com/film/the-basketball-diaries/
-17,Apollo 13,https://letterboxd.com/film/apollo-13/
-18,Sense and Sensibility,https://letterboxd.com/film/sense-and-sensibility/
-19,Showgirls,https://letterboxd.com/film/showgirls/
-20,To Die For,https://letterboxd.com/film/to-die-for/
-21,Braveheart,https://letterboxd.com/film/braveheart/
-22,Copycat,https://letterboxd.com/film/copycat/
-23,GoldenEye,https://letterboxd.com/film/goldeneye/
-24,Pocahontas,https://letterboxd.com/film/pocahontas/
-25,Kids,https://letterboxd.com/film/kids/
-26,The Doom Generation,https://letterboxd.com/film/the-doom-generation/
-27,"To Wong Foo, Thanks for Everything! Julie Newmar",https://letterboxd.com/film/to-wong-foo-thanks-for-everything-julie-newmar/
-28,Neon Genesis Evangelion,https://letterboxd.com/film/neon-genesis-evangelion/
-29,Welcome to the Dollhouse,https://letterboxd.com/film/welcome-to-the-dollhouse/
-30,Batman Forever,https://letterboxd.com/film/batman-forever/
-31,Friday,https://letterboxd.com/film/friday/
-32,Mortal Kombat,https://letterboxd.com/film/mortal-kombat/
-33,Party Girl,https://letterboxd.com/film/party-girl-1995/
-34,Hackers,https://letterboxd.com/film/hackers/
-35,Bad Boys,https://letterboxd.com/film/bad-boys-1995/
-36,The Bridges of Madison County,https://letterboxd.com/film/the-bridges-of-madison-county/
-37,A Goofy Movie,https://letterboxd.com/film/a-goofy-movie/
-38,The American President,https://letterboxd.com/film/the-american-president/
-39,Safe,https://letterboxd.com/film/safe/
-40,The Quick and the Dead,https://letterboxd.com/film/the-quick-and-the-dead-1995/
-41,Pride and Prejudice,https://letterboxd.com/film/pride-and-prejudice-1995/
-42,Ace Ventura: When Nature Calls,https://letterboxd.com/film/ace-ventura-when-nature-calls/
-43,It Takes Two,https://letterboxd.com/film/it-takes-two/
-44,Dead Man,https://letterboxd.com/film/dead-man/
-45,Memories,https://letterboxd.com/film/memories/
-46,Die Hard With a Vengeance,https://letterboxd.com/film/die-hard-with-a-vengeance/
-47,Love Letter,https://letterboxd.com/film/love-letter/
-48,Mallrats,https://letterboxd.com/film/mallrats/
-49,Leaving Las Vegas,https://letterboxd.com/film/leaving-las-vegas/
-50,Strange Days,https://letterboxd.com/film/strange-days/
+rank,title,director,actors,genres,url
+1,Se7en,David Fincher,Morgan Freeman; Brad Pitt; Gwyneth Paltrow,"Mystery, Crime, Thriller",https://letterboxd.com/film/se7en/
+2,Before Sunrise,Richard Linklater,Ethan Hawke; Julie Delpy; Andrea Eckert,"Romance, Drama",https://letterboxd.com/film/before-sunrise/
+3,Heat,Michael Mann,Al Pacino; Robert De Niro; Val Kilmer,"Crime, Action, Drama",https://letterboxd.com/film/heat-1995/
+4,La Haine,Mathieu Kassovitz,Vincent Cassel; Hubert Koundé; Saïd Taghmaoui,Drama,https://letterboxd.com/film/la-haine/
+5,Clueless,Amy Heckerling,Alicia Silverstone; Stacey Dash; Brittany Murphy,"Comedy, Romance",https://letterboxd.com/film/clueless/
+6,The Usual Suspects,Bryan Singer,Stephen Baldwin; Gabriel Byrne; Benicio del Toro,"Thriller, Drama, Crime",https://letterboxd.com/film/the-usual-suspects/
+7,Toy Story,John Lasseter,Tom Hanks; Tim Allen; Don Rickles,"Adventure, Comedy, Animation, Family",https://letterboxd.com/film/toy-story/
+8,Fallen Angels,Wong Kar-Wai,Leon Lai Ming; Michele Reis; Takeshi Kaneshiro,"Crime, Romance, Action",https://letterboxd.com/film/fallen-angels/
+9,Casino,Martin Scorsese,Robert De Niro; Sharon Stone; Joe Pesci,"Crime, Drama",https://letterboxd.com/film/casino/
+10,Empire Records,Allan Moyle,Liv Tyler; Johnny Whitworth; Renée Zellweger,"Romance, Comedy, Drama",https://letterboxd.com/film/empire-records/
+11,Ghost in the Shell,Mamoru Oshii,Atsuko Tanaka; Akio Otsuka; Iemasa Kayumi,"Animation, Action, Science Fiction",https://letterboxd.com/film/ghost-in-the-shell/
+12,Whisper of the Heart,Yoshifumi Kondo,Yoko Honna; Issey Takahashi; Takashi Tachibana,"Drama, Animation, Family",https://letterboxd.com/film/whisper-of-the-heart/
+13,Jumanji,Joe Johnston,Robin Williams; Kirsten Dunst; Bradley Pierce,"Family, Adventure, Fantasy",https://letterboxd.com/film/jumanji/
+14,Twelve Monkeys,Terry Gilliam,Bruce Willis; Madeleine Stowe; Brad Pitt,"Thriller, Mystery, Science Fiction",https://letterboxd.com/film/twelve-monkeys/
+15,While You Were Sleeping,Jon Turteltaub,Sandra Bullock; Bill Pullman; Peter Gallagher,"Comedy, Romance",https://letterboxd.com/film/while-you-were-sleeping/
+16,The Basketball Diaries,Scott Kalvert,Leonardo DiCaprio; Bruno Kirby; Lorraine Bracco,"Crime, Drama",https://letterboxd.com/film/the-basketball-diaries/
+17,Apollo 13,Ron Howard,Tom Hanks; Bill Paxton; Kevin Bacon,"History, Drama",https://letterboxd.com/film/apollo-13/
+18,Sense and Sensibility,Ang Lee,Emma Thompson; Kate Winslet; Alan Rickman,"Drama, Romance",https://letterboxd.com/film/sense-and-sensibility/
+19,Showgirls,Paul Verhoeven,Elizabeth Berkley; Kyle MacLachlan; Gina Gershon,Drama,https://letterboxd.com/film/showgirls/
+20,To Die For,Gus Van Sant,Nicole Kidman; Matt Dillon; Joaquin Phoenix,"Comedy, Drama, Crime",https://letterboxd.com/film/to-die-for/
+21,Braveheart,Mel Gibson,Mel Gibson; Catherine McCormack; Sophie Marceau,"Action, History, Drama, War",https://letterboxd.com/film/braveheart/
+22,Copycat,Jon Amiel,Sigourney Weaver; Holly Hunter; Dermot Mulroney,"Mystery, Thriller, Crime",https://letterboxd.com/film/copycat/
+23,GoldenEye,Martin Campbell,Pierce Brosnan; Sean Bean; Izabella Scorupco,"Action, Adventure, Thriller",https://letterboxd.com/film/goldeneye/
+24,Pocahontas,"Mike Gabriel, Eric Goldberg",Irene Bedard; Mel Gibson; David Ogden Stiers,"Romance, Animation, Family, Adventure",https://letterboxd.com/film/pocahontas/
+25,Kids,Larry Clark,Leo Fitzpatrick; Justin Pierce; Chloë Sevigny,"Crime, Drama",https://letterboxd.com/film/kids/
+26,The Doom Generation,Gregg Araki,Rose McGowan; James Duval; Johnathon Schaech,"Drama, Comedy, Crime",https://letterboxd.com/film/the-doom-generation/
+27,"To Wong Foo, Thanks for Everything! Julie Newmar",Beeban Kidron,Patrick Swayze; Wesley Snipes; John Leguizamo,"Drama, Comedy",https://letterboxd.com/film/to-wong-foo-thanks-for-everything-julie-newmar/
+28,Neon Genesis Evangelion,"Kazuya Tsurumaki, Hiroyuki Ishido, Tsuyoshi Kaga, Keiichi Sugiyama, Seiji Mizushima, Tetsuya Watanabe, Tensai Okamura, Masahiko Otsuka, Ken Ando, Naoyasu Habu, Minoru Ohara, Masayuki, Akira Takamura, Hideaki Anno, Shoichi Masuo",Megumi Ogata; Kotono Mitsuishi; Megumi Hayashibara,"Animation, Drama",https://letterboxd.com/film/neon-genesis-evangelion/
+29,Welcome to the Dollhouse,Todd Solondz,Heather Matarazzo; Brendan Sexton III; Eric Mabius,"Comedy, Drama",https://letterboxd.com/film/welcome-to-the-dollhouse/
+30,Batman Forever,Joel Schumacher,Val Kilmer; Tommy Lee Jones; Jim Carrey,"Fantasy, Action, Crime",https://letterboxd.com/film/batman-forever/
+31,Friday,F. Gary Gray,Ice Cube; Chris Tucker; Nia Long,"Drama, Comedy",https://letterboxd.com/film/friday/
+32,Mortal Kombat,Paul W. S. Anderson,Robin Shou; Cary-Hiroyuki Tagawa; Linden Ashby,"Fantasy, Action",https://letterboxd.com/film/mortal-kombat/
+33,Party Girl,Daisy von Scherler Mayer,Parker Posey; Anthony DeSando; Guillermo Díaz,"Drama, Romance, Comedy",https://letterboxd.com/film/party-girl-1995/
+34,Hackers,Iain Softley,Jonny Lee Miller; Angelina Jolie; Matthew Lillard,"Drama, Action, Crime, Thriller",https://letterboxd.com/film/hackers/
+35,Bad Boys,Michael Bay,Will Smith; Martin Lawrence; Téa Leoni,"Comedy, Thriller, Action, Crime",https://letterboxd.com/film/bad-boys-1995/
+36,The Bridges of Madison County,Clint Eastwood,Meryl Streep; Clint Eastwood; Annie Corley,"Drama, Romance",https://letterboxd.com/film/the-bridges-of-madison-county/
+37,A Goofy Movie,Kevin Lima,Bill Farmer; Jason Marsden; Rob Paulsen,"Family, Adventure, Animation, Comedy, Romance",https://letterboxd.com/film/a-goofy-movie/
+38,The American President,Rob Reiner,Michael Douglas; Annette Bening; Martin Sheen,"Romance, Drama",https://letterboxd.com/film/the-american-president/
+39,Safe,Todd Haynes,Julianne Moore; Xander Berkeley; Peter Friedman,Drama,https://letterboxd.com/film/safe/
+40,The Quick and the Dead,Sam Raimi,Sharon Stone; Gene Hackman; Russell Crowe,"Thriller, Romance, Drama, Western, Action",https://letterboxd.com/film/the-quick-and-the-dead-1995/
+41,Pride and Prejudice,Simon Langton,Jennifer Ehle; Colin Firth; Susannah Harker,Drama,https://letterboxd.com/film/pride-and-prejudice-1995/
+42,Ace Ventura: When Nature Calls,Steve Oedekerk,Jim Carrey; Ian McNeice; Simon Callow,"Comedy, Adventure, Crime",https://letterboxd.com/film/ace-ventura-when-nature-calls/
+43,It Takes Two,Andy Tennant,Kirstie Alley; Steve Guttenberg; Ashley Olsen,"Family, Romance, Comedy",https://letterboxd.com/film/it-takes-two/
+44,Dead Man,Jim Jarmusch,Johnny Depp; Gary Farmer; Crispin Glover,"Fantasy, Western, Drama",https://letterboxd.com/film/dead-man/
+45,Memories,"Katsuhiro Otomo, Koji Morimoto, Tensai Okamura",Tsutomu Isobe; Koichi Yamadera; Shozo Iizuka,"Animation, Fantasy, Science Fiction",https://letterboxd.com/film/memories/
+46,Die Hard With a Vengeance,John McTiernan,Bruce Willis; Jeremy Irons; Samuel L. Jackson,"Thriller, Action",https://letterboxd.com/film/die-hard-with-a-vengeance/
+47,Love Letter,Shunji Iwai,Miho Nakayama; Etsushi Toyokawa; Miki Sakai,"Romance, Drama",https://letterboxd.com/film/love-letter/
+48,Mallrats,Kevin Smith,Jason Lee; Jeremy London; Shannen Doherty,"Romance, Comedy",https://letterboxd.com/film/mallrats/
+49,Leaving Las Vegas,Mike Figgis,Nicolas Cage; Elisabeth Shue; Julian Sands,"Drama, Romance",https://letterboxd.com/film/leaving-las-vegas/
+50,Strange Days,Kathryn Bigelow,Ralph Fiennes; Angela Bassett; Juliette Lewis,"Crime, Science Fiction, Drama, Thriller",https://letterboxd.com/film/strange-days/

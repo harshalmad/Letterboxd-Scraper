@@ -1,51 +1,51 @@
-rank,title,url
-1,Marty Supreme,https://letterboxd.com/film/marty-supreme/
-2,Hamnet,https://letterboxd.com/film/hamnet/
-3,The Housemaid,https://letterboxd.com/film/the-housemaid-2025/
-4,Sinners,https://letterboxd.com/film/sinners-2025/
-5,Stranger Things 5: The Finale,https://letterboxd.com/film/stranger-things-5-the-finale/
-6,Obsession,https://letterboxd.com/film/obsession-2025-2/
-7,One Battle After Another,https://letterboxd.com/film/one-battle-after-another/
-8,Bugonia,https://letterboxd.com/film/bugonia/
-9,Zootopia 2,https://letterboxd.com/film/zootopia-2/
-10,Sentimental Value,https://letterboxd.com/film/sentimental-value-2025/
-11,No Other Choice,https://letterboxd.com/film/no-other-choice-2025/
-12,Wake Up Dead Man,https://letterboxd.com/film/wake-up-dead-man/
-13,Avatar: Fire and Ash,https://letterboxd.com/film/avatar-fire-and-ash/
-14,Frankenstein,https://letterboxd.com/film/frankenstein-2025/
-15,The Secret Agent,https://letterboxd.com/film/the-secret-agent-2025/
-16,Train Dreams,https://letterboxd.com/film/train-dreams/
-17,Weapons,https://letterboxd.com/film/weapons-2025/
-18,Eternity,https://letterboxd.com/film/eternity-2025-1/
-19,F1,https://letterboxd.com/film/f1/
-20,If I Had Legs I'd Kick You,https://letterboxd.com/film/if-i-had-legs-id-kick-you/
-21,Anaconda,https://letterboxd.com/film/anaconda-2025/
-22,Rental Family,https://letterboxd.com/film/rental-family-2025/
-23,28 Years Later,https://letterboxd.com/film/28-years-later/
-24,KPop Demon Hunters,https://letterboxd.com/film/kpop-demon-hunters/
-25,Primate,https://letterboxd.com/film/primate-2025/
-26,undertone,https://letterboxd.com/film/undertone-2025/
-27,I Swear,https://letterboxd.com/film/i-swear/
-28,Die My Love,https://letterboxd.com/film/die-my-love/
-29,Pillion,https://letterboxd.com/film/pillion-2025/
-30,Superman,https://letterboxd.com/film/superman-2025/
-31,Materialists,https://letterboxd.com/film/materialists/
-32,"Good Luck, Have Fun, Don't Die",https://letterboxd.com/film/good-luck-have-fun-dont-die/
-33,Nirvanna the Band the Show the Movie,https://letterboxd.com/film/nirvanna-the-band-the-show-the-movie/
-34,Wicked: For Good,https://letterboxd.com/film/wicked-for-good/
-35,It Was Just an Accident,https://letterboxd.com/film/it-was-just-an-accident/
-36,Together,https://letterboxd.com/film/together-2025/
-37,Sirāt,https://letterboxd.com/film/sirat-2025/
-38,Predator: Badlands,https://letterboxd.com/film/predator-badlands/
-39,The Long Walk,https://letterboxd.com/film/the-long-walk-2025/
-40,Exit 8,https://letterboxd.com/film/exit-8/
-41,Nuremberg,https://letterboxd.com/film/nuremberg-2025/
-42,The Running Man,https://letterboxd.com/film/the-running-man-2025/
-43,Five Nights at Freddy's 2,https://letterboxd.com/film/five-nights-at-freddys-2/
-44,The Ugly Stepsister,https://letterboxd.com/film/the-ugly-stepsister/
-45,Mickey 17,https://letterboxd.com/film/mickey-17/
-46,Bring Her Back,https://letterboxd.com/film/bring-her-back/
-47,Roofman,https://letterboxd.com/film/roofman/
-48,The Fantastic 4: First Steps,https://letterboxd.com/film/the-fantastic-4-first-steps/
-49,"Sorry, Baby",https://letterboxd.com/film/sorry-baby-2025/
-50,Is This Thing On?,https://letterboxd.com/film/is-this-thing-on-2025/
+rank,title,director,actors,genres,url
+1,Marty Supreme,Josh Safdie,Timothée Chalamet; Gwyneth Paltrow; Odessa A'zion,"Thriller, Drama",https://letterboxd.com/film/marty-supreme/
+2,Hamnet,Chloé Zhao,Jessie Buckley; Paul Mescal; Emily Watson,"History, Drama, Romance",https://letterboxd.com/film/hamnet/
+3,The Housemaid,Paul Feig,Sydney Sweeney; Amanda Seyfried; Brandon Sklenar,"Thriller, Mystery",https://letterboxd.com/film/the-housemaid-2025/
+4,Sinners,Ryan Coogler,Michael B. Jordan; Hailee Steinfeld; Miles Caton,"Thriller, Action, Horror",https://letterboxd.com/film/sinners-2025/
+5,Obsession,Curry Barker,Michael Johnston; Inde Navarrette; Cooper Tomlinson,Horror,https://letterboxd.com/film/obsession-2025-2/
+6,Stranger Things 5: The Finale,"Matt Duffer, Ross Duffer",Millie Bobby Brown; Finn Wolfhard; Gaten Matarazzo,"Action, Fantasy, Mystery",https://letterboxd.com/film/stranger-things-5-the-finale/
+7,One Battle After Another,Paul Thomas Anderson,Leonardo DiCaprio; Sean Penn; Chase Infiniti,"Thriller, Comedy, Action, Crime",https://letterboxd.com/film/one-battle-after-another/
+8,Bugonia,Yorgos Lanthimos,Emma Stone; Jesse Plemons; Aidan Delbis,"Thriller, Science Fiction, Comedy",https://letterboxd.com/film/bugonia/
+9,Zootopia 2,"Jared Bush, Byron Howard",Ginnifer Goodwin; Jason Bateman; Ke Huy Quan,"Adventure, Family, Action, Comedy, Animation, Mystery",https://letterboxd.com/film/zootopia-2/
+10,Sentimental Value,Joachim Trier,Renate Reinsve; Stellan Skarsgård; Inga Ibsdotter Lilleaas,Drama,https://letterboxd.com/film/sentimental-value-2025/
+11,No Other Choice,Park Chan-wook,Lee Byung-hun; Son Ye-jin; Park Hee-soon,"Crime, Comedy, Thriller",https://letterboxd.com/film/no-other-choice-2025/
+12,Wake Up Dead Man,Rian Johnson,Daniel Craig; Josh O'Connor; Glenn Close,"Comedy, Thriller, Mystery",https://letterboxd.com/film/wake-up-dead-man/
+13,Avatar: Fire and Ash,James Cameron,Sam Worthington; Zoe Saldaña; Sigourney Weaver,"Adventure, Fantasy, Science Fiction",https://letterboxd.com/film/avatar-fire-and-ash/
+14,Frankenstein,Guillermo del Toro,Oscar Isaac; Jacob Elordi; Christoph Waltz,"Fantasy, Drama, Horror, Science Fiction",https://letterboxd.com/film/frankenstein-2025/
+15,The Secret Agent,Kleber Mendonça Filho,Wagner Moura; Alice Carvalho; Gabriel Leone,"Crime, Thriller, Drama",https://letterboxd.com/film/the-secret-agent-2025/
+16,Train Dreams,Clint Bentley,Joel Edgerton; Felicity Jones; Nathaniel Arcand,Drama,https://letterboxd.com/film/train-dreams/
+17,Weapons,Zach Cregger,Julia Garner; Josh Brolin; Alden Ehrenreich,"Horror, Mystery",https://letterboxd.com/film/weapons-2025/
+18,Eternity,David Freyne,Elizabeth Olsen; Miles Teller; Callum Turner,"Romance, Drama, Comedy",https://letterboxd.com/film/eternity-2025-1/
+19,F1,Joseph Kosinski,Brad Pitt; Damson Idris; Javier Bardem,"Drama, Action",https://letterboxd.com/film/f1/
+20,If I Had Legs I'd Kick You,Mary Bronstein,Rose Byrne; Conan O'Brien; A$AP Rocky,Drama,https://letterboxd.com/film/if-i-had-legs-id-kick-you/
+21,Anaconda,Tom Gormican,Jack Black; Paul Rudd; Steve Zahn,"Comedy, Horror, Adventure",https://letterboxd.com/film/anaconda-2025/
+22,Rental Family,Hikari,Brendan Fraser; Takehiro Hira; Mari Yamamoto,"Drama, Comedy",https://letterboxd.com/film/rental-family-2025/
+23,28 Years Later,Danny Boyle,Jodie Comer; Aaron Taylor-Johnson; Alfie Williams,"Science Fiction, Thriller, Horror",https://letterboxd.com/film/28-years-later/
+24,KPop Demon Hunters,"Chris Appelhans, Maggie Kang",Arden Cho; May Hong; Ji-young Yoo,"Fantasy, Comedy, Music, Animation",https://letterboxd.com/film/kpop-demon-hunters/
+25,Primate,Johannes Roberts,Johnny Sequoyah; Jessica Alexander; Troy Kotsur,"Horror, Thriller",https://letterboxd.com/film/primate-2025/
+26,undertone,Ian Tuason,Nina Kiri; Adam DiMarco; Michèle Duquet,"Horror, Mystery",https://letterboxd.com/film/undertone-2025/
+27,I Swear,Kirk Jones,Robert Aramayo; Maxine Peake; Peter Mullan,"History, Drama",https://letterboxd.com/film/i-swear/
+28,Die My Love,Lynne Ramsay,Jennifer Lawrence; Robert Pattinson; Sissy Spacek,Drama,https://letterboxd.com/film/die-my-love/
+29,Pillion,Harry Lighton,Harry Melling; Alexander Skarsgård; Lesley Sharp,"Drama, Romance, Comedy",https://letterboxd.com/film/pillion-2025/
+30,Superman,James Gunn,David Corenswet; Rachel Brosnahan; Nicholas Hoult,"Science Fiction, Adventure, Action",https://letterboxd.com/film/superman-2025/
+31,Materialists,Celine Song,Dakota Johnson; Chris Evans; Pedro Pascal,"Romance, Drama",https://letterboxd.com/film/materialists/
+32,"Good Luck, Have Fun, Don't Die",Gore Verbinski,Sam Rockwell; Juno Temple; Haley Lu Richardson,"Action, Science Fiction, Comedy",https://letterboxd.com/film/good-luck-have-fun-dont-die/
+33,Nirvanna the Band the Show the Movie,Matt Johnson,Matt Johnson; Jay McCarrol; Ben Petrie,"Comedy, Adventure, Science Fiction",https://letterboxd.com/film/nirvanna-the-band-the-show-the-movie/
+34,Wicked: For Good,Jon M. Chu,Cynthia Erivo; Ariana Grande; Jeff Goldblum,"Adventure, Fantasy, Romance",https://letterboxd.com/film/wicked-for-good/
+35,It Was Just an Accident,Jafar Panahi,Vahid Mobasseri; Mariam Afshari; Ebrahim Azizi,"Thriller, Drama, Crime, Mystery",https://letterboxd.com/film/it-was-just-an-accident/
+36,Together,Michael Shanks,Dave Franco; Alison Brie; Damon Herriman,"Horror, Romance",https://letterboxd.com/film/together-2025/
+37,Sirāt,Oliver Laxe,Sergi López; Bruno Núñez; Stefania Gadda,"Thriller, Drama",https://letterboxd.com/film/sirat-2025/
+38,Predator: Badlands,Dan Trachtenberg,Elle Fanning; Dimitrius Schuster-Koloamatangi; Ravi Narayan,"Science Fiction, Action, Adventure",https://letterboxd.com/film/predator-badlands/
+39,The Long Walk,Francis Lawrence,Cooper Hoffman; David Jonsson; Ben Wang,"Horror, Science Fiction, Thriller",https://letterboxd.com/film/the-long-walk-2025/
+40,Exit 8,Genki Kawamura,Kazunari Ninomiya; Yamato Kochi; Nana Komatsu,"Mystery, Horror",https://letterboxd.com/film/exit-8/
+41,Nuremberg,James Vanderbilt,Rami Malek; Russell Crowe; Michael Shannon,"History, Drama",https://letterboxd.com/film/nuremberg-2025/
+42,The Running Man,Edgar Wright,Glen Powell; William H. Macy; Lee Pace,"Thriller, Science Fiction, Action",https://letterboxd.com/film/the-running-man-2025/
+43,Five Nights at Freddy's 2,Emma Tammi,Josh Hutcherson; Piper Rubio; Elizabeth Lail,"Horror, Thriller",https://letterboxd.com/film/five-nights-at-freddys-2/
+44,The Ugly Stepsister,Emilie Blichfeldt,Lea Myren; Ane Dahl Torp; Thea Sofie Loch Næss,"Drama, Comedy, Horror",https://letterboxd.com/film/the-ugly-stepsister/
+45,Mickey 17,Bong Joon Ho,Robert Pattinson; Naomi Ackie; Steven Yeun,"Comedy, Adventure, Science Fiction",https://letterboxd.com/film/mickey-17/
+46,Bring Her Back,"Michael Philippou, Danny Philippou",Billy Barratt; Sally Hawkins; Mischa Heywood,Horror,https://letterboxd.com/film/bring-her-back/
+47,Roofman,Derek Cianfrance,Channing Tatum; Kirsten Dunst; Ben Mendelsohn,"Comedy, Crime, Drama",https://letterboxd.com/film/roofman/
+48,The Fantastic 4: First Steps,Matt Shakman,Pedro Pascal; Vanessa Kirby; Ebon Moss-Bachrach,"Action, Science Fiction, Adventure",https://letterboxd.com/film/the-fantastic-4-first-steps/
+49,"Sorry, Baby",Eva Victor,Eva Victor; Naomi Ackie; Louis Cancelmi,"Comedy, Drama",https://letterboxd.com/film/sorry-baby-2025/
+50,Is This Thing On?,Bradley Cooper,Will Arnett; Laura Dern; Andra Day,"Comedy, Drama, Romance",https://letterboxd.com/film/is-this-thing-on-2025/

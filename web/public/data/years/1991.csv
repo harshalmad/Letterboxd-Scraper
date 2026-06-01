@@ -1,51 +1,51 @@
-rank,title,url
-1,The Silence of the Lambs,https://letterboxd.com/film/the-silence-of-the-lambs/
-2,Thelma & Louise,https://letterboxd.com/film/thelma-louise/
-3,Point Break,https://letterboxd.com/film/point-break/
-4,Terminator 2: Judgment Day,https://letterboxd.com/film/terminator-2-judgment-day/
-5,Beauty and the Beast,https://letterboxd.com/film/beauty-and-the-beast-1991/
-6,My Girl,https://letterboxd.com/film/my-girl/
-7,My Own Private Idaho,https://letterboxd.com/film/my-own-private-idaho/
-8,Boyz n the Hood,https://letterboxd.com/film/boyz-n-the-hood/
-9,Fried Green Tomatoes,https://letterboxd.com/film/fried-green-tomatoes/
-10,Cape Fear,https://letterboxd.com/film/cape-fear-1991/
-11,Father of the Bride,https://letterboxd.com/film/father-of-the-bride-1991/
-12,Hook,https://letterboxd.com/film/hook/
-13,The Addams Family,https://letterboxd.com/film/the-addams-family/
-14,Only Yesterday,https://letterboxd.com/film/only-yesterday/
-15,Barton Fink,https://letterboxd.com/film/barton-fink/
-16,Night on Earth,https://letterboxd.com/film/night-on-earth/
-17,The Double Life of Véronique,https://letterboxd.com/film/the-double-life-of-veronique/
-18,Mississippi Masala,https://letterboxd.com/film/mississippi-masala/
-19,The Lovers on the Bridge,https://letterboxd.com/film/the-lovers-on-the-bridge/
-20,964 Pinocchio,https://letterboxd.com/film/964-pinocchio/
-21,The Naked Gun 2½: The Smell of Fear,https://letterboxd.com/film/the-naked-gun-2-the-smell-of-fear/
-22,JFK,https://letterboxd.com/film/jfk/
-23,The Man in the Moon,https://letterboxd.com/film/the-man-in-the-moon/
-24,The Fisher King,https://letterboxd.com/film/the-fisher-king/
-25,Sleeping with the Enemy,https://letterboxd.com/film/sleeping-with-the-enemy/
-26,Naked Lunch,https://letterboxd.com/film/naked-lunch/
-27,Teenage Mutant Ninja Turtles II: The Secret of the Ooze,https://letterboxd.com/film/teenage-mutant-ninja-turtles-ii-the-secret-of-the-ooze/
-28,Delicatessen,https://letterboxd.com/film/delicatessen/
-29,Frankie and Johnny,https://letterboxd.com/film/frankie-and-johnny-1991/
-30,Raise the Red Lantern,https://letterboxd.com/film/raise-the-red-lantern/
-31,Hearts of Darkness: A Filmmaker's Apocalypse,https://letterboxd.com/film/hearts-of-darkness-a-filmmakers-apocalypse/
-32,The Doors,https://letterboxd.com/film/the-doors/
-33,A Brighter Summer Day,https://letterboxd.com/film/a-brighter-summer-day/
-34,Robin Hood: Prince of Thieves,https://letterboxd.com/film/robin-hood-prince-of-thieves/
-35,High Heels,https://letterboxd.com/film/high-heels/
-36,Not Without My Daughter,https://letterboxd.com/film/not-without-my-daughter/
-37,Child's Play 3,https://letterboxd.com/film/childs-play-3/
-38,The Commitments,https://letterboxd.com/film/the-commitments/
-39,Dogfight,https://letterboxd.com/film/dogfight/
-40,The Last Boy Scout,https://letterboxd.com/film/the-last-boy-scout/
-41,Bill & Ted's Bogus Journey,https://letterboxd.com/film/bill-teds-bogus-journey/
-42,Riki-Oh: The Story of Ricky,https://letterboxd.com/film/riki-oh-the-story-of-ricky/
-43,A Scene at the Sea,https://letterboxd.com/film/a-scene-at-the-sea/
-44,What About Bob?,https://letterboxd.com/film/what-about-bob/
-45,Freddy's Dead: The Final Nightmare,https://letterboxd.com/film/freddys-dead-the-final-nightmare/
-46,Hot Shots!,https://letterboxd.com/film/hot-shots/
-47,Daughters of the Dust,https://letterboxd.com/film/daughters-of-the-dust/
-48,The People Under the Stairs,https://letterboxd.com/film/the-people-under-the-stairs/
-49,Defending Your Life,https://letterboxd.com/film/defending-your-life/
-50,Drop Dead Fred,https://letterboxd.com/film/drop-dead-fred/
+rank,title,director,actors,genres,url
+1,The Silence of the Lambs,Jonathan Demme,Jodie Foster; Anthony Hopkins; Scott Glenn,"Crime, Thriller, Horror, Drama",https://letterboxd.com/film/the-silence-of-the-lambs/
+2,Thelma & Louise,Ridley Scott,Susan Sarandon; Geena Davis; Harvey Keitel,"Drama, Adventure, Crime, Thriller",https://letterboxd.com/film/thelma-louise/
+3,Point Break,Kathryn Bigelow,Keanu Reeves; Patrick Swayze; Lori Petty,"Thriller, Action, Crime",https://letterboxd.com/film/point-break/
+4,Terminator 2: Judgment Day,James Cameron,Arnold Schwarzenegger; Linda Hamilton; Edward Furlong,"Thriller, Action, Science Fiction",https://letterboxd.com/film/terminator-2-judgment-day/
+5,Beauty and the Beast,"Gary Trousdale, Kirk Wise",Paige O'Hara; Robby Benson; Richard White,"Romance, Animation, Fantasy, Family",https://letterboxd.com/film/beauty-and-the-beast-1991/
+6,My Girl,Howard Zieff,Anna Chlumsky; Macaulay Culkin; Dan Aykroyd,"Comedy, Drama",https://letterboxd.com/film/my-girl/
+7,My Own Private Idaho,Gus Van Sant,River Phoenix; Keanu Reeves; James Russo,Drama,https://letterboxd.com/film/my-own-private-idaho/
+8,Boyz n the Hood,John Singleton,Cuba Gooding Jr.; Laurence Fishburne; Ice Cube,"Drama, Crime",https://letterboxd.com/film/boyz-n-the-hood/
+9,Fried Green Tomatoes,Jon Avnet,Kathy Bates; Jessica Tandy; Mary-Louise Parker,"Drama, Comedy",https://letterboxd.com/film/fried-green-tomatoes/
+10,Cape Fear,Martin Scorsese,Robert De Niro; Nick Nolte; Jessica Lange,"Drama, Thriller, Crime",https://letterboxd.com/film/cape-fear-1991/
+11,Father of the Bride,Charles Shyer,Steve Martin; Diane Keaton; Kimberly Williams-Paisley,"Drama, Romance, Comedy",https://letterboxd.com/film/father-of-the-bride-1991/
+12,Hook,Steven Spielberg,Dustin Hoffman; Robin Williams; Julia Roberts,"Comedy, Adventure, Fantasy, Family",https://letterboxd.com/film/hook/
+13,The Addams Family,Barry Sonnenfeld,Raúl Juliá; Anjelica Huston; Christopher Lloyd,"Comedy, Fantasy",https://letterboxd.com/film/the-addams-family/
+14,Only Yesterday,Isao Takahata,Miki Imai; Yoko Honna; Toshiro Yanagiba,"Drama, Romance, Animation",https://letterboxd.com/film/only-yesterday/
+15,Barton Fink,Joel Coen,John Turturro; John Goodman; Judy Davis,"Thriller, Drama, Comedy",https://letterboxd.com/film/barton-fink/
+16,Night on Earth,Jim Jarmusch,Winona Ryder; Gena Rowlands; Giancarlo Esposito,"Drama, Comedy",https://letterboxd.com/film/night-on-earth/
+17,The Double Life of Véronique,Krzysztof Kieślowski,Irène Jacob; Halina Gryglaszewska; Philippe Volter,"Fantasy, Drama",https://letterboxd.com/film/the-double-life-of-veronique/
+18,Mississippi Masala,Mira Nair,Denzel Washington; Sarita Choudhury; Roshan Seth,"Drama, Romance",https://letterboxd.com/film/mississippi-masala/
+19,The Lovers on the Bridge,Leos Carax,Juliette Binoche; Denis Lavant; Klaus-Michael Grüber,"Drama, Romance",https://letterboxd.com/film/the-lovers-on-the-bridge/
+20,964 Pinocchio,Shozin Fukui,Haji Suzuki; Onn-chan; Koji Otsubo,"Horror, Science Fiction, Thriller",https://letterboxd.com/film/964-pinocchio/
+21,The Naked Gun 2½: The Smell of Fear,David Zucker,Leslie Nielsen; Priscilla Presley; George Kennedy,"Crime, Comedy",https://letterboxd.com/film/the-naked-gun-2-the-smell-of-fear/
+22,JFK,Oliver Stone,Kevin Costner; Tommy Lee Jones; Gary Oldman,"Drama, History, Thriller",https://letterboxd.com/film/jfk/
+23,The Man in the Moon,Robert Mulligan,Reese Witherspoon; Jason London; Emily Warfield,"Drama, Romance",https://letterboxd.com/film/the-man-in-the-moon/
+24,The Fisher King,Terry Gilliam,Robin Williams; Jeff Bridges; Amanda Plummer,"Drama, Comedy",https://letterboxd.com/film/the-fisher-king/
+25,Sleeping with the Enemy,Joseph Ruben,Julia Roberts; Patrick Bergin; Kevin Anderson,"Thriller, Drama",https://letterboxd.com/film/sleeping-with-the-enemy/
+26,Naked Lunch,David Cronenberg,Peter Weller; Judy Davis; Ian Holm,"Crime, Drama",https://letterboxd.com/film/naked-lunch/
+27,Delicatessen,"Jean-Pierre Jeunet, Marc Caro",Dominique Pinon; Marie-Laure Dougnac; Jean-Claude Dreyfus,"Fantasy, Science Fiction, Comedy",https://letterboxd.com/film/delicatessen/
+28,Teenage Mutant Ninja Turtles II: The Secret of the Ooze,Michael Pressman,Brian Tochi; Laurie Faso; Robbie Rist,"Comedy, Family, Science Fiction, Action, Adventure",https://letterboxd.com/film/teenage-mutant-ninja-turtles-ii-the-secret-of-the-ooze/
+29,Frankie and Johnny,Garry Marshall,Al Pacino; Michelle Pfeiffer; Héctor Elizondo,"Drama, Romance, Comedy",https://letterboxd.com/film/frankie-and-johnny-1991/
+30,Raise the Red Lantern,Zhang Yimou,Gong Li; He Saifei; Cao Cuifen,Drama,https://letterboxd.com/film/raise-the-red-lantern/
+31,Hearts of Darkness: A Filmmaker's Apocalypse,"Fax Bahr, George Hickenlooper, Eleanor Coppola",Francis Ford Coppola; Eleanor Coppola; John Milius,Documentary,https://letterboxd.com/film/hearts-of-darkness-a-filmmakers-apocalypse/
+32,The Doors,Oliver Stone,Val Kilmer; Meg Ryan; Kyle MacLachlan,"Drama, Music, History",https://letterboxd.com/film/the-doors/
+33,A Brighter Summer Day,Edward Yang,Chang Chen; Lisa Yang; Chang Kuo-Chu,"Crime, Drama, Romance",https://letterboxd.com/film/a-brighter-summer-day/
+34,Robin Hood: Prince of Thieves,Kevin Reynolds,Kevin Costner; Morgan Freeman; Mary Elizabeth Mastrantonio,"Drama, Action, Adventure",https://letterboxd.com/film/robin-hood-prince-of-thieves/
+35,High Heels,Pedro Almodóvar,Victoria Abril; Marisa Paredes; Miguel Bosé,"Comedy, Drama, Crime",https://letterboxd.com/film/high-heels/
+36,Not Without My Daughter,Brian Gilbert,Sally Field; Alfred Molina; Sheila Rosenthal,"Thriller, Drama",https://letterboxd.com/film/not-without-my-daughter/
+37,Child's Play 3,Jack Bender,Justin Whalin; Brad Dourif; Perrey Reeves,"Horror, Thriller",https://letterboxd.com/film/childs-play-3/
+38,The Commitments,Alan Parker,Robert Arkins; Michael Aherne; Angeline Ball,"Comedy, Drama, Music",https://letterboxd.com/film/the-commitments/
+39,Dogfight,Nancy Savoca,River Phoenix; Lili Taylor; Richard Panebianco,"Romance, Drama",https://letterboxd.com/film/dogfight/
+40,The Last Boy Scout,Tony Scott,Bruce Willis; Damon Wayans; Chelsea Field,"Action, Thriller",https://letterboxd.com/film/the-last-boy-scout/
+41,Bill & Ted's Bogus Journey,Peter Hewitt,Keanu Reeves; Alex Winter; William Sadler,"Science Fiction, Adventure, Comedy",https://letterboxd.com/film/bill-teds-bogus-journey/
+42,Riki-Oh: The Story of Ricky,Lam Nai-Choi,Louis Fan Siu-Wong; Fan Mei-Sheng; William Ho,"Comedy, Crime, Action, Thriller",https://letterboxd.com/film/riki-oh-the-story-of-ricky/
+43,A Scene at the Sea,Takeshi Kitano,Claude Maki; Hiroko Oshima; Sabu Kawahara,"Romance, Comedy, Drama",https://letterboxd.com/film/a-scene-at-the-sea/
+44,What About Bob?,Frank Oz,Bill Murray; Richard Dreyfuss; Julie Hagerty,Comedy,https://letterboxd.com/film/what-about-bob/
+45,Freddy's Dead: The Final Nightmare,Rachel Talalay,Robert Englund; Lisa Zane; Shon Greenblatt,"Thriller, Horror",https://letterboxd.com/film/freddys-dead-the-final-nightmare/
+46,Hot Shots!,Jim Abrahams,Charlie Sheen; Cary Elwes; Valeria Golino,"Action, War, Comedy",https://letterboxd.com/film/hot-shots/
+47,Daughters of the Dust,Julie Dash,Cora Lee Day; Alva Rogers; Barbara O. Jones,"Drama, Romance",https://letterboxd.com/film/daughters-of-the-dust/
+48,The People Under the Stairs,Wes Craven,Brandon Quintin Adams; Everett McGill; Wendy Robie,"Comedy, Thriller, Horror",https://letterboxd.com/film/the-people-under-the-stairs/
+49,Defending Your Life,Albert Brooks,Albert Brooks; Meryl Streep; Rip Torn,"Comedy, Romance, Drama, Fantasy",https://letterboxd.com/film/defending-your-life/
+50,Drop Dead Fred,Ate de Jong,Phoebe Cates; Rik Mayall; Marsha Mason,"Comedy, Drama, Fantasy, Family",https://letterboxd.com/film/drop-dead-fred/

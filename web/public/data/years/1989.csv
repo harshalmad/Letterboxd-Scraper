@@ -1,51 +1,51 @@
-rank,title,url
-1,Dead Poets Society,https://letterboxd.com/film/dead-poets-society/
-2,When Harry Met Sally...,https://letterboxd.com/film/when-harry-met-sally/
-3,Kiki's Delivery Service,https://letterboxd.com/film/kikis-delivery-service/
-4,Heathers,https://letterboxd.com/film/heathers/
-5,Back to the Future Part II,https://letterboxd.com/film/back-to-the-future-part-ii/
-6,Do the Right Thing,https://letterboxd.com/film/do-the-right-thing/
-7,Twin Peaks,https://letterboxd.com/film/twin-peaks/
-8,Indiana Jones and the Last Crusade,https://letterboxd.com/film/indiana-jones-and-the-last-crusade/
-9,Batman,https://letterboxd.com/film/batman-1989/
-10,The Little Mermaid,https://letterboxd.com/film/the-little-mermaid/
-11,The Killer,https://letterboxd.com/film/the-killer/
-12,Say Anything...,https://letterboxd.com/film/say-anything/
-13,Steel Magnolias,https://letterboxd.com/film/steel-magnolias/
-14,"sex, lies, and videotape",https://letterboxd.com/film/sex-lies-and-videotape/
-15,The 'Burbs,https://letterboxd.com/film/the-burbs/
-16,Bill & Ted's Excellent Adventure,https://letterboxd.com/film/bill-teds-excellent-adventure/
-17,The Abyss,https://letterboxd.com/film/the-abyss/
-18,Tetsuo: The Iron Man,https://letterboxd.com/film/tetsuo-the-iron-man/
-19,Drugstore Cowboy,https://letterboxd.com/film/drugstore-cowboy/
-20,Glory,https://letterboxd.com/film/glory/
-21,Field of Dreams,https://letterboxd.com/film/field-of-dreams/
-22,Licence to Kill,https://letterboxd.com/film/licence-to-kill/
-23,Road House,https://letterboxd.com/film/road-house/
-24,"The Cook, the Thief, His Wife & Her Lover",https://letterboxd.com/film/the-cook-the-thief-his-wife-her-lover/
-25,She-Devil,https://letterboxd.com/film/she-devil/
-26,Ghostbusters II,https://letterboxd.com/film/ghostbusters-ii/
-27,Tie Me Up! Tie Me Down!,https://letterboxd.com/film/tie-me-up-tie-me-down/
-28,Decalogue I,https://letterboxd.com/film/decalogue-i/
-29,Mystery Train,https://letterboxd.com/film/mystery-train/
-30,Uncle Buck,https://letterboxd.com/film/uncle-buck/
-31,"Honey, I Shrunk the Kids",https://letterboxd.com/film/honey-i-shrunk-the-kids/
-32,Pet Sematary,https://letterboxd.com/film/pet-sematary/
-33,Friday the 13th Part VIII: Jason Takes Manhattan,https://letterboxd.com/film/friday-the-13th-part-viii-jason-takes-manhattan/
-34,Santa Sangre,https://letterboxd.com/film/santa-sangre/
-35,A Grand Day Out,https://letterboxd.com/film/a-grand-day-out/
-36,Society,https://letterboxd.com/film/society/
-37,The Karate Kid Part III,https://letterboxd.com/film/the-karate-kid-part-iii/
-38,Major League,https://letterboxd.com/film/major-league/
-39,Isle of Flowers,https://letterboxd.com/film/isle-of-flowers/
-40,Decalogue II,https://letterboxd.com/film/decalogue-ii/
-41,My Left Foot: The Story of Christy Brown,https://letterboxd.com/film/my-left-foot-the-story-of-christy-brown/
-42,Lethal Weapon 2,https://letterboxd.com/film/lethal-weapon-2/
-43,Godzilla vs. Biollante,https://letterboxd.com/film/godzilla-vs-biollante/
-44,The Seventh Continent,https://letterboxd.com/film/the-seventh-continent/
-45,UHF,https://letterboxd.com/film/uhf/
-46,All Dogs Go to Heaven,https://letterboxd.com/film/all-dogs-go-to-heaven/
-47,Driving Miss Daisy,https://letterboxd.com/film/driving-miss-daisy/
-48,Weekend at Bernie's,https://letterboxd.com/film/weekend-at-bernies/
-49,A Nightmare on Elm Street: The Dream Child,https://letterboxd.com/film/a-nightmare-on-elm-street-the-dream-child/
-50,Violent Cop,https://letterboxd.com/film/violent-cop/
+rank,title,director,actors,genres,url
+1,Dead Poets Society,Peter Weir,Robin Williams; Robert Sean Leonard; Ethan Hawke,Drama,https://letterboxd.com/film/dead-poets-society/
+2,When Harry Met Sally...,Rob Reiner,Billy Crystal; Meg Ryan; Carrie Fisher,"Drama, Romance, Comedy",https://letterboxd.com/film/when-harry-met-sally/
+3,Kiki's Delivery Service,Hayao Miyazaki,Minami Takayama; Rei Sakuma; Kappei Yamaguchi,"Fantasy, Animation, Family",https://letterboxd.com/film/kikis-delivery-service/
+4,Heathers,Michael Lehmann,Winona Ryder; Christian Slater; Shannen Doherty,"Comedy, Crime",https://letterboxd.com/film/heathers/
+5,Back to the Future Part II,Robert Zemeckis,Michael J. Fox; Christopher Lloyd; Lea Thompson,"Science Fiction, Comedy, Adventure",https://letterboxd.com/film/back-to-the-future-part-ii/
+6,Do the Right Thing,Spike Lee,Danny Aiello; Ossie Davis; Ruby Dee,Drama,https://letterboxd.com/film/do-the-right-thing/
+7,Twin Peaks,David Lynch,Kyle MacLachlan; Michael Ontkean; Mädchen Amick,"Thriller, Drama, Mystery",https://letterboxd.com/film/twin-peaks/
+8,Indiana Jones and the Last Crusade,Steven Spielberg,Harrison Ford; Sean Connery; Denholm Elliott,"Adventure, Action",https://letterboxd.com/film/indiana-jones-and-the-last-crusade/
+9,Batman,Tim Burton,Michael Keaton; Jack Nicholson; Kim Basinger,"Fantasy, Action, Crime",https://letterboxd.com/film/batman-1989/
+10,The Little Mermaid,"John Musker, Ron Clements",Jodi Benson; Samuel E. Wright; Pat Carroll,"Family, Animation, Fantasy",https://letterboxd.com/film/the-little-mermaid/
+11,The Killer,John Woo,Chow Yun-Fat; Danny Lee Sau-Yin; Sally Yip Sin-Man,"Crime, Drama, Action, Thriller",https://letterboxd.com/film/the-killer/
+12,Say Anything...,Cameron Crowe,John Cusack; Ione Skye; John Mahoney,"Romance, Drama, Comedy",https://letterboxd.com/film/say-anything/
+13,Steel Magnolias,Herbert Ross,Sally Field; Dolly Parton; Shirley MacLaine,"Romance, Comedy, Drama",https://letterboxd.com/film/steel-magnolias/
+14,"sex, lies, and videotape",Steven Soderbergh,James Spader; Andie MacDowell; Peter Gallagher,Drama,https://letterboxd.com/film/sex-lies-and-videotape/
+15,The 'Burbs,Joe Dante,Tom Hanks; Bruce Dern; Carrie Fisher,"Comedy, Thriller, Horror",https://letterboxd.com/film/the-burbs/
+16,Bill & Ted's Excellent Adventure,Stephen Herek,Keanu Reeves; Alex Winter; George Carlin,"Science Fiction, Adventure, Comedy",https://letterboxd.com/film/bill-teds-excellent-adventure/
+17,The Abyss,James Cameron,Ed Harris; Mary Elizabeth Mastrantonio; Michael Biehn,"Thriller, Adventure, Science Fiction",https://letterboxd.com/film/the-abyss/
+18,Tetsuo: The Iron Man,Shinya Tsukamoto,Tomorowo Taguchi; Shinya Tsukamoto; Kei Fujiwara,"Science Fiction, Horror",https://letterboxd.com/film/tetsuo-the-iron-man/
+19,Drugstore Cowboy,Gus Van Sant,Matt Dillon; Kelly Lynch; James Remar,"Crime, Drama",https://letterboxd.com/film/drugstore-cowboy/
+20,Glory,Edward Zwick,Matthew Broderick; Denzel Washington; Cary Elwes,"History, War, Drama",https://letterboxd.com/film/glory/
+21,Field of Dreams,Phil Alden Robinson,Kevin Costner; Amy Madigan; Gaby Hoffmann,"Drama, Fantasy",https://letterboxd.com/film/field-of-dreams/
+22,Licence to Kill,John Glen,Timothy Dalton; Carey Lowell; Robert Davi,"Action, Adventure, Thriller",https://letterboxd.com/film/licence-to-kill/
+23,Road House,Rowdy Herrington,Patrick Swayze; Kelly Lynch; Sam Elliott,"Action, Thriller",https://letterboxd.com/film/road-house/
+24,"The Cook, the Thief, His Wife & Her Lover",Peter Greenaway,Richard Bohringer; Michael Gambon; Helen Mirren,"Crime, Drama",https://letterboxd.com/film/the-cook-the-thief-his-wife-her-lover/
+25,She-Devil,Susan Seidelman,Meryl Streep; Roseanne Barr; Ed Begley Jr.,Comedy,https://letterboxd.com/film/she-devil/
+26,Tie Me Up! Tie Me Down!,Pedro Almodóvar,Victoria Abril; Antonio Banderas; Loles León,"Romance, Drama, Comedy",https://letterboxd.com/film/tie-me-up-tie-me-down/
+27,Ghostbusters II,Ivan Reitman,Bill Murray; Dan Aykroyd; Sigourney Weaver,"Comedy, Fantasy",https://letterboxd.com/film/ghostbusters-ii/
+28,Decalogue I,Krzysztof Kieślowski,Henryk Baranowski; Wojciech Klata; Maja Komorowska,"Drama, TV Movie",https://letterboxd.com/film/decalogue-i/
+29,Mystery Train,Jim Jarmusch,Youki Kudoh; Masatoshi Nagase; Screamin' Jay Hawkins,Comedy,https://letterboxd.com/film/mystery-train/
+30,Uncle Buck,John Hughes,John Candy; Jean Louisa Kelly; Gaby Hoffmann,"Family, Drama, Comedy",https://letterboxd.com/film/uncle-buck/
+31,"Honey, I Shrunk the Kids",Joe Johnston,Rick Moranis; Matt Frewer; Marcia Strassman,"Science Fiction, Adventure, Comedy, Family",https://letterboxd.com/film/honey-i-shrunk-the-kids/
+32,Pet Sematary,Mary Lambert,Dale Midkiff; Fred Gwynne; Denise Crosby,Horror,https://letterboxd.com/film/pet-sematary/
+33,Friday the 13th Part VIII: Jason Takes Manhattan,Rob Hedden,Jensen Daggett; Sharlene Martin; Scott Reeves,"Horror, Thriller",https://letterboxd.com/film/friday-the-13th-part-viii-jason-takes-manhattan/
+34,Santa Sangre,Alejandro Jodorowsky,Axel Jodorowsky; Blanca Guerra; Guy Stockwell,"Horror, Thriller, Drama",https://letterboxd.com/film/santa-sangre/
+35,A Grand Day Out,Nick Park,Peter Sallis,"Adventure, Animation, Comedy, Science Fiction, Family",https://letterboxd.com/film/a-grand-day-out/
+36,Society,Brian Yuzna,Billy Warlock; Connie Danese; Ben Slack,"Comedy, Horror, Mystery",https://letterboxd.com/film/society/
+37,The Karate Kid Part III,John G. Avildsen,Ralph Macchio; Pat Morita; Robyn Lively,"Action, Drama, Family, Adventure",https://letterboxd.com/film/the-karate-kid-part-iii/
+38,Major League,David S. Ward,Tom Berenger; Charlie Sheen; Corbin Bernsen,Comedy,https://letterboxd.com/film/major-league/
+39,Isle of Flowers,Jorge Furtado,Paulo José; Júlia Barth; Luciane Azevedo,Documentary,https://letterboxd.com/film/isle-of-flowers/
+40,Decalogue II,Krzysztof Kieślowski,Krystyna Janda; Aleksander Bardini; Olgierd Łukaszewicz,"TV Movie, Drama",https://letterboxd.com/film/decalogue-ii/
+41,My Left Foot: The Story of Christy Brown,Jim Sheridan,Daniel Day-Lewis; Brenda Fricker; Alison Whelan,Drama,https://letterboxd.com/film/my-left-foot-the-story-of-christy-brown/
+42,Lethal Weapon 2,Richard Donner,Mel Gibson; Danny Glover; Joe Pesci,"Action, Crime, Thriller",https://letterboxd.com/film/lethal-weapon-2/
+43,Godzilla vs. Biollante,Kazuki Ōmori,Kunihiko Mitamura; Yoshiko Tanaka; Masanobu Takashima,"Science Fiction, Horror, Action",https://letterboxd.com/film/godzilla-vs-biollante/
+44,The Seventh Continent,Michael Haneke,Birgit Doll; Dieter Berner; Leni Tanzer,Drama,https://letterboxd.com/film/the-seventh-continent/
+45,UHF,Jay Levey,'Weird Al' Yankovic; Kevin McCarthy; Michael Richards,Comedy,https://letterboxd.com/film/uhf/
+46,All Dogs Go to Heaven,Don Bluth,Burt Reynolds; Dom DeLuise; Judith Barsi,"Fantasy, Drama, Animation, Comedy, Family",https://letterboxd.com/film/all-dogs-go-to-heaven/
+47,Driving Miss Daisy,Bruce Beresford,Morgan Freeman; Jessica Tandy; Dan Aykroyd,Drama,https://letterboxd.com/film/driving-miss-daisy/
+48,Weekend at Bernie's,Ted Kotcheff,Andrew McCarthy; Jonathan Silverman; Catherine Mary Stewart,"Crime, Comedy",https://letterboxd.com/film/weekend-at-bernies/
+49,A Nightmare on Elm Street: The Dream Child,Stephen Hopkins,Robert Englund; Lisa Wilcox; Erika Anderson,"Thriller, Horror",https://letterboxd.com/film/a-nightmare-on-elm-street-the-dream-child/
+50,Violent Cop,Takeshi Kitano,Takeshi Kitano; Maiko Kawakami; Makoto Ashikawa,"Crime, Action, Drama, Thriller",https://letterboxd.com/film/violent-cop/

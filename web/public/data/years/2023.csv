@@ -1,51 +1,51 @@
-rank,title,url
-1,Barbie,https://letterboxd.com/film/barbie/
-2,Spider-Man: Across the Spider-Verse,https://letterboxd.com/film/spider-man-across-the-spider-verse/
-3,Bottoms,https://letterboxd.com/film/bottoms/
-4,Oppenheimer,https://letterboxd.com/film/oppenheimer-2023/
-5,Saltburn,https://letterboxd.com/film/saltburn/
-6,Past Lives,https://letterboxd.com/film/past-lives/
-7,Priscilla,https://letterboxd.com/film/priscilla/
-8,The Hunger Games: The Ballad of Songbirds & Snakes,https://letterboxd.com/film/the-hunger-games-the-ballad-of-songbirds-snakes/
-9,The Super Mario Bros. Movie,https://letterboxd.com/film/the-super-mario-bros-movie/
-10,Perfect Days,https://letterboxd.com/film/perfect-days-2023/
-11,The Holdovers,https://letterboxd.com/film/the-holdovers/
-12,Poor Things,https://letterboxd.com/film/poor-things-2023/
-13,Anyone But You,https://letterboxd.com/film/anyone-but-you/
-14,Five Nights at Freddy's,https://letterboxd.com/film/five-nights-at-freddys/
-15,Anatomy of a Fall,https://letterboxd.com/film/anatomy-of-a-fall/
-16,Scream VI,https://letterboxd.com/film/scream-vi/
-17,Guardians of the Galaxy Vol. 3,https://letterboxd.com/film/guardians-of-the-galaxy-vol-3/
-18,Wonka,https://letterboxd.com/film/wonka/
-19,No Hard Feelings,https://letterboxd.com/film/no-hard-feelings-2023/
-20,"Red, White & Royal Blue",https://letterboxd.com/film/red-white-royal-blue/
-21,Monster,https://letterboxd.com/film/monster-2023/
-22,The Boy and the Heron,https://letterboxd.com/film/the-boy-and-the-heron/
-23,The Iron Claw,https://letterboxd.com/film/the-iron-claw-2023/
-24,Godzilla Minus One,https://letterboxd.com/film/godzilla-minus-one/
-25,La Chimera,https://letterboxd.com/film/la-chimera/
-26,The Wonderful Story of Henry Sugar,https://letterboxd.com/film/the-wonderful-story-of-henry-sugar/
-27,Elemental,https://letterboxd.com/film/elemental-2023/
-28,The Zone of Interest,https://letterboxd.com/film/the-zone-of-interest/
-29,BEEF,https://letterboxd.com/film/beef-2023/
-30,Society of the Snow,https://letterboxd.com/film/society-of-the-snow/
-31,Evil Dead Rise,https://letterboxd.com/film/evil-dead-rise/
-32,BlackBerry,https://letterboxd.com/film/blackberry-2023/
-33,All of Us Strangers,https://letterboxd.com/film/all-of-us-strangers/
-34,Late Night with the Devil,https://letterboxd.com/film/late-night-with-the-devil/
-35,Hell of a Summer,https://letterboxd.com/film/hell-of-a-summer/
-36,Asteroid City,https://letterboxd.com/film/asteroid-city/
-37,John Wick: Chapter 4,https://letterboxd.com/film/john-wick-chapter-4/
-38,Humanist Vampire Seeking Consenting Suicidal Person,https://letterboxd.com/film/humanist-vampire-seeking-consenting-suicidal-person/
-39,Woman of the Hour,https://letterboxd.com/film/woman-of-the-hour/
-40,Killers of the Flower Moon,https://letterboxd.com/film/killers-of-the-flower-moon/
-41,Sing Sing,https://letterboxd.com/film/sing-sing-2023/
-42,Leave the World Behind,https://letterboxd.com/film/leave-the-world-behind-2023/
-43,Hit Man,https://letterboxd.com/film/hit-man-2023/
-44,My Fault,https://letterboxd.com/film/my-fault/
-45,The Killer,https://letterboxd.com/film/the-killer-2023/
-46,When Evil Lurks,https://letterboxd.com/film/when-evil-lurks/
-47,"Are You There God? It's Me, Margaret.",https://letterboxd.com/film/are-you-there-god-its-me-margaret/
-48,Poison,https://letterboxd.com/film/poison-2023/
-49,Ant-Man and the Wasp: Quantumania,https://letterboxd.com/film/ant-man-and-the-wasp-quantumania/
-50,The Swan,https://letterboxd.com/film/the-swan-2023/
+rank,title,director,actors,genres,url
+1,Barbie,Greta Gerwig,Margot Robbie; Ryan Gosling; America Ferrera,"Comedy, Fantasy, Adventure",https://letterboxd.com/film/barbie/
+2,Spider-Man: Across the Spider-Verse,"Justin K. Thompson, Kemp Powers, Joaquim Dos Santos",Shameik Moore; Hailee Steinfeld; Brian Tyree Henry,"Animation, Science Fiction, Adventure, Action",https://letterboxd.com/film/spider-man-across-the-spider-verse/
+3,Bottoms,Emma Seligman,Rachel Sennott; Ayo Edebiri; Ruby Cruz,Comedy,https://letterboxd.com/film/bottoms/
+4,Oppenheimer,Christopher Nolan,Cillian Murphy; Emily Blunt; Matt Damon,"Drama, History",https://letterboxd.com/film/oppenheimer-2023/
+5,Saltburn,Emerald Fennell,Barry Keoghan; Jacob Elordi; Rosamund Pike,"Comedy, Drama, Thriller",https://letterboxd.com/film/saltburn/
+6,Past Lives,Celine Song,Greta Lee; Teo Yoo; John Magaro,"Drama, Romance",https://letterboxd.com/film/past-lives/
+7,Priscilla,Sofia Coppola,Cailee Spaeny; Jacob Elordi; Ari Cohen,"Drama, Romance",https://letterboxd.com/film/priscilla/
+8,The Hunger Games: The Ballad of Songbirds & Snakes,Francis Lawrence,Tom Blyth; Rachel Zegler; Peter Dinklage,"Action, Science Fiction",https://letterboxd.com/film/the-hunger-games-the-ballad-of-songbirds-snakes/
+9,The Super Mario Bros. Movie,"Aaron Horvath, Michael Jelenic",Chris Pratt; Anya Taylor-Joy; Charlie Day,"Adventure, Animation, Comedy, Family, Fantasy",https://letterboxd.com/film/the-super-mario-bros-movie/
+10,Perfect Days,Wim Wenders,Koji Yakusho; Tokio Emoto; Arisa Nakano,Drama,https://letterboxd.com/film/perfect-days-2023/
+11,The Holdovers,Alexander Payne,Paul Giamatti; Dominic Sessa; Da'Vine Joy Randolph,"Drama, Comedy",https://letterboxd.com/film/the-holdovers/
+12,Poor Things,Yorgos Lanthimos,Emma Stone; Mark Ruffalo; Willem Dafoe,"Romance, Science Fiction, Comedy",https://letterboxd.com/film/poor-things-2023/
+13,Anyone But You,Will Gluck,Sydney Sweeney; Glen Powell; Mia Artemis,"Romance, Comedy",https://letterboxd.com/film/anyone-but-you/
+14,Five Nights at Freddy's,Emma Tammi,Josh Hutcherson; Piper Rubio; Elizabeth Lail,"Horror, Thriller",https://letterboxd.com/film/five-nights-at-freddys/
+15,Anatomy of a Fall,Justine Triet,Sandra Hüller; Swann Arlaud; Milo Machado-Graner,"Crime, Thriller, Mystery",https://letterboxd.com/film/anatomy-of-a-fall/
+16,Scream VI,"Matt Bettinelli-Olpin, Tyler Gillett",Melissa Barrera; Jenna Ortega; Jasmin Savoy Brown,"Crime, Thriller, Horror",https://letterboxd.com/film/scream-vi/
+17,Guardians of the Galaxy Vol. 3,James Gunn,Chris Pratt; Zoe Saldaña; Dave Bautista,"Action, Science Fiction, Adventure",https://letterboxd.com/film/guardians-of-the-galaxy-vol-3/
+18,Wonka,Paul King,Timothée Chalamet; Calah Lane; Keegan-Michael Key,"Fantasy, Family, Comedy",https://letterboxd.com/film/wonka/
+19,No Hard Feelings,Gene Stupnitsky,Jennifer Lawrence; Andrew Barth Feldman; Laura Benanti,"Comedy, Romance",https://letterboxd.com/film/no-hard-feelings-2023/
+20,"Red, White & Royal Blue",Matthew López,Taylor Zakhar Perez; Nicholas Galitzine; Uma Thurman,"Comedy, Romance",https://letterboxd.com/film/red-white-royal-blue/
+21,Monster,Hirokazu Kore-eda,Sakura Ando; Soya Kurokawa; Hinata Hiiragi,"Thriller, Mystery, Drama",https://letterboxd.com/film/monster-2023/
+22,The Boy and the Heron,Hayao Miyazaki,Soma Santoki; Masaki Suda; Ko Shibasaki,"Animation, Fantasy, Drama",https://letterboxd.com/film/the-boy-and-the-heron/
+23,The Iron Claw,Sean Durkin,Zac Efron; Jeremy Allen White; Harris Dickinson,"History, Drama",https://letterboxd.com/film/the-iron-claw-2023/
+24,Godzilla Minus One,Takashi Yamazaki,Ryunosuke Kamiki; Minami Hamabe; Yuki Yamada,"Horror, Science Fiction, Action",https://letterboxd.com/film/godzilla-minus-one/
+25,La Chimera,Alice Rohrwacher,Josh O'Connor; Carol Duarte; Alba Rohrwacher,"Drama, Comedy, Fantasy",https://letterboxd.com/film/la-chimera/
+26,The Wonderful Story of Henry Sugar,Wes Anderson,Ralph Fiennes; Benedict Cumberbatch; Dev Patel,"Fantasy, Comedy, Adventure, Drama",https://letterboxd.com/film/the-wonderful-story-of-henry-sugar/
+27,Elemental,Peter Sohn,Leah Lewis; Mamoudou Athie; Ronnie del Carmen,"Comedy, Romance, Animation, Fantasy, Family",https://letterboxd.com/film/elemental-2023/
+28,The Zone of Interest,Jonathan Glazer,Christian Friedel; Sandra Hüller; Johann Karthaus,"Drama, War, History",https://letterboxd.com/film/the-zone-of-interest/
+29,BEEF,"Hikari, Jake Schreier, Lee Sung Jin",Oscar Isaac; Carey Mulligan; Cailee Spaeny,"Comedy, Drama",https://letterboxd.com/film/beef-2023/
+30,Evil Dead Rise,Lee Cronin,Lily Sullivan; Alyssa Sutherland; Morgan Davies,"Horror, Thriller",https://letterboxd.com/film/evil-dead-rise/
+31,Society of the Snow,J. A. Bayona,Enzo Vogrincic; Agustín Pardella; Matías Recalt,"History, Drama",https://letterboxd.com/film/society-of-the-snow/
+32,BlackBerry,Matt Johnson,Jay Baruchel; Glenn Howerton; Matt Johnson,"Drama, History, Comedy",https://letterboxd.com/film/blackberry-2023/
+33,Late Night with the Devil,"Cameron Cairnes, Colin Cairnes",David Dastmalchian; Laura Gordon; Ian Bliss,Horror,https://letterboxd.com/film/late-night-with-the-devil/
+34,All of Us Strangers,Andrew Haigh,Andrew Scott; Paul Mescal; Carter John Grout,"Drama, Romance, Fantasy",https://letterboxd.com/film/all-of-us-strangers/
+35,Hell of a Summer,"Billy Bryk, Finn Wolfhard",Finn Wolfhard; Billy Bryk; Fred Hechinger,"Horror, Comedy, Mystery",https://letterboxd.com/film/hell-of-a-summer/
+36,Asteroid City,Wes Anderson,Jason Schwartzman; Scarlett Johansson; Tom Hanks,"Drama, Comedy",https://letterboxd.com/film/asteroid-city/
+37,John Wick: Chapter 4,Chad Stahelski,Keanu Reeves; Donnie Yen; Bill Skarsgård,"Crime, Action, Thriller",https://letterboxd.com/film/john-wick-chapter-4/
+38,Humanist Vampire Seeking Consenting Suicidal Person,Ariane Louis-Seize,Sara Montpetit; Félix-Antoine Bénard; Steve Laplante,"Romance, Comedy, Fantasy, Horror",https://letterboxd.com/film/humanist-vampire-seeking-consenting-suicidal-person/
+39,Woman of the Hour,Anna Kendrick,Anna Kendrick; Daniel Zovatto; Nicolette Robinson,"Drama, Crime, Thriller",https://letterboxd.com/film/woman-of-the-hour/
+40,Killers of the Flower Moon,Martin Scorsese,Leonardo DiCaprio; Robert De Niro; Lily Gladstone,"Crime, History, Drama",https://letterboxd.com/film/killers-of-the-flower-moon/
+41,Sing Sing,Greg Kwedar,Colman Domingo; Clarence Maclin; Sean San Jose,Drama,https://letterboxd.com/film/sing-sing-2023/
+42,Leave the World Behind,Sam Esmail,Julia Roberts; Ethan Hawke; Mahershala Ali,"Drama, Mystery, Thriller",https://letterboxd.com/film/leave-the-world-behind-2023/
+43,Hit Man,Richard Linklater,Glen Powell; Adria Arjona; Austin Amelio,"Comedy, Crime, Romance",https://letterboxd.com/film/hit-man-2023/
+44,My Fault,Domingo González,Nicole Wallace; Gabriel Guevara; Marta Hazas,"Romance, Thriller, Drama",https://letterboxd.com/film/my-fault/
+45,The Killer,David Fincher,Michael Fassbender; Tilda Swinton; Charles Parnell,"Thriller, Crime",https://letterboxd.com/film/the-killer-2023/
+46,When Evil Lurks,Demián Rugna,Ezequiel Rodríguez; Demián Salomón; Silvina Sabater,"Horror, Thriller",https://letterboxd.com/film/when-evil-lurks/
+47,"Are You There God? It's Me, Margaret.",Kelly Fremon Craig,Abby Ryder Fortson; Rachel McAdams; Kathy Bates,"Drama, Comedy",https://letterboxd.com/film/are-you-there-god-its-me-margaret/
+48,Poison,Wes Anderson,Benedict Cumberbatch; Dev Patel; Ben Kingsley,"Thriller, Comedy, Drama",https://letterboxd.com/film/poison-2023/
+49,Ant-Man and the Wasp: Quantumania,Peyton Reed,Paul Rudd; Evangeline Lilly; Michael Douglas,"Adventure, Science Fiction, Action",https://letterboxd.com/film/ant-man-and-the-wasp-quantumania/
+50,The Swan,Wes Anderson,Rupert Friend; Ralph Fiennes; Asa Jennings,"Drama, Comedy",https://letterboxd.com/film/the-swan-2023/

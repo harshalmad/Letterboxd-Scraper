@@ -36,11 +36,20 @@ def main() -> int:
         with csv_path.open(encoding="utf-8", newline="") as handle:
             reader = csv.DictReader(handle)
             for row in reader:
+                actors_raw = row.get("actors", "") or ""
+                actors = tuple(
+                    actor.strip()
+                    for actor in actors_raw.split(";")
+                    if actor.strip()
+                )
                 films.append(
                     Film(
                         rank=int(row["rank"]),
                         title=row["title"],
                         url=row["url"],
+                        director=row.get("director", "") or "",
+                        actors=actors,
+                        genres=row.get("genres", "") or "",
                     )
                 )
 

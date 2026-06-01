@@ -5,252 +5,602 @@
     {
       "rank": 1,
       "title": "Parasite",
-      "url": "https://letterboxd.com/film/parasite-2019/"
+      "url": "https://letterboxd.com/film/parasite-2019/",
+      "director": "Bong Joon Ho",
+      "actors": [
+        "Song Kang-ho",
+        "Lee Sun-kyun",
+        "Cho Yeo-jeong"
+      ],
+      "genres": "Thriller, Comedy, Drama"
     },
     {
       "rank": 2,
       "title": "Ready or Not",
-      "url": "https://letterboxd.com/film/ready-or-not-2019/"
+      "url": "https://letterboxd.com/film/ready-or-not-2019/",
+      "director": "Matt Bettinelli-Olpin, Tyler Gillett",
+      "actors": [
+        "Samara Weaving",
+        "Adam Brody",
+        "Mark O'Brien"
+      ],
+      "genres": "Horror, Comedy"
     },
     {
       "rank": 3,
       "title": "Knives Out",
-      "url": "https://letterboxd.com/film/knives-out-2019/"
+      "url": "https://letterboxd.com/film/knives-out-2019/",
+      "director": "Rian Johnson",
+      "actors": [
+        "Daniel Craig",
+        "Chris Evans",
+        "Ana de Armas"
+      ],
+      "genres": "Mystery, Comedy, Crime"
     },
     {
       "rank": 4,
       "title": "Little Women",
-      "url": "https://letterboxd.com/film/little-women-2019/"
+      "url": "https://letterboxd.com/film/little-women-2019/",
+      "director": "Greta Gerwig",
+      "actors": [
+        "Saoirse Ronan",
+        "Emma Watson",
+        "Florence Pugh"
+      ],
+      "genres": "Drama, Romance"
     },
     {
       "rank": 5,
       "title": "Uncut Gems",
-      "url": "https://letterboxd.com/film/uncut-gems/"
+      "url": "https://letterboxd.com/film/uncut-gems/",
+      "director": "Josh Safdie, Benny Safdie",
+      "actors": [
+        "Adam Sandler",
+        "LaKeith Stanfield",
+        "Julia Fox"
+      ],
+      "genres": "Crime, Thriller, Drama"
     },
     {
       "rank": 6,
       "title": "Midsommar",
-      "url": "https://letterboxd.com/film/midsommar/"
+      "url": "https://letterboxd.com/film/midsommar/",
+      "director": "Ari Aster",
+      "actors": [
+        "Florence Pugh",
+        "Jack Reynor",
+        "William Jackson Harper"
+      ],
+      "genres": "Mystery, Drama, Horror"
     },
     {
       "rank": 7,
       "title": "Once Upon a Time... in Hollywood",
-      "url": "https://letterboxd.com/film/once-upon-a-time-in-hollywood/"
+      "url": "https://letterboxd.com/film/once-upon-a-time-in-hollywood/",
+      "director": "Quentin Tarantino",
+      "actors": [
+        "Leonardo DiCaprio",
+        "Brad Pitt",
+        "Margot Robbie"
+      ],
+      "genres": "Thriller, Drama, Comedy"
     },
     {
       "rank": 8,
       "title": "Avengers: Endgame",
-      "url": "https://letterboxd.com/film/avengers-endgame/"
+      "url": "https://letterboxd.com/film/avengers-endgame/",
+      "director": "Anthony Russo, Joe Russo",
+      "actors": [
+        "Robert Downey Jr.",
+        "Chris Evans",
+        "Mark Ruffalo"
+      ],
+      "genres": "Science Fiction, Action, Adventure"
     },
     {
       "rank": 9,
       "title": "Us",
-      "url": "https://letterboxd.com/film/us-2019/"
+      "url": "https://letterboxd.com/film/us-2019/",
+      "director": "Jordan Peele",
+      "actors": [
+        "Lupita Nyong'o",
+        "Winston Duke",
+        "Elisabeth Moss"
+      ],
+      "genres": "Horror, Mystery"
     },
     {
       "rank": 10,
       "title": "Spider-Man: Far From Home",
-      "url": "https://letterboxd.com/film/spider-man-far-from-home/"
+      "url": "https://letterboxd.com/film/spider-man-far-from-home/",
+      "director": "Jon Watts",
+      "actors": [
+        "Tom Holland",
+        "Jake Gyllenhaal",
+        "Samuel L. Jackson"
+      ],
+      "genres": "Science Fiction, Adventure, Action"
     },
     {
       "rank": 11,
       "title": "Portrait of a Lady on Fire",
-      "url": "https://letterboxd.com/film/portrait-of-a-lady-on-fire/"
+      "url": "https://letterboxd.com/film/portrait-of-a-lady-on-fire/",
+      "director": "Céline Sciamma",
+      "actors": [
+        "Noémie Merlant",
+        "Adèle Haenel",
+        "Luàna Bajrami"
+      ],
+      "genres": "Drama, Romance"
     },
     {
       "rank": 12,
       "title": "Joker",
-      "url": "https://letterboxd.com/film/joker-2019/"
+      "url": "https://letterboxd.com/film/joker-2019/",
+      "director": "Todd Phillips",
+      "actors": [
+        "Joaquin Phoenix",
+        "Robert De Niro",
+        "Zazie Beetz"
+      ],
+      "genres": "Drama, Thriller, Crime"
     },
     {
       "rank": 13,
       "title": "Waves",
-      "url": "https://letterboxd.com/film/waves-2019/"
+      "url": "https://letterboxd.com/film/waves-2019/",
+      "director": "Trey Edward Shults",
+      "actors": [
+        "Kelvin Harrison Jr.",
+        "Taylor Russell",
+        "Renée Elise Goldsberry"
+      ],
+      "genres": "Romance, Drama"
     },
     {
       "rank": 14,
       "title": "Jojo Rabbit",
-      "url": "https://letterboxd.com/film/jojo-rabbit/"
+      "url": "https://letterboxd.com/film/jojo-rabbit/",
+      "director": "Taika Waititi",
+      "actors": [
+        "Roman Griffin Davis",
+        "Thomasin McKenzie",
+        "Scarlett Johansson"
+      ],
+      "genres": "War, Comedy, Drama"
     },
     {
       "rank": 15,
       "title": "It Chapter Two",
-      "url": "https://letterboxd.com/film/it-chapter-two/"
+      "url": "https://letterboxd.com/film/it-chapter-two/",
+      "director": "Andy Muschietti",
+      "actors": [
+        "Jessica Chastain",
+        "James McAvoy",
+        "Bill Hader"
+      ],
+      "genres": "Drama, Thriller, Horror"
     },
     {
       "rank": 16,
       "title": "The Lighthouse",
-      "url": "https://letterboxd.com/film/the-lighthouse-2019/"
+      "url": "https://letterboxd.com/film/the-lighthouse-2019/",
+      "director": "Robert Eggers",
+      "actors": [
+        "Robert Pattinson",
+        "Willem Dafoe",
+        "Valeriia Karaman"
+      ],
+      "genres": "Thriller, Fantasy, Horror, Drama"
     },
     {
       "rank": 17,
       "title": "Sound of Metal",
-      "url": "https://letterboxd.com/film/sound-of-metal/"
+      "url": "https://letterboxd.com/film/sound-of-metal/",
+      "director": "Darius Marder",
+      "actors": [
+        "Riz Ahmed",
+        "Olivia Cooke",
+        "Paul Raci"
+      ],
+      "genres": "Drama, Music"
     },
     {
       "rank": 18,
       "title": "Ford v Ferrari",
-      "url": "https://letterboxd.com/film/ford-v-ferrari/"
+      "url": "https://letterboxd.com/film/ford-v-ferrari/",
+      "director": "James Mangold",
+      "actors": [
+        "Matt Damon",
+        "Christian Bale",
+        "Jon Bernthal"
+      ],
+      "genres": "Drama, Action, History"
     },
     {
       "rank": 19,
       "title": "Marriage Story",
-      "url": "https://letterboxd.com/film/marriage-story-2019/"
+      "url": "https://letterboxd.com/film/marriage-story-2019/",
+      "director": "Noah Baumbach",
+      "actors": [
+        "Adam Driver",
+        "Scarlett Johansson",
+        "Laura Dern"
+      ],
+      "genres": "Drama"
     },
     {
       "rank": 20,
       "title": "1917",
-      "url": "https://letterboxd.com/film/1917/"
+      "url": "https://letterboxd.com/film/1917/",
+      "director": "Sam Mendes",
+      "actors": [
+        "George MacKay",
+        "Dean-Charles Chapman",
+        "Mark Strong"
+      ],
+      "genres": "Drama, War, History"
     },
     {
       "rank": 21,
       "title": "Captain Marvel",
-      "url": "https://letterboxd.com/film/captain-marvel/"
+      "url": "https://letterboxd.com/film/captain-marvel/",
+      "director": "Ryan Fleck, Anna Boden",
+      "actors": [
+        "Brie Larson",
+        "Samuel L. Jackson",
+        "Ben Mendelsohn"
+      ],
+      "genres": "Science Fiction, Action, Adventure"
     },
     {
       "rank": 22,
       "title": "The King",
-      "url": "https://letterboxd.com/film/the-king-2019/"
+      "url": "https://letterboxd.com/film/the-king-2019/",
+      "director": "David Michôd",
+      "actors": [
+        "Timothée Chalamet",
+        "Joel Edgerton",
+        "Sean Harris"
+      ],
+      "genres": "War, Drama, History"
     },
     {
       "rank": 23,
       "title": "Star Wars: The Rise of Skywalker",
-      "url": "https://letterboxd.com/film/star-wars-the-rise-of-skywalker/"
+      "url": "https://letterboxd.com/film/star-wars-the-rise-of-skywalker/",
+      "director": "J.J. Abrams",
+      "actors": [
+        "Carrie Fisher",
+        "Mark Hamill",
+        "Daisy Ridley"
+      ],
+      "genres": "Adventure, Action, Science Fiction"
     },
     {
       "rank": 24,
       "title": "How to Train Your Dragon: The Hidden World",
-      "url": "https://letterboxd.com/film/how-to-train-your-dragon-the-hidden-world/"
+      "url": "https://letterboxd.com/film/how-to-train-your-dragon-the-hidden-world/",
+      "director": "Dean DeBlois",
+      "actors": [
+        "Jay Baruchel",
+        "America Ferrera",
+        "F. Murray Abraham"
+      ],
+      "genres": "Animation, Adventure, Family"
     },
     {
       "rank": 25,
       "title": "El Camino: A Breaking Bad Movie",
-      "url": "https://letterboxd.com/film/el-camino-a-breaking-bad-movie/"
+      "url": "https://letterboxd.com/film/el-camino-a-breaking-bad-movie/",
+      "director": "Vince Gilligan",
+      "actors": [
+        "Aaron Paul",
+        "Jesse Plemons",
+        "Charles Baker"
+      ],
+      "genres": "Crime, Drama, Thriller"
     },
     {
       "rank": 26,
-      "title": "Chernobyl",
-      "url": "https://letterboxd.com/film/chernobyl/"
+      "title": "Frozen II",
+      "url": "https://letterboxd.com/film/frozen-2/",
+      "director": "Jennifer Lee, Chris Buck",
+      "actors": [
+        "Idina Menzel",
+        "Kristen Bell",
+        "Josh Gad"
+      ],
+      "genres": "Comedy, Animation, Adventure, Fantasy, Family"
     },
     {
       "rank": 27,
-      "title": "Frozen II",
-      "url": "https://letterboxd.com/film/frozen-2/"
+      "title": "Chernobyl",
+      "url": "https://letterboxd.com/film/chernobyl/",
+      "director": "Johan Renck",
+      "actors": [
+        "Jared Harris",
+        "Stellan Skarsgård",
+        "Emily Watson"
+      ],
+      "genres": "Drama"
     },
     {
       "rank": 28,
       "title": "Booksmart",
-      "url": "https://letterboxd.com/film/booksmart/"
+      "url": "https://letterboxd.com/film/booksmart/",
+      "director": "Olivia Wilde",
+      "actors": [
+        "Kaitlyn Dever",
+        "Beanie Feldstein",
+        "Jessica Williams"
+      ],
+      "genres": "Comedy"
     },
     {
       "rank": 29,
       "title": "Toy Story 4",
-      "url": "https://letterboxd.com/film/toy-story-4/"
+      "url": "https://letterboxd.com/film/toy-story-4/",
+      "director": "Josh Cooley",
+      "actors": [
+        "Tom Hanks",
+        "Tim Allen",
+        "Annie Potts"
+      ],
+      "genres": "Adventure, Animation, Comedy, Family"
     },
     {
       "rank": 30,
       "title": "Five Feet Apart",
-      "url": "https://letterboxd.com/film/five-feet-apart/"
+      "url": "https://letterboxd.com/film/five-feet-apart/",
+      "director": "Justin Baldoni",
+      "actors": [
+        "Haley Lu Richardson",
+        "Cole Sprouse",
+        "Moisés Arias"
+      ],
+      "genres": "Romance, Drama"
     },
     {
       "rank": 31,
       "title": "The Irishman",
-      "url": "https://letterboxd.com/film/the-irishman-2019/"
+      "url": "https://letterboxd.com/film/the-irishman-2019/",
+      "director": "Martin Scorsese",
+      "actors": [
+        "Robert De Niro",
+        "Al Pacino",
+        "Joe Pesci"
+      ],
+      "genres": "History, Drama, Crime"
     },
     {
       "rank": 32,
       "title": "Fractured",
-      "url": "https://letterboxd.com/film/fractured-2019/"
+      "url": "https://letterboxd.com/film/fractured-2019/",
+      "director": "Brad Anderson",
+      "actors": [
+        "Sam Worthington",
+        "Lily Rabe",
+        "Lucy Capri"
+      ],
+      "genres": "Drama, Thriller"
     },
     {
       "rank": 33,
       "title": "John Wick: Chapter 3 – Parabellum",
-      "url": "https://letterboxd.com/film/john-wick-chapter-3-parabellum/"
+      "url": "https://letterboxd.com/film/john-wick-chapter-3-parabellum/",
+      "director": "Chad Stahelski",
+      "actors": [
+        "Keanu Reeves",
+        "Halle Berry",
+        "Ian McShane"
+      ],
+      "genres": "Action, Crime, Thriller"
     },
     {
       "rank": 34,
       "title": "Vivarium",
-      "url": "https://letterboxd.com/film/vivarium/"
+      "url": "https://letterboxd.com/film/vivarium/",
+      "director": "Lorcan Finnegan",
+      "actors": [
+        "Imogen Poots",
+        "Jesse Eisenberg",
+        "Senan Jennings"
+      ],
+      "genres": "Mystery, Horror, Science Fiction"
     },
     {
       "rank": 35,
       "title": "The Platform",
-      "url": "https://letterboxd.com/film/the-platform/"
+      "url": "https://letterboxd.com/film/the-platform/",
+      "director": "Galder Gaztelu-Urrutia",
+      "actors": [
+        "Ivan Massagué",
+        "Antonia San Juan",
+        "Zorion Eguileor"
+      ],
+      "genres": "Thriller, Drama, Science Fiction"
     },
     {
       "rank": 36,
       "title": "The Gentlemen",
-      "url": "https://letterboxd.com/film/the-gentlemen/"
+      "url": "https://letterboxd.com/film/the-gentlemen/",
+      "director": "Guy Ritchie",
+      "actors": [
+        "Matthew McConaughey",
+        "Charlie Hunnam",
+        "Michelle Dockery"
+      ],
+      "genres": "Crime, Action, Comedy"
     },
     {
       "rank": 37,
       "title": "Zombieland: Double Tap",
-      "url": "https://letterboxd.com/film/zombieland-double-tap/"
+      "url": "https://letterboxd.com/film/zombieland-double-tap/",
+      "director": "Ruben Fleischer",
+      "actors": [
+        "Woody Harrelson",
+        "Jesse Eisenberg",
+        "Emma Stone"
+      ],
+      "genres": "Horror, Comedy"
     },
     {
       "rank": 38,
       "title": "Murder Mystery",
-      "url": "https://letterboxd.com/film/murder-mystery/"
+      "url": "https://letterboxd.com/film/murder-mystery/",
+      "director": "Kyle Newacheck",
+      "actors": [
+        "Adam Sandler",
+        "Jennifer Aniston",
+        "Luke Evans"
+      ],
+      "genres": "Comedy, Mystery"
     },
     {
       "rank": 39,
       "title": "Ad Astra",
-      "url": "https://letterboxd.com/film/ad-astra-2019/"
+      "url": "https://letterboxd.com/film/ad-astra-2019/",
+      "director": "James Gray",
+      "actors": [
+        "Brad Pitt",
+        "Tommy Lee Jones",
+        "Liv Tyler"
+      ],
+      "genres": "Science Fiction, Drama"
     },
     {
       "rank": 40,
       "title": "Aladdin",
-      "url": "https://letterboxd.com/film/aladdin-2019/"
+      "url": "https://letterboxd.com/film/aladdin-2019/",
+      "director": "Guy Ritchie",
+      "actors": [
+        "Will Smith",
+        "Mena Massoud",
+        "Naomi Scott"
+      ],
+      "genres": "Fantasy, Romance, Family, Adventure"
     },
     {
       "rank": 41,
       "title": "Jumanji: The Next Level",
-      "url": "https://letterboxd.com/film/jumanji-the-next-level/"
+      "url": "https://letterboxd.com/film/jumanji-the-next-level/",
+      "director": "Jake Kasdan",
+      "actors": [
+        "Dwayne Johnson",
+        "Kevin Hart",
+        "Jack Black"
+      ],
+      "genres": "Comedy, Adventure, Fantasy"
     },
     {
       "rank": 42,
       "title": "After",
-      "url": "https://letterboxd.com/film/after-2019/"
+      "url": "https://letterboxd.com/film/after-2019/",
+      "director": "Jenny Gage",
+      "actors": [
+        "Josephine Langford",
+        "Hero Fiennes Tiffin",
+        "Shane Paul McGhie"
+      ],
+      "genres": "Romance, Drama"
     },
     {
       "rank": 43,
       "title": "Yesterday",
-      "url": "https://letterboxd.com/film/yesterday-2019/"
+      "url": "https://letterboxd.com/film/yesterday-2019/",
+      "director": "Danny Boyle",
+      "actors": [
+        "Himesh Patel",
+        "Lily James",
+        "Sophia Di Martino"
+      ],
+      "genres": "Comedy, Fantasy, Romance, Music"
     },
     {
       "rank": 44,
       "title": "Rocketman",
-      "url": "https://letterboxd.com/film/rocketman-2019/"
+      "url": "https://letterboxd.com/film/rocketman-2019/",
+      "director": "Dexter Fletcher",
+      "actors": [
+        "Taron Egerton",
+        "Jamie Bell",
+        "Richard Madden"
+      ],
+      "genres": "Drama, Music"
     },
     {
       "rank": 45,
       "title": "Klaus",
-      "url": "https://letterboxd.com/film/klaus/"
+      "url": "https://letterboxd.com/film/klaus/",
+      "director": "Sergio Pablos",
+      "actors": [
+        "Jason Schwartzman",
+        "J.K. Simmons",
+        "Rashida Jones"
+      ],
+      "genres": "Animation, Family, Comedy"
     },
     {
       "rank": 46,
       "title": "The Goldfinch",
-      "url": "https://letterboxd.com/film/the-goldfinch/"
+      "url": "https://letterboxd.com/film/the-goldfinch/",
+      "director": "John Crowley",
+      "actors": [
+        "Ansel Elgort",
+        "Oakes Fegley",
+        "Nicole Kidman"
+      ],
+      "genres": "Drama"
     },
     {
       "rank": 47,
       "title": "Better Days",
-      "url": "https://letterboxd.com/film/better-days-2019/"
+      "url": "https://letterboxd.com/film/better-days-2019/",
+      "director": "Derek Tsang Kwok-Cheung",
+      "actors": [
+        "Zhou Dongyu",
+        "Jackson Yee",
+        "Yin Fang"
+      ],
+      "genres": "Romance, Crime, Drama"
     },
     {
       "rank": 48,
       "title": "Bacurau",
-      "url": "https://letterboxd.com/film/bacurau/"
+      "url": "https://letterboxd.com/film/bacurau/",
+      "director": "Kleber Mendonça Filho, Juliano Dornelles",
+      "actors": [
+        "Bárbara Colen",
+        "Thomás Aquino",
+        "Silvero Pereira"
+      ],
+      "genres": "Western, Thriller, Mystery"
     },
     {
       "rank": 49,
       "title": "Doctor Sleep",
-      "url": "https://letterboxd.com/film/doctor-sleep/"
+      "url": "https://letterboxd.com/film/doctor-sleep/",
+      "director": "Mike Flanagan",
+      "actors": [
+        "Ewan McGregor",
+        "Rebecca Ferguson",
+        "Kyliegh Curran"
+      ],
+      "genres": "Horror, Fantasy"
     },
     {
       "rank": 50,
-      "title": "The Hustle",
-      "url": "https://letterboxd.com/film/the-hustle-2019/"
+      "title": "Dark Phoenix",
+      "url": "https://letterboxd.com/film/dark-phoenix/",
+      "director": "Simon Kinberg",
+      "actors": [
+        "Sophie Turner",
+        "James McAvoy",
+        "Nicholas Hoult"
+      ],
+      "genres": "Science Fiction, Action, Adventure"
     }
   ]
 }

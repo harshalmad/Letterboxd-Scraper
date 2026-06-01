@@ -1,51 +1,51 @@
-rank,title,url
-1,Eternal Sunshine of the Spotless Mind,https://letterboxd.com/film/eternal-sunshine-of-the-spotless-mind/
-2,The Notebook,https://letterboxd.com/film/the-notebook/
-3,Kill Bill: Vol. 2,https://letterboxd.com/film/kill-bill-vol-2/
-4,Mean Girls,https://letterboxd.com/film/mean-girls/
-5,Harry Potter and the Prisoner of Azkaban,https://letterboxd.com/film/harry-potter-and-the-prisoner-of-azkaban/
-6,13 Going on 30,https://letterboxd.com/film/13-going-on-30-3/
-7,Howl's Moving Castle,https://letterboxd.com/film/howls-moving-castle/
-8,Spider-Man 2,https://letterboxd.com/film/spider-man-2/
-9,White Chicks,https://letterboxd.com/film/white-chicks/
-10,Shrek 2,https://letterboxd.com/film/shrek-2/
-11,50 First Dates,https://letterboxd.com/film/50-first-dates/
-12,Before Sunset,https://letterboxd.com/film/before-sunset/
-13,Mysterious Skin,https://letterboxd.com/film/mysterious-skin/
-14,A Cinderella Story,https://letterboxd.com/film/a-cinderella-story/
-15,Kill Bill: The Whole Bloody Affair,https://letterboxd.com/film/kill-bill-the-whole-bloody-affair/
-16,The Incredibles,https://letterboxd.com/film/the-incredibles/
-17,Saw,https://letterboxd.com/film/saw/
-18,Napoleon Dynamite,https://letterboxd.com/film/napoleon-dynamite/
-19,Shaun of the Dead,https://letterboxd.com/film/shaun-of-the-dead/
-20,The Butterfly Effect,https://letterboxd.com/film/the-butterfly-effect/
-21,DodgeBall: A True Underdog Story,https://letterboxd.com/film/dodgeball-a-true-underdog-story/
-22,The Terminal,https://letterboxd.com/film/the-terminal/
-23,Shark Tale,https://letterboxd.com/film/shark-tale/
-24,Troy,https://letterboxd.com/film/troy/
-25,The Princess Diaries 2: Royal Engagement,https://letterboxd.com/film/the-princess-diaries-2-royal-engagement/
-26,EuroTrip,https://letterboxd.com/film/eurotrip/
-27,The Passion of the Christ,https://letterboxd.com/film/the-passion-of-the-christ/
-28,Anchorman: The Legend of Ron Burgundy,https://letterboxd.com/film/anchorman-the-legend-of-ron-burgundy/
-29,Ocean's Twelve,https://letterboxd.com/film/oceans-twelve/
-30,Collateral,https://letterboxd.com/film/collateral/
-31,The SpongeBob SquarePants Movie,https://letterboxd.com/film/the-spongebob-squarepants-movie/
-32,Man on Fire,https://letterboxd.com/film/man-on-fire-2004/
-33,Ella Enchanted,https://letterboxd.com/film/ella-enchanted/
-34,The Machinist,https://letterboxd.com/film/the-machinist/
-35,D.E.B.S.,https://letterboxd.com/film/debs/
-36,The Girl Next Door,https://letterboxd.com/film/the-girl-next-door-2004/
-37,The Phantom of the Opera,https://letterboxd.com/film/the-phantom-of-the-opera-2004/
-38,The Aviator,https://letterboxd.com/film/the-aviator/
-39,Sleepover,https://letterboxd.com/film/sleepover/
-40,Speak,https://letterboxd.com/film/speak/
-41,Million Dollar Baby,https://letterboxd.com/film/million-dollar-baby/
-42,The Day After Tomorrow,https://letterboxd.com/film/the-day-after-tomorrow/
-43,Closer,https://letterboxd.com/film/closer/
-44,Swing Girls,https://letterboxd.com/film/swing-girls/
-45,The Bourne Supremacy,https://letterboxd.com/film/the-bourne-supremacy/
-46,The Life Aquatic with Steve Zissou,https://letterboxd.com/film/the-life-aquatic-with-steve-zissou/
-47,Kamikaze Girls,https://letterboxd.com/film/kamikaze-girls/
-48,National Treasure,https://letterboxd.com/film/national-treasure/
-49,Miracle,https://letterboxd.com/film/miracle/
-50,Kung Fu Hustle,https://letterboxd.com/film/kung-fu-hustle/
+rank,title,director,actors,genres,url
+1,Eternal Sunshine of the Spotless Mind,Michel Gondry,Jim Carrey; Kate Winslet; Kirsten Dunst,"Science Fiction, Romance, Drama",https://letterboxd.com/film/eternal-sunshine-of-the-spotless-mind/
+2,The Notebook,Nick Cassavetes,Ryan Gosling; Rachel McAdams; Gena Rowlands,"Romance, Drama",https://letterboxd.com/film/the-notebook/
+3,Kill Bill: Vol. 2,Quentin Tarantino,Uma Thurman; David Carradine; Daryl Hannah,"Thriller, Action, Crime",https://letterboxd.com/film/kill-bill-vol-2/
+4,Mean Girls,Mark Waters,Lindsay Lohan; Rachel McAdams; Lizzy Caplan,"Comedy, Drama",https://letterboxd.com/film/mean-girls/
+5,Harry Potter and the Prisoner of Azkaban,Alfonso Cuarón,Daniel Radcliffe; Rupert Grint; Emma Watson,"Adventure, Fantasy",https://letterboxd.com/film/harry-potter-and-the-prisoner-of-azkaban/
+6,13 Going on 30,Gary Winick,Jennifer Garner; Mark Ruffalo; Judy Greer,"Comedy, Romance, Fantasy",https://letterboxd.com/film/13-going-on-30-3/
+7,Howl's Moving Castle,Hayao Miyazaki,Chieko Baisho; Takuya Kimura; Akihiro Miwa,"Animation, Fantasy, Adventure",https://letterboxd.com/film/howls-moving-castle/
+8,Spider-Man 2,Sam Raimi,Tobey Maguire; Kirsten Dunst; James Franco,"Action, Science Fiction, Adventure",https://letterboxd.com/film/spider-man-2/
+9,White Chicks,Keenen Ivory Wayans,Shawn Wayans; Marlon Wayans; Frankie Faison,"Comedy, Crime",https://letterboxd.com/film/white-chicks/
+10,Shrek 2,"Andrew Adamson, Kelly Asbury, Conrad Vernon",Mike Myers; Eddie Murphy; Cameron Diaz,"Romance, Family, Comedy, Animation, Fantasy",https://letterboxd.com/film/shrek-2/
+11,50 First Dates,Peter Segal,Adam Sandler; Drew Barrymore; Rob Schneider,"Comedy, Romance",https://letterboxd.com/film/50-first-dates/
+12,Before Sunset,Richard Linklater,Ethan Hawke; Julie Delpy; Vernon Dobtcheff,"Drama, Romance",https://letterboxd.com/film/before-sunset/
+13,Mysterious Skin,Gregg Araki,Joseph Gordon-Levitt; Brady Corbet; Michelle Trachtenberg,Drama,https://letterboxd.com/film/mysterious-skin/
+14,Kill Bill: The Whole Bloody Affair,Quentin Tarantino,Uma Thurman; Lucy Liu; Vivica A. Fox,"Action, Crime",https://letterboxd.com/film/kill-bill-the-whole-bloody-affair/
+15,A Cinderella Story,Mark Rosman,Hilary Duff; Chad Michael Murray; Jennifer Coolidge,"Family, Comedy, Romance",https://letterboxd.com/film/a-cinderella-story/
+16,The Incredibles,Brad Bird,Craig T. Nelson; Holly Hunter; Sarah Vowell,"Animation, Family, Adventure, Action",https://letterboxd.com/film/the-incredibles/
+17,Saw,James Wan,Tobin Bell; Cary Elwes; Leigh Whannell,"Crime, Mystery, Horror",https://letterboxd.com/film/saw/
+18,Napoleon Dynamite,Jared Hess,Jon Heder; Efren Ramirez; Tina Majorino,Comedy,https://letterboxd.com/film/napoleon-dynamite/
+19,Shaun of the Dead,Edgar Wright,Simon Pegg; Nick Frost; Kate Ashfield,"Horror, Comedy",https://letterboxd.com/film/shaun-of-the-dead/
+20,The Butterfly Effect,"Eric Bress, J. Mackye Gruber",Ashton Kutcher; Amy Smart; Melora Walters,"Thriller, Science Fiction",https://letterboxd.com/film/the-butterfly-effect/
+21,DodgeBall: A True Underdog Story,Rawson Marshall Thurber,Vince Vaughn; Christine Taylor; Ben Stiller,Comedy,https://letterboxd.com/film/dodgeball-a-true-underdog-story/
+22,The Terminal,Steven Spielberg,Tom Hanks; Catherine Zeta-Jones; Stanley Tucci,"Comedy, Drama",https://letterboxd.com/film/the-terminal/
+23,Shark Tale,"Bibo Bergeron, Rob Letterman, Vicky Jenson",Will Smith; Robert De Niro; Renée Zellweger,"Animation, Action, Comedy, Family",https://letterboxd.com/film/shark-tale/
+24,Troy,Wolfgang Petersen,Brad Pitt; Orlando Bloom; Eric Bana,"Action, History, War",https://letterboxd.com/film/troy/
+25,The Princess Diaries 2: Royal Engagement,Garry Marshall,Anne Hathaway; Julie Andrews; Héctor Elizondo,"Romance, Family, Drama, Comedy",https://letterboxd.com/film/the-princess-diaries-2-royal-engagement/
+26,EuroTrip,Jeff Schaffer,Scott Mechlowicz; Jacob Pitts; Michelle Trachtenberg,Comedy,https://letterboxd.com/film/eurotrip/
+27,The Passion of the Christ,Mel Gibson,Jim Caviezel; Maia Morgenstern; Christo Jivkov,Drama,https://letterboxd.com/film/the-passion-of-the-christ/
+28,Anchorman: The Legend of Ron Burgundy,Adam McKay,Will Ferrell; Christina Applegate; Paul Rudd,Comedy,https://letterboxd.com/film/anchorman-the-legend-of-ron-burgundy/
+29,Ocean's Twelve,Steven Soderbergh,George Clooney; Julia Roberts; Brad Pitt,"Crime, Thriller",https://letterboxd.com/film/oceans-twelve/
+30,Collateral,Michael Mann,Tom Cruise; Jamie Foxx; Jada Pinkett Smith,"Crime, Drama, Thriller",https://letterboxd.com/film/collateral/
+31,The SpongeBob SquarePants Movie,Stephen Hillenburg,Tom Kenny; Clancy Brown; Rodger Bumpass,"Adventure, Comedy, Animation, Fantasy, Family",https://letterboxd.com/film/the-spongebob-squarepants-movie/
+32,Man on Fire,Tony Scott,Denzel Washington; Dakota Fanning; Christopher Walken,"Drama, Action, Thriller",https://letterboxd.com/film/man-on-fire-2004/
+33,Ella Enchanted,Tommy O'Haver,Anne Hathaway; Hugh Dancy; Cary Elwes,"Comedy, Fantasy, Family",https://letterboxd.com/film/ella-enchanted/
+34,The Machinist,Brad Anderson,Christian Bale; Jennifer Jason Leigh; Aitana Sánchez-Gijón,"Drama, Thriller",https://letterboxd.com/film/the-machinist/
+35,D.E.B.S.,Angela Robinson,Sara Foster; Jordana Brewster; Meagan Good,"Action, Comedy, Romance",https://letterboxd.com/film/debs/
+36,The Girl Next Door,Luke Greenfield,Emile Hirsch; Elisha Cuthbert; Timothy Olyphant,"Romance, Comedy",https://letterboxd.com/film/the-girl-next-door-2004/
+37,The Phantom of the Opera,Joel Schumacher,Gerard Butler; Emmy Rossum; Patrick Wilson,"Drama, Romance, Thriller",https://letterboxd.com/film/the-phantom-of-the-opera-2004/
+38,The Aviator,Martin Scorsese,Leonardo DiCaprio; Cate Blanchett; Kate Beckinsale,Drama,https://letterboxd.com/film/the-aviator/
+39,Sleepover,Joe Nussbaum,Alexa PenaVega; Mika Boorem; Jane Lynch,"Family, Comedy",https://letterboxd.com/film/sleepover/
+40,Speak,Jessica Sharzer,Kristen Stewart; Elizabeth Perkins; Steve Zahn,Drama,https://letterboxd.com/film/speak/
+41,Million Dollar Baby,Clint Eastwood,Clint Eastwood; Hilary Swank; Morgan Freeman,Drama,https://letterboxd.com/film/million-dollar-baby/
+42,The Day After Tomorrow,Roland Emmerich,Dennis Quaid; Jake Gyllenhaal; Emmy Rossum,"Thriller, Science Fiction, Adventure",https://letterboxd.com/film/the-day-after-tomorrow/
+43,Closer,Mike Nichols,Jude Law; Natalie Portman; Julia Roberts,"Drama, Romance",https://letterboxd.com/film/closer/
+44,Swing Girls,Shinobu Yaguchi,Juri Ueno; Yuta Hiraoka; Shihori Kanjiya,"Comedy, Music",https://letterboxd.com/film/swing-girls/
+45,The Bourne Supremacy,Paul Greengrass,Matt Damon; Franka Potente; Brian Cox,"Drama, Action, Thriller",https://letterboxd.com/film/the-bourne-supremacy/
+46,The Life Aquatic with Steve Zissou,Wes Anderson,Bill Murray; Owen Wilson; Cate Blanchett,"Comedy, Adventure, Drama",https://letterboxd.com/film/the-life-aquatic-with-steve-zissou/
+47,National Treasure,Jon Turteltaub,Nicolas Cage; Diane Kruger; Justin Bartha,"Mystery, Adventure, Action",https://letterboxd.com/film/national-treasure/
+48,Kamikaze Girls,Tetsuya Nakashima,Kyoko Fukada; Anna Tsuchiya; Hiroyuki Miyasako,Comedy,https://letterboxd.com/film/kamikaze-girls/
+49,Miracle,Gavin O'Connor,Kurt Russell; Patricia Clarkson; Noah Emmerich,"History, Drama",https://letterboxd.com/film/miracle/
+50,Kung Fu Hustle,Stephen Chow,Stephen Chow; Yuen Qiu; Yuen Wah,"Comedy, Fantasy, Crime, Action",https://letterboxd.com/film/kung-fu-hustle/

@@ -1,51 +1,51 @@
-rank,title,url
-1,Alien,https://letterboxd.com/film/alien/
-2,Apocalypse Now,https://letterboxd.com/film/apocalypse-now/
-3,Stalker,https://letterboxd.com/film/stalker/
-4,All That Jazz,https://letterboxd.com/film/all-that-jazz/
-5,Life of Brian,https://letterboxd.com/film/life-of-brian/
-6,Kramer vs. Kramer,https://letterboxd.com/film/kramer-vs-kramer/
-7,The Muppet Movie,https://letterboxd.com/film/the-muppet-movie/
-8,Rocky II,https://letterboxd.com/film/rocky-ii/
-9,Escape from Alcatraz,https://letterboxd.com/film/escape-from-alcatraz/
-10,Mad Max,https://letterboxd.com/film/mad-max/
-11,The Warriors,https://letterboxd.com/film/the-warriors/
-12,...And Justice for All,https://letterboxd.com/film/and-justice-for-all/
-13,Moonraker,https://letterboxd.com/film/moonraker/
-14,Nosferatu the Vampyre,https://letterboxd.com/film/nosferatu-the-vampyre/
-15,The Brood,https://letterboxd.com/film/the-brood/
-16,Manhattan,https://letterboxd.com/film/manhattan/
-17,Being There,https://letterboxd.com/film/being-there/
-18,The Castle of Cagliostro,https://letterboxd.com/film/the-castle-of-cagliostro/
-19,Hair,https://letterboxd.com/film/hair/
-20,Hardcore,https://letterboxd.com/film/hardcore/
-21,Star Trek: The Motion Picture,https://letterboxd.com/film/star-trek-the-motion-picture/
-22,Phantasm,https://letterboxd.com/film/phantasm/
-23,The Jerk,https://letterboxd.com/film/the-jerk/
-24,French Fried Vacation 2,https://letterboxd.com/film/french-fried-vacation-2/
-25,Quadrophenia,https://letterboxd.com/film/quadrophenia/
-26,Asparagus,https://letterboxd.com/film/asparagus/
-27,The Amityville Horror,https://letterboxd.com/film/the-amityville-horror/
-28,Zombie Flesh Eaters,https://letterboxd.com/film/zombie-flesh-eaters/
-29,Caligula,https://letterboxd.com/film/caligula/
-30,Salem's Lot,https://letterboxd.com/film/salems-lot/
-31,Fascination,https://letterboxd.com/film/fascination-1979/
-32,Real Life,https://letterboxd.com/film/real-life/
-33,The Wizard of Speed and Time,https://letterboxd.com/film/the-wizard-of-speed-and-time-1979/
-34,The Plumber,https://letterboxd.com/film/the-plumber/
-35,The Driller Killer,https://letterboxd.com/film/the-driller-killer/
-36,Tourist Trap,https://letterboxd.com/film/tourist-trap/
-37,Woyzeck,https://letterboxd.com/film/woyzeck/
-38,Breaking Away,https://letterboxd.com/film/breaking-away/
-39,Camera Buff,https://letterboxd.com/film/camera-buff/
-40,Scum,https://letterboxd.com/film/scum/
-41,The Marriage of Maria Braun,https://letterboxd.com/film/the-marriage-of-maria-braun/
-42,Chilly Scenes of Winter,https://letterboxd.com/film/chilly-scenes-of-winter/
-43,Dead Mountaineer's Hotel,https://letterboxd.com/film/dead-mountaineers-hotel/
-44,1941,https://letterboxd.com/film/1941/
-45,When a Stranger Calls,https://letterboxd.com/film/when-a-stranger-calls/
-46,Rapture,https://letterboxd.com/film/rapture-1979/
-47,Winter Kills,https://letterboxd.com/film/winter-kills/
-48,The Visitor,https://letterboxd.com/film/the-visitor-1979/
-49,The Man Who Stole the Sun,https://letterboxd.com/film/the-man-who-stole-the-sun/
-50,Rock 'n' Roll High School,https://letterboxd.com/film/rock-n-roll-high-school/
+rank,title,director,actors,genres,url
+1,Alien,Ridley Scott,Tom Skerritt; Sigourney Weaver; Veronica Cartwright,"Horror, Science Fiction",https://letterboxd.com/film/alien/
+2,Apocalypse Now,Francis Ford Coppola,Martin Sheen; Marlon Brando; Frederic Forrest,"Drama, War",https://letterboxd.com/film/apocalypse-now/
+3,Stalker,Andrei Tarkovsky,Alisa Freyndlikh; Aleksandr Kaydanovskiy; Anatoliy Solonitsyn,"Drama, Science Fiction",https://letterboxd.com/film/stalker/
+4,All That Jazz,Bob Fosse,Roy Scheider; Jessica Lange; Ann Reinking,"Music, Drama",https://letterboxd.com/film/all-that-jazz/
+5,Life of Brian,Terry Jones,Graham Chapman; John Cleese; Terry Gilliam,Comedy,https://letterboxd.com/film/life-of-brian/
+6,Kramer vs. Kramer,Robert Benton,Dustin Hoffman; Meryl Streep; Jane Alexander,Drama,https://letterboxd.com/film/kramer-vs-kramer/
+7,The Muppet Movie,James Frawley,Jim Henson; Frank Oz; Jerry Nelson,"Comedy, Family, Adventure",https://letterboxd.com/film/the-muppet-movie/
+8,Rocky II,Sylvester Stallone,Sylvester Stallone; Talia Shire; Burt Young,Drama,https://letterboxd.com/film/rocky-ii/
+9,Escape from Alcatraz,Don Siegel,Clint Eastwood; Patrick McGoohan; Roberts Blossom,"Drama, Thriller",https://letterboxd.com/film/escape-from-alcatraz/
+10,Mad Max,George Miller,Mel Gibson; Joanne Samuel; Hugh Keays-Byrne,"Action, Science Fiction, Thriller",https://letterboxd.com/film/mad-max/
+11,The Warriors,Walter Hill,Michael Beck; James Remar; David Patrick Kelly,"Thriller, Action",https://letterboxd.com/film/the-warriors/
+12,...And Justice for All,Norman Jewison,Al Pacino; Jack Warden; John Forsythe,Drama,https://letterboxd.com/film/and-justice-for-all/
+13,Moonraker,Lewis Gilbert,Roger Moore; Lois Chiles; Michael Lonsdale,"Science Fiction, Thriller, Adventure, Action",https://letterboxd.com/film/moonraker/
+14,Nosferatu the Vampyre,Werner Herzog,Klaus Kinski; Isabelle Adjani; Bruno Ganz,"Drama, Horror",https://letterboxd.com/film/nosferatu-the-vampyre/
+15,The Brood,David Cronenberg,Oliver Reed; Samantha Eggar; Art Hindle,"Science Fiction, Horror",https://letterboxd.com/film/the-brood/
+16,Manhattan,Woody Allen,Woody Allen; Diane Keaton; Michael Murphy,"Comedy, Drama, Romance",https://letterboxd.com/film/manhattan/
+17,Being There,Hal Ashby,Peter Sellers; Shirley MacLaine; Melvyn Douglas,"Comedy, Drama",https://letterboxd.com/film/being-there/
+18,The Castle of Cagliostro,Hayao Miyazaki,Yasuo Yamada; Kiyoshi Kobayashi; Eiko Masuyama,"Adventure, Comedy, Animation, Crime",https://letterboxd.com/film/the-castle-of-cagliostro/
+19,Hair,Miloš Forman,John Savage; Treat Williams; Beverly D'Angelo,"Drama, Music, Comedy",https://letterboxd.com/film/hair/
+20,Hardcore,Paul Schrader,George C. Scott; Peter Boyle; Season Hubley,"Drama, Crime, Thriller",https://letterboxd.com/film/hardcore/
+21,Star Trek: The Motion Picture,Robert Wise,William Shatner; Leonard Nimoy; DeForest Kelley,"Mystery, Science Fiction, Adventure",https://letterboxd.com/film/star-trek-the-motion-picture/
+22,Phantasm,Don Coscarelli,A. Michael Baldwin; Bill Thornbury; Reggie Bannister,"Science Fiction, Horror",https://letterboxd.com/film/phantasm/
+23,The Jerk,Carl Reiner,Steve Martin; Bernadette Peters; Catlin Adams,Comedy,https://letterboxd.com/film/the-jerk/
+24,French Fried Vacation 2,Patrice Leconte,Thierry Lhermitte; Michel Blanc; Christian Clavier,Comedy,https://letterboxd.com/film/french-fried-vacation-2/
+25,Quadrophenia,Franc Roddam,Phil Daniels; Leslie Ash; Phil Davis,"Drama, Music",https://letterboxd.com/film/quadrophenia/
+26,The Amityville Horror,Stuart Rosenberg,James Brolin; Margot Kidder; Rod Steiger,Horror,https://letterboxd.com/film/the-amityville-horror/
+27,Asparagus,Suzan Pitt,,Animation,https://letterboxd.com/film/asparagus/
+28,Zombie Flesh Eaters,Lucio Fulci,Tisa Farrow; Ian McCulloch; Richard Johnson,Horror,https://letterboxd.com/film/zombie-flesh-eaters/
+29,Caligula,Tinto Brass,Malcolm McDowell; Teresa Ann Savoy; Helen Mirren,"Drama, History",https://letterboxd.com/film/caligula/
+30,Salem's Lot,Tobe Hooper,David Soul; James Mason; Lance Kerwin,"Horror, Mystery",https://letterboxd.com/film/salems-lot/
+31,Fascination,Jean Rollin,Franca Maï; Jean-Marie Lemaire; Brigitte Lahaie,Horror,https://letterboxd.com/film/fascination-1979/
+32,The Wizard of Speed and Time,Mike Jittlov,Mike Jittlov; Toni Handcock,"Fantasy, Animation, Music, Comedy",https://letterboxd.com/film/the-wizard-of-speed-and-time-1979/
+33,Real Life,Albert Brooks,Albert Brooks; Charles Grodin; Frances Lee McCain,Comedy,https://letterboxd.com/film/real-life/
+34,The Plumber,Peter Weir,Ivar Kants; Judy Morris; Robert Coleby,"Thriller, TV Movie, Horror, Comedy",https://letterboxd.com/film/the-plumber/
+35,The Driller Killer,Abel Ferrara,Abel Ferrara; Carolyn Marz; Baybi Day,Horror,https://letterboxd.com/film/the-driller-killer/
+36,Tourist Trap,David Schmoeller,Chuck Connors; Jocelyn Jones; Jon Van Ness,"Fantasy, Horror",https://letterboxd.com/film/tourist-trap/
+37,Woyzeck,Werner Herzog,Klaus Kinski; Eva Mattes; Wolfgang Reichmann,Drama,https://letterboxd.com/film/woyzeck/
+38,Breaking Away,Peter Yates,Dennis Christopher; Dennis Quaid; Daniel Stern,"Comedy, Drama",https://letterboxd.com/film/breaking-away/
+39,Camera Buff,Krzysztof Kieślowski,Jerzy Stuhr; Małgorzata Ząbkowska; Ewa Pokas,Drama,https://letterboxd.com/film/camera-buff/
+40,Scum,Alan Clarke,Ray Winstone; Mick Ford; Julian Firth,"Crime, Drama",https://letterboxd.com/film/scum/
+41,The Marriage of Maria Braun,Rainer Werner Fassbinder,Hanna Schygulla; Klaus Löwitsch; Ivan Desny,Drama,https://letterboxd.com/film/the-marriage-of-maria-braun/
+42,Chilly Scenes of Winter,Joan Micklin Silver,John Heard; Mary Beth Hurt; Peter Riegert,"Romance, Comedy, Drama",https://letterboxd.com/film/chilly-scenes-of-winter/
+43,Dead Mountaineer's Hotel,Grigori Kromanov,Uldis Pūcītis; Jüri Järvet; Lembit Peterson,"Horror, Drama, Science Fiction, Crime",https://letterboxd.com/film/dead-mountaineers-hotel/
+44,1941,Steven Spielberg,Dan Aykroyd; Ned Beatty; John Belushi,"War, Comedy, Action",https://letterboxd.com/film/1941/
+45,When a Stranger Calls,Fred Walton,Carol Kane; Charles Durning; Colleen Dewhurst,"Thriller, Horror",https://letterboxd.com/film/when-a-stranger-calls/
+46,Rapture,Iván Zulueta,Eusebio Poncela; Cecilia Roth; Will More,"Horror, Drama, Fantasy",https://letterboxd.com/film/rapture-1979/
+47,Winter Kills,William Richert,Jeff Bridges; John Huston; Anthony Perkins,"Drama, Thriller, Mystery, Comedy",https://letterboxd.com/film/winter-kills/
+48,The Visitor,Giulio Paradisi,Mel Ferrer; Glenn Ford; Lance Henriksen,"Science Fiction, Horror",https://letterboxd.com/film/the-visitor-1979/
+49,The Man Who Stole the Sun,Kazuhiko Hasegawa,Kenji Sawada; Bunta Sugawara; Kimiko Ikegami,"Action, Thriller, Crime",https://letterboxd.com/film/the-man-who-stole-the-sun/
+50,Rock 'n' Roll High School,Allan Arkush,P. J. Soles; Vincent Van Patten; Clint Howard,"Music, Comedy",https://letterboxd.com/film/rock-n-roll-high-school/

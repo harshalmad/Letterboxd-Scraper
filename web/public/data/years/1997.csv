@@ -1,51 +1,51 @@
-rank,title,url
-1,Good Will Hunting,https://letterboxd.com/film/good-will-hunting/
-2,Perfect Blue,https://letterboxd.com/film/perfect-blue/
-3,Titanic,https://letterboxd.com/film/titanic-1997/
-4,Princess Mononoke,https://letterboxd.com/film/princess-mononoke/
-5,Boogie Nights,https://letterboxd.com/film/boogie-nights/
-6,Scream 2,https://letterboxd.com/film/scream-2/
-7,Lost Highway,https://letterboxd.com/film/lost-highway/
-8,The Devil's Advocate,https://letterboxd.com/film/the-devils-advocate/
-9,Hercules,https://letterboxd.com/film/hercules-1997/
-10,Cure,https://letterboxd.com/film/cure/
-11,The Game,https://letterboxd.com/film/the-game/
-12,Life Is Beautiful,https://letterboxd.com/film/life-is-beautiful/
-13,The Fifth Element,https://letterboxd.com/film/the-fifth-element/
-14,Funny Games,https://letterboxd.com/film/funny-games/
-15,Men in Black,https://letterboxd.com/film/men-in-black/
-16,Jackie Brown,https://letterboxd.com/film/jackie-brown/
-17,Neon Genesis Evangelion: The End of Evangelion,https://letterboxd.com/film/neon-genesis-evangelion-the-end-of-evangelion/
-18,The Lost World: Jurassic Park,https://letterboxd.com/film/the-lost-world-jurassic-park/
-19,L.A. Confidential,https://letterboxd.com/film/la-confidential/
-20,My Best Friend's Wedding,https://letterboxd.com/film/my-best-friends-wedding/
-21,Anastasia,https://letterboxd.com/film/anastasia-1997/
-22,Taste of Cherry,https://letterboxd.com/film/taste-of-cherry/
-23,I Know What You Did Last Summer,https://letterboxd.com/film/i-know-what-you-did-last-summer/
-24,Gattaca,https://letterboxd.com/film/gattaca/
-25,Nowhere,https://letterboxd.com/film/nowhere/
-26,Happy Together,https://letterboxd.com/film/happy-together-1997/
-27,Face/Off,https://letterboxd.com/film/face-off/
-28,Austin Powers: International Man of Mystery,https://letterboxd.com/film/austin-powers-international-man-of-mystery/
-29,Event Horizon,https://letterboxd.com/film/event-horizon/
-30,Lolita,https://letterboxd.com/film/lolita-1997/
-31,Donnie Brasco,https://letterboxd.com/film/donnie-brasco/
-32,Gummo,https://letterboxd.com/film/gummo/
-33,Liar Liar,https://letterboxd.com/film/liar-liar/
-34,Starship Troopers,https://letterboxd.com/film/starship-troopers/
-35,Contact,https://letterboxd.com/film/contact/
-36,Anaconda,https://letterboxd.com/film/anaconda/
-37,As Good as It Gets,https://letterboxd.com/film/as-good-as-it-gets/
-38,Seven Years in Tibet,https://letterboxd.com/film/seven-years-in-tibet/
-39,Romy and Michele's High School Reunion,https://letterboxd.com/film/romy-and-micheles-high-school-reunion/
-40,Alien Resurrection,https://letterboxd.com/film/alien-resurrection/
-41,Batman & Robin,https://letterboxd.com/film/batman-robin/
-42,Tomorrow Never Dies,https://letterboxd.com/film/tomorrow-never-dies/
-43,Cube,https://letterboxd.com/film/cube/
-44,Fireworks,https://letterboxd.com/film/fireworks-1997/
-45,Con Air,https://letterboxd.com/film/con-air/
-46,The Rainmaker,https://letterboxd.com/film/the-rainmaker-1997/
-47,Clockwatchers,https://letterboxd.com/film/clockwatchers/
-48,The Ice Storm,https://letterboxd.com/film/the-ice-storm/
-49,Mortal Kombat: Annihilation,https://letterboxd.com/film/mortal-kombat-annihilation/
-50,Berserk,https://letterboxd.com/film/berserk-1997/
+rank,title,director,actors,genres,url
+1,Good Will Hunting,Gus Van Sant,Matt Damon; Robin Williams; Ben Affleck,Drama,https://letterboxd.com/film/good-will-hunting/
+2,Perfect Blue,Satoshi Kon,Junko Iwao; Rica Matsumoto; Shiho Niiyama,"Thriller, Animation, Horror",https://letterboxd.com/film/perfect-blue/
+3,Titanic,James Cameron,Leonardo DiCaprio; Kate Winslet; Billy Zane,"Drama, Romance",https://letterboxd.com/film/titanic-1997/
+4,Princess Mononoke,Hayao Miyazaki,Yoji Matsuda; Yuriko Ishida; Yuko Tanaka,"Fantasy, Adventure, Animation",https://letterboxd.com/film/princess-mononoke/
+5,Boogie Nights,Paul Thomas Anderson,Mark Wahlberg; Burt Reynolds; Julianne Moore,"Drama, Comedy",https://letterboxd.com/film/boogie-nights/
+6,Scream 2,Wes Craven,Neve Campbell; Courteney Cox; David Arquette,"Horror, Mystery",https://letterboxd.com/film/scream-2/
+7,Lost Highway,David Lynch,Patricia Arquette; Bill Pullman; Balthazar Getty,"Drama, Thriller, Mystery",https://letterboxd.com/film/lost-highway/
+8,The Devil's Advocate,Taylor Hackford,Keanu Reeves; Al Pacino; Charlize Theron,"Horror, Drama, Mystery",https://letterboxd.com/film/the-devils-advocate/
+9,Hercules,"Ron Clements, John Musker",Tate Donovan; Josh Keaton; Roger Bart,"Animation, Adventure, Romance, Comedy, Fantasy, Family",https://letterboxd.com/film/hercules-1997/
+10,Cure,Kiyoshi Kurosawa,Koji Yakusho; Masato Hagiwara; Tsuyoshi Ujiki,"Crime, Mystery, Thriller, Horror",https://letterboxd.com/film/cure/
+11,The Game,David Fincher,Michael Douglas; Sean Penn; Deborah Kara Unger,"Drama, Thriller, Mystery",https://letterboxd.com/film/the-game/
+12,Life Is Beautiful,Roberto Benigni,Roberto Benigni; Nicoletta Braschi; Giorgio Cantarini,"Comedy, Drama",https://letterboxd.com/film/life-is-beautiful/
+13,The Fifth Element,Luc Besson,Bruce Willis; Milla Jovovich; Gary Oldman,"Adventure, Action, Science Fiction",https://letterboxd.com/film/the-fifth-element/
+14,Funny Games,Michael Haneke,Susanne Lothar; Ulrich Mühe; Arno Frisch,"Thriller, Horror, Drama",https://letterboxd.com/film/funny-games/
+15,Men in Black,Barry Sonnenfeld,Tommy Lee Jones; Will Smith; Linda Fiorentino,"Science Fiction, Comedy, Action, Adventure",https://letterboxd.com/film/men-in-black/
+16,Jackie Brown,Quentin Tarantino,Pam Grier; Samuel L. Jackson; Robert De Niro,"Crime, Thriller, Drama",https://letterboxd.com/film/jackie-brown/
+17,Neon Genesis Evangelion: The End of Evangelion,"Hideaki Anno, Kazuya Tsurumaki",Megumi Ogata; Megumi Hayashibara; Kotono Mitsuishi,"Fantasy, Animation, Science Fiction, Drama",https://letterboxd.com/film/neon-genesis-evangelion-the-end-of-evangelion/
+18,The Lost World: Jurassic Park,Steven Spielberg,Jeff Goldblum; Julianne Moore; Pete Postlethwaite,"Science Fiction, Action, Adventure",https://letterboxd.com/film/the-lost-world-jurassic-park/
+19,L.A. Confidential,Curtis Hanson,Kevin Spacey; Russell Crowe; Guy Pearce,"Mystery, Crime, Thriller",https://letterboxd.com/film/la-confidential/
+20,My Best Friend's Wedding,P.J. Hogan,Julia Roberts; Dermot Mulroney; Cameron Diaz,"Comedy, Romance",https://letterboxd.com/film/my-best-friends-wedding/
+21,Anastasia,"Gary Goldman, Don Bluth",Meg Ryan; John Cusack; Kelsey Grammer,"Adventure, Animation, Fantasy, Family",https://letterboxd.com/film/anastasia-1997/
+22,Taste of Cherry,Abbas Kiarostami,Homayoun Ershadi; Abdolrahman Bagheri; Safar Ali Moradi,Drama,https://letterboxd.com/film/taste-of-cherry/
+23,I Know What You Did Last Summer,Jim Gillespie,Jennifer Love Hewitt; Freddie Prinze Jr.; Sarah Michelle Gellar,"Mystery, Horror, Thriller",https://letterboxd.com/film/i-know-what-you-did-last-summer/
+24,Gattaca,Andrew Niccol,Ethan Hawke; Uma Thurman; Jude Law,"Drama, Thriller, Science Fiction",https://letterboxd.com/film/gattaca/
+25,Nowhere,Gregg Araki,James Duval; Rachel True; Nathan Bexton,"Comedy, Drama, Science Fiction",https://letterboxd.com/film/nowhere/
+26,Happy Together,Wong Kar-Wai,Leslie Cheung; Tony Leung Chiu-wai; Chang Chen,"Drama, Romance",https://letterboxd.com/film/happy-together-1997/
+27,Face/Off,John Woo,John Travolta; Nicolas Cage; Joan Allen,"Crime, Action, Science Fiction",https://letterboxd.com/film/face-off/
+28,Austin Powers: International Man of Mystery,Jay Roach,Mike Myers; Elizabeth Hurley; Michael York,"Comedy, Crime",https://letterboxd.com/film/austin-powers-international-man-of-mystery/
+29,Event Horizon,Paul W. S. Anderson,Laurence Fishburne; Sam Neill; Kathleen Quinlan,"Science Fiction, Mystery, Horror",https://letterboxd.com/film/event-horizon/
+30,Lolita,Adrian Lyne,Jeremy Irons; Dominique Swain; Melanie Griffith,Drama,https://letterboxd.com/film/lolita-1997/
+31,Donnie Brasco,Mike Newell,Johnny Depp; Al Pacino; Michael Madsen,"Drama, Thriller, Crime",https://letterboxd.com/film/donnie-brasco/
+32,Gummo,Harmony Korine,Jacob Reynolds; Jacob Sewell; Nick Sutton,"Drama, Comedy",https://letterboxd.com/film/gummo/
+33,Liar Liar,Tom Shadyac,Jim Carrey; Maura Tierney; Justin Cooper,"Comedy, Fantasy",https://letterboxd.com/film/liar-liar/
+34,Starship Troopers,Paul Verhoeven,Casper Van Dien; Dina Meyer; Denise Richards,"Adventure, Thriller, Action, Science Fiction",https://letterboxd.com/film/starship-troopers/
+35,Contact,Robert Zemeckis,Jodie Foster; Matthew McConaughey; James Woods,"Mystery, Drama, Science Fiction",https://letterboxd.com/film/contact/
+36,Anaconda,Luis Llosa,Jennifer Lopez; Ice Cube; Jon Voight,"Horror, Thriller, Adventure",https://letterboxd.com/film/anaconda/
+37,As Good as It Gets,James L. Brooks,Jack Nicholson; Helen Hunt; Greg Kinnear,"Drama, Comedy, Romance",https://letterboxd.com/film/as-good-as-it-gets/
+38,Seven Years in Tibet,Jean-Jacques Annaud,Brad Pitt; Jamyang Jamtsho Wangchuk; David Thewlis,"Adventure, Drama, History",https://letterboxd.com/film/seven-years-in-tibet/
+39,Romy and Michele's High School Reunion,David Mirkin,Mira Sorvino; Lisa Kudrow; Janeane Garofalo,Comedy,https://letterboxd.com/film/romy-and-micheles-high-school-reunion/
+40,Alien Resurrection,Jean-Pierre Jeunet,Sigourney Weaver; Winona Ryder; Dominique Pinon,"Action, Horror, Science Fiction",https://letterboxd.com/film/alien-resurrection/
+41,Batman & Robin,Joel Schumacher,George Clooney; Chris O'Donnell; Arnold Schwarzenegger,"Adventure, Science Fiction, Action",https://letterboxd.com/film/batman-robin/
+42,Tomorrow Never Dies,Roger Spottiswoode,Pierce Brosnan; Jonathan Pryce; Michelle Yeoh,"Action, Thriller, Adventure",https://letterboxd.com/film/tomorrow-never-dies/
+43,Cube,Vincenzo Natali,Nicole De Boer; Nicky Guadagni; Maurice Dean Wint,"Science Fiction, Horror, Thriller, Mystery",https://letterboxd.com/film/cube/
+44,Fireworks,Takeshi Kitano,Takeshi Kitano; Kayoko Kishimoto; Ren Osugi,"Drama, Crime",https://letterboxd.com/film/fireworks-1997/
+45,Con Air,Simon West,Nicolas Cage; John Cusack; John Malkovich,"Action, Crime, Thriller",https://letterboxd.com/film/con-air/
+46,The Rainmaker,Francis Ford Coppola,Matt Damon; Claire Danes; Danny DeVito,"Drama, Thriller, Crime",https://letterboxd.com/film/the-rainmaker-1997/
+47,Clockwatchers,Jill Sprecher,Toni Collette; Parker Posey; Lisa Kudrow,"Drama, Comedy",https://letterboxd.com/film/clockwatchers/
+48,The Ice Storm,Ang Lee,Kevin Kline; Joan Allen; Sigourney Weaver,Drama,https://letterboxd.com/film/the-ice-storm/
+49,Mortal Kombat: Annihilation,John R. Leonetti,Robin Shou; Talisa Soto; James Remar,"Fantasy, Action, Science Fiction",https://letterboxd.com/film/mortal-kombat-annihilation/
+50,Berserk,"Kazuya Tsurumaki, Masakazu Amiya, Kazuhisa Ono, Yasuhiro Geshi, Mihiro Yamaguchi, Yasuhiro Matsumura, Koji Yoshikawa, Yukina Hiiro, Yukio Okazaki, Koji Fukasawa, Naohito Takahashi",Nobutoshi Canna; Toshiyuki Morikawa; Yuko Miyamura,Animation,https://letterboxd.com/film/berserk-1997/

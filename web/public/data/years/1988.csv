@@ -1,51 +1,51 @@
-rank,title,url
-1,Grave of the Fireflies,https://letterboxd.com/film/grave-of-the-fireflies/
-2,My Neighbor Totoro,https://letterboxd.com/film/my-neighbor-totoro/
-3,Akira,https://letterboxd.com/film/akira/
-4,Rain Man,https://letterboxd.com/film/rain-man/
-5,Cinema Paradiso,https://letterboxd.com/film/cinema-paradiso/
-6,Beetlejuice,https://letterboxd.com/film/beetlejuice/
-7,Die Hard,https://letterboxd.com/film/die-hard/
-8,The Naked Gun: From the Files of Police Squad!,https://letterboxd.com/film/the-naked-gun-from-the-files-of-police-squad/
-9,They Live,https://letterboxd.com/film/they-live/
-10,Women on the Verge of a Nervous Breakdown,https://letterboxd.com/film/women-on-the-verge-of-a-nervous-breakdown/
-11,Big,https://letterboxd.com/film/big/
-12,The Vanishing,https://letterboxd.com/film/the-vanishing/
-13,Child's Play,https://letterboxd.com/film/childs-play/
-14,Who Framed Roger Rabbit,https://letterboxd.com/film/who-framed-roger-rabbit/
-15,Twins,https://letterboxd.com/film/twins/
-16,Killer Klowns from Outer Space,https://letterboxd.com/film/killer-klowns-from-outer-space/
-17,Mississippi Burning,https://letterboxd.com/film/mississippi-burning/
-18,The Last Temptation of Christ,https://letterboxd.com/film/the-last-temptation-of-christ/
-19,Elvira: Mistress of the Dark,https://letterboxd.com/film/elvira-mistress-of-the-dark/
-20,Dead Ringers,https://letterboxd.com/film/dead-ringers/
-21,Moonwalker,https://letterboxd.com/film/moonwalker/
-22,A Fish Called Wanda,https://letterboxd.com/film/a-fish-called-wanda/
-23,Hairspray,https://letterboxd.com/film/hairspray/
-24,Midnight Run,https://letterboxd.com/film/midnight-run/
-25,Coming to America,https://letterboxd.com/film/coming-to-america/
-26,Mystic Pizza,https://letterboxd.com/film/mystic-pizza/
-27,Bloodsport,https://letterboxd.com/film/bloodsport/
-28,Cocktail,https://letterboxd.com/film/cocktail/
-29,Hellbound: Hellraiser II,https://letterboxd.com/film/hellbound-hellraiser-ii/
-30,Miracle Mile,https://letterboxd.com/film/miracle-mile/
-31,A Short Film About Love,https://letterboxd.com/film/a-short-film-about-love/
-32,On the Silver Globe,https://letterboxd.com/film/on-the-silver-globe/
-33,A Short Film About Killing,https://letterboxd.com/film/a-short-film-about-killing/
-34,Friday the 13th Part VII - The New Blood,https://letterboxd.com/film/friday-the-13th-part-vii-the-new-blood/
-35,The Land Before Time,https://letterboxd.com/film/the-land-before-time/
-36,Alice,https://letterboxd.com/film/alice-1988/
-37,Dangerous Liaisons,https://letterboxd.com/film/dangerous-liaisons/
-38,Dirty Rotten Scoundrels,https://letterboxd.com/film/dirty-rotten-scoundrels/
-39,Working Girl,https://letterboxd.com/film/working-girl/
-40,Beaches,https://letterboxd.com/film/beaches/
-41,Willow,https://letterboxd.com/film/willow/
-42,As Tears Go By,https://letterboxd.com/film/as-tears-go-by/
-43,Running on Empty,https://letterboxd.com/film/running-on-empty-1988/
-44,Maniac Cop,https://letterboxd.com/film/maniac-cop/
-45,The Blob,https://letterboxd.com/film/the-blob-1988/
-46,Damnation,https://letterboxd.com/film/damnation/
-47,Oliver & Company,https://letterboxd.com/film/oliver-company/
-48,Earth Girls Are Easy,https://letterboxd.com/film/earth-girls-are-easy/
-49,A Nightmare on Elm Street 4: The Dream Master,https://letterboxd.com/film/a-nightmare-on-elm-street-4-the-dream-master/
-50,Vampire's Kiss,https://letterboxd.com/film/vampires-kiss/
+rank,title,director,actors,genres,url
+1,Grave of the Fireflies,Isao Takahata,Tsutomu Tatsumi; Ayano Shiraishi; Yoshiko Shinohara,"Animation, War, Drama",https://letterboxd.com/film/grave-of-the-fireflies/
+2,My Neighbor Totoro,Hayao Miyazaki,Noriko Hidaka; Chika Sakamoto; Hitoshi Takagi,"Fantasy, Animation, Family",https://letterboxd.com/film/my-neighbor-totoro/
+3,Akira,Katsuhiro Otomo,Mitsuo Iwata; Nozomu Sasaki; Mami Koyama,"Action, Animation, Science Fiction",https://letterboxd.com/film/akira/
+4,Rain Man,Barry Levinson,Dustin Hoffman; Tom Cruise; Valeria Golino,Drama,https://letterboxd.com/film/rain-man/
+5,Cinema Paradiso,Giuseppe Tornatore,Philippe Noiret; Jacques Perrin; Marco Leonardi,"Drama, Romance",https://letterboxd.com/film/cinema-paradiso/
+6,Beetlejuice,Tim Burton,Alec Baldwin; Geena Davis; Winona Ryder,"Fantasy, Comedy",https://letterboxd.com/film/beetlejuice/
+7,Die Hard,John McTiernan,Bruce Willis; Alan Rickman; Alexander Godunov,"Thriller, Action",https://letterboxd.com/film/die-hard/
+8,The Naked Gun: From the Files of Police Squad!,David Zucker,Leslie Nielsen; Priscilla Presley; Ricardo Montalban,"Crime, Comedy",https://letterboxd.com/film/the-naked-gun-from-the-files-of-police-squad/
+9,They Live,John Carpenter,Roddy Piper; Keith David; Meg Foster,"Thriller, Action, Science Fiction",https://letterboxd.com/film/they-live/
+10,Women on the Verge of a Nervous Breakdown,Pedro Almodóvar,Carmen Maura; Antonio Banderas; Julieta Serrano,"Drama, Comedy",https://letterboxd.com/film/women-on-the-verge-of-a-nervous-breakdown/
+11,Big,Penny Marshall,Tom Hanks; Elizabeth Perkins; Robert Loggia,"Drama, Comedy, Fantasy",https://letterboxd.com/film/big/
+12,The Vanishing,George Sluizer,Bernard-Pierre Donnadieu; Gene Bervoets; Johanna ter Steege,"Mystery, Horror, Thriller",https://letterboxd.com/film/the-vanishing/
+13,Child's Play,Tom Holland,Catherine Hicks; Chris Sarandon; Alex Vincent,Horror,https://letterboxd.com/film/childs-play/
+14,Who Framed Roger Rabbit,Robert Zemeckis,Bob Hoskins; Christopher Lloyd; Joanna Cassidy,"Fantasy, Animation, Crime, Comedy",https://letterboxd.com/film/who-framed-roger-rabbit/
+15,Twins,Ivan Reitman,Arnold Schwarzenegger; Danny DeVito; Kelly Preston,Comedy,https://letterboxd.com/film/twins/
+16,Killer Klowns from Outer Space,Stephen Chiodo,Grant Cramer; Suzanne Snyder; John Allen Nelson,"Science Fiction, Comedy, Horror",https://letterboxd.com/film/killer-klowns-from-outer-space/
+17,Mississippi Burning,Alan Parker,Gene Hackman; Willem Dafoe; Frances McDormand,"Crime, Thriller, Mystery, Drama",https://letterboxd.com/film/mississippi-burning/
+18,The Last Temptation of Christ,Martin Scorsese,Willem Dafoe; Harvey Keitel; Paul Greco,Drama,https://letterboxd.com/film/the-last-temptation-of-christ/
+19,Elvira: Mistress of the Dark,James Signorelli,Cassandra Peterson; William Morgan Sheppard; Daniel Greene,"Fantasy, Comedy, Horror",https://letterboxd.com/film/elvira-mistress-of-the-dark/
+20,Dead Ringers,David Cronenberg,Jeremy Irons; Geneviève Bujold; Heidi von Palleske,"Thriller, Horror",https://letterboxd.com/film/dead-ringers/
+21,Moonwalker,"Colin Chilvers, Will Vinton, Jerry Kramer, Jim Blashfield",Michael Jackson; Joe Pesci; Sean Ono Lennon,"Fantasy, Music",https://letterboxd.com/film/moonwalker/
+22,A Fish Called Wanda,Charles Crichton,Jamie Lee Curtis; John Cleese; Kevin Kline,"Crime, Comedy",https://letterboxd.com/film/a-fish-called-wanda/
+23,Hairspray,John Waters,Ricki Lake; Divine; Debbie Harry,"Romance, Music, Comedy",https://letterboxd.com/film/hairspray/
+24,Midnight Run,Martin Brest,Robert De Niro; Charles Grodin; Yaphet Kotto,"Thriller, Crime, Comedy",https://letterboxd.com/film/midnight-run/
+25,Coming to America,John Landis,Eddie Murphy; Arsenio Hall; Shari Headley,"Romance, Comedy",https://letterboxd.com/film/coming-to-america/
+26,Mystic Pizza,Donald Petrie,Julia Roberts; Annabeth Gish; Lili Taylor,"Drama, Comedy, Romance",https://letterboxd.com/film/mystic-pizza/
+27,Bloodsport,Newt Arnold,Jean-Claude Van Damme; Donald Gibb; Leah Ayres,"Drama, Action, Thriller",https://letterboxd.com/film/bloodsport/
+28,Cocktail,Roger Donaldson,Tom Cruise; Bryan Brown; Elisabeth Shue,"Romance, Comedy, Drama",https://letterboxd.com/film/cocktail/
+29,Hellbound: Hellraiser II,Tony Randel,Ashley Laurence; Clare Higgins; Kenneth Cranham,"Horror, Thriller",https://letterboxd.com/film/hellbound-hellraiser-ii/
+30,Miracle Mile,Steve De Jarnatt,Anthony Edwards; Mare Winningham; John Agar,"Thriller, Comedy, Drama, Science Fiction, Romance, Action",https://letterboxd.com/film/miracle-mile/
+31,A Short Film About Love,Krzysztof Kieślowski,Grażyna Szapołowska; Olaf Lubaszenko; Stefania Iwińska,"Romance, Drama",https://letterboxd.com/film/a-short-film-about-love/
+32,On the Silver Globe,Andrzej Żuławski,Andrzej Seweryn; Michał Bajor; Jerzy Trela,"Drama, Science Fiction",https://letterboxd.com/film/on-the-silver-globe/
+33,A Short Film About Killing,Krzysztof Kieślowski,Mirosław Baka; Krzysztof Globisz; Jan Tesarz,"Crime, Drama",https://letterboxd.com/film/a-short-film-about-killing/
+34,Friday the 13th Part VII - The New Blood,John Carl Buechler,Lar Park Lincoln; Kane Hodder; Terry Kiser,"Horror, Thriller",https://letterboxd.com/film/friday-the-13th-part-vii-the-new-blood/
+35,The Land Before Time,Don Bluth,Gabriel Damon; Candace Hutson; Will Ryan,"Adventure, Family, Animation",https://letterboxd.com/film/the-land-before-time/
+36,Alice,Jan Švankmajer,Kristýna Kohoutová,"Horror, Animation, Fantasy, Adventure",https://letterboxd.com/film/alice-1988/
+37,Dangerous Liaisons,Stephen Frears,Glenn Close; John Malkovich; Michelle Pfeiffer,"Drama, Romance",https://letterboxd.com/film/dangerous-liaisons/
+38,Dirty Rotten Scoundrels,Frank Oz,Steve Martin; Michael Caine; Glenne Headly,"Comedy, Crime",https://letterboxd.com/film/dirty-rotten-scoundrels/
+39,Beaches,Garry Marshall,Bette Midler; Barbara Hershey; John Heard,"Drama, Comedy",https://letterboxd.com/film/beaches/
+40,Working Girl,Mike Nichols,Melanie Griffith; Harrison Ford; Sigourney Weaver,"Comedy, Drama, Romance",https://letterboxd.com/film/working-girl/
+41,Willow,Ron Howard,Warwick Davis; Val Kilmer; Joanne Whalley,"Adventure, Action, Fantasy",https://letterboxd.com/film/willow/
+42,As Tears Go By,Wong Kar-Wai,Andy Lau; Maggie Cheung; Jacky Cheung Hok-Yau,"Drama, Crime, Romance",https://letterboxd.com/film/as-tears-go-by/
+43,Running on Empty,Sidney Lumet,Christine Lahti; River Phoenix; Judd Hirsch,"Drama, Romance, Crime",https://letterboxd.com/film/running-on-empty-1988/
+44,Maniac Cop,William Lustig,Tom Atkins; Bruce Campbell; Laurene Landon,"Horror, Mystery, Action, Crime",https://letterboxd.com/film/maniac-cop/
+45,The Blob,Chuck Russell,Kevin Dillon; Shawnee Smith; Donovan Leitch,"Science Fiction, Action, Horror",https://letterboxd.com/film/the-blob-1988/
+46,Oliver & Company,George Scribner,Joey Lawrence; Billy Joel; Cheech Marin,"Family, Animation, Comedy",https://letterboxd.com/film/oliver-company/
+47,Damnation,Béla Tarr,Székely B. Miklós; György Cserhalmi; Vali Kerekes,"Crime, Drama",https://letterboxd.com/film/damnation/
+48,Earth Girls Are Easy,Julien Temple,Geena Davis; Jeff Goldblum; Jim Carrey,"Science Fiction, Romance, Comedy",https://letterboxd.com/film/earth-girls-are-easy/
+49,A Nightmare on Elm Street 4: The Dream Master,Renny Harlin,Robert Englund; Rodney Eastman; Danny Hassel,"Thriller, Horror",https://letterboxd.com/film/a-nightmare-on-elm-street-4-the-dream-master/
+50,Vampire's Kiss,Robert Bierman,Nicolas Cage; María Conchita Alonso; Jennifer Beals,"Fantasy, Horror, Comedy, Crime",https://letterboxd.com/film/vampires-kiss/

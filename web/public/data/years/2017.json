@@ -5,252 +5,602 @@
     {
       "rank": 1,
       "title": "Call Me by Your Name",
-      "url": "https://letterboxd.com/film/call-me-by-your-name/"
+      "url": "https://letterboxd.com/film/call-me-by-your-name/",
+      "director": "Luca Guadagnino",
+      "actors": [
+        "Armie Hammer",
+        "Timothée Chalamet",
+        "Michael Stuhlbarg"
+      ],
+      "genres": "Romance, Drama"
     },
     {
       "rank": 2,
       "title": "Get Out",
-      "url": "https://letterboxd.com/film/get-out-2017/"
+      "url": "https://letterboxd.com/film/get-out-2017/",
+      "director": "Jordan Peele",
+      "actors": [
+        "Daniel Kaluuya",
+        "Allison Williams",
+        "Catherine Keener"
+      ],
+      "genres": "Horror, Mystery, Thriller"
     },
     {
       "rank": 3,
       "title": "Lady Bird",
-      "url": "https://letterboxd.com/film/lady-bird/"
+      "url": "https://letterboxd.com/film/lady-bird/",
+      "director": "Greta Gerwig",
+      "actors": [
+        "Saoirse Ronan",
+        "Laurie Metcalf",
+        "Tracy Letts"
+      ],
+      "genres": "Comedy, Drama"
     },
     {
       "rank": 4,
       "title": "It",
-      "url": "https://letterboxd.com/film/it-2017/"
+      "url": "https://letterboxd.com/film/it-2017/",
+      "director": "Andy Muschietti",
+      "actors": [
+        "Jaeden Martell",
+        "Jeremy Ray Taylor",
+        "Sophia Lillis"
+      ],
+      "genres": "Drama, Thriller, Horror"
     },
     {
       "rank": 5,
       "title": "Spider-Man: Homecoming",
-      "url": "https://letterboxd.com/film/spider-man-homecoming/"
+      "url": "https://letterboxd.com/film/spider-man-homecoming/",
+      "director": "Jon Watts",
+      "actors": [
+        "Tom Holland",
+        "Michael Keaton",
+        "Robert Downey Jr."
+      ],
+      "genres": "Action, Adventure, Science Fiction"
     },
     {
       "rank": 6,
       "title": "Baby Driver",
-      "url": "https://letterboxd.com/film/baby-driver/"
+      "url": "https://letterboxd.com/film/baby-driver/",
+      "director": "Edgar Wright",
+      "actors": [
+        "Ansel Elgort",
+        "Kevin Spacey",
+        "Lily James"
+      ],
+      "genres": "Crime, Action"
     },
     {
       "rank": 7,
       "title": "The Greatest Showman",
-      "url": "https://letterboxd.com/film/the-greatest-showman/"
+      "url": "https://letterboxd.com/film/the-greatest-showman/",
+      "director": "Michael Gracey",
+      "actors": [
+        "Hugh Jackman",
+        "Zac Efron",
+        "Michelle Williams"
+      ],
+      "genres": "Drama"
     },
     {
       "rank": 8,
       "title": "Blade Runner 2049",
-      "url": "https://letterboxd.com/film/blade-runner-2049/"
+      "url": "https://letterboxd.com/film/blade-runner-2049/",
+      "director": "Denis Villeneuve",
+      "actors": [
+        "Ryan Gosling",
+        "Harrison Ford",
+        "Ana de Armas"
+      ],
+      "genres": "Science Fiction, Drama"
     },
     {
       "rank": 9,
       "title": "Coco",
-      "url": "https://letterboxd.com/film/coco-2017/"
+      "url": "https://letterboxd.com/film/coco-2017/",
+      "director": "Lee Unkrich",
+      "actors": [
+        "Anthony Gonzalez",
+        "Gael García Bernal",
+        "Benjamin Bratt"
+      ],
+      "genres": "Adventure, Animation, Music, Family"
     },
     {
       "rank": 10,
       "title": "The Lego Batman Movie",
-      "url": "https://letterboxd.com/film/the-lego-batman-movie/"
+      "url": "https://letterboxd.com/film/the-lego-batman-movie/",
+      "director": "Chris McKay",
+      "actors": [
+        "Will Arnett",
+        "Michael Cera",
+        "Rosario Dawson"
+      ],
+      "genres": "Comedy, Animation, Family, Action"
     },
     {
       "rank": 11,
       "title": "Good Time",
-      "url": "https://letterboxd.com/film/good-time/"
+      "url": "https://letterboxd.com/film/good-time/",
+      "director": "Benny Safdie, Josh Safdie",
+      "actors": [
+        "Robert Pattinson",
+        "Benny Safdie",
+        "Buddy Duress"
+      ],
+      "genres": "Drama, Crime, Thriller"
     },
     {
       "rank": 12,
       "title": "Guardians of the Galaxy Vol. 2",
-      "url": "https://letterboxd.com/film/guardians-of-the-galaxy-vol-2/"
+      "url": "https://letterboxd.com/film/guardians-of-the-galaxy-vol-2/",
+      "director": "James Gunn",
+      "actors": [
+        "Chris Pratt",
+        "Zoe Saldaña",
+        "Dave Bautista"
+      ],
+      "genres": "Action, Science Fiction, Adventure"
     },
     {
       "rank": 13,
       "title": "The Florida Project",
-      "url": "https://letterboxd.com/film/the-florida-project/"
+      "url": "https://letterboxd.com/film/the-florida-project/",
+      "director": "Sean Baker",
+      "actors": [
+        "Brooklynn Prince",
+        "Bria Vinaite",
+        "Willem Dafoe"
+      ],
+      "genres": "Drama"
     },
     {
       "rank": 14,
       "title": "Phantom Thread",
-      "url": "https://letterboxd.com/film/phantom-thread/"
+      "url": "https://letterboxd.com/film/phantom-thread/",
+      "director": "Paul Thomas Anderson",
+      "actors": [
+        "Daniel Day-Lewis",
+        "Vicky Krieps",
+        "Lesley Manville"
+      ],
+      "genres": "Drama, Romance"
     },
     {
       "rank": 15,
       "title": "I, Tonya",
-      "url": "https://letterboxd.com/film/i-tonya/"
+      "url": "https://letterboxd.com/film/i-tonya/",
+      "director": "Craig Gillespie",
+      "actors": [
+        "Margot Robbie",
+        "Sebastian Stan",
+        "Allison Janney"
+      ],
+      "genres": "Drama, Comedy"
     },
     {
       "rank": 16,
       "title": "Thor: Ragnarok",
-      "url": "https://letterboxd.com/film/thor-ragnarok/"
+      "url": "https://letterboxd.com/film/thor-ragnarok/",
+      "director": "Taika Waititi",
+      "actors": [
+        "Chris Hemsworth",
+        "Mark Ruffalo",
+        "Tom Hiddleston"
+      ],
+      "genres": "Comedy, Science Fiction, Action"
     },
     {
       "rank": 17,
       "title": "Dunkirk",
-      "url": "https://letterboxd.com/film/dunkirk-2017/"
+      "url": "https://letterboxd.com/film/dunkirk-2017/",
+      "director": "Christopher Nolan",
+      "actors": [
+        "Fionn Whitehead",
+        "Tom Hardy",
+        "Mark Rylance"
+      ],
+      "genres": "Action, Drama, War"
     },
     {
       "rank": 18,
       "title": "Jumanji: Welcome to the Jungle",
-      "url": "https://letterboxd.com/film/jumanji-welcome-to-the-jungle/"
+      "url": "https://letterboxd.com/film/jumanji-welcome-to-the-jungle/",
+      "director": "Jake Kasdan",
+      "actors": [
+        "Dwayne Johnson",
+        "Kevin Hart",
+        "Jack Black"
+      ],
+      "genres": "Action, Comedy, Fantasy, Adventure"
     },
     {
       "rank": 19,
       "title": "Star Wars: The Last Jedi",
-      "url": "https://letterboxd.com/film/star-wars-the-last-jedi/"
+      "url": "https://letterboxd.com/film/star-wars-the-last-jedi/",
+      "director": "Rian Johnson",
+      "actors": [
+        "Mark Hamill",
+        "Carrie Fisher",
+        "Adam Driver"
+      ],
+      "genres": "Adventure, Action, Science Fiction"
     },
     {
       "rank": 20,
       "title": "Three Billboards Outside Ebbing, Missouri",
-      "url": "https://letterboxd.com/film/three-billboards-outside-ebbing-missouri/"
+      "url": "https://letterboxd.com/film/three-billboards-outside-ebbing-missouri/",
+      "director": "Martin McDonagh",
+      "actors": [
+        "Frances McDormand",
+        "Woody Harrelson",
+        "Sam Rockwell"
+      ],
+      "genres": "Crime, Drama"
     },
     {
       "rank": 21,
       "title": "The Shape of Water",
-      "url": "https://letterboxd.com/film/the-shape-of-water/"
+      "url": "https://letterboxd.com/film/the-shape-of-water/",
+      "director": "Guillermo del Toro",
+      "actors": [
+        "Sally Hawkins",
+        "Michael Shannon",
+        "Richard Jenkins"
+      ],
+      "genres": "Fantasy, Drama, Romance"
     },
     {
       "rank": 22,
       "title": "The Killing of a Sacred Deer",
-      "url": "https://letterboxd.com/film/the-killing-of-a-sacred-deer/"
+      "url": "https://letterboxd.com/film/the-killing-of-a-sacred-deer/",
+      "director": "Yorgos Lanthimos",
+      "actors": [
+        "Colin Farrell",
+        "Nicole Kidman",
+        "Barry Keoghan"
+      ],
+      "genres": "Mystery, Drama, Thriller"
     },
     {
       "rank": 23,
       "title": "The Ritual",
-      "url": "https://letterboxd.com/film/the-ritual-2017/"
+      "url": "https://letterboxd.com/film/the-ritual-2017/",
+      "director": "David Bruckner",
+      "actors": [
+        "Rafe Spall",
+        "Arsher Ali",
+        "Robert James-Collier"
+      ],
+      "genres": "Horror, Mystery"
     },
     {
       "rank": 24,
       "title": "John Wick: Chapter 2",
-      "url": "https://letterboxd.com/film/john-wick-chapter-2/"
+      "url": "https://letterboxd.com/film/john-wick-chapter-2/",
+      "director": "Chad Stahelski",
+      "actors": [
+        "Keanu Reeves",
+        "Common",
+        "Laurence Fishburne"
+      ],
+      "genres": "Crime, Action, Thriller"
     },
     {
       "rank": 25,
       "title": "Wonder",
-      "url": "https://letterboxd.com/film/wonder-2017/"
+      "url": "https://letterboxd.com/film/wonder-2017/",
+      "director": "Stephen Chbosky",
+      "actors": [
+        "Jacob Tremblay",
+        "Julia Roberts",
+        "Owen Wilson"
+      ],
+      "genres": "Drama, Family"
     },
     {
       "rank": 26,
       "title": "Cars 3",
-      "url": "https://letterboxd.com/film/cars-3/"
+      "url": "https://letterboxd.com/film/cars-3/",
+      "director": "Brian Fee",
+      "actors": [
+        "Owen Wilson",
+        "Cristela Alonzo",
+        "Chris Cooper"
+      ],
+      "genres": "Family, Drama, Animation"
     },
     {
       "rank": 27,
       "title": "mother!",
-      "url": "https://letterboxd.com/film/mother-2017/"
+      "url": "https://letterboxd.com/film/mother-2017/",
+      "director": "Darren Aronofsky",
+      "actors": [
+        "Jennifer Lawrence",
+        "Javier Bardem",
+        "Ed Harris"
+      ],
+      "genres": "Drama, Horror"
     },
     {
       "rank": 28,
       "title": "Paddington 2",
-      "url": "https://letterboxd.com/film/paddington-2/"
+      "url": "https://letterboxd.com/film/paddington-2/",
+      "director": "Paul King",
+      "actors": [
+        "Ben Whishaw",
+        "Sally Hawkins",
+        "Hugh Bonneville"
+      ],
+      "genres": "Comedy, Family, Adventure"
     },
     {
       "rank": 29,
       "title": "Marrowbone",
-      "url": "https://letterboxd.com/film/marrowbone/"
+      "url": "https://letterboxd.com/film/marrowbone/",
+      "director": "Sergio G. Sánchez",
+      "actors": [
+        "George MacKay",
+        "Anya Taylor-Joy",
+        "Charlie Heaton"
+      ],
+      "genres": "Thriller, Horror, Mystery"
     },
     {
       "rank": 30,
       "title": "Logan",
-      "url": "https://letterboxd.com/film/logan-2017/"
+      "url": "https://letterboxd.com/film/logan-2017/",
+      "director": "James Mangold",
+      "actors": [
+        "Hugh Jackman",
+        "Dafne Keen",
+        "Patrick Stewart"
+      ],
+      "genres": "Drama, Science Fiction, Action"
     },
     {
       "rank": 31,
       "title": "Pitch Perfect 3",
-      "url": "https://letterboxd.com/film/pitch-perfect-3/"
+      "url": "https://letterboxd.com/film/pitch-perfect-3/",
+      "director": "Trish Sie",
+      "actors": [
+        "Anna Kendrick",
+        "Rebel Wilson",
+        "Brittany Snow"
+      ],
+      "genres": "Music, Comedy"
     },
     {
       "rank": 32,
-      "title": "To the Bone",
-      "url": "https://letterboxd.com/film/to-the-bone-2017/"
+      "title": "Creep 2",
+      "url": "https://letterboxd.com/film/creep-2/",
+      "director": "Patrick Brice",
+      "actors": [
+        "Mark Duplass",
+        "Desiree Akhavan",
+        "Karan Soni"
+      ],
+      "genres": "Thriller, Horror"
     },
     {
       "rank": 33,
-      "title": "Creep 2",
-      "url": "https://letterboxd.com/film/creep-2/"
+      "title": "To the Bone",
+      "url": "https://letterboxd.com/film/to-the-bone-2017/",
+      "director": "Marti Noxon",
+      "actors": [
+        "Lily Collins",
+        "Keanu Reeves",
+        "Carrie Preston"
+      ],
+      "genres": "Drama"
     },
     {
       "rank": 34,
       "title": "Beauty and the Beast",
-      "url": "https://letterboxd.com/film/beauty-and-the-beast-2017/"
+      "url": "https://letterboxd.com/film/beauty-and-the-beast-2017/",
+      "director": "Bill Condon",
+      "actors": [
+        "Emma Watson",
+        "Dan Stevens",
+        "Luke Evans"
+      ],
+      "genres": "Fantasy, Family, Romance"
     },
     {
       "rank": 35,
       "title": "Happy Death Day",
-      "url": "https://letterboxd.com/film/happy-death-day/"
+      "url": "https://letterboxd.com/film/happy-death-day/",
+      "director": "Christopher Landon",
+      "actors": [
+        "Jessica Rothe",
+        "Israel Broussard",
+        "Charles Aitken"
+      ],
+      "genres": "Horror, Mystery, Comedy"
     },
     {
       "rank": 36,
       "title": "Forgotten",
-      "url": "https://letterboxd.com/film/forgotten-2017/"
+      "url": "https://letterboxd.com/film/forgotten-2017/",
+      "director": "Chang Hang-jun",
+      "actors": [
+        "Kang Ha-neul",
+        "Kim Moo-yul",
+        "Moon Sung-keun"
+      ],
+      "genres": "Thriller, Crime, Mystery"
     },
     {
       "rank": 37,
       "title": "Pirates of the Caribbean: Dead Men Tell No Tales",
-      "url": "https://letterboxd.com/film/pirates-of-the-caribbean-dead-men-tell-no-tales/"
+      "url": "https://letterboxd.com/film/pirates-of-the-caribbean-dead-men-tell-no-tales/",
+      "director": "Joachim Rønning, Espen Sandberg",
+      "actors": [
+        "Johnny Depp",
+        "Javier Bardem",
+        "Geoffrey Rush"
+      ],
+      "genres": "Action, Fantasy, Adventure"
     },
     {
       "rank": 38,
       "title": "Despicable Me 3",
-      "url": "https://letterboxd.com/film/despicable-me-3/"
+      "url": "https://letterboxd.com/film/despicable-me-3/",
+      "director": "Kyle Balda, Pierre Coffin",
+      "actors": [
+        "Steve Carell",
+        "Kristen Wiig",
+        "Trey Parker"
+      ],
+      "genres": "Action, Animation, Adventure, Comedy, Family"
     },
     {
       "rank": 39,
       "title": "Before I Fall",
-      "url": "https://letterboxd.com/film/before-i-fall/"
+      "url": "https://letterboxd.com/film/before-i-fall/",
+      "director": "Ry Russo-Young",
+      "actors": [
+        "Zoey Deutch",
+        "Kian Lawley",
+        "Halston Sage"
+      ],
+      "genres": "Drama, Fantasy"
     },
     {
       "rank": 40,
       "title": "Kingsman: The Golden Circle",
-      "url": "https://letterboxd.com/film/kingsman-the-golden-circle/"
+      "url": "https://letterboxd.com/film/kingsman-the-golden-circle/",
+      "director": "Matthew Vaughn",
+      "actors": [
+        "Taron Egerton",
+        "Colin Firth",
+        "Julianne Moore"
+      ],
+      "genres": "Crime, Action, Adventure, Comedy"
     },
     {
       "rank": 41,
       "title": "Wind River",
-      "url": "https://letterboxd.com/film/wind-river-2017/"
+      "url": "https://letterboxd.com/film/wind-river-2017/",
+      "director": "Taylor Sheridan",
+      "actors": [
+        "Jeremy Renner",
+        "Elizabeth Olsen",
+        "Gil Birmingham"
+      ],
+      "genres": "Drama, Mystery, Thriller, Crime"
     },
     {
       "rank": 42,
       "title": "Alien: Covenant",
-      "url": "https://letterboxd.com/film/alien-covenant/"
+      "url": "https://letterboxd.com/film/alien-covenant/",
+      "director": "Ridley Scott",
+      "actors": [
+        "Michael Fassbender",
+        "Katherine Waterston",
+        "Billy Crudup"
+      ],
+      "genres": "Horror, Science Fiction"
     },
     {
       "rank": 43,
       "title": "Descendants 2",
-      "url": "https://letterboxd.com/film/descendants-2/"
+      "url": "https://letterboxd.com/film/descendants-2/",
+      "director": "Kenny Ortega",
+      "actors": [
+        "Dove Cameron",
+        "Sofia Carson",
+        "Cameron Boyce"
+      ],
+      "genres": "Music, Fantasy, Adventure, Family, TV Movie"
     },
     {
       "rank": 44,
       "title": "War for the Planet of the Apes",
-      "url": "https://letterboxd.com/film/war-for-the-planet-of-the-apes/"
+      "url": "https://letterboxd.com/film/war-for-the-planet-of-the-apes/",
+      "director": "Matt Reeves",
+      "actors": [
+        "Andy Serkis",
+        "Woody Harrelson",
+        "Karin Konoval"
+      ],
+      "genres": "War, Drama, Science Fiction"
     },
     {
       "rank": 45,
       "title": "God's Own Country",
-      "url": "https://letterboxd.com/film/gods-own-country-2017/"
+      "url": "https://letterboxd.com/film/gods-own-country-2017/",
+      "director": "Francis Lee",
+      "actors": [
+        "Josh O'Connor",
+        "Alec Secăreanu",
+        "Gemma Jones"
+      ],
+      "genres": "Romance, Drama"
     },
     {
       "rank": 46,
       "title": "The Babysitter",
-      "url": "https://letterboxd.com/film/the-babysitter-2017/"
+      "url": "https://letterboxd.com/film/the-babysitter-2017/",
+      "director": "McG",
+      "actors": [
+        "Judah Lewis",
+        "Samara Weaving",
+        "Robbie Amell"
+      ],
+      "genres": "Horror, Comedy"
     },
     {
       "rank": 47,
       "title": "Fifty Shades Darker",
-      "url": "https://letterboxd.com/film/fifty-shades-darker/"
+      "url": "https://letterboxd.com/film/fifty-shades-darker/",
+      "director": "James Foley",
+      "actors": [
+        "Dakota Johnson",
+        "Jamie Dornan",
+        "Eric Johnson"
+      ],
+      "genres": "Drama, Romance"
     },
     {
       "rank": 48,
       "title": "Gifted",
-      "url": "https://letterboxd.com/film/gifted-2017/"
+      "url": "https://letterboxd.com/film/gifted-2017/",
+      "director": "Marc Webb",
+      "actors": [
+        "Chris Evans",
+        "Mckenna Grace",
+        "Lindsay Duncan"
+      ],
+      "genres": "Comedy, Drama"
     },
     {
       "rank": 49,
       "title": "The Emoji Movie",
-      "url": "https://letterboxd.com/film/the-emoji-movie/"
+      "url": "https://letterboxd.com/film/the-emoji-movie/",
+      "director": "Tony Leondis",
+      "actors": [
+        "T.J. Miller",
+        "James Corden",
+        "Anna Faris"
+      ],
+      "genres": "Animation, Family, Comedy"
     },
     {
       "rank": 50,
       "title": "Twin Peaks: The Return",
-      "url": "https://letterboxd.com/film/twin-peaks-the-return/"
+      "url": "https://letterboxd.com/film/twin-peaks-the-return/",
+      "director": "David Lynch",
+      "actors": [
+        "Kyle MacLachlan",
+        "Sheryl Lee",
+        "Laura Dern"
+      ],
+      "genres": "Crime, Drama, Thriller, Mystery"
     }
   ]
 }

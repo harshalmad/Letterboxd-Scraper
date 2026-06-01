@@ -1,51 +1,51 @@
-rank,title,url
-1,Return of the Jedi,https://letterboxd.com/film/return-of-the-jedi/
-2,Scarface,https://letterboxd.com/film/scarface-1983/
-3,Videodrome,https://letterboxd.com/film/videodrome/
-4,The Outsiders,https://letterboxd.com/film/the-outsiders/
-5,Michael Jackson's Thriller,https://letterboxd.com/film/michael-jacksons-thriller/
-6,Sleepaway Camp,https://letterboxd.com/film/sleepaway-camp/
-7,Possibly in Michigan,https://letterboxd.com/film/possibly-in-michigan/
-8,Christine,https://letterboxd.com/film/christine-1983/
-9,Risky Business,https://letterboxd.com/film/risky-business/
-10,Trading Places,https://letterboxd.com/film/trading-places/
-11,The Hunger,https://letterboxd.com/film/the-hunger/
-12,Octopussy,https://letterboxd.com/film/octopussy/
-13,Angst,https://letterboxd.com/film/angst/
-14,Monty Python's The Meaning of Life,https://letterboxd.com/film/monty-pythons-the-meaning-of-life/
-15,Nostalgia,https://letterboxd.com/film/nostalgia-1983/
-16,WarGames,https://letterboxd.com/film/wargames/
-17,The Dead Zone,https://letterboxd.com/film/the-dead-zone/
-18,Never Say Never Again,https://letterboxd.com/film/never-say-never-again/
-19,Flashdance,https://letterboxd.com/film/flashdance/
-20,Rumble Fish,https://letterboxd.com/film/rumble-fish/
-21,Valley Girl,https://letterboxd.com/film/valley-girl/
-22,"Merry Christmas, Mr. Lawrence",https://letterboxd.com/film/merry-christmas-mr-lawrence/
-23,Terms of Endearment,https://letterboxd.com/film/terms-of-endearment/
-24,Tender Mercies,https://letterboxd.com/film/tender-mercies/
-25,Sans Soleil,https://letterboxd.com/film/sans-soleil/
-26,Local Hero,https://letterboxd.com/film/local-hero/
-27,"A Girl, She Is 100%",https://letterboxd.com/film/a-girl-she-is-100/
-28,Psycho II,https://letterboxd.com/film/psycho-ii/
-29,Born in Flames,https://letterboxd.com/film/born-in-flames/
-30,National Lampoon's Vacation,https://letterboxd.com/film/national-lampoons-vacation/
-31,El Sur,https://letterboxd.com/film/el-sur/
-32,L'Argent,https://letterboxd.com/film/largent-1983/
-33,Cujo,https://letterboxd.com/film/cujo/
-34,The Big Chill,https://letterboxd.com/film/the-big-chill/
-35,Dark Habits,https://letterboxd.com/film/dark-habits/
-36,The Keep,https://letterboxd.com/film/the-keep/
-37,Pauline at the Beach,https://letterboxd.com/film/pauline-at-the-beach/
-38,The Boxer's Omen,https://letterboxd.com/film/the-boxers-omen/
-39,Superman III,https://letterboxd.com/film/superman-iii/
-40,Twilight Zone: The Movie,https://letterboxd.com/film/twilight-zone-the-movie/
-41,The Right Stuff,https://letterboxd.com/film/the-right-stuff/
-42,A Nos Amours,https://letterboxd.com/film/a-nos-amours/
-43,Rock & Rule,https://letterboxd.com/film/rock-rule/
-44,Lone Wolf McQuade,https://letterboxd.com/film/lone-wolf-mcquade/
-45,Dimensions of Dialogue,https://letterboxd.com/film/dimensions-of-dialogue/
-46,Heroic Times,https://letterboxd.com/film/heroic-times/
-47,Eddie and the Cruisers,https://letterboxd.com/film/eddie-and-the-cruisers/
-48,Jaws 3-D,https://letterboxd.com/film/jaws-3-d/
-49,Fire and Ice,https://letterboxd.com/film/fire-and-ice/
-50,Deathstalker,https://letterboxd.com/film/deathstalker/
+rank,title,director,actors,genres,url
+1,Return of the Jedi,Richard Marquand,Mark Hamill; Harrison Ford; Carrie Fisher,"Science Fiction, Adventure, Action",https://letterboxd.com/film/return-of-the-jedi/
+2,Scarface,Brian De Palma,Al Pacino; Steven Bauer; Michelle Pfeiffer,"Drama, Action, Crime",https://letterboxd.com/film/scarface-1983/
+3,Videodrome,David Cronenberg,James Woods; Debbie Harry; Sonja Smits,"Mystery, Science Fiction, Horror",https://letterboxd.com/film/videodrome/
+4,The Outsiders,Francis Ford Coppola,C. Thomas Howell; Matt Dillon; Ralph Macchio,"Drama, Crime",https://letterboxd.com/film/the-outsiders/
+5,Michael Jackson's Thriller,John Landis,Michael Jackson; Ola Ray; Vincent Price,"Thriller, Horror, Music",https://letterboxd.com/film/michael-jacksons-thriller/
+6,Sleepaway Camp,Robert Hiltzik,Mike Kellin; Katherine Kamhi; Paul DeAngelo,Horror,https://letterboxd.com/film/sleepaway-camp/
+7,Possibly in Michigan,Cecelia Condit,Jill Sands; Karen Skladany; Bill Blume,"Horror, Music",https://letterboxd.com/film/possibly-in-michigan/
+8,Christine,John Carpenter,Keith Gordon; John Stockwell; Alexandra Paul,Horror,https://letterboxd.com/film/christine-1983/
+9,Risky Business,Paul Brickman,Tom Cruise; Rebecca De Mornay; Joe Pantoliano,"Drama, Comedy, Romance",https://letterboxd.com/film/risky-business/
+10,Trading Places,John Landis,Dan Aykroyd; Eddie Murphy; Ralph Bellamy,Comedy,https://letterboxd.com/film/trading-places/
+11,The Hunger,Tony Scott,Catherine Deneuve; David Bowie; Susan Sarandon,"Drama, Horror",https://letterboxd.com/film/the-hunger/
+12,Octopussy,John Glen,Roger Moore; Maud Adams; Louis Jourdan,"Thriller, Action, Adventure",https://letterboxd.com/film/octopussy/
+13,Angst,Gerald Kargl,Erwin Leder; Robert Hunger-Bühler; Silvia Rabenreither,"Thriller, Horror, Crime",https://letterboxd.com/film/angst/
+14,Monty Python's The Meaning of Life,Terry Jones,Terry Gilliam; Graham Chapman; John Cleese,Comedy,https://letterboxd.com/film/monty-pythons-the-meaning-of-life/
+15,Nostalgia,Andrei Tarkovsky,Oleg Yankovskiy; Erland Josephson; Domiziana Giordano,"Drama, Romance",https://letterboxd.com/film/nostalgia-1983/
+16,WarGames,John Badham,Matthew Broderick; Dabney Coleman; John Wood,"Thriller, Science Fiction, Drama",https://letterboxd.com/film/wargames/
+17,The Dead Zone,David Cronenberg,Christopher Walken; Brooke Adams; Tom Skerritt,"Science Fiction, Thriller, Horror",https://letterboxd.com/film/the-dead-zone/
+18,Flashdance,Adrian Lyne,Jennifer Beals; Michael Nouri; Sunny Johnson,"Romance, Drama",https://letterboxd.com/film/flashdance/
+19,Never Say Never Again,Irvin Kershner,Sean Connery; Klaus Maria Brandauer; Max von Sydow,"Action, Adventure, Thriller",https://letterboxd.com/film/never-say-never-again/
+20,Rumble Fish,Francis Ford Coppola,Matt Dillon; Mickey Rourke; Diane Lane,"Romance, Crime, Drama",https://letterboxd.com/film/rumble-fish/
+21,Valley Girl,Martha Coolidge,Nicolas Cage; Deborah Foreman; E. G. Daily,"Comedy, Romance",https://letterboxd.com/film/valley-girl/
+22,"Merry Christmas, Mr. Lawrence",Nagisa Ōshima,David Bowie; Tom Conti; Ryuichi Sakamoto,"War, Drama, History",https://letterboxd.com/film/merry-christmas-mr-lawrence/
+23,Terms of Endearment,James L. Brooks,Shirley MacLaine; Debra Winger; Jack Nicholson,"Comedy, Drama",https://letterboxd.com/film/terms-of-endearment/
+24,Tender Mercies,Bruce Beresford,Robert Duvall; Tess Harper; Betty Buckley,"Music, Drama, Romance",https://letterboxd.com/film/tender-mercies/
+25,Sans Soleil,Chris Marker,Florence Delay; Amílcar Cabral; Arielle Dombasle,Documentary,https://letterboxd.com/film/sans-soleil/
+26,Local Hero,Bill Forsyth,Burt Lancaster; Peter Riegert; Denis Lawson,"Drama, Comedy",https://letterboxd.com/film/local-hero/
+27,"A Girl, She Is 100%",Naoto Yamakawa,Kissei Kumamoto; Shigeru Muroi; Kazunao Sakaguchi,"Romance, Comedy, Drama",https://letterboxd.com/film/a-girl-she-is-100/
+28,Psycho II,Richard Franklin,Anthony Perkins; Meg Tilly; Vera Miles,"Thriller, Crime, Mystery, Horror",https://letterboxd.com/film/psycho-ii/
+29,Born in Flames,Lizzie Borden,Honey; Adele Bertei; Jean Satterfield,"Science Fiction, Drama",https://letterboxd.com/film/born-in-flames/
+30,National Lampoon's Vacation,Harold Ramis,Chevy Chase; Beverly D'Angelo; Anthony Michael Hall,"Comedy, Adventure",https://letterboxd.com/film/national-lampoons-vacation/
+31,El Sur,Víctor Erice,Omero Antonutti; Sonsoles Aranguren; Icíar Bollaín,Drama,https://letterboxd.com/film/el-sur/
+32,Cujo,Lewis Teague,Dee Wallace; Danny Pintauro; Daniel Hugh Kelly,"Horror, Drama",https://letterboxd.com/film/cujo/
+33,L'Argent,Robert Bresson,Christian Patey; Vincent Risterucci; Sylvie Van Den Elsen,"Drama, Crime",https://letterboxd.com/film/largent-1983/
+34,The Big Chill,Lawrence Kasdan,Tom Berenger; Glenn Close; Jeff Goldblum,"Comedy, Drama",https://letterboxd.com/film/the-big-chill/
+35,Dark Habits,Pedro Almodóvar,Cristina Sánchez Pascual; Will More; Laura Cepeda,"Comedy, Drama",https://letterboxd.com/film/dark-habits/
+36,The Keep,Michael Mann,Scott Glenn; Alberta Watson; Jürgen Prochnow,"Horror, Fantasy",https://letterboxd.com/film/the-keep/
+37,The Boxer's Omen,Kuei Chih-Hung,Phillip Ko Fai; Elvis Tsui Kam-Kong; Wai Ka-Man,"Action, Horror, Fantasy",https://letterboxd.com/film/the-boxers-omen/
+38,Pauline at the Beach,Éric Rohmer,Amanda Langlet; Arielle Dombasle; Pascal Greggory,"Romance, Drama, Comedy",https://letterboxd.com/film/pauline-at-the-beach/
+39,Superman III,Richard Lester,Christopher Reeve; Richard Pryor; Jackie Cooper,"Comedy, Adventure, Action, Science Fiction",https://letterboxd.com/film/superman-iii/
+40,Twilight Zone: The Movie,"John Landis, Joe Dante, Steven Spielberg, George Miller",Dan Aykroyd; Albert Brooks; Scatman Crothers,"Science Fiction, Horror, Fantasy",https://letterboxd.com/film/twilight-zone-the-movie/
+41,The Right Stuff,Philip Kaufman,Sam Shepard; Scott Glenn; Ed Harris,"Drama, History, Adventure",https://letterboxd.com/film/the-right-stuff/
+42,A Nos Amours,Maurice Pialat,Sandrine Bonnaire; Maurice Pialat; Christophe Odent,"Drama, Romance",https://letterboxd.com/film/a-nos-amours/
+43,Rock & Rule,Clive A. Smith,Don Francks; Lou Reed; Susan Roman,"Animation, Adventure, Fantasy",https://letterboxd.com/film/rock-rule/
+44,Lone Wolf McQuade,Steve Carver,Chuck Norris; David Carradine; Barbara Carrera,"Crime, Action",https://letterboxd.com/film/lone-wolf-mcquade/
+45,Dimensions of Dialogue,Jan Švankmajer,,"Animation, Comedy",https://letterboxd.com/film/dimensions-of-dialogue/
+46,Heroic Times,József Gémes,Adrienne Csengery; Gyula Szabó,"History, Animation, War",https://letterboxd.com/film/heroic-times/
+47,Eddie and the Cruisers,Martin Davidson,Tom Berenger; Michael Paré; Joe Pantoliano,"Drama, Music",https://letterboxd.com/film/eddie-and-the-cruisers/
+48,Jaws 3-D,Joe Alves,Dennis Quaid; Bess Armstrong; Simon MacCorkindale,"Horror, Thriller",https://letterboxd.com/film/jaws-3-d/
+49,Fire and Ice,Ralph Bakshi,Randy Norton; Cynthia Leake; Steve Sandor,"Animation, Adventure, Fantasy, Science Fiction",https://letterboxd.com/film/fire-and-ice/
+50,Deathstalker,James Sbardellati,Rick Hill; Barbi Benton; Richard Brooker,"Fantasy, Action",https://letterboxd.com/film/deathstalker/

@@ -5,252 +5,602 @@
     {
       "rank": 1,
       "title": "Interstellar",
-      "url": "https://letterboxd.com/film/interstellar/"
+      "url": "https://letterboxd.com/film/interstellar/",
+      "director": "Christopher Nolan",
+      "actors": [
+        "Matthew McConaughey",
+        "Anne Hathaway",
+        "Michael Caine"
+      ],
+      "genres": "Science Fiction, Drama, Adventure"
     },
     {
       "rank": 2,
       "title": "The Grand Budapest Hotel",
-      "url": "https://letterboxd.com/film/the-grand-budapest-hotel/"
+      "url": "https://letterboxd.com/film/the-grand-budapest-hotel/",
+      "director": "Wes Anderson",
+      "actors": [
+        "Ralph Fiennes",
+        "F. Murray Abraham",
+        "Mathieu Amalric"
+      ],
+      "genres": "Comedy, Drama"
     },
     {
       "rank": 3,
       "title": "Whiplash",
-      "url": "https://letterboxd.com/film/whiplash-2014/"
+      "url": "https://letterboxd.com/film/whiplash-2014/",
+      "director": "Damien Chazelle",
+      "actors": [
+        "Miles Teller",
+        "J.K. Simmons",
+        "Paul Reiser"
+      ],
+      "genres": "Drama, Music, Thriller"
     },
     {
       "rank": 4,
       "title": "Gone Girl",
-      "url": "https://letterboxd.com/film/gone-girl/"
+      "url": "https://letterboxd.com/film/gone-girl/",
+      "director": "David Fincher",
+      "actors": [
+        "Ben Affleck",
+        "Rosamund Pike",
+        "Neil Patrick Harris"
+      ],
+      "genres": "Drama, Mystery, Thriller"
     },
     {
       "rank": 5,
       "title": "The Maze Runner",
-      "url": "https://letterboxd.com/film/the-maze-runner/"
+      "url": "https://letterboxd.com/film/the-maze-runner/",
+      "director": "Wes Ball",
+      "actors": [
+        "Dylan O'Brien",
+        "Kaya Scodelario",
+        "Thomas Brodie-Sangster"
+      ],
+      "genres": "Science Fiction, Thriller, Action, Mystery"
     },
     {
       "rank": 6,
       "title": "The Hunger Games: Mockingjay – Part 1",
-      "url": "https://letterboxd.com/film/the-hunger-games-mockingjay-part-1/"
+      "url": "https://letterboxd.com/film/the-hunger-games-mockingjay-part-1/",
+      "director": "Francis Lawrence",
+      "actors": [
+        "Jennifer Lawrence",
+        "Josh Hutcherson",
+        "Liam Hemsworth"
+      ],
+      "genres": "Thriller, Science Fiction, Adventure"
     },
     {
       "rank": 7,
       "title": "Nightcrawler",
-      "url": "https://letterboxd.com/film/nightcrawler/"
+      "url": "https://letterboxd.com/film/nightcrawler/",
+      "director": "Dan Gilroy",
+      "actors": [
+        "Jake Gyllenhaal",
+        "Riz Ahmed",
+        "Rene Russo"
+      ],
+      "genres": "Crime, Drama, Thriller"
     },
     {
       "rank": 8,
       "title": "Guardians of the Galaxy",
-      "url": "https://letterboxd.com/film/guardians-of-the-galaxy/"
+      "url": "https://letterboxd.com/film/guardians-of-the-galaxy/",
+      "director": "James Gunn",
+      "actors": [
+        "Chris Pratt",
+        "Zoe Saldaña",
+        "Dave Bautista"
+      ],
+      "genres": "Adventure, Action, Science Fiction"
     },
     {
       "rank": 9,
       "title": "The Amazing Spider-Man 2",
-      "url": "https://letterboxd.com/film/the-amazing-spider-man-2/"
+      "url": "https://letterboxd.com/film/the-amazing-spider-man-2/",
+      "director": "Marc Webb",
+      "actors": [
+        "Andrew Garfield",
+        "Emma Stone",
+        "Jamie Foxx"
+      ],
+      "genres": "Science Fiction, Action, Adventure"
     },
     {
       "rank": 10,
       "title": "The Lego Movie",
-      "url": "https://letterboxd.com/film/the-lego-movie/"
+      "url": "https://letterboxd.com/film/the-lego-movie/",
+      "director": "Phil Lord, Christopher Miller",
+      "actors": [
+        "Chris Pratt",
+        "Elizabeth Banks",
+        "Will Ferrell"
+      ],
+      "genres": "Family, Fantasy, Comedy, Animation, Adventure"
     },
     {
       "rank": 11,
       "title": "Captain America: The Winter Soldier",
-      "url": "https://letterboxd.com/film/captain-america-the-winter-soldier/"
+      "url": "https://letterboxd.com/film/captain-america-the-winter-soldier/",
+      "director": "Joe Russo, Anthony Russo",
+      "actors": [
+        "Chris Evans",
+        "Samuel L. Jackson",
+        "Scarlett Johansson"
+      ],
+      "genres": "Adventure, Science Fiction, Action"
     },
     {
       "rank": 12,
       "title": "John Wick",
-      "url": "https://letterboxd.com/film/john-wick/"
+      "url": "https://letterboxd.com/film/john-wick/",
+      "director": "Chad Stahelski",
+      "actors": [
+        "Keanu Reeves",
+        "Michael Nyqvist",
+        "Alfie Allen"
+      ],
+      "genres": "Action, Thriller"
     },
     {
       "rank": 13,
       "title": "22 Jump Street",
-      "url": "https://letterboxd.com/film/22-jump-street/"
+      "url": "https://letterboxd.com/film/22-jump-street/",
+      "director": "Phil Lord, Christopher Miller",
+      "actors": [
+        "Jonah Hill",
+        "Channing Tatum",
+        "Peter Stormare"
+      ],
+      "genres": "Action, Crime, Comedy"
     },
     {
       "rank": 14,
       "title": "Creep",
-      "url": "https://letterboxd.com/film/creep-2014/"
+      "url": "https://letterboxd.com/film/creep-2014/",
+      "director": "Patrick Brice",
+      "actors": [
+        "Mark Duplass",
+        "Patrick Brice",
+        "Katie Aselton"
+      ],
+      "genres": "Horror, Thriller"
     },
     {
       "rank": 15,
       "title": "Birdman or (The Unexpected Virtue of Ignorance)",
-      "url": "https://letterboxd.com/film/birdman-or-the-unexpected-virtue-of-ignorance/"
+      "url": "https://letterboxd.com/film/birdman-or-the-unexpected-virtue-of-ignorance/",
+      "director": "Alejandro G. Iñárritu",
+      "actors": [
+        "Michael Keaton",
+        "Emma Stone",
+        "Zach Galifianakis"
+      ],
+      "genres": "Drama, Comedy"
     },
     {
       "rank": 16,
       "title": "How to Train Your Dragon 2",
-      "url": "https://letterboxd.com/film/how-to-train-your-dragon-2/"
+      "url": "https://letterboxd.com/film/how-to-train-your-dragon-2/",
+      "director": "Dean DeBlois",
+      "actors": [
+        "Jay Baruchel",
+        "Cate Blanchett",
+        "Gerard Butler"
+      ],
+      "genres": "Animation, Adventure, Action, Fantasy, Family"
     },
     {
       "rank": 17,
       "title": "Big Hero 6",
-      "url": "https://letterboxd.com/film/big-hero-6/"
+      "url": "https://letterboxd.com/film/big-hero-6/",
+      "director": "Don Hall, Chris Williams",
+      "actors": [
+        "Scott Adsit",
+        "Ryan Potter",
+        "Daniel Henney"
+      ],
+      "genres": "Science Fiction, Comedy, Action, Family, Animation, Adventure"
     },
     {
       "rank": 18,
       "title": "Divergent",
-      "url": "https://letterboxd.com/film/divergent/"
+      "url": "https://letterboxd.com/film/divergent/",
+      "director": "Neil Burger",
+      "actors": [
+        "Shailene Woodley",
+        "Theo James",
+        "Ashley Judd"
+      ],
+      "genres": "Adventure, Action, Science Fiction"
     },
     {
       "rank": 19,
       "title": "Love, Rosie",
-      "url": "https://letterboxd.com/film/love-rosie/"
+      "url": "https://letterboxd.com/film/love-rosie/",
+      "director": "Christian Ditter",
+      "actors": [
+        "Lily Collins",
+        "Sam Claflin",
+        "Christian Cooke"
+      ],
+      "genres": "Drama, Romance, Comedy"
     },
     {
       "rank": 20,
       "title": "I Believe in Unicorns",
-      "url": "https://letterboxd.com/film/i-believe-in-unicorns/"
+      "url": "https://letterboxd.com/film/i-believe-in-unicorns/",
+      "director": "Leah Meyerhoff",
+      "actors": [
+        "Natalia Dyer",
+        "Peter Vack",
+        "Julia Garner"
+      ],
+      "genres": "Drama"
     },
     {
       "rank": 21,
       "title": "Fury",
-      "url": "https://letterboxd.com/film/fury-2014/"
+      "url": "https://letterboxd.com/film/fury-2014/",
+      "director": "David Ayer",
+      "actors": [
+        "Brad Pitt",
+        "Shia LaBeouf",
+        "Logan Lerman"
+      ],
+      "genres": "War, Drama, Action"
     },
     {
       "rank": 22,
       "title": "As Above, So Below",
-      "url": "https://letterboxd.com/film/as-above-so-below-2014/"
+      "url": "https://letterboxd.com/film/as-above-so-below-2014/",
+      "director": "John Erick Dowdle",
+      "actors": [
+        "Perdita Weeks",
+        "Ben Feldman",
+        "Edwin Hodge"
+      ],
+      "genres": "Horror, Thriller"
     },
     {
       "rank": 23,
       "title": "Kingsman: The Secret Service",
-      "url": "https://letterboxd.com/film/kingsman-the-secret-service/"
+      "url": "https://letterboxd.com/film/kingsman-the-secret-service/",
+      "director": "Matthew Vaughn",
+      "actors": [
+        "Taron Egerton",
+        "Colin Firth",
+        "Samuel L. Jackson"
+      ],
+      "genres": "Action, Comedy, Crime, Adventure"
     },
     {
       "rank": 24,
       "title": "The Hobbit: The Battle of the Five Armies",
-      "url": "https://letterboxd.com/film/the-hobbit-the-battle-of-the-five-armies/"
+      "url": "https://letterboxd.com/film/the-hobbit-the-battle-of-the-five-armies/",
+      "director": "Peter Jackson",
+      "actors": [
+        "Ian McKellen",
+        "Martin Freeman",
+        "Richard Armitage"
+      ],
+      "genres": "Fantasy, Action, Adventure"
     },
     {
       "rank": 25,
       "title": "It Follows",
-      "url": "https://letterboxd.com/film/it-follows/"
+      "url": "https://letterboxd.com/film/it-follows/",
+      "director": "David Robert Mitchell",
+      "actors": [
+        "Maika Monroe",
+        "Keir Gilchrist",
+        "Daniel Zovatto"
+      ],
+      "genres": "Horror, Mystery"
     },
     {
       "rank": 26,
       "title": "Paddington",
-      "url": "https://letterboxd.com/film/paddington/"
+      "url": "https://letterboxd.com/film/paddington/",
+      "director": "Paul King",
+      "actors": [
+        "Ben Whishaw",
+        "Hugh Bonneville",
+        "Sally Hawkins"
+      ],
+      "genres": "Comedy, Family, Adventure"
     },
     {
       "rank": 27,
       "title": "The Book of Life",
-      "url": "https://letterboxd.com/film/the-book-of-life-2014/"
+      "url": "https://letterboxd.com/film/the-book-of-life-2014/",
+      "director": "Jorge R. Gutierrez",
+      "actors": [
+        "Diego Luna",
+        "Channing Tatum",
+        "Zoe Saldaña"
+      ],
+      "genres": "Animation, Fantasy, Family"
     },
     {
       "rank": 28,
       "title": "Chef",
-      "url": "https://letterboxd.com/film/chef/"
+      "url": "https://letterboxd.com/film/chef/",
+      "director": "Jon Favreau",
+      "actors": [
+        "Jon Favreau",
+        "John Leguizamo",
+        "Bobby Cannavale"
+      ],
+      "genres": "Comedy"
     },
     {
       "rank": 29,
       "title": "X-Men: Days of Future Past",
-      "url": "https://letterboxd.com/film/x-men-days-of-future-past/"
+      "url": "https://letterboxd.com/film/x-men-days-of-future-past/",
+      "director": "Bryan Singer",
+      "actors": [
+        "Hugh Jackman",
+        "James McAvoy",
+        "Michael Fassbender"
+      ],
+      "genres": "Action, Science Fiction, Adventure"
     },
     {
       "rank": 30,
       "title": "The Imitation Game",
-      "url": "https://letterboxd.com/film/the-imitation-game/"
+      "url": "https://letterboxd.com/film/the-imitation-game/",
+      "director": "Morten Tyldum",
+      "actors": [
+        "Benedict Cumberbatch",
+        "Keira Knightley",
+        "Matthew Goode"
+      ],
+      "genres": "Drama, War, Thriller, History"
     },
     {
       "rank": 31,
       "title": "Lucy",
-      "url": "https://letterboxd.com/film/lucy-2014/"
+      "url": "https://letterboxd.com/film/lucy-2014/",
+      "director": "Luc Besson",
+      "actors": [
+        "Scarlett Johansson",
+        "Morgan Freeman",
+        "Choi Min-sik"
+      ],
+      "genres": "Action, Science Fiction"
     },
     {
       "rank": 32,
       "title": "Edge of Tomorrow",
-      "url": "https://letterboxd.com/film/edge-of-tomorrow/"
+      "url": "https://letterboxd.com/film/edge-of-tomorrow/",
+      "director": "Doug Liman",
+      "actors": [
+        "Tom Cruise",
+        "Emily Blunt",
+        "Brendan Gleeson"
+      ],
+      "genres": "Science Fiction, Action"
     },
     {
       "rank": 33,
       "title": "The Interview",
-      "url": "https://letterboxd.com/film/the-interview-2014/"
+      "url": "https://letterboxd.com/film/the-interview-2014/",
+      "director": "Evan Goldberg, Seth Rogen",
+      "actors": [
+        "James Franco",
+        "Seth Rogen",
+        "Lizzy Caplan"
+      ],
+      "genres": "Comedy, Action"
     },
     {
       "rank": 34,
       "title": "The Fault in Our Stars",
-      "url": "https://letterboxd.com/film/the-fault-in-our-stars/"
+      "url": "https://letterboxd.com/film/the-fault-in-our-stars/",
+      "director": "Josh Boone",
+      "actors": [
+        "Shailene Woodley",
+        "Ansel Elgort",
+        "Nat Wolff"
+      ],
+      "genres": "Romance, Drama"
     },
     {
       "rank": 35,
       "title": "The Babadook",
-      "url": "https://letterboxd.com/film/the-babadook/"
+      "url": "https://letterboxd.com/film/the-babadook/",
+      "director": "Jennifer Kent",
+      "actors": [
+        "Essie Davis",
+        "Noah Wiseman",
+        "Hayley McElhinney"
+      ],
+      "genres": "Drama, Horror"
     },
     {
       "rank": 36,
       "title": "Maleficent",
-      "url": "https://letterboxd.com/film/maleficent/"
+      "url": "https://letterboxd.com/film/maleficent/",
+      "director": "Robert Stromberg",
+      "actors": [
+        "Angelina Jolie",
+        "Elle Fanning",
+        "Imelda Staunton"
+      ],
+      "genres": "Romance, Fantasy, Action, Adventure, Family"
     },
     {
       "rank": 37,
       "title": "Boyhood",
-      "url": "https://letterboxd.com/film/boyhood/"
+      "url": "https://letterboxd.com/film/boyhood/",
+      "director": "Richard Linklater",
+      "actors": [
+        "Ellar Coltrane",
+        "Patricia Arquette",
+        "Ethan Hawke"
+      ],
+      "genres": "Drama"
     },
     {
       "rank": 38,
       "title": "Dawn of the Planet of the Apes",
-      "url": "https://letterboxd.com/film/dawn-of-the-planet-of-the-apes/"
+      "url": "https://letterboxd.com/film/dawn-of-the-planet-of-the-apes/",
+      "director": "Matt Reeves",
+      "actors": [
+        "Andy Serkis",
+        "Jason Clarke",
+        "Toby Kebbell"
+      ],
+      "genres": "Action, Thriller, Science Fiction, Drama"
     },
     {
       "rank": 39,
       "title": "Tusk",
-      "url": "https://letterboxd.com/film/tusk-2014/"
+      "url": "https://letterboxd.com/film/tusk-2014/",
+      "director": "Kevin Smith",
+      "actors": [
+        "Michael Parks",
+        "Justin Long",
+        "Genesis Rodriguez"
+      ],
+      "genres": "Horror, Comedy"
     },
     {
       "rank": 40,
       "title": "When Marnie Was There",
-      "url": "https://letterboxd.com/film/when-marnie-was-there/"
+      "url": "https://letterboxd.com/film/when-marnie-was-there/",
+      "director": "Hiromasa Yonebayashi",
+      "actors": [
+        "Sara Takatsuki",
+        "Kasumi Arimura",
+        "Nanako Matsushima"
+      ],
+      "genres": "Drama, Family, Animation"
     },
     {
       "rank": 41,
       "title": "The Equalizer",
-      "url": "https://letterboxd.com/film/the-equalizer/"
+      "url": "https://letterboxd.com/film/the-equalizer/",
+      "director": "Antoine Fuqua",
+      "actors": [
+        "Denzel Washington",
+        "Marton Csokas",
+        "Chloë Grace Moretz"
+      ],
+      "genres": "Crime, Action, Thriller"
     },
     {
       "rank": 42,
       "title": "Blended",
-      "url": "https://letterboxd.com/film/blended/"
+      "url": "https://letterboxd.com/film/blended/",
+      "director": "Frank Coraci",
+      "actors": [
+        "Adam Sandler",
+        "Drew Barrymore",
+        "Kevin Nealon"
+      ],
+      "genres": "Comedy, Romance"
     },
     {
       "rank": 43,
       "title": "Annabelle",
-      "url": "https://letterboxd.com/film/annabelle/"
+      "url": "https://letterboxd.com/film/annabelle/",
+      "director": "John R. Leonetti",
+      "actors": [
+        "Annabelle Wallis",
+        "Ward Horton",
+        "Tony Amendola"
+      ],
+      "genres": "Horror"
     },
     {
       "rank": 44,
       "title": "What We Do in the Shadows",
-      "url": "https://letterboxd.com/film/what-we-do-in-the-shadows/"
+      "url": "https://letterboxd.com/film/what-we-do-in-the-shadows/",
+      "director": "Jemaine Clement, Taika Waititi",
+      "actors": [
+        "Jemaine Clement",
+        "Taika Waititi",
+        "Jonny Brugh"
+      ],
+      "genres": "Horror, Comedy"
     },
     {
       "rank": 45,
       "title": "American Sniper",
-      "url": "https://letterboxd.com/film/american-sniper/"
+      "url": "https://letterboxd.com/film/american-sniper/",
+      "director": "Clint Eastwood",
+      "actors": [
+        "Bradley Cooper",
+        "Sienna Miller",
+        "Kyle Gallner"
+      ],
+      "genres": "Action, War"
     },
     {
       "rank": 46,
       "title": "The Taking of Deborah Logan",
-      "url": "https://letterboxd.com/film/the-taking-of-deborah-logan/"
+      "url": "https://letterboxd.com/film/the-taking-of-deborah-logan/",
+      "director": "Adam Robitel",
+      "actors": [
+        "Jill Larson",
+        "Anne Ramsay",
+        "Michelle Ang"
+      ],
+      "genres": "Horror, Thriller, Mystery"
     },
     {
       "rank": 47,
       "title": "Godzilla",
-      "url": "https://letterboxd.com/film/godzilla-2014/"
+      "url": "https://letterboxd.com/film/godzilla-2014/",
+      "director": "Gareth Edwards",
+      "actors": [
+        "Aaron Taylor-Johnson",
+        "Elizabeth Olsen",
+        "Juliette Binoche"
+      ],
+      "genres": "Drama, Action, Science Fiction"
     },
     {
       "rank": 48,
       "title": "Wild Tales",
-      "url": "https://letterboxd.com/film/wild-tales/"
+      "url": "https://letterboxd.com/film/wild-tales/",
+      "director": "Damián Szifron",
+      "actors": [
+        "Ricardo Darín",
+        "Leonardo Sbaraglia",
+        "Érica Rivas"
+      ],
+      "genres": "Comedy, Thriller, Drama"
     },
     {
       "rank": 49,
       "title": "I Origins",
-      "url": "https://letterboxd.com/film/i-origins/"
+      "url": "https://letterboxd.com/film/i-origins/",
+      "director": "Mike Cahill",
+      "actors": [
+        "Michael Pitt",
+        "Brit Marling",
+        "Àstrid Bergès-Frisbey"
+      ],
+      "genres": "Drama, Science Fiction"
     },
     {
       "rank": 50,
       "title": "Predestination",
-      "url": "https://letterboxd.com/film/predestination/"
+      "url": "https://letterboxd.com/film/predestination/",
+      "director": "Michael Spierig, Peter Spierig",
+      "actors": [
+        "Ethan Hawke",
+        "Sarah Snook",
+        "Noah Taylor"
+      ],
+      "genres": "Science Fiction, Thriller"
     }
   ]
 }

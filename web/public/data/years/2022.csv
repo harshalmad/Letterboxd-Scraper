@@ -1,51 +1,51 @@
-rank,title,url
-1,Bones and All,https://letterboxd.com/film/bones-and-all/
-2,Avatar: The Way of Water,https://letterboxd.com/film/avatar-the-way-of-water/
-3,Everything Everywhere All at Once,https://letterboxd.com/film/everything-everywhere-all-at-once/
-4,Glass Onion,https://letterboxd.com/film/glass-onion/
-5,Aftersun,https://letterboxd.com/film/aftersun/
-6,The Batman,https://letterboxd.com/film/the-batman/
-7,The Menu,https://letterboxd.com/film/the-menu-2022/
-8,Top Gun: Maverick,https://letterboxd.com/film/top-gun-maverick/
-9,Bullet Train,https://letterboxd.com/film/bullet-train/
-10,Pearl,https://letterboxd.com/film/pearl-2022/
-11,All Quiet on the Western Front,https://letterboxd.com/film/all-quiet-on-the-western-front-2022/
-12,Scream,https://letterboxd.com/film/scream-2022/
-13,Barbarian,https://letterboxd.com/film/barbarian-2022/
-14,Nope,https://letterboxd.com/film/nope/
-15,Bodies Bodies Bodies,https://letterboxd.com/film/bodies-bodies-bodies/
-16,Close,https://letterboxd.com/film/close-2022/
-17,Puss in Boots: The Last Wish,https://letterboxd.com/film/puss-in-boots-the-last-wish/
-18,Babylon,https://letterboxd.com/film/babylon-2022/
-19,Don't Worry Darling,https://letterboxd.com/film/dont-worry-darling/
-20,X,https://letterboxd.com/film/x-2022/
-21,Smile,https://letterboxd.com/film/smile-2022/
-22,Talk to Me,https://letterboxd.com/film/talk-to-me-2022/
-23,Fall,https://letterboxd.com/film/fall-2022/
-24,Doctor Strange in the Multiverse of Madness,https://letterboxd.com/film/doctor-strange-in-the-multiverse-of-madness/
-25,The Whale,https://letterboxd.com/film/the-whale-2022/
-26,A Man Called Otto,https://letterboxd.com/film/a-man-called-otto/
-27,Triangle of Sadness,https://letterboxd.com/film/triangle-of-sadness/
-28,Enola Holmes 2,https://letterboxd.com/film/enola-holmes-2/
-29,The Banshees of Inisherin,https://letterboxd.com/film/the-banshees-of-inisherin/
-30,Entergalactic,https://letterboxd.com/film/entergalactic/
-31,Incantation,https://letterboxd.com/film/incantation-2022/
-32,The Northman,https://letterboxd.com/film/the-northman/
-33,Decision to Leave,https://letterboxd.com/film/decision-to-leave/
-34,Fresh,https://letterboxd.com/film/fresh-2022/
-35,20th Century Girl,https://letterboxd.com/film/20th-century-girl/
-36,Thor: Love and Thunder,https://letterboxd.com/film/thor-love-and-thunder/
-37,Turning Red,https://letterboxd.com/film/turning-red/
-38,Black Panther: Wakanda Forever,https://letterboxd.com/film/black-panther-wakanda-forever/
-39,Am I OK?,https://letterboxd.com/film/am-i-ok/
-40,Weak Hero,https://letterboxd.com/film/weak-hero/
-41,The Gray Man,https://letterboxd.com/film/the-gray-man-2022/
-42,Do Revenge,https://letterboxd.com/film/do-revenge/
-43,Uncharted,https://letterboxd.com/film/uncharted-2022/
-44,Jurassic World Dominion,https://letterboxd.com/film/jurassic-world-dominion/
-45,Where the Crawdads Sing,https://letterboxd.com/film/where-the-crawdads-sing/
-46,Suzume,https://letterboxd.com/film/suzume/
-47,Purple Hearts,https://letterboxd.com/film/purple-hearts-2022/
-48,Elvis,https://letterboxd.com/film/elvis-2022/
-49,The Backrooms (Found Footage),https://letterboxd.com/film/the-backrooms-found-footage/
-50,Hundreds of Beavers,https://letterboxd.com/film/hundreds-of-beavers/
+rank,title,director,actors,genres,url
+1,Bones and All,Luca Guadagnino,Taylor Russell; Timothée Chalamet; Mark Rylance,"Horror, Drama, Romance",https://letterboxd.com/film/bones-and-all/
+2,Avatar: The Way of Water,James Cameron,Sam Worthington; Zoe Saldaña; Sigourney Weaver,"Science Fiction, Action, Adventure",https://letterboxd.com/film/avatar-the-way-of-water/
+3,Everything Everywhere All at Once,"Daniel Scheinert, Daniel Kwan",Michelle Yeoh; Stephanie Hsu; Ke Huy Quan,"Science Fiction, Adventure, Comedy, Action",https://letterboxd.com/film/everything-everywhere-all-at-once/
+4,Glass Onion,Rian Johnson,Daniel Craig; Edward Norton; Janelle Monáe,"Crime, Mystery, Comedy",https://letterboxd.com/film/glass-onion/
+5,Aftersun,Charlotte Wells,Paul Mescal; Frankie Corio; Brooklyn Toulson,Drama,https://letterboxd.com/film/aftersun/
+6,The Batman,Matt Reeves,Robert Pattinson; Zoë Kravitz; Jeffrey Wright,"Crime, Mystery, Thriller",https://letterboxd.com/film/the-batman/
+7,The Menu,Mark Mylod,Anya Taylor-Joy; Ralph Fiennes; Nicholas Hoult,"Comedy, Horror",https://letterboxd.com/film/the-menu-2022/
+8,Top Gun: Maverick,Joseph Kosinski,Tom Cruise; Miles Teller; Jennifer Connelly,"Action, Drama",https://letterboxd.com/film/top-gun-maverick/
+9,Bullet Train,David Leitch,Brad Pitt; Joey King; Aaron Taylor-Johnson,"Comedy, Thriller, Action",https://letterboxd.com/film/bullet-train/
+10,Pearl,Ti West,Mia Goth; David Corenswet; Tandi Wright,Horror,https://letterboxd.com/film/pearl-2022/
+11,All Quiet on the Western Front,Edward Berger,Felix Kammerer; Albrecht Schuch; Aaron Hilmer,"Drama, War",https://letterboxd.com/film/all-quiet-on-the-western-front-2022/
+12,Scream,"Tyler Gillett, Matt Bettinelli-Olpin",Melissa Barrera; Jenna Ortega; Mason Gooding,"Mystery, Horror",https://letterboxd.com/film/scream-2022/
+13,Barbarian,Zach Cregger,Georgina Campbell; Justin Long; Bill Skarsgård,"Horror, Mystery",https://letterboxd.com/film/barbarian-2022/
+14,Nope,Jordan Peele,Daniel Kaluuya; Keke Palmer; Brandon Perea,"Science Fiction, Horror",https://letterboxd.com/film/nope/
+15,Bodies Bodies Bodies,Halina Reijn,Amandla Stenberg; Maria Bakalova; Myha'la,"Comedy, Horror, Mystery",https://letterboxd.com/film/bodies-bodies-bodies/
+16,Close,Lukas Dhont,Eden Dambrine; Gustav De Waele; Émilie Dequenne,Drama,https://letterboxd.com/film/close-2022/
+17,Puss in Boots: The Last Wish,Joel Crawford,Antonio Banderas; Salma Hayek Pinault; Harvey Guillén,"Animation, Family, Fantasy, Comedy, Adventure",https://letterboxd.com/film/puss-in-boots-the-last-wish/
+18,Babylon,Damien Chazelle,Diego Calva; Margot Robbie; Brad Pitt,"Comedy, Drama",https://letterboxd.com/film/babylon-2022/
+19,Don't Worry Darling,Olivia Wilde,Florence Pugh; Harry Styles; Chris Pine,"Horror, Mystery, Science Fiction, Thriller",https://letterboxd.com/film/dont-worry-darling/
+20,X,Ti West,Mia Goth; Jenna Ortega; Brittany Snow,Horror,https://letterboxd.com/film/x-2022/
+21,Smile,Parker Finn,Sosie Bacon; Kyle Gallner; Jessie T. Usher,"Horror, Mystery",https://letterboxd.com/film/smile-2022/
+22,Talk to Me,"Michael Philippou, Danny Philippou",Sophie Wilde; Alexandra Jensen; Joe Bird,Horror,https://letterboxd.com/film/talk-to-me-2022/
+23,Fall,Scott Mann,Grace Caroline Currey; Virginia Gardner; Jeffrey Dean Morgan,"Action, Thriller",https://letterboxd.com/film/fall-2022/
+24,Doctor Strange in the Multiverse of Madness,Sam Raimi,Benedict Cumberbatch; Xochitl Gomez; Elizabeth Olsen,"Fantasy, Action, Adventure",https://letterboxd.com/film/doctor-strange-in-the-multiverse-of-madness/
+25,The Whale,Darren Aronofsky,Brendan Fraser; Sadie Sink; Ty Simpkins,Drama,https://letterboxd.com/film/the-whale-2022/
+26,A Man Called Otto,Marc Forster,Tom Hanks; Mariana Treviño; Cameron Britton,"Drama, Comedy",https://letterboxd.com/film/a-man-called-otto/
+27,Triangle of Sadness,Ruben Östlund,Harris Dickinson; Charlbi Dean; Dolly de Leon,"Drama, Comedy",https://letterboxd.com/film/triangle-of-sadness/
+28,Enola Holmes 2,Harry Bradbeer,Millie Bobby Brown; Henry Cavill; David Thewlis,"Adventure, Crime, Mystery",https://letterboxd.com/film/enola-holmes-2/
+29,The Banshees of Inisherin,Martin McDonagh,Colin Farrell; Brendan Gleeson; Kerry Condon,"Comedy, Drama",https://letterboxd.com/film/the-banshees-of-inisherin/
+30,Entergalactic,Fletcher Moules,Kid Cudi; Jessica Williams; Laura Harrier,"Romance, Animation, Music",https://letterboxd.com/film/entergalactic/
+31,Incantation,Kevin Ko,Ina Tsai; Ven Kao; Sin-Ting Huang,Horror,https://letterboxd.com/film/incantation-2022/
+32,The Northman,Robert Eggers,Alexander Skarsgård; Nicole Kidman; Claes Bang,"Adventure, Action, Fantasy",https://letterboxd.com/film/the-northman/
+33,Decision to Leave,Park Chan-wook,Tang Wei; Park Hae-il; Lee Jung-hyun,"Mystery, Thriller, Romance",https://letterboxd.com/film/decision-to-leave/
+34,Fresh,Mimi Cave,Daisy Edgar-Jones; Sebastian Stan; Jojo T. Gibbs,"Horror, Thriller",https://letterboxd.com/film/fresh-2022/
+35,20th Century Girl,Bang Woo-ri,Kim You-jung; Byeon Woo-seok; Park Jung-woo,"Drama, Romance",https://letterboxd.com/film/20th-century-girl/
+36,Thor: Love and Thunder,Taika Waititi,Chris Hemsworth; Natalie Portman; Christian Bale,"Action, Fantasy, Comedy",https://letterboxd.com/film/thor-love-and-thunder/
+37,Turning Red,Domee Shi,Rosalie Chiang; Sandra Oh; Ava Morse,"Family, Fantasy, Animation, Comedy",https://letterboxd.com/film/turning-red/
+38,Black Panther: Wakanda Forever,Ryan Coogler,Letitia Wright; Tenoch Huerta Mejía; Lupita Nyong'o,"Science Fiction, Adventure, Action",https://letterboxd.com/film/black-panther-wakanda-forever/
+39,Am I OK?,"Tig Notaro, Stephanie Allynne",Dakota Johnson; Sonoya Mizuno; Jermaine Fowler,"Romance, Comedy, Drama",https://letterboxd.com/film/am-i-ok/
+40,Weak Hero,"Park Dan-hee, You Su-min",Park Ji-hoon; Choi Hyun-wook; Hong Kyung,Drama,https://letterboxd.com/film/weak-hero/
+41,The Gray Man,"Joe Russo, Anthony Russo",Ryan Gosling; Chris Evans; Ana de Armas,"Thriller, Action",https://letterboxd.com/film/the-gray-man-2022/
+42,The Backrooms (Found Footage),Kane Parsons,,"Science Fiction, Mystery, Horror",https://letterboxd.com/film/the-backrooms-found-footage/
+43,Do Revenge,Jennifer Kaytin Robinson,Camila Mendes; Maya Hawke; Austin Abrams,"Thriller, Comedy, Romance",https://letterboxd.com/film/do-revenge/
+44,Uncharted,Ruben Fleischer,Tom Holland; Mark Wahlberg; Sophia Ali,"Action, Adventure, Mystery",https://letterboxd.com/film/uncharted-2022/
+45,Jurassic World Dominion,Colin Trevorrow,Chris Pratt; Bryce Dallas Howard; Laura Dern,"Thriller, Science Fiction, Adventure",https://letterboxd.com/film/jurassic-world-dominion/
+46,Where the Crawdads Sing,Olivia Newman,Daisy Edgar-Jones; Taylor John Smith; Harris Dickinson,"Mystery, Drama, Romance",https://letterboxd.com/film/where-the-crawdads-sing/
+47,Suzume,Makoto Shinkai,Nanoka Hara; Hokuto Matsumura; Eri Fukatsu,"Fantasy, Animation, Adventure, Drama",https://letterboxd.com/film/suzume/
+48,Purple Hearts,Elizabeth Allen Rosenbaum,Sofia Carson; Nicholas Galitzine; John Harlan Kim,"Drama, Romance",https://letterboxd.com/film/purple-hearts-2022/
+49,Elvis,Baz Luhrmann,Austin Butler; Tom Hanks; Olivia DeJonge,"Music, History, Drama",https://letterboxd.com/film/elvis-2022/
+50,Hundreds of Beavers,Mike Cheslik,Ryland Brickson Cole Tews; Olivia Graves; Doug Mancheski,"Adventure, Comedy, Action",https://letterboxd.com/film/hundreds-of-beavers/

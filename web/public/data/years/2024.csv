@@ -1,51 +1,51 @@
-rank,title,url
-1,The Substance,https://letterboxd.com/film/the-substance/
-2,Dune: Part Two,https://letterboxd.com/film/dune-part-two/
-3,Challengers,https://letterboxd.com/film/challengers/
-4,Anora,https://letterboxd.com/film/anora/
-5,The Fall Guy,https://letterboxd.com/film/the-fall-guy-2024/
-6,Wicked,https://letterboxd.com/film/wicked-2024/
-7,I Saw the TV Glow,https://letterboxd.com/film/i-saw-the-tv-glow/
-8,The Life of Chuck,https://letterboxd.com/film/the-life-of-chuck/
-9,Heretic,https://letterboxd.com/film/heretic-2024/
-10,Conclave,https://letterboxd.com/film/conclave/
-11,Nosferatu,https://letterboxd.com/film/nosferatu-2024/
-12,The Wild Robot,https://letterboxd.com/film/the-wild-robot/
-13,Longlegs,https://letterboxd.com/film/longlegs/
-14,Deadpool & Wolverine,https://letterboxd.com/film/deadpool-wolverine/
-15,Inside Out 2,https://letterboxd.com/film/inside-out-2-2024/
-16,Smile 2,https://letterboxd.com/film/smile-2-2024/
-17,Flow,https://letterboxd.com/film/flow-2024/
-18,Trap,https://letterboxd.com/film/trap-2024/
-19,Blink Twice,https://letterboxd.com/film/blink-twice/
-20,Look Back,https://letterboxd.com/film/look-back-2024/
-21,We Live in Time,https://letterboxd.com/film/we-live-in-time/
-22,Two People Exchanging Saliva,https://letterboxd.com/film/two-people-exchanging-saliva/
-23,Abigail,https://letterboxd.com/film/abigail-2024/
-24,We Bury the Dead,https://letterboxd.com/film/we-bury-the-dead/
-25,MaXXXine,https://letterboxd.com/film/maxxxine/
-26,Gladiator II,https://letterboxd.com/film/gladiator-ii/
-27,Friendship,https://letterboxd.com/film/friendship-2024/
-28,A Complete Unknown,https://letterboxd.com/film/a-complete-unknown/
-29,Speak No Evil,https://letterboxd.com/film/speak-no-evil-2024/
-30,Civil War,https://letterboxd.com/film/civil-war-2024/
-31,Babygirl,https://letterboxd.com/film/babygirl-2024/
-32,Alien: Romulus,https://letterboxd.com/film/alien-romulus/
-33,It Ends with Us,https://letterboxd.com/film/it-ends-with-us/
-34,Twisters,https://letterboxd.com/film/twisters/
-35,A Real Pain,https://letterboxd.com/film/a-real-pain/
-36,A Quiet Place: Day One,https://letterboxd.com/film/a-quiet-place-day-one/
-37,I'm Still Here,https://letterboxd.com/film/im-still-here-2024/
-38,Butterfly,https://letterboxd.com/film/butterfly-2024-1/
-39,Retirement Plan,https://letterboxd.com/film/retirement-plan/
-40,Queer,https://letterboxd.com/film/queer-2024/
-41,Lisa Frankenstein,https://letterboxd.com/film/lisa-frankenstein/
-42,Tarot,https://letterboxd.com/film/tarot-2024/
-43,It's What's Inside,https://letterboxd.com/film/its-whats-inside/
-44,Jane Austen's Period Drama,https://letterboxd.com/film/jane-austens-period-drama/
-45,Shelby Oaks,https://letterboxd.com/film/shelby-oaks/
-46,Despicable Me 4,https://letterboxd.com/film/despicable-me-4/
-47,How to Make Millions Before Grandma Dies,https://letterboxd.com/film/how-to-make-millions-before-grandma-dies/
-48,The Idea of You,https://letterboxd.com/film/the-idea-of-you-2024/
-49,Beetlejuice Beetlejuice,https://letterboxd.com/film/beetlejuice-beetlejuice/
-50,Furiosa: A Mad Max Saga,https://letterboxd.com/film/furiosa-a-mad-max-saga/
+rank,title,director,actors,genres,url
+1,The Substance,Coralie Fargeat,Demi Moore; Margaret Qualley; Dennis Quaid,"Horror, Thriller, Science Fiction",https://letterboxd.com/film/the-substance/
+2,Dune: Part Two,Denis Villeneuve,Timothée Chalamet; Zendaya; Rebecca Ferguson,"Adventure, Science Fiction",https://letterboxd.com/film/dune-part-two/
+3,Challengers,Luca Guadagnino,Zendaya; Mike Faist; Josh O'Connor,"Romance, Drama",https://letterboxd.com/film/challengers/
+4,Anora,Sean Baker,Mikey Madison; Mark Eydelshteyn; Yura Borisov,"Drama, Romance, Comedy",https://letterboxd.com/film/anora/
+5,The Fall Guy,David Leitch,Ryan Gosling; Emily Blunt; Aaron Taylor-Johnson,"Action, Romance, Comedy",https://letterboxd.com/film/the-fall-guy-2024/
+6,Wicked,Jon M. Chu,Cynthia Erivo; Ariana Grande; Michelle Yeoh,"Romance, Drama, Fantasy",https://letterboxd.com/film/wicked-2024/
+7,I Saw the TV Glow,Jane Schoenbrun,Justice Smith; Jack Haven; Ian Foreman,"Drama, Horror",https://letterboxd.com/film/i-saw-the-tv-glow/
+8,The Life of Chuck,Mike Flanagan,Tom Hiddleston; Benjamin Pajak; Nick Offerman,"Drama, Fantasy",https://letterboxd.com/film/the-life-of-chuck/
+9,Heretic,"Scott Beck, Bryan Woods",Hugh Grant; Sophie Thatcher; Chloe East,"Thriller, Horror",https://letterboxd.com/film/heretic-2024/
+10,Conclave,Edward Berger,Ralph Fiennes; Stanley Tucci; John Lithgow,"Drama, Thriller",https://letterboxd.com/film/conclave/
+11,Nosferatu,Robert Eggers,Lily-Rose Depp; Nicholas Hoult; Bill Skarsgård,"Fantasy, Horror",https://letterboxd.com/film/nosferatu-2024/
+12,The Wild Robot,Chris Sanders,Lupita Nyong'o; Pedro Pascal; Kit Connor,"Adventure, Animation, Family, Science Fiction",https://letterboxd.com/film/the-wild-robot/
+13,Longlegs,Osgood Perkins,Maika Monroe; Nicolas Cage; Blair Underwood,"Crime, Horror, Mystery",https://letterboxd.com/film/longlegs/
+14,Deadpool & Wolverine,Shawn Levy,Ryan Reynolds; Hugh Jackman; Emma Corrin,"Science Fiction, Action, Comedy",https://letterboxd.com/film/deadpool-wolverine/
+15,Inside Out 2,Kelsey Mann,Amy Poehler; Maya Hawke; Kensington Tallman,"Comedy, Family, Adventure, Animation",https://letterboxd.com/film/inside-out-2-2024/
+16,Smile 2,Parker Finn,Naomi Scott; Rosemarie DeWitt; Lukas Gage,"Mystery, Horror, Thriller, Music",https://letterboxd.com/film/smile-2-2024/
+17,Flow,Gints Zilbalodis,,"Family, Animation, Adventure, Fantasy",https://letterboxd.com/film/flow-2024/
+18,Trap,M. Night Shyamalan,Josh Hartnett; Ariel Donoghue; Saleka Night Shyamalan,"Crime, Thriller, Horror",https://letterboxd.com/film/trap-2024/
+19,Blink Twice,Zoë Kravitz,Naomi Ackie; Channing Tatum; Alia Shawkat,"Mystery, Horror, Thriller",https://letterboxd.com/film/blink-twice/
+20,Look Back,Kiyotaka Oshiyama,Yuumi Kawai; Mizuki Yoshida; Yoichiro Saito,"Animation, Drama",https://letterboxd.com/film/look-back-2024/
+21,We Live in Time,John Crowley,Andrew Garfield; Florence Pugh; Grace Delaney,"Drama, Romance",https://letterboxd.com/film/we-live-in-time/
+22,Two People Exchanging Saliva,"Alexandre Singh, Natalie Musteata",Zar Amir Ebrahimi; Luàna Bajrami; Aurélie Boquien,"Science Fiction, Fantasy, Drama",https://letterboxd.com/film/two-people-exchanging-saliva/
+23,Abigail,"Tyler Gillett, Matt Bettinelli-Olpin",Melissa Barrera; Dan Stevens; Alisha Weir,"Horror, Thriller",https://letterboxd.com/film/abigail-2024/
+24,We Bury the Dead,Zak Hilditch,Daisy Ridley; Brenton Thwaites; Mark Coles Smith,"Thriller, Horror",https://letterboxd.com/film/we-bury-the-dead/
+25,MaXXXine,Ti West,Mia Goth; Elizabeth Debicki; Moses Sumney,"Horror, Thriller",https://letterboxd.com/film/maxxxine/
+26,Gladiator II,Ridley Scott,Paul Mescal; Denzel Washington; Pedro Pascal,"Drama, Action, Adventure",https://letterboxd.com/film/gladiator-ii/
+27,Friendship,Andrew DeYoung,Tim Robinson; Paul Rudd; Kate Mara,"Comedy, Drama",https://letterboxd.com/film/friendship-2024/
+28,A Complete Unknown,James Mangold,Timothée Chalamet; Edward Norton; Elle Fanning,"Drama, Music",https://letterboxd.com/film/a-complete-unknown/
+29,Speak No Evil,James Watkins,James McAvoy; Mackenzie Davis; Scoot McNairy,"Thriller, Horror",https://letterboxd.com/film/speak-no-evil-2024/
+30,Civil War,Alex Garland,Kirsten Dunst; Wagner Moura; Cailee Spaeny,"War, Drama, Action",https://letterboxd.com/film/civil-war-2024/
+31,Babygirl,Halina Reijn,Nicole Kidman; Harris Dickinson; Antonio Banderas,"Thriller, Romance",https://letterboxd.com/film/babygirl-2024/
+32,Alien: Romulus,Fede Álvarez,Cailee Spaeny; David Jonsson; Archie Renaux,"Science Fiction, Horror",https://letterboxd.com/film/alien-romulus/
+33,It Ends with Us,Justin Baldoni,Blake Lively; Justin Baldoni; Jenny Slate,"Drama, Romance",https://letterboxd.com/film/it-ends-with-us/
+34,Twisters,Lee Isaac Chung,Daisy Edgar-Jones; Glen Powell; Anthony Ramos,"Thriller, Action",https://letterboxd.com/film/twisters/
+35,A Real Pain,Jesse Eisenberg,Jesse Eisenberg; Kieran Culkin; Will Sharpe,"Comedy, Drama",https://letterboxd.com/film/a-real-pain/
+36,A Quiet Place: Day One,Michael Sarnoski,Lupita Nyong'o; Joseph Quinn; Alex Wolff,"Horror, Thriller, Science Fiction",https://letterboxd.com/film/a-quiet-place-day-one/
+37,I'm Still Here,Walter Salles,Fernanda Torres; Fernanda Montenegro; Selton Mello,"Drama, History",https://letterboxd.com/film/im-still-here-2024/
+38,Butterfly,Florence Miailhe,Fayçal Zafi; Jessica Jaouiche; Yassine Mestaoui,"Animation, Drama, History",https://letterboxd.com/film/butterfly-2024-1/
+39,Retirement Plan,John Kelly,Domhnall Gleeson,Animation,https://letterboxd.com/film/retirement-plan/
+40,Queer,Luca Guadagnino,Daniel Craig; Drew Starkey; Jason Schwartzman,"Romance, Drama",https://letterboxd.com/film/queer-2024/
+41,Lisa Frankenstein,Zelda Williams,Kathryn Newton; Cole Sprouse; Liza Soberano,"Comedy, Romance, Horror",https://letterboxd.com/film/lisa-frankenstein/
+42,Tarot,"Spenser Cohen, Anna Halberg",Harriet Slater; Wolfgang Novogratz; Adain Bradley,Horror,https://letterboxd.com/film/tarot-2024/
+43,It's What's Inside,Greg Jardin,James Morosini; Brittany O'Grady; David Thompson,"Science Fiction, Comedy, Mystery",https://letterboxd.com/film/its-whats-inside/
+44,Shelby Oaks,Chris Stuckmann,Camille Sullivan; Sarah Durn; Brendan Sexton III,"Horror, Mystery",https://letterboxd.com/film/shelby-oaks/
+45,Jane Austen's Period Drama,"Julia Aks, Steve Pinder",Julia Aks; Ta'imua; Samantha Smart,"Romance, Comedy, History",https://letterboxd.com/film/jane-austens-period-drama/
+46,Despicable Me 4,Chris Renaud,Steve Carell; Kristen Wiig; Will Ferrell,"Family, Action, Animation, Comedy, Science Fiction",https://letterboxd.com/film/despicable-me-4/
+47,The Idea of You,Michael Showalter,Anne Hathaway; Nicholas Galitzine; Ella Rubin,"Drama, Romance, Comedy, Music",https://letterboxd.com/film/the-idea-of-you-2024/
+48,How to Make Millions Before Grandma Dies,Pat Boonnitipat,Putthipong Assaratanakul; Usha Seamkhum; Sanya Kunakorn,Drama,https://letterboxd.com/film/how-to-make-millions-before-grandma-dies/
+49,Beetlejuice Beetlejuice,Tim Burton,Michael Keaton; Winona Ryder; Catherine O'Hara,"Comedy, Fantasy",https://letterboxd.com/film/beetlejuice-beetlejuice/
+50,Furiosa: A Mad Max Saga,George Miller,Anya Taylor-Joy; Chris Hemsworth; Tom Burke,"Science Fiction, Action, Adventure",https://letterboxd.com/film/furiosa-a-mad-max-saga/

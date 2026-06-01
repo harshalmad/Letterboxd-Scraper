@@ -26,7 +26,7 @@ jobs:
         run: pip install -r scraper/requirements.txt
 
       - name: Run scraper
-        run: python scraper/scraper.py --json-dir web/public/data --delay 1
+        run: python scraper/scraper.py --json-dir web/public/data --delay 1 --film-delay 0.75
 
       - name: Commit and push updated data
         run: |

@@ -5,252 +5,602 @@
     {
       "rank": 1,
       "title": "La La Land",
-      "url": "https://letterboxd.com/film/la-la-land/"
+      "url": "https://letterboxd.com/film/la-la-land/",
+      "director": "Damien Chazelle",
+      "actors": [
+        "Ryan Gosling",
+        "Emma Stone",
+        "John Legend"
+      ],
+      "genres": "Drama, Comedy, Romance"
     },
     {
       "rank": 2,
       "title": "Me Before You",
-      "url": "https://letterboxd.com/film/me-before-you/"
+      "url": "https://letterboxd.com/film/me-before-you/",
+      "director": "Thea Sharrock",
+      "actors": [
+        "Emilia Clarke",
+        "Sam Claflin",
+        "Janet McTeer"
+      ],
+      "genres": "Drama, Romance"
     },
     {
       "rank": 3,
       "title": "Zootopia",
-      "url": "https://letterboxd.com/film/zootopia/"
+      "url": "https://letterboxd.com/film/zootopia/",
+      "director": "Byron Howard, Rich Moore",
+      "actors": [
+        "Ginnifer Goodwin",
+        "Jason Bateman",
+        "Idris Elba"
+      ],
+      "genres": "Animation, Family, Comedy, Adventure"
     },
     {
       "rank": 4,
       "title": "Arrival",
-      "url": "https://letterboxd.com/film/arrival-2016/"
+      "url": "https://letterboxd.com/film/arrival-2016/",
+      "director": "Denis Villeneuve",
+      "actors": [
+        "Amy Adams",
+        "Jeremy Renner",
+        "Forest Whitaker"
+      ],
+      "genres": "Mystery, Science Fiction, Drama"
     },
     {
       "rank": 5,
       "title": "Moonlight",
-      "url": "https://letterboxd.com/film/moonlight-2016/"
+      "url": "https://letterboxd.com/film/moonlight-2016/",
+      "director": "Barry Jenkins",
+      "actors": [
+        "Trevante Rhodes",
+        "André Holland",
+        "Janelle Monáe"
+      ],
+      "genres": "Drama"
     },
     {
       "rank": 6,
       "title": "The Nice Guys",
-      "url": "https://letterboxd.com/film/the-nice-guys/"
+      "url": "https://letterboxd.com/film/the-nice-guys/",
+      "director": "Shane Black",
+      "actors": [
+        "Russell Crowe",
+        "Ryan Gosling",
+        "Angourie Rice"
+      ],
+      "genres": "Action, Comedy, Crime"
     },
     {
       "rank": 7,
       "title": "Manchester by the Sea",
-      "url": "https://letterboxd.com/film/manchester-by-the-sea/"
+      "url": "https://letterboxd.com/film/manchester-by-the-sea/",
+      "director": "Kenneth Lonergan",
+      "actors": [
+        "Casey Affleck",
+        "Lucas Hedges",
+        "Michelle Williams"
+      ],
+      "genres": "Drama"
     },
     {
       "rank": 8,
       "title": "Captain America: Civil War",
-      "url": "https://letterboxd.com/film/captain-america-civil-war/"
+      "url": "https://letterboxd.com/film/captain-america-civil-war/",
+      "director": "Joe Russo, Anthony Russo",
+      "actors": [
+        "Chris Evans",
+        "Robert Downey Jr.",
+        "Scarlett Johansson"
+      ],
+      "genres": "Adventure, Action, Science Fiction"
     },
     {
       "rank": 9,
       "title": "Your Name.",
-      "url": "https://letterboxd.com/film/your-name/"
+      "url": "https://letterboxd.com/film/your-name/",
+      "director": "Makoto Shinkai",
+      "actors": [
+        "Ryunosuke Kamiki",
+        "Mone Kamishiraishi",
+        "Ryo Narita"
+      ],
+      "genres": "Romance, Animation, Drama"
     },
     {
       "rank": 10,
       "title": "The Handmaiden",
-      "url": "https://letterboxd.com/film/the-handmaiden/"
+      "url": "https://letterboxd.com/film/the-handmaiden/",
+      "director": "Park Chan-wook",
+      "actors": [
+        "Kim Min-hee",
+        "Kim Tae-ri",
+        "Ha Jung-woo"
+      ],
+      "genres": "Thriller, Romance, Drama"
     },
     {
       "rank": 11,
       "title": "Hacksaw Ridge",
-      "url": "https://letterboxd.com/film/hacksaw-ridge/"
+      "url": "https://letterboxd.com/film/hacksaw-ridge/",
+      "director": "Mel Gibson",
+      "actors": [
+        "Andrew Garfield",
+        "Sam Worthington",
+        "Vince Vaughn"
+      ],
+      "genres": "War, Drama, History"
     },
     {
       "rank": 12,
       "title": "A Silent Voice: The Movie",
-      "url": "https://letterboxd.com/film/a-silent-voice-the-movie/"
+      "url": "https://letterboxd.com/film/a-silent-voice-the-movie/",
+      "director": "Naoko Yamada",
+      "actors": [
+        "Miyu Irino",
+        "Saori Hayami",
+        "Aoi Yuuki"
+      ],
+      "genres": "Romance, Animation, Drama"
     },
     {
       "rank": 13,
       "title": "Rogue One: A Star Wars Story",
-      "url": "https://letterboxd.com/film/rogue-one-a-star-wars-story/"
+      "url": "https://letterboxd.com/film/rogue-one-a-star-wars-story/",
+      "director": "Gareth Edwards",
+      "actors": [
+        "Felicity Jones",
+        "Diego Luna",
+        "Alan Tudyk"
+      ],
+      "genres": "Adventure, Action, Science Fiction"
     },
     {
       "rank": 14,
       "title": "War Dogs",
-      "url": "https://letterboxd.com/film/war-dogs-2016/"
+      "url": "https://letterboxd.com/film/war-dogs-2016/",
+      "director": "Todd Phillips",
+      "actors": [
+        "Miles Teller",
+        "Jonah Hill",
+        "Ana de Armas"
+      ],
+      "genres": "Drama, Comedy, Crime"
     },
     {
       "rank": 15,
       "title": "Train to Busan",
-      "url": "https://letterboxd.com/film/train-to-busan/"
+      "url": "https://letterboxd.com/film/train-to-busan/",
+      "director": "Yeon Sang-ho",
+      "actors": [
+        "Gong Yoo",
+        "Kim Su-an",
+        "Jung Yu-mi"
+      ],
+      "genres": "Thriller, Horror, Adventure, Action"
     },
     {
       "rank": 16,
       "title": "The Edge of Seventeen",
-      "url": "https://letterboxd.com/film/the-edge-of-seventeen/"
+      "url": "https://letterboxd.com/film/the-edge-of-seventeen/",
+      "director": "Kelly Fremon Craig",
+      "actors": [
+        "Hailee Steinfeld",
+        "Woody Harrelson",
+        "Haley Lu Richardson"
+      ],
+      "genres": "Drama, Comedy"
     },
     {
       "rank": 17,
       "title": "Doctor Strange",
-      "url": "https://letterboxd.com/film/doctor-strange-2016/"
+      "url": "https://letterboxd.com/film/doctor-strange-2016/",
+      "director": "Scott Derrickson",
+      "actors": [
+        "Benedict Cumberbatch",
+        "Chiwetel Ejiofor",
+        "Rachel McAdams"
+      ],
+      "genres": "Fantasy, Action, Adventure"
     },
     {
       "rank": 18,
       "title": "Split",
-      "url": "https://letterboxd.com/film/split-2016/"
+      "url": "https://letterboxd.com/film/split-2016/",
+      "director": "M. Night Shyamalan",
+      "actors": [
+        "James McAvoy",
+        "Anya Taylor-Joy",
+        "Haley Lu Richardson"
+      ],
+      "genres": "Horror, Thriller"
     },
     {
       "rank": 19,
       "title": "Deadpool",
-      "url": "https://letterboxd.com/film/deadpool/"
+      "url": "https://letterboxd.com/film/deadpool/",
+      "director": "Tim Miller",
+      "actors": [
+        "Ryan Reynolds",
+        "Morena Baccarin",
+        "Ed Skrein"
+      ],
+      "genres": "Action, Adventure, Comedy"
     },
     {
       "rank": 20,
       "title": "Miss Peregrine's Home for Peculiar Children",
-      "url": "https://letterboxd.com/film/miss-peregrines-home-for-peculiar-children/"
+      "url": "https://letterboxd.com/film/miss-peregrines-home-for-peculiar-children/",
+      "director": "Tim Burton",
+      "actors": [
+        "Eva Green",
+        "Asa Butterfield",
+        "Samuel L. Jackson"
+      ],
+      "genres": "Family, Drama, Thriller, Fantasy, Adventure"
     },
     {
       "rank": 21,
       "title": "Moana",
-      "url": "https://letterboxd.com/film/moana-2016/"
+      "url": "https://letterboxd.com/film/moana-2016/",
+      "director": "Ron Clements, John Musker",
+      "actors": [
+        "Auliʻi Cravalho",
+        "Dwayne Johnson",
+        "Rachel House"
+      ],
+      "genres": "Animation, Adventure, Family, Comedy"
     },
     {
       "rank": 22,
       "title": "The Conjuring 2",
-      "url": "https://letterboxd.com/film/the-conjuring-2/"
+      "url": "https://letterboxd.com/film/the-conjuring-2/",
+      "director": "James Wan",
+      "actors": [
+        "Vera Farmiga",
+        "Patrick Wilson",
+        "Madison Wolfe"
+      ],
+      "genres": "Horror"
     },
     {
       "rank": 23,
       "title": "Now You See Me 2",
-      "url": "https://letterboxd.com/film/now-you-see-me-2/"
+      "url": "https://letterboxd.com/film/now-you-see-me-2/",
+      "director": "Jon M. Chu",
+      "actors": [
+        "Jesse Eisenberg",
+        "Mark Ruffalo",
+        "Woody Harrelson"
+      ],
+      "genres": "Thriller, Crime"
     },
     {
       "rank": 24,
       "title": "Hidden Figures",
-      "url": "https://letterboxd.com/film/hidden-figures/"
+      "url": "https://letterboxd.com/film/hidden-figures/",
+      "director": "Theodore Melfi",
+      "actors": [
+        "Taraji P. Henson",
+        "Octavia Spencer",
+        "Janelle Monáe"
+      ],
+      "genres": "Drama, History"
     },
     {
       "rank": 25,
       "title": "Suicide Squad",
-      "url": "https://letterboxd.com/film/suicide-squad-2016/"
+      "url": "https://letterboxd.com/film/suicide-squad-2016/",
+      "director": "David Ayer",
+      "actors": [
+        "Will Smith",
+        "Jared Leto",
+        "Margot Robbie"
+      ],
+      "genres": "Action, Adventure, Fantasy"
     },
     {
       "rank": 26,
-      "title": "Passengers",
-      "url": "https://letterboxd.com/film/passengers-2016/"
+      "title": "The Autopsy of Jane Doe",
+      "url": "https://letterboxd.com/film/the-autopsy-of-jane-doe/",
+      "director": "André Øvredal",
+      "actors": [
+        "Emile Hirsch",
+        "Brian Cox",
+        "Ophelia Lovibond"
+      ],
+      "genres": "Horror, Mystery"
     },
     {
       "rank": 27,
-      "title": "The Autopsy of Jane Doe",
-      "url": "https://letterboxd.com/film/the-autopsy-of-jane-doe/"
+      "title": "Passengers",
+      "url": "https://letterboxd.com/film/passengers-2016/",
+      "director": "Morten Tyldum",
+      "actors": [
+        "Jennifer Lawrence",
+        "Chris Pratt",
+        "Michael Sheen"
+      ],
+      "genres": "Drama, Science Fiction, Romance"
     },
     {
       "rank": 28,
       "title": "Kung Fu Panda 3",
-      "url": "https://letterboxd.com/film/kung-fu-panda-3/"
+      "url": "https://letterboxd.com/film/kung-fu-panda-3/",
+      "director": "Jennifer Yuh Nelson, Alessandro Carloni",
+      "actors": [
+        "Jack Black",
+        "Bryan Cranston",
+        "Dustin Hoffman"
+      ],
+      "genres": "Adventure, Comedy, Action, Family, Animation"
     },
     {
       "rank": 29,
       "title": "Sing",
-      "url": "https://letterboxd.com/film/sing-2016/"
+      "url": "https://letterboxd.com/film/sing-2016/",
+      "director": "Garth Jennings",
+      "actors": [
+        "Matthew McConaughey",
+        "Reese Witherspoon",
+        "Seth MacFarlane"
+      ],
+      "genres": "Comedy, Music, Animation, Family"
     },
     {
       "rank": 30,
       "title": "Terrifier",
-      "url": "https://letterboxd.com/film/terrifier-2016/"
+      "url": "https://letterboxd.com/film/terrifier-2016/",
+      "director": "Damien Leone",
+      "actors": [
+        "David Howard Thornton",
+        "Jenna Kanell",
+        "Samantha Scaffidi"
+      ],
+      "genres": "Horror"
     },
     {
       "rank": 31,
       "title": "The Wailing",
-      "url": "https://letterboxd.com/film/the-wailing/"
+      "url": "https://letterboxd.com/film/the-wailing/",
+      "director": "Na Hong-jin",
+      "actors": [
+        "Kwak Do-won",
+        "Hwang Jung-min",
+        "Chun Woo-hee"
+      ],
+      "genres": "Horror, Mystery"
     },
     {
       "rank": 32,
       "title": "Nerve",
-      "url": "https://letterboxd.com/film/nerve-2016/"
+      "url": "https://letterboxd.com/film/nerve-2016/",
+      "director": "Henry Joost, Ariel Schulman",
+      "actors": [
+        "Emma Roberts",
+        "Dave Franco",
+        "Emily Meade"
+      ],
+      "genres": "Mystery, Adventure, Crime"
     },
     {
       "rank": 33,
       "title": "Fantastic Beasts and Where to Find Them",
-      "url": "https://letterboxd.com/film/fantastic-beasts-and-where-to-find-them/"
+      "url": "https://letterboxd.com/film/fantastic-beasts-and-where-to-find-them/",
+      "director": "David Yates",
+      "actors": [
+        "Eddie Redmayne",
+        "Katherine Waterston",
+        "Dan Fogler"
+      ],
+      "genres": "Fantasy, Adventure"
     },
     {
       "rank": 34,
       "title": "The Love Witch",
-      "url": "https://letterboxd.com/film/the-love-witch/"
+      "url": "https://letterboxd.com/film/the-love-witch/",
+      "director": "Anna Biller",
+      "actors": [
+        "Samantha Robinson",
+        "Gian Keys",
+        "Laura Waddell"
+      ],
+      "genres": "Romance, Horror, Comedy, Fantasy"
     },
     {
       "rank": 35,
       "title": "Finding Dory",
-      "url": "https://letterboxd.com/film/finding-dory/"
+      "url": "https://letterboxd.com/film/finding-dory/",
+      "director": "Andrew Stanton",
+      "actors": [
+        "Albert Brooks",
+        "Ellen DeGeneres",
+        "Ed O'Neill"
+      ],
+      "genres": "Adventure, Animation, Family"
     },
     {
       "rank": 36,
       "title": "Nocturnal Animals",
-      "url": "https://letterboxd.com/film/nocturnal-animals/"
+      "url": "https://letterboxd.com/film/nocturnal-animals/",
+      "director": "Tom Ford",
+      "actors": [
+        "Amy Adams",
+        "Jake Gyllenhaal",
+        "Michael Shannon"
+      ],
+      "genres": "Drama, Thriller"
     },
     {
       "rank": 37,
       "title": "X-Men: Apocalypse",
-      "url": "https://letterboxd.com/film/x-men-apocalypse/"
+      "url": "https://letterboxd.com/film/x-men-apocalypse/",
+      "director": "Bryan Singer",
+      "actors": [
+        "James McAvoy",
+        "Michael Fassbender",
+        "Jennifer Lawrence"
+      ],
+      "genres": "Science Fiction, Action, Fantasy"
     },
     {
       "rank": 38,
       "title": "Hell or High Water",
-      "url": "https://letterboxd.com/film/hell-or-high-water/"
+      "url": "https://letterboxd.com/film/hell-or-high-water/",
+      "director": "David Mackenzie",
+      "actors": [
+        "Jeff Bridges",
+        "Chris Pine",
+        "Ben Foster"
+      ],
+      "genres": "Crime, Western, Drama"
     },
     {
       "rank": 39,
       "title": "Sausage Party",
-      "url": "https://letterboxd.com/film/sausage-party/"
+      "url": "https://letterboxd.com/film/sausage-party/",
+      "director": "Conrad Vernon, Greg Tiernan",
+      "actors": [
+        "Seth Rogen",
+        "Kristen Wiig",
+        "Jonah Hill"
+      ],
+      "genres": "Comedy, Animation, Adventure, Fantasy"
     },
     {
       "rank": 40,
       "title": "Sing Street",
-      "url": "https://letterboxd.com/film/sing-street/"
+      "url": "https://letterboxd.com/film/sing-street/",
+      "director": "John Carney",
+      "actors": [
+        "Ferdia Walsh-Peelo",
+        "Lucy Boynton",
+        "Jack Reynor"
+      ],
+      "genres": "Romance, Drama, Music, Comedy"
     },
     {
       "rank": 41,
       "title": "A Cure for Wellness",
-      "url": "https://letterboxd.com/film/a-cure-for-wellness/"
+      "url": "https://letterboxd.com/film/a-cure-for-wellness/",
+      "director": "Gore Verbinski",
+      "actors": [
+        "Dane DeHaan",
+        "Jason Isaacs",
+        "Mia Goth"
+      ],
+      "genres": "Mystery, Science Fiction, Horror"
     },
     {
       "rank": 42,
       "title": "My Life as a Zucchini",
-      "url": "https://letterboxd.com/film/my-life-as-a-zucchini/"
+      "url": "https://letterboxd.com/film/my-life-as-a-zucchini/",
+      "director": "Claude Barras",
+      "actors": [
+        "Gaspard Schlatter",
+        "Sixtine Murat",
+        "Paulin Jaccoud"
+      ],
+      "genres": "Drama, Comedy, Animation"
     },
     {
       "rank": 43,
       "title": "Popstar: Never Stop Never Stopping",
-      "url": "https://letterboxd.com/film/popstar-never-stop-never-stopping/"
+      "url": "https://letterboxd.com/film/popstar-never-stop-never-stopping/",
+      "director": "Akiva Schaffer, Jorma Taccone",
+      "actors": [
+        "Andy Samberg",
+        "Jorma Taccone",
+        "Akiva Schaffer"
+      ],
+      "genres": "Comedy, Music"
     },
     {
       "rank": 44,
       "title": "Shin Godzilla",
-      "url": "https://letterboxd.com/film/shin-godzilla/"
+      "url": "https://letterboxd.com/film/shin-godzilla/",
+      "director": "Shinji Higuchi, Hideaki Anno",
+      "actors": [
+        "Hiroki Hasegawa",
+        "Yutaka Takenouchi",
+        "Satomi Ishihara"
+      ],
+      "genres": "Action, Horror, Science Fiction"
     },
     {
       "rank": 45,
       "title": "Silence",
-      "url": "https://letterboxd.com/film/silence/"
+      "url": "https://letterboxd.com/film/silence/",
+      "director": "Martin Scorsese",
+      "actors": [
+        "Andrew Garfield",
+        "Adam Driver",
+        "Liam Neeson"
+      ],
+      "genres": "History, Drama"
     },
     {
       "rank": 46,
       "title": "Central Intelligence",
-      "url": "https://letterboxd.com/film/central-intelligence/"
+      "url": "https://letterboxd.com/film/central-intelligence/",
+      "director": "Rawson Marshall Thurber",
+      "actors": [
+        "Dwayne Johnson",
+        "Kevin Hart",
+        "Amy Ryan"
+      ],
+      "genres": "Comedy, Action"
     },
     {
       "rank": 47,
       "title": "Trolls",
-      "url": "https://letterboxd.com/film/trolls/"
+      "url": "https://letterboxd.com/film/trolls/",
+      "director": "Mike Mitchell",
+      "actors": [
+        "Anna Kendrick",
+        "Justin Timberlake",
+        "Zooey Deschanel"
+      ],
+      "genres": "Fantasy, Animation, Comedy, Family, Adventure, Music"
     },
     {
       "rank": 48,
       "title": "10 Cloverfield Lane",
-      "url": "https://letterboxd.com/film/10-cloverfield-lane/"
+      "url": "https://letterboxd.com/film/10-cloverfield-lane/",
+      "director": "Dan Trachtenberg",
+      "actors": [
+        "John Goodman",
+        "Mary Elizabeth Winstead",
+        "John Gallagher Jr."
+      ],
+      "genres": "Science Fiction, Thriller, Horror, Drama"
     },
     {
       "rank": 49,
       "title": "Raw",
-      "url": "https://letterboxd.com/film/raw-2016/"
+      "url": "https://letterboxd.com/film/raw-2016/",
+      "director": "Julia Ducournau",
+      "actors": [
+        "Garance Marillier",
+        "Ella Rumpf",
+        "Rabah Nait Oufella"
+      ],
+      "genres": "Drama, Horror"
     },
     {
       "rank": 50,
       "title": "Batman v Superman: Dawn of Justice",
-      "url": "https://letterboxd.com/film/batman-v-superman-dawn-of-justice/"
+      "url": "https://letterboxd.com/film/batman-v-superman-dawn-of-justice/",
+      "director": "Zack Snyder",
+      "actors": [
+        "Ben Affleck",
+        "Henry Cavill",
+        "Jesse Eisenberg"
+      ],
+      "genres": "Action, Fantasy, Adventure"
     }
   ]
 }

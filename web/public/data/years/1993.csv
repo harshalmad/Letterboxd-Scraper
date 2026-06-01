@@ -1,51 +1,51 @@
-rank,title,url
-1,Jurassic Park,https://letterboxd.com/film/jurassic-park/
-2,Schindler's List,https://letterboxd.com/film/schindlers-list/
-3,Dazed and Confused,https://letterboxd.com/film/dazed-and-confused/
-4,Groundhog Day,https://letterboxd.com/film/groundhog-day/
-5,A Bronx Tale,https://letterboxd.com/film/a-bronx-tale/
-6,Sleepless in Seattle,https://letterboxd.com/film/sleepless-in-seattle/
-7,Mrs. Doubtfire,https://letterboxd.com/film/mrs-doubtfire/
-8,The Nightmare Before Christmas,https://letterboxd.com/film/the-nightmare-before-christmas/
-9,Three Colours: Blue,https://letterboxd.com/film/three-colours-blue/
-10,Carlito's Way,https://letterboxd.com/film/carlitos-way/
-11,True Romance,https://letterboxd.com/film/true-romance/
-12,What's Eating Gilbert Grape,https://letterboxd.com/film/whats-eating-gilbert-grape/
-13,Cool Runnings,https://letterboxd.com/film/cool-runnings/
-14,The Fugitive,https://letterboxd.com/film/the-fugitive-1993/
-15,Tombstone,https://letterboxd.com/film/tombstone/
-16,The Sandlot,https://letterboxd.com/film/the-sandlot/
-17,Totally F***ed Up,https://letterboxd.com/film/totally-fed-up/
-18,The Age of Innocence,https://letterboxd.com/film/the-age-of-innocence/
-19,Falling Down,https://letterboxd.com/film/falling-down/
-20,Batman: Mask of the Phantasm,https://letterboxd.com/film/batman-mask-of-the-phantasm/
-21,Philadelphia,https://letterboxd.com/film/philadelphia/
-22,The Firm,https://letterboxd.com/film/the-firm-1993/
-23,Ocean Waves,https://letterboxd.com/film/ocean-waves/
-24,Naked,https://letterboxd.com/film/naked/
-25,Farewell My Concubine,https://letterboxd.com/film/farewell-my-concubine/
-26,Hocus Pocus,https://letterboxd.com/film/hocus-pocus/
-27,Menace II Society,https://letterboxd.com/film/menace-ii-society/
-28,Addams Family Values,https://letterboxd.com/film/addams-family-values/
-29,The Piano,https://letterboxd.com/film/the-piano/
-30,Striking Distance,https://letterboxd.com/film/striking-distance/
-31,In the Name of the Father,https://letterboxd.com/film/in-the-name-of-the-father-1993/
-32,Sonatine,https://letterboxd.com/film/sonatine/
-33,The Crush,https://letterboxd.com/film/the-crush/
-34,Much Ado About Nothing,https://letterboxd.com/film/much-ado-about-nothing/
-35,Sister Act 2: Back in the Habit,https://letterboxd.com/film/sister-act-2-back-in-the-habit/
-36,The Remains of the Day,https://letterboxd.com/film/the-remains-of-the-day/
-37,Demolition Man,https://letterboxd.com/film/demolition-man/
-38,Leprechaun,https://letterboxd.com/film/leprechaun/
-39,The Wrong Trousers,https://letterboxd.com/film/the-wrong-trousers/
-40,Super Mario Bros.,https://letterboxd.com/film/super-mario-bros/
-41,The Secret Garden,https://letterboxd.com/film/the-secret-garden-1993/
-42,Robin Hood: Men in Tights,https://letterboxd.com/film/robin-hood-men-in-tights/
-43,This Boy's Life,https://letterboxd.com/film/this-boys-life/
-44,Indecent Proposal,https://letterboxd.com/film/indecent-proposal/
-45,The Pelican Brief,https://letterboxd.com/film/the-pelican-brief/
-46,Bottle Rocket,https://letterboxd.com/film/bottle-rocket/
-47,So I Married an Axe Murderer,https://letterboxd.com/film/so-i-married-an-axe-murderer/
-48,Fearless,https://letterboxd.com/film/fearless/
-49,Poetic Justice,https://letterboxd.com/film/poetic-justice/
-50,Jason Goes to Hell: The Final Friday,https://letterboxd.com/film/jason-goes-to-hell-the-final-friday/
+rank,title,director,actors,genres,url
+1,Jurassic Park,Steven Spielberg,Sam Neill; Laura Dern; Jeff Goldblum,"Science Fiction, Adventure",https://letterboxd.com/film/jurassic-park/
+2,Schindler's List,Steven Spielberg,Liam Neeson; Ben Kingsley; Ralph Fiennes,"History, Drama, War",https://letterboxd.com/film/schindlers-list/
+3,Dazed and Confused,Richard Linklater,Jason London; Matthew McConaughey; Joey Lauren Adams,"Comedy, Drama",https://letterboxd.com/film/dazed-and-confused/
+4,Groundhog Day,Harold Ramis,Bill Murray; Andie MacDowell; Chris Elliott,"Comedy, Fantasy, Romance",https://letterboxd.com/film/groundhog-day/
+5,A Bronx Tale,Robert De Niro,Robert De Niro; Chazz Palminteri; Lillo Brancato,"Drama, Crime",https://letterboxd.com/film/a-bronx-tale/
+6,Sleepless in Seattle,Nora Ephron,Meg Ryan; Tom Hanks; Ross Malinger,"Romance, Drama, Comedy",https://letterboxd.com/film/sleepless-in-seattle/
+7,Mrs. Doubtfire,Chris Columbus,Robin Williams; Sally Field; Lisa Jakub,"Family, Comedy, Drama",https://letterboxd.com/film/mrs-doubtfire/
+8,The Nightmare Before Christmas,Henry Selick,Danny Elfman; Chris Sarandon; Catherine O'Hara,"Family, Animation, Fantasy",https://letterboxd.com/film/the-nightmare-before-christmas/
+9,Three Colours: Blue,Krzysztof Kieślowski,Juliette Binoche; Benoît Régent; Florence Pernel,Drama,https://letterboxd.com/film/three-colours-blue/
+10,Carlito's Way,Brian De Palma,Al Pacino; Sean Penn; Penelope Ann Miller,"Thriller, Drama, Crime",https://letterboxd.com/film/carlitos-way/
+11,True Romance,Tony Scott,Christian Slater; Patricia Arquette; Dennis Hopper,"Romance, Crime, Action",https://letterboxd.com/film/true-romance/
+12,What's Eating Gilbert Grape,Lasse Hallström,Johnny Depp; Leonardo DiCaprio; Juliette Lewis,"Romance, Drama",https://letterboxd.com/film/whats-eating-gilbert-grape/
+13,Cool Runnings,Jon Turteltaub,Leon; Doug E. Doug; Rawle D. Lewis,"Adventure, Drama, Comedy",https://letterboxd.com/film/cool-runnings/
+14,The Fugitive,Andrew Davis,Harrison Ford; Tommy Lee Jones; Joe Pantoliano,"Drama, Thriller, Action",https://letterboxd.com/film/the-fugitive-1993/
+15,Tombstone,George P. Cosmatos,Kurt Russell; Val Kilmer; Michael Biehn,"Western, Action",https://letterboxd.com/film/tombstone/
+16,The Sandlot,David Mickey Evans,Tom Guiry; Mike Vitar; Patrick Renna,"Family, Comedy, Drama",https://letterboxd.com/film/the-sandlot/
+17,Totally F***ed Up,Gregg Araki,James Duval; Roko Belic; Susan Behshid,"Romance, Drama, Comedy",https://letterboxd.com/film/totally-fed-up/
+18,The Age of Innocence,Martin Scorsese,Daniel Day-Lewis; Michelle Pfeiffer; Winona Ryder,"Romance, Drama",https://letterboxd.com/film/the-age-of-innocence/
+19,Falling Down,Joel Schumacher,Michael Douglas; Robert Duvall; Barbara Hershey,"Thriller, Drama, Crime",https://letterboxd.com/film/falling-down/
+20,Batman: Mask of the Phantasm,"Bruce Timm, Eric Radomski",Kevin Conroy; Dana Delany; Hart Bochner,"Mystery, Animation, Crime",https://letterboxd.com/film/batman-mask-of-the-phantasm/
+21,Philadelphia,Jonathan Demme,Tom Hanks; Denzel Washington; Jason Robards,Drama,https://letterboxd.com/film/philadelphia/
+22,The Firm,Sydney Pollack,Tom Cruise; Jeanne Tripplehorn; Gene Hackman,"Drama, Mystery, Thriller",https://letterboxd.com/film/the-firm-1993/
+23,Ocean Waves,Tomomi Mochizuki,Nobuo Tobita; Yoko Sakamoto; Toshihiko Seki,"Romance, Animation, Drama",https://letterboxd.com/film/ocean-waves/
+24,Naked,Mike Leigh,David Thewlis; Lesley Sharp; Katrin Cartlidge,"Comedy, Drama",https://letterboxd.com/film/naked/
+25,Farewell My Concubine,Chen Kaige,Leslie Cheung; Zhang Fengyi; Gong Li,Drama,https://letterboxd.com/film/farewell-my-concubine/
+26,Hocus Pocus,Kenny Ortega,Bette Midler; Sarah Jessica Parker; Kathy Najimy,"Comedy, Family, Fantasy",https://letterboxd.com/film/hocus-pocus/
+27,The Piano,Jane Campion,Holly Hunter; Harvey Keitel; Sam Neill,"Romance, Drama",https://letterboxd.com/film/the-piano/
+28,Menace II Society,"Allen Hughes, Albert Hughes",Tyrin Turner; Larenz Tate; Glenn Plummer,"Crime, Drama, Thriller",https://letterboxd.com/film/menace-ii-society/
+29,Addams Family Values,Barry Sonnenfeld,Anjelica Huston; Raúl Juliá; Christopher Lloyd,"Comedy, Family, Fantasy",https://letterboxd.com/film/addams-family-values/
+30,Striking Distance,Rowdy Herrington,Bruce Willis; Sarah Jessica Parker; Dennis Farina,"Mystery, Action, Crime, Thriller",https://letterboxd.com/film/striking-distance/
+31,In the Name of the Father,Jim Sheridan,Daniel Day-Lewis; Pete Postlethwaite; Emma Thompson,Drama,https://letterboxd.com/film/in-the-name-of-the-father-1993/
+32,Sonatine,Takeshi Kitano,Takeshi Kitano; Aya Kokumai; Tetsu Watanabe,"Action, Thriller, Crime",https://letterboxd.com/film/sonatine/
+33,The Crush,Alan Shapiro,Cary Elwes; Alicia Silverstone; Jennifer Rubin,"Thriller, Drama",https://letterboxd.com/film/the-crush/
+34,Much Ado About Nothing,Kenneth Branagh,Emma Thompson; Kenneth Branagh; Kate Beckinsale,"Drama, Romance, Comedy",https://letterboxd.com/film/much-ado-about-nothing/
+35,Sister Act 2: Back in the Habit,Bill Duke,Whoopi Goldberg; Kathy Najimy; Lauryn Hill,"Comedy, Music",https://letterboxd.com/film/sister-act-2-back-in-the-habit/
+36,The Remains of the Day,James Ivory,Anthony Hopkins; Emma Thompson; James Fox,"Romance, Drama",https://letterboxd.com/film/the-remains-of-the-day/
+37,Demolition Man,Marco Brambilla,Sylvester Stallone; Wesley Snipes; Sandra Bullock,"Science Fiction, Action, Crime",https://letterboxd.com/film/demolition-man/
+38,Leprechaun,Mark Jones,Warwick Davis; Jennifer Aniston; Ken Olandt,"Comedy, Horror",https://letterboxd.com/film/leprechaun/
+39,The Wrong Trousers,Nick Park,Peter Sallis,"Animation, Family, Comedy",https://letterboxd.com/film/the-wrong-trousers/
+40,Super Mario Bros.,"Annabel Jankel, Rocky Morton",Bob Hoskins; John Leguizamo; Dennis Hopper,"Fantasy, Family, Adventure, Comedy",https://letterboxd.com/film/super-mario-bros/
+41,The Secret Garden,Agnieszka Holland,Kate Maberly; Heydon Prowse; Andrew Knott,"Drama, Fantasy, Family",https://letterboxd.com/film/the-secret-garden-1993/
+42,Robin Hood: Men in Tights,Mel Brooks,Cary Elwes; Richard Lewis; Roger Rees,Comedy,https://letterboxd.com/film/robin-hood-men-in-tights/
+43,This Boy's Life,Michael Caton-Jones,Robert De Niro; Ellen Barkin; Leonardo DiCaprio,Drama,https://letterboxd.com/film/this-boys-life/
+44,Indecent Proposal,Adrian Lyne,Robert Redford; Demi Moore; Woody Harrelson,"Drama, Romance",https://letterboxd.com/film/indecent-proposal/
+45,The Pelican Brief,Alan J. Pakula,Julia Roberts; Denzel Washington; Sam Shepard,"Thriller, Crime, Drama",https://letterboxd.com/film/the-pelican-brief/
+46,Bottle Rocket,Wes Anderson,Owen Wilson; Luke Wilson; Robert Musgrave,"Comedy, Crime",https://letterboxd.com/film/bottle-rocket/
+47,So I Married an Axe Murderer,Thomas Schlamme,Mike Myers; Nancy Travis; Anthony LaPaglia,"Romance, Crime, Comedy",https://letterboxd.com/film/so-i-married-an-axe-murderer/
+48,Fearless,Peter Weir,Jeff Bridges; Isabella Rossellini; Rosie Perez,Drama,https://letterboxd.com/film/fearless/
+49,Poetic Justice,John Singleton,Janet Jackson; Tupac Shakur; Regina King,"Romance, Drama",https://letterboxd.com/film/poetic-justice/
+50,Jason Goes to Hell: The Final Friday,Adam Marcus,Kane Hodder; John D. LeMay; Kari Keegan,"Horror, Thriller",https://letterboxd.com/film/jason-goes-to-hell-the-final-friday/

@@ -1,51 +1,51 @@
-rank,title,url
-1,Reservoir Dogs,https://letterboxd.com/film/reservoir-dogs/
-2,Twin Peaks: Fire Walk with Me,https://letterboxd.com/film/twin-peaks-fire-walk-with-me/
-3,Scent of a Woman,https://letterboxd.com/film/scent-of-a-woman/
-4,Porco Rosso,https://letterboxd.com/film/porco-rosso/
-5,Bram Stoker's Dracula,https://letterboxd.com/film/bram-stokers-dracula/
-6,Aladdin,https://letterboxd.com/film/aladdin/
-7,Hard Boiled,https://letterboxd.com/film/hard-boiled/
-8,Death Becomes Her,https://letterboxd.com/film/death-becomes-her/
-9,My Cousin Vinny,https://letterboxd.com/film/my-cousin-vinny/
-10,A Few Good Men,https://letterboxd.com/film/a-few-good-men/
-11,Home Alone 2: Lost in New York,https://letterboxd.com/film/home-alone-2-lost-in-new-york/
-12,Malcolm X,https://letterboxd.com/film/malcolm-x-1992/
-13,Unforgiven,https://letterboxd.com/film/unforgiven/
-14,Army of Darkness,https://letterboxd.com/film/army-of-darkness/
-15,Basic Instinct,https://letterboxd.com/film/basic-instinct/
-16,Batman Returns,https://letterboxd.com/film/batman-returns/
-17,Alien³,https://letterboxd.com/film/alien-3/
-18,Sister Act,https://letterboxd.com/film/sister-act/
-19,Lessons of Darkness,https://letterboxd.com/film/lessons-of-darkness/
-20,A League of Their Own,https://letterboxd.com/film/a-league-of-their-own/
-21,The Bodyguard,https://letterboxd.com/film/the-bodyguard-1992/
-22,Wayne's World,https://letterboxd.com/film/waynes-world/
-23,The Player,https://letterboxd.com/film/the-player/
-24,The Last of the Mohicans,https://letterboxd.com/film/the-last-of-the-mohicans-1992/
-25,Glengarry Glen Ross,https://letterboxd.com/film/glengarry-glen-ross/
-26,The Living End,https://letterboxd.com/film/the-living-end/
-27,Candyman,https://letterboxd.com/film/candyman/
-28,Wuthering Heights,https://letterboxd.com/film/wuthering-heights-1992/
-29,Braindead,https://letterboxd.com/film/braindead-1992/
-30,Orlando,https://letterboxd.com/film/orlando/
-31,Cronos,https://letterboxd.com/film/cronos/
-32,The Cutting Edge,https://letterboxd.com/film/the-cutting-edge/
-33,The Mighty Ducks,https://letterboxd.com/film/the-mighty-ducks/
-34,Bad Lieutenant,https://letterboxd.com/film/bad-lieutenant/
-35,Jamon Jamon,https://letterboxd.com/film/jamon-jamon/
-36,Benny's Video,https://letterboxd.com/film/bennys-video/
-37,The Hand That Rocks the Cradle,https://letterboxd.com/film/the-hand-that-rocks-the-cradle/
-38,The Muppet Christmas Carol,https://letterboxd.com/film/the-muppet-christmas-carol/
-39,Single White Female,https://letterboxd.com/film/single-white-female/
-40,Singles,https://letterboxd.com/film/singles/
-41,Sneakers,https://letterboxd.com/film/sneakers/
-42,Midori,https://letterboxd.com/film/midori-1992/
-43,"Life, and Nothing More…",https://letterboxd.com/film/life-and-nothing-more/
-44,FernGully: The Last Rainforest,https://letterboxd.com/film/ferngully-the-last-rainforest/
-45,Juice,https://letterboxd.com/film/juice/
-46,Of Mice and Men,https://letterboxd.com/film/of-mice-and-men-1992/
-47,Sleepwalkers,https://letterboxd.com/film/sleepwalkers/
-48,Under Siege,https://letterboxd.com/film/under-siege/
-49,Man Bites Dog,https://letterboxd.com/film/man-bites-dog/
-50,Like Water for Chocolate,https://letterboxd.com/film/like-water-for-chocolate/
+rank,title,director,actors,genres,url
+1,Reservoir Dogs,Quentin Tarantino,Harvey Keitel; Tim Roth; Michael Madsen,"Crime, Thriller",https://letterboxd.com/film/reservoir-dogs/
+2,Twin Peaks: Fire Walk with Me,David Lynch,Sheryl Lee; Ray Wise; Mädchen Amick,"Drama, Mystery, Horror",https://letterboxd.com/film/twin-peaks-fire-walk-with-me/
+3,Scent of a Woman,Martin Brest,Al Pacino; Chris O'Donnell; James Rebhorn,Drama,https://letterboxd.com/film/scent-of-a-woman/
+4,Porco Rosso,Hayao Miyazaki,Shūichirō Moriyama; Tokiko Kato; Bunshi Katsura VI,"Fantasy, Adventure, Animation",https://letterboxd.com/film/porco-rosso/
+5,Bram Stoker's Dracula,Francis Ford Coppola,Gary Oldman; Winona Ryder; Anthony Hopkins,"Horror, Romance",https://letterboxd.com/film/bram-stokers-dracula/
+6,Aladdin,"John Musker, Ron Clements",Scott Weinger; Robin Williams; Linda Larkin,"Fantasy, Adventure, Romance, Family, Animation",https://letterboxd.com/film/aladdin/
+7,Hard Boiled,John Woo,Chow Yun-Fat; Tony Leung Chiu-wai; Anthony Wong Chau-Sang,"Action, Thriller, Crime",https://letterboxd.com/film/hard-boiled/
+8,Death Becomes Her,Robert Zemeckis,Meryl Streep; Goldie Hawn; Bruce Willis,"Comedy, Fantasy, Horror",https://letterboxd.com/film/death-becomes-her/
+9,My Cousin Vinny,Jonathan Lynn,Joe Pesci; Marisa Tomei; Ralph Macchio,"Drama, Comedy",https://letterboxd.com/film/my-cousin-vinny/
+10,A Few Good Men,Rob Reiner,Tom Cruise; Jack Nicholson; Demi Moore,Drama,https://letterboxd.com/film/a-few-good-men/
+11,Home Alone 2: Lost in New York,Chris Columbus,Macaulay Culkin; Joe Pesci; Daniel Stern,"Family, Comedy, Adventure",https://letterboxd.com/film/home-alone-2-lost-in-new-york/
+12,Malcolm X,Spike Lee,Denzel Washington; Angela Bassett; Albert Hall,"History, Drama",https://letterboxd.com/film/malcolm-x-1992/
+13,Unforgiven,Clint Eastwood,Clint Eastwood; Gene Hackman; Morgan Freeman,Western,https://letterboxd.com/film/unforgiven/
+14,Army of Darkness,Sam Raimi,Bruce Campbell; Embeth Davidtz; Marcus Gilbert,"Comedy, Fantasy, Horror",https://letterboxd.com/film/army-of-darkness/
+15,Batman Returns,Tim Burton,Michael Keaton; Danny DeVito; Michelle Pfeiffer,"Fantasy, Action",https://letterboxd.com/film/batman-returns/
+16,Basic Instinct,Paul Verhoeven,Michael Douglas; Sharon Stone; George Dzundza,"Thriller, Mystery",https://letterboxd.com/film/basic-instinct/
+17,Alien³,David Fincher,Sigourney Weaver; Charles S. Dutton; Charles Dance,"Horror, Action, Science Fiction",https://letterboxd.com/film/alien-3/
+18,Sister Act,Emile Ardolino,Whoopi Goldberg; Maggie Smith; Kathy Najimy,"Music, Comedy",https://letterboxd.com/film/sister-act/
+19,Lessons of Darkness,Werner Herzog,Werner Herzog,"Documentary, TV Movie, War",https://letterboxd.com/film/lessons-of-darkness/
+20,A League of Their Own,Penny Marshall,Tom Hanks; Geena Davis; Lori Petty,"Comedy, Drama",https://letterboxd.com/film/a-league-of-their-own/
+21,The Bodyguard,Mick Jackson,Kevin Costner; Whitney Houston; Gary Kemp,"Drama, Action, Romance",https://letterboxd.com/film/the-bodyguard-1992/
+22,Wayne's World,Penelope Spheeris,Mike Myers; Dana Carvey; Rob Lowe,"Comedy, Music",https://letterboxd.com/film/waynes-world/
+23,The Player,Robert Altman,Tim Robbins; Greta Scacchi; Fred Ward,"Mystery, Drama, Thriller, Crime, Comedy",https://letterboxd.com/film/the-player/
+24,The Last of the Mohicans,Michael Mann,Daniel Day-Lewis; Madeleine Stowe; Jodhi May,"Romance, Action, War, History",https://letterboxd.com/film/the-last-of-the-mohicans-1992/
+25,Glengarry Glen Ross,James Foley,Al Pacino; Jack Lemmon; Alec Baldwin,"Mystery, Crime, Drama",https://letterboxd.com/film/glengarry-glen-ross/
+26,The Living End,Gregg Araki,Mike Dytri; Craig Gilmore; Mark Finch,"Romance, Drama, Crime",https://letterboxd.com/film/the-living-end/
+27,Candyman,Bernard Rose,Virginia Madsen; Tony Todd; Xander Berkeley,"Thriller, Horror, Drama",https://letterboxd.com/film/candyman/
+28,Wuthering Heights,Peter Kosminsky,Juliette Binoche; Ralph Fiennes; Janet McTeer,"Romance, Drama",https://letterboxd.com/film/wuthering-heights-1992/
+29,Braindead,Peter Jackson,Timothy Balme; Diana Peñalver; Elizabeth Moody,"Comedy, Horror",https://letterboxd.com/film/braindead-1992/
+30,Orlando,Sally Potter,Tilda Swinton; Billy Zane; Lothaire Bluteau,"Drama, Fantasy",https://letterboxd.com/film/orlando/
+31,Cronos,Guillermo del Toro,Federico Luppi; Ron Perlman; Claudio Brook,"Horror, Thriller, Drama",https://letterboxd.com/film/cronos/
+32,The Cutting Edge,Paul Michael Glaser,D. B. Sweeney; Moira Kelly; Roy Dotrice,"Comedy, Romance, Drama",https://letterboxd.com/film/the-cutting-edge/
+33,The Mighty Ducks,Stephen Herek,Emilio Estevez; Joss Ackland; Lane Smith,"Family, Comedy, Drama",https://letterboxd.com/film/the-mighty-ducks/
+34,Bad Lieutenant,Abel Ferrara,Harvey Keitel; Peggy Gormley; Stella Keitel,"Drama, Crime",https://letterboxd.com/film/bad-lieutenant/
+35,Jamon Jamon,Bigas Luna,Stefania Sandrelli; Anna Galiena; Juan Diego,"Romance, Drama, Comedy",https://letterboxd.com/film/jamon-jamon/
+36,Benny's Video,Michael Haneke,Arno Frisch; Angela Winkler; Ulrich Mühe,"Crime, Drama",https://letterboxd.com/film/bennys-video/
+37,The Hand That Rocks the Cradle,Curtis Hanson,Annabella Sciorra; Rebecca De Mornay; Matt McCoy,"Thriller, Drama",https://letterboxd.com/film/the-hand-that-rocks-the-cradle/
+38,Single White Female,Barbet Schroeder,Bridget Fonda; Jennifer Jason Leigh; Steven Weber,"Horror, Thriller",https://letterboxd.com/film/single-white-female/
+39,The Muppet Christmas Carol,Brian Henson,Michael Caine; Dave Goelz; Steve Whitmire,"Drama, Family, Comedy, Music, Fantasy",https://letterboxd.com/film/the-muppet-christmas-carol/
+40,Singles,Cameron Crowe,Bridget Fonda; Campbell Scott; Kyra Sedgwick,"Comedy, Drama, Romance",https://letterboxd.com/film/singles/
+41,Sneakers,Phil Alden Robinson,Robert Redford; Sidney Poitier; David Strathairn,"Crime, Comedy, Drama",https://letterboxd.com/film/sneakers/
+42,Midori,Hiroshi Harada,Minako Naka; Norihiko Morishita; Keinosuke Okamoto,"Horror, Drama, Animation",https://letterboxd.com/film/midori-1992/
+43,"Life, and Nothing More…",Abbas Kiarostami,Farhad Kheradmand; Buba Bayour; Hossein Rezai,"Drama, Adventure",https://letterboxd.com/film/life-and-nothing-more/
+44,FernGully: The Last Rainforest,Bill Kroyer,Samantha Mathis; Jonathan Ward; Christian Slater,"Animation, Family, Adventure, Fantasy",https://letterboxd.com/film/ferngully-the-last-rainforest/
+45,Juice,Ernest R. Dickerson,Omar Epps; Tupac Shakur; Khalil Kain,"Thriller, Drama, Crime",https://letterboxd.com/film/juice/
+46,Of Mice and Men,Gary Sinise,John Malkovich; Gary Sinise; Ray Walston,Drama,https://letterboxd.com/film/of-mice-and-men-1992/
+47,Under Siege,Andrew Davis,Steven Seagal; Tommy Lee Jones; Gary Busey,"Thriller, Action",https://letterboxd.com/film/under-siege/
+48,Sleepwalkers,Mick Garris,Brian Krause; Mädchen Amick; Alice Krige,"Fantasy, Thriller, Horror",https://letterboxd.com/film/sleepwalkers/
+49,Man Bites Dog,"Rémy Belvaux, André Bonzel, Benoît Poelvoorde",Benoît Poelvoorde; Rémy Belvaux; André Bonzel,"Comedy, Crime",https://letterboxd.com/film/man-bites-dog/
+50,Like Water for Chocolate,Alfonso Arau,Lumi Cavazos; Marco Leonardi; Regina Torné,"Drama, Romance",https://letterboxd.com/film/like-water-for-chocolate/

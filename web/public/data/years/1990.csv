@@ -1,51 +1,51 @@
-rank,title,url
-1,GoodFellas,https://letterboxd.com/film/goodfellas/
-2,Pretty Woman,https://letterboxd.com/film/pretty-woman/
-3,Misery,https://letterboxd.com/film/misery/
-4,Edward Scissorhands,https://letterboxd.com/film/edward-scissorhands/
-5,Home Alone,https://letterboxd.com/film/home-alone/
-6,Back to the Future Part III,https://letterboxd.com/film/back-to-the-future-part-iii/
-7,Wild at Heart,https://letterboxd.com/film/wild-at-heart/
-8,Paris Is Burning,https://letterboxd.com/film/paris-is-burning/
-9,The Godfather Part III,https://letterboxd.com/film/the-godfather-part-iii/
-10,Mermaids,https://letterboxd.com/film/mermaids/
-11,Ghost,https://letterboxd.com/film/ghost/
-12,Total Recall,https://letterboxd.com/film/total-recall/
-13,Jacob's Ladder,https://letterboxd.com/film/jacobs-ladder/
-14,Close-Up,https://letterboxd.com/film/close-up/
-15,Awakenings,https://letterboxd.com/film/awakenings/
-16,Dreams,https://letterboxd.com/film/dreams/
-17,Frankenhooker,https://letterboxd.com/film/frankenhooker/
-18,King of New York,https://letterboxd.com/film/king-of-new-york/
-19,It,https://letterboxd.com/film/it-1990/
-20,Days of Thunder,https://letterboxd.com/film/days-of-thunder/
-21,Predator 2,https://letterboxd.com/film/predator-2/
-22,Days of Being Wild,https://letterboxd.com/film/ah-fei-jing-juen/
-23,Kindergarten Cop,https://letterboxd.com/film/kindergarten-cop/
-24,Cry-Baby,https://letterboxd.com/film/cry-baby/
-25,Dances with Wolves,https://letterboxd.com/film/dances-with-wolves/
-26,Tremors,https://letterboxd.com/film/tremors/
-27,The Hunt for Red October,https://letterboxd.com/film/the-hunt-for-red-october/
-28,Teenage Mutant Ninja Turtles,https://letterboxd.com/film/teenage-mutant-ninja-turtles/
-29,Miller's Crossing,https://letterboxd.com/film/millers-crossing/
-30,Die Hard 2,https://letterboxd.com/film/die-hard-2/
-31,Gremlins 2: The New Batch,https://letterboxd.com/film/gremlins-2-the-new-batch/
-32,Rocky V,https://letterboxd.com/film/rocky-v/
-33,Child's Play 2,https://letterboxd.com/film/childs-play-2/
-34,Bullet in the Head,https://letterboxd.com/film/bullet-in-the-head/
-35,Darkman,https://letterboxd.com/film/darkman/
-36,Slacker,https://letterboxd.com/film/slacker/
-37,Postcards from the Edge,https://letterboxd.com/film/postcards-from-the-edge/
-38,Green Card,https://letterboxd.com/film/green-card/
-39,The Witches,https://letterboxd.com/film/the-witches/
-40,Lord of the Flies,https://letterboxd.com/film/lord-of-the-flies-1990/
-41,Metropolitan,https://letterboxd.com/film/metropolitan/
-42,The Exorcist III,https://letterboxd.com/film/the-exorcist-iii/
-43,Presumed Innocent,https://letterboxd.com/film/presumed-innocent/
-44,Dick Tracy,https://letterboxd.com/film/dick-tracy/
-45,State of Grace,https://letterboxd.com/film/state-of-grace/
-46,RoboCop 2,https://letterboxd.com/film/robocop-2/
-47,Bad Influence,https://letterboxd.com/film/bad-influence/
-48,The Match Factory Girl,https://letterboxd.com/film/the-match-factory-girl/
-49,Nikita,https://letterboxd.com/film/nikita/
-50,Troll 2,https://letterboxd.com/film/troll-2/
+rank,title,director,actors,genres,url
+1,GoodFellas,Martin Scorsese,Robert De Niro; Ray Liotta; Joe Pesci,"Crime, Drama",https://letterboxd.com/film/goodfellas/
+2,Pretty Woman,Garry Marshall,Richard Gere; Julia Roberts; Ralph Bellamy,"Comedy, Romance",https://letterboxd.com/film/pretty-woman/
+3,Misery,Rob Reiner,Kathy Bates; James Caan; Richard Farnsworth,"Drama, Horror, Thriller",https://letterboxd.com/film/misery/
+4,Edward Scissorhands,Tim Burton,Johnny Depp; Winona Ryder; Dianne Wiest,"Fantasy, Drama, Romance",https://letterboxd.com/film/edward-scissorhands/
+5,Home Alone,Chris Columbus,Macaulay Culkin; Joe Pesci; Daniel Stern,"Family, Comedy",https://letterboxd.com/film/home-alone/
+6,Back to the Future Part III,Robert Zemeckis,Michael J. Fox; Christopher Lloyd; Mary Steenburgen,"Comedy, Adventure, Science Fiction, Western",https://letterboxd.com/film/back-to-the-future-part-iii/
+7,Wild at Heart,David Lynch,Nicolas Cage; Laura Dern; Willem Dafoe,"Crime, Thriller, Romance",https://letterboxd.com/film/wild-at-heart/
+8,Paris Is Burning,Jennie Livingston,Pepper LaBeija; Octavia St. Laurent; Venus Xtravaganza,Documentary,https://letterboxd.com/film/paris-is-burning/
+9,The Godfather Part III,Francis Ford Coppola,Al Pacino; Diane Keaton; Talia Shire,"Drama, Thriller, Crime",https://letterboxd.com/film/the-godfather-part-iii/
+10,Mermaids,Richard Benjamin,Cher; Bob Hoskins; Winona Ryder,"Drama, Romance, Comedy",https://letterboxd.com/film/mermaids/
+11,Ghost,Jerry Zucker,Demi Moore; Patrick Swayze; Whoopi Goldberg,"Fantasy, Romance, Thriller",https://letterboxd.com/film/ghost/
+12,Total Recall,Paul Verhoeven,Arnold Schwarzenegger; Rachel Ticotin; Sharon Stone,"Action, Adventure, Science Fiction",https://letterboxd.com/film/total-recall/
+13,Jacob's Ladder,Adrian Lyne,Tim Robbins; Elizabeth Peña; Danny Aiello,"Horror, Drama, Mystery",https://letterboxd.com/film/jacobs-ladder/
+14,Close-Up,Abbas Kiarostami,Hossain Sabzian; Monoochehr Ahankhah; Mahrokh Ahankhah,"Crime, Drama",https://letterboxd.com/film/close-up/
+15,Awakenings,Penny Marshall,Robert De Niro; Robin Williams; John Heard,Drama,https://letterboxd.com/film/awakenings/
+16,Dreams,Akira Kurosawa,Akira Terao; Mitsuko Baisho; Toshie Negishi,"Drama, Fantasy",https://letterboxd.com/film/dreams/
+17,Frankenhooker,Frank Henenlotter,James Lorinz; Patty Mullen; Joanne Ritchie,"Comedy, Science Fiction, Horror",https://letterboxd.com/film/frankenhooker/
+18,King of New York,Abel Ferrara,Christopher Walken; David Caruso; Laurence Fishburne,"Thriller, Crime",https://letterboxd.com/film/king-of-new-york/
+19,It,Tommy Lee Wallace,Tim Curry; Harry Anderson; Dennis Christopher,"Mystery, Drama, Horror",https://letterboxd.com/film/it-1990/
+20,Days of Thunder,Tony Scott,Tom Cruise; Robert Duvall; Nicole Kidman,"Drama, Adventure, Action",https://letterboxd.com/film/days-of-thunder/
+21,Predator 2,Stephen Hopkins,Danny Glover; Gary Busey; Rubén Blades,"Action, Science Fiction, Thriller",https://letterboxd.com/film/predator-2/
+22,Days of Being Wild,Wong Kar-Wai,Leslie Cheung; Maggie Cheung; Andy Lau,"Drama, Romance, Crime",https://letterboxd.com/film/ah-fei-jing-juen/
+23,Kindergarten Cop,Ivan Reitman,Arnold Schwarzenegger; Penelope Ann Miller; Pamela Reed,Comedy,https://letterboxd.com/film/kindergarten-cop/
+24,Cry-Baby,John Waters,Johnny Depp; Amy Locane; Susan Tyrrell,"Comedy, Romance",https://letterboxd.com/film/cry-baby/
+25,Dances with Wolves,Kevin Costner,Kevin Costner; Mary McDonnell; Graham Greene,"Western, Drama, Adventure",https://letterboxd.com/film/dances-with-wolves/
+26,Tremors,Ron Underwood,Kevin Bacon; Fred Ward; Finn Carter,"Horror, Action, Science Fiction, Comedy",https://letterboxd.com/film/tremors/
+27,The Hunt for Red October,John McTiernan,Sean Connery; Alec Baldwin; Scott Glenn,"Thriller, Action",https://letterboxd.com/film/the-hunt-for-red-october/
+28,Teenage Mutant Ninja Turtles,Steve Barron,Brian Tochi; Josh Pais; Corey Feldman,"Comedy, Family, Science Fiction, Action, Adventure",https://letterboxd.com/film/teenage-mutant-ninja-turtles/
+29,Miller's Crossing,Joel Coen,Gabriel Byrne; Marcia Gay Harden; John Turturro,"Drama, Thriller, Crime",https://letterboxd.com/film/millers-crossing/
+30,Die Hard 2,Renny Harlin,Bruce Willis; Bonnie Bedelia; William Sadler,"Action, Thriller",https://letterboxd.com/film/die-hard-2/
+31,Gremlins 2: The New Batch,Joe Dante,Zach Galligan; Phoebe Cates; John Glover,"Comedy, Fantasy, Horror",https://letterboxd.com/film/gremlins-2-the-new-batch/
+32,Rocky V,John G. Avildsen,Sylvester Stallone; Talia Shire; Burt Young,Drama,https://letterboxd.com/film/rocky-v/
+33,Child's Play 2,John Lafia,Alex Vincent; Brad Dourif; Christine Elise,Horror,https://letterboxd.com/film/childs-play-2/
+34,Bullet in the Head,John Woo,Tony Leung Chiu-wai; Jacky Cheung Hok-Yau; Waise Lee Chi-Hung,"Crime, War, Thriller, Action",https://letterboxd.com/film/bullet-in-the-head/
+35,Darkman,Sam Raimi,Liam Neeson; Frances McDormand; Colin Friels,"Action, Thriller, Science Fiction",https://letterboxd.com/film/darkman/
+36,Postcards from the Edge,Mike Nichols,Meryl Streep; Shirley MacLaine; Dennis Quaid,"Comedy, Drama",https://letterboxd.com/film/postcards-from-the-edge/
+37,Slacker,Richard Linklater,Richard Linklater; Rudy Basquez; Jean Caffeine,"Comedy, Drama",https://letterboxd.com/film/slacker/
+38,Green Card,Peter Weir,Gérard Depardieu; Andie MacDowell; Bebe Neuwirth,"Comedy, Drama, Romance",https://letterboxd.com/film/green-card/
+39,The Witches,Nicolas Roeg,Jasen Fisher; Mai Zetterling; Anjelica Huston,"Horror, Family, Fantasy",https://letterboxd.com/film/the-witches/
+40,Lord of the Flies,Harry Hook,Balthazar Getty; Chris Furrh; Danuel Pipoly,"Drama, Thriller, Adventure",https://letterboxd.com/film/lord-of-the-flies-1990/
+41,Metropolitan,Whit Stillman,Edward Clements; Chris Eigeman; Taylor Nichols,"Romance, Comedy, Drama",https://letterboxd.com/film/metropolitan/
+42,The Exorcist III,William Peter Blatty,George C. Scott; Ed Flanders; Brad Dourif,"Horror, Mystery",https://letterboxd.com/film/the-exorcist-iii/
+43,Presumed Innocent,Alan J. Pakula,Harrison Ford; Brian Dennehy; Raúl Juliá,"Mystery, Thriller, Crime",https://letterboxd.com/film/presumed-innocent/
+44,Dick Tracy,Warren Beatty,Warren Beatty; Al Pacino; Madonna,"Comedy, Adventure, Crime",https://letterboxd.com/film/dick-tracy/
+45,State of Grace,Phil Joanou,Sean Penn; Ed Harris; Gary Oldman,"Thriller, Drama, Crime",https://letterboxd.com/film/state-of-grace/
+46,Bad Influence,Curtis Hanson,James Spader; Rob Lowe; Lisa Zane,Thriller,https://letterboxd.com/film/bad-influence/
+47,RoboCop 2,Irvin Kershner,Peter Weller; Nancy Allen; Tom Noonan,"Science Fiction, Action, Thriller",https://letterboxd.com/film/robocop-2/
+48,The Match Factory Girl,Aki Kaurismäki,Kati Outinen; Elina Salo; Esko Nikkari,Drama,https://letterboxd.com/film/the-match-factory-girl/
+49,Nikita,Luc Besson,Anne Parillaud; Jean-Hugues Anglade; Tchéky Karyo,"Action, Thriller",https://letterboxd.com/film/nikita/
+50,Troll 2,Claudio Fragasso,Michael Stephenson; George Hardy; Margo Prey,"Fantasy, Horror",https://letterboxd.com/film/troll-2/

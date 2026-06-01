@@ -5,252 +5,602 @@
     {
       "rank": 1,
       "title": "Raiders of the Lost Ark",
-      "url": "https://letterboxd.com/film/raiders-of-the-lost-ark/"
+      "url": "https://letterboxd.com/film/raiders-of-the-lost-ark/",
+      "director": "Steven Spielberg",
+      "actors": [
+        "Harrison Ford",
+        "Karen Allen",
+        "Paul Freeman"
+      ],
+      "genres": "Adventure, Action"
     },
     {
       "rank": 2,
       "title": "Possession",
-      "url": "https://letterboxd.com/film/possession/"
+      "url": "https://letterboxd.com/film/possession/",
+      "director": "Andrzej Żuławski",
+      "actors": [
+        "Isabelle Adjani",
+        "Sam Neill",
+        "Margit Carstensen"
+      ],
+      "genres": "Horror"
     },
     {
       "rank": 3,
       "title": "Blow Out",
-      "url": "https://letterboxd.com/film/blow-out/"
+      "url": "https://letterboxd.com/film/blow-out/",
+      "director": "Brian De Palma",
+      "actors": [
+        "John Travolta",
+        "Nancy Allen",
+        "John Lithgow"
+      ],
+      "genres": "Thriller, Mystery, Crime"
     },
     {
       "rank": 4,
       "title": "Thief",
-      "url": "https://letterboxd.com/film/thief/"
+      "url": "https://letterboxd.com/film/thief/",
+      "director": "Michael Mann",
+      "actors": [
+        "James Caan",
+        "Tuesday Weld",
+        "Robert Prosky"
+      ],
+      "genres": "Thriller, Crime, Drama"
     },
     {
       "rank": 5,
       "title": "The Evil Dead",
-      "url": "https://letterboxd.com/film/the-evil-dead/"
+      "url": "https://letterboxd.com/film/the-evil-dead/",
+      "director": "Sam Raimi",
+      "actors": [
+        "Bruce Campbell",
+        "Ellen Sandweiss",
+        "Richard DeManincor"
+      ],
+      "genres": "Horror"
     },
     {
       "rank": 6,
       "title": "Christiane F.",
-      "url": "https://letterboxd.com/film/christiane-f/"
+      "url": "https://letterboxd.com/film/christiane-f/",
+      "director": "Uli Edel",
+      "actors": [
+        "Natja Brunckhorst",
+        "Thomas Haustein",
+        "Jens Kuphal"
+      ],
+      "genres": "Drama"
     },
     {
       "rank": 7,
       "title": "Escape from New York",
-      "url": "https://letterboxd.com/film/escape-from-new-york/"
+      "url": "https://letterboxd.com/film/escape-from-new-york/",
+      "director": "John Carpenter",
+      "actors": [
+        "Kurt Russell",
+        "Lee Van Cleef",
+        "Ernest Borgnine"
+      ],
+      "genres": "Action, Science Fiction, Thriller"
     },
     {
       "rank": 8,
       "title": "Friday the 13th Part 2",
-      "url": "https://letterboxd.com/film/friday-the-13th-part-2/"
+      "url": "https://letterboxd.com/film/friday-the-13th-part-2/",
+      "director": "Steve Miner",
+      "actors": [
+        "Russell Todd",
+        "Amy Steel",
+        "John Furey"
+      ],
+      "genres": "Thriller, Horror"
     },
     {
       "rank": 9,
       "title": "An American Werewolf in London",
-      "url": "https://letterboxd.com/film/an-american-werewolf-in-london/"
+      "url": "https://letterboxd.com/film/an-american-werewolf-in-london/",
+      "director": "John Landis",
+      "actors": [
+        "David Naughton",
+        "Jenny Agutter",
+        "Griffin Dunne"
+      ],
+      "genres": "Horror, Comedy"
     },
     {
       "rank": 10,
       "title": "Excalibur",
-      "url": "https://letterboxd.com/film/excalibur/"
+      "url": "https://letterboxd.com/film/excalibur/",
+      "director": "John Boorman",
+      "actors": [
+        "Nigel Terry",
+        "Nicol Williamson",
+        "Helen Mirren"
+      ],
+      "genres": "Fantasy, Adventure"
     },
     {
       "rank": 11,
       "title": "Ms .45",
-      "url": "https://letterboxd.com/film/ms-45/"
+      "url": "https://letterboxd.com/film/ms-45/",
+      "director": "Abel Ferrara",
+      "actors": [
+        "Zoë Lund",
+        "Albert Sinkys",
+        "Darlene Stuto"
+      ],
+      "genres": "Thriller, Crime, Action"
     },
     {
       "rank": 12,
       "title": "My Dinner with Andre",
-      "url": "https://letterboxd.com/film/my-dinner-with-andre/"
+      "url": "https://letterboxd.com/film/my-dinner-with-andre/",
+      "director": "Louis Malle",
+      "actors": [
+        "Andre Gregory",
+        "Wallace Shawn",
+        "Jean Lenauer"
+      ],
+      "genres": "Drama, Comedy"
     },
     {
       "rank": 13,
       "title": "My Bloody Valentine",
-      "url": "https://letterboxd.com/film/my-bloody-valentine/"
+      "url": "https://letterboxd.com/film/my-bloody-valentine/",
+      "director": "George Mihalka",
+      "actors": [
+        "Paul Kelman",
+        "Lori Hallier",
+        "Neil Affleck"
+      ],
+      "genres": "Thriller, Horror"
     },
     {
       "rank": 14,
       "title": "Mad Max 2",
-      "url": "https://letterboxd.com/film/mad-max-2/"
+      "url": "https://letterboxd.com/film/mad-max-2/",
+      "director": "George Miller",
+      "actors": [
+        "Mel Gibson",
+        "Bruce Spence",
+        "Michael Preston"
+      ],
+      "genres": "Thriller, Action, Science Fiction"
     },
     {
       "rank": 15,
       "title": "The Fox and the Hound",
-      "url": "https://letterboxd.com/film/the-fox-and-the-hound/"
+      "url": "https://letterboxd.com/film/the-fox-and-the-hound/",
+      "director": "Richard Rich, Art Stevens, Ted Berman",
+      "actors": [
+        "Mickey Rooney",
+        "Kurt Russell",
+        "Pearl Bailey"
+      ],
+      "genres": "Animation, Adventure, Drama, Family"
     },
     {
       "rank": 16,
       "title": "Scanners",
-      "url": "https://letterboxd.com/film/scanners/"
+      "url": "https://letterboxd.com/film/scanners/",
+      "director": "David Cronenberg",
+      "actors": [
+        "Stephen Lack",
+        "Jennifer O'Neill",
+        "Michael Ironside"
+      ],
+      "genres": "Horror, Science Fiction"
     },
     {
       "rank": 17,
       "title": "The Great Muppet Caper",
-      "url": "https://letterboxd.com/film/the-great-muppet-caper/"
+      "url": "https://letterboxd.com/film/the-great-muppet-caper/",
+      "director": "Jim Henson",
+      "actors": [
+        "Jim Henson",
+        "Frank Oz",
+        "Dave Goelz"
+      ],
+      "genres": "Romance, Family, Mystery, Comedy, Crime"
     },
     {
       "rank": 18,
       "title": "For Your Eyes Only",
-      "url": "https://letterboxd.com/film/for-your-eyes-only/"
+      "url": "https://letterboxd.com/film/for-your-eyes-only/",
+      "director": "John Glen",
+      "actors": [
+        "Roger Moore",
+        "Carole Bouquet",
+        "Chaim Topol"
+      ],
+      "genres": "Thriller, Action, Adventure"
     },
     {
       "rank": 19,
       "title": "Gallipoli",
-      "url": "https://letterboxd.com/film/gallipoli/"
+      "url": "https://letterboxd.com/film/gallipoli/",
+      "director": "Peter Weir",
+      "actors": [
+        "Mel Gibson",
+        "Mark Lee",
+        "Bill Kerr"
+      ],
+      "genres": "Drama, History, War"
     },
     {
       "rank": 20,
       "title": "Das Boot",
-      "url": "https://letterboxd.com/film/das-boot/"
+      "url": "https://letterboxd.com/film/das-boot/",
+      "director": "Wolfgang Petersen",
+      "actors": [
+        "Jürgen Prochnow",
+        "Herbert Grönemeyer",
+        "Klaus Wennemann"
+      ],
+      "genres": "Drama, War, History"
     },
     {
       "rank": 21,
       "title": "History of the World: Part I",
-      "url": "https://letterboxd.com/film/history-of-the-world-part-i/"
+      "url": "https://letterboxd.com/film/history-of-the-world-part-i/",
+      "director": "Mel Brooks",
+      "actors": [
+        "Mel Brooks",
+        "Dom DeLuise",
+        "Madeline Kahn"
+      ],
+      "genres": "Comedy"
     },
     {
       "rank": 22,
       "title": "Son of the White Mare",
-      "url": "https://letterboxd.com/film/son-of-the-white-mare/"
+      "url": "https://letterboxd.com/film/son-of-the-white-mare/",
+      "director": "Marcell Jankovics",
+      "actors": [
+        "György Cserhalmi",
+        "Pap Vera",
+        "Gyula Szabó"
+      ],
+      "genres": "Adventure, Animation, Fantasy"
     },
     {
       "rank": 23,
       "title": "Polyester",
-      "url": "https://letterboxd.com/film/polyester/"
+      "url": "https://letterboxd.com/film/polyester/",
+      "director": "John Waters",
+      "actors": [
+        "Divine",
+        "Tab Hunter",
+        "Edith Massey"
+      ],
+      "genres": "Comedy"
     },
     {
       "rank": 24,
       "title": "Halloween II",
-      "url": "https://letterboxd.com/film/halloween-ii-1981/"
+      "url": "https://letterboxd.com/film/halloween-ii-1981/",
+      "director": "Rick Rosenthal",
+      "actors": [
+        "Jamie Lee Curtis",
+        "Donald Pleasence",
+        "Charles Cyphers"
+      ],
+      "genres": "Horror"
     },
     {
       "rank": 25,
       "title": "Heavy Metal",
-      "url": "https://letterboxd.com/film/heavy-metal/"
+      "url": "https://letterboxd.com/film/heavy-metal/",
+      "director": "Gerald Potterton, John Bruno, John Halas, Julian Harris, Jimmy T. Murakami, Barrie Nelson, Paul Sabella, Jack Stokes, Pino Van Lamsweerde, Harold Whitaker",
+      "actors": [
+        "Rodger Bumpass",
+        "John Candy",
+        "Jackie Burroughs"
+      ],
+      "genres": "Animation, Science Fiction, Music, Fantasy, Adventure"
     },
     {
       "rank": 26,
       "title": "Time Bandits",
-      "url": "https://letterboxd.com/film/time-bandits/"
+      "url": "https://letterboxd.com/film/time-bandits/",
+      "director": "Terry Gilliam",
+      "actors": [
+        "Craig Warnock",
+        "David Rappaport",
+        "Kenny Baker"
+      ],
+      "genres": "Family, Science Fiction, Fantasy, Comedy, Adventure"
     },
     {
       "rank": 27,
       "title": "The Beyond",
-      "url": "https://letterboxd.com/film/the-beyond/"
+      "url": "https://letterboxd.com/film/the-beyond/",
+      "director": "Lucio Fulci",
+      "actors": [
+        "Catriona MacColl",
+        "David Warbeck",
+        "Cinzia Monreale"
+      ],
+      "genres": "Horror"
     },
     {
       "rank": 28,
       "title": "Stripes",
-      "url": "https://letterboxd.com/film/stripes/"
+      "url": "https://letterboxd.com/film/stripes/",
+      "director": "Ivan Reitman",
+      "actors": [
+        "Bill Murray",
+        "Harold Ramis",
+        "Warren Oates"
+      ],
+      "genres": "Action, Comedy"
     },
     {
       "rank": 29,
       "title": "Body Heat",
-      "url": "https://letterboxd.com/film/body-heat/"
+      "url": "https://letterboxd.com/film/body-heat/",
+      "director": "Lawrence Kasdan",
+      "actors": [
+        "William Hurt",
+        "Kathleen Turner",
+        "Richard Crenna"
+      ],
+      "genres": "Crime, Thriller"
     },
     {
       "rank": 30,
       "title": "Mommie Dearest",
-      "url": "https://letterboxd.com/film/mommie-dearest/"
+      "url": "https://letterboxd.com/film/mommie-dearest/",
+      "director": "Frank Perry",
+      "actors": [
+        "Faye Dunaway",
+        "Diana Scarwid",
+        "Steve Forrest"
+      ],
+      "genres": "Drama"
     },
     {
       "rank": 31,
       "title": "The Howling",
-      "url": "https://letterboxd.com/film/the-howling/"
+      "url": "https://letterboxd.com/film/the-howling/",
+      "director": "Joe Dante",
+      "actors": [
+        "Dee Wallace",
+        "Patrick Macnee",
+        "Dennis Dugan"
+      ],
+      "genres": "Horror"
     },
     {
       "rank": 32,
       "title": "Cutter's Way",
-      "url": "https://letterboxd.com/film/cutters-way/"
+      "url": "https://letterboxd.com/film/cutters-way/",
+      "director": "Ivan Passer",
+      "actors": [
+        "Jeff Bridges",
+        "John Heard",
+        "Lisa Eichhorn"
+      ],
+      "genres": "Crime, Thriller, Mystery, Drama"
     },
     {
       "rank": 33,
       "title": "Outland",
-      "url": "https://letterboxd.com/film/outland/"
+      "url": "https://letterboxd.com/film/outland/",
+      "director": "Peter Hyams",
+      "actors": [
+        "Sean Connery",
+        "Peter Boyle",
+        "Frances Sternhagen"
+      ],
+      "genres": "Science Fiction, Crime, Thriller, Action, Western"
     },
     {
       "rank": 34,
       "title": "The Kiss",
-      "url": "https://letterboxd.com/film/the-kiss-1981/"
+      "url": "https://letterboxd.com/film/the-kiss-1981/",
+      "director": "Bruno Barreto",
+      "actors": [
+        "Ney Latorraca",
+        "Tarcísio Meira",
+        "Christiane Torloni"
+      ],
+      "genres": "Thriller, Crime, Drama"
     },
     {
       "rank": 35,
       "title": "Reds",
-      "url": "https://letterboxd.com/film/reds/"
+      "url": "https://letterboxd.com/film/reds/",
+      "director": "Warren Beatty",
+      "actors": [
+        "Warren Beatty",
+        "Diane Keaton",
+        "Edward Herrmann"
+      ],
+      "genres": "Drama, History, Romance"
     },
     {
       "rank": 36,
       "title": "The Inquisitor",
-      "url": "https://letterboxd.com/film/the-inquisitor/"
+      "url": "https://letterboxd.com/film/the-inquisitor/",
+      "director": "Claude Miller",
+      "actors": [
+        "Lino Ventura",
+        "Michel Serrault",
+        "Romy Schneider"
+      ],
+      "genres": "Crime, Drama, Thriller"
     },
     {
       "rank": 37,
       "title": "Kisapmata",
-      "url": "https://letterboxd.com/film/kisapmata/"
+      "url": "https://letterboxd.com/film/kisapmata/",
+      "director": "Mike de Leon",
+      "actors": [
+        "Charo Santos",
+        "Jay Ilagan",
+        "Vic Silayan"
+      ],
+      "genres": "Crime, Thriller, Drama"
     },
     {
       "rank": 38,
       "title": "Chariots of Fire",
-      "url": "https://letterboxd.com/film/chariots-of-fire/"
+      "url": "https://letterboxd.com/film/chariots-of-fire/",
+      "director": "Hugh Hudson",
+      "actors": [
+        "Ben Cross",
+        "Ian Charleson",
+        "Cheryl Campbell"
+      ],
+      "genres": "History, Drama"
     },
     {
       "rank": 39,
       "title": "The Burning",
-      "url": "https://letterboxd.com/film/the-burning-1981/"
+      "url": "https://letterboxd.com/film/the-burning-1981/",
+      "director": "Tony Maylam",
+      "actors": [
+        "Brian Matthews",
+        "Leah Ayres",
+        "Brian Backer"
+      ],
+      "genres": "Horror"
     },
     {
       "rank": 40,
       "title": "They Don't Wear Black Tie",
-      "url": "https://letterboxd.com/film/they-dont-wear-black-tie/"
+      "url": "https://letterboxd.com/film/they-dont-wear-black-tie/",
+      "director": "Leon Hirszman",
+      "actors": [
+        "Carlos Alberto Riccelli",
+        "Bete Mendes",
+        "Fernanda Montenegro"
+      ],
+      "genres": "Drama"
     },
     {
       "rank": 41,
       "title": "Southern Comfort",
-      "url": "https://letterboxd.com/film/southern-comfort/"
+      "url": "https://letterboxd.com/film/southern-comfort/",
+      "director": "Walter Hill",
+      "actors": [
+        "Keith Carradine",
+        "Powers Boothe",
+        "Fred Ward"
+      ],
+      "genres": "Thriller, Action"
     },
     {
       "rank": 42,
       "title": "The Decline of Western Civilization",
-      "url": "https://letterboxd.com/film/the-decline-of-western-civilization/"
+      "url": "https://letterboxd.com/film/the-decline-of-western-civilization/",
+      "director": "Penelope Spheeris",
+      "actors": [
+        "Eugene Tatu",
+        "Alice Bag",
+        "Claude Bessy"
+      ],
+      "genres": "Documentary, Music"
     },
     {
       "rank": 43,
       "title": "Nightshift",
-      "url": "https://letterboxd.com/film/nightshift-1981/"
+      "url": "https://letterboxd.com/film/nightshift-1981/",
+      "director": "Robina Rose",
+      "actors": [
+        "Pamela Rooke",
+        "Anna Rees-Mogg",
+        "Mitch Davies"
+      ],
+      "genres": "Drama"
     },
     {
       "rank": 44,
       "title": "Dragonslayer",
-      "url": "https://letterboxd.com/film/dragonslayer/"
+      "url": "https://letterboxd.com/film/dragonslayer/",
+      "director": "Matthew Robbins",
+      "actors": [
+        "Peter MacNicol",
+        "Caitlin Clarke",
+        "Ralph Richardson"
+      ],
+      "genres": "Fantasy, Adventure"
     },
     {
       "rank": 45,
       "title": "Don't Go in the Woods",
-      "url": "https://letterboxd.com/film/dont-go-in-the-woods/"
+      "url": "https://letterboxd.com/film/dont-go-in-the-woods/",
+      "director": "James Bryan",
+      "actors": [
+        "Jack McClelland",
+        "Mary Gail Artz",
+        "James P. Hayden"
+      ],
+      "genres": "Horror"
     },
     {
       "rank": 46,
       "title": "The Cabbage Soup",
-      "url": "https://letterboxd.com/film/the-cabbage-soup/"
+      "url": "https://letterboxd.com/film/the-cabbage-soup/",
+      "director": "Jean Girault",
+      "actors": [
+        "Louis de Funès",
+        "Jean Carmet",
+        "Jacques Villeret"
+      ],
+      "genres": "Comedy, Science Fiction"
     },
     {
       "rank": 47,
       "title": "Clash of the Titans",
-      "url": "https://letterboxd.com/film/clash-of-the-titans/"
+      "url": "https://letterboxd.com/film/clash-of-the-titans/",
+      "director": "Desmond Davis",
+      "actors": [
+        "Harry Hamlin",
+        "Judi Bowker",
+        "Burgess Meredith"
+      ],
+      "genres": "Fantasy, Action, Adventure"
     },
     {
       "rank": 48,
       "title": "Modern Romance",
-      "url": "https://letterboxd.com/film/modern-romance/"
+      "url": "https://letterboxd.com/film/modern-romance/",
+      "director": "Albert Brooks",
+      "actors": [
+        "Albert Brooks",
+        "Kathryn Harrold",
+        "Bruno Kirby"
+      ],
+      "genres": "Comedy, Romance, Drama"
     },
     {
       "rank": 49,
       "title": "The Prowler",
-      "url": "https://letterboxd.com/film/the-prowler-1981/"
+      "url": "https://letterboxd.com/film/the-prowler-1981/",
+      "director": "Joseph Zito",
+      "actors": [
+        "Vicky Dawson",
+        "Christopher Goutman",
+        "Lawrence Tierney"
+      ],
+      "genres": "Thriller, Mystery, Horror"
     },
     {
       "rank": 50,
       "title": "The Funhouse",
-      "url": "https://letterboxd.com/film/the-funhouse/"
+      "url": "https://letterboxd.com/film/the-funhouse/",
+      "director": "Tobe Hooper",
+      "actors": [
+        "Elizabeth Berridge",
+        "Cooper Huckabee",
+        "Kevin Conway"
+      ],
+      "genres": "Horror"
     }
   ]
 }

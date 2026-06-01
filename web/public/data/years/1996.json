@@ -5,252 +5,602 @@
     {
       "rank": 1,
       "title": "Fargo",
-      "url": "https://letterboxd.com/film/fargo/"
+      "url": "https://letterboxd.com/film/fargo/",
+      "director": "Joel Coen",
+      "actors": [
+        "Frances McDormand",
+        "William H. Macy",
+        "Steve Buscemi"
+      ],
+      "genres": "Crime, Comedy, Drama, Thriller"
     },
     {
       "rank": 2,
       "title": "Scream",
-      "url": "https://letterboxd.com/film/scream/"
+      "url": "https://letterboxd.com/film/scream/",
+      "director": "Wes Craven",
+      "actors": [
+        "David Arquette",
+        "Neve Campbell",
+        "Courteney Cox"
+      ],
+      "genres": "Mystery, Crime, Horror"
     },
     {
       "rank": 3,
       "title": "Trainspotting",
-      "url": "https://letterboxd.com/film/trainspotting/"
+      "url": "https://letterboxd.com/film/trainspotting/",
+      "director": "Danny Boyle",
+      "actors": [
+        "Ewan McGregor",
+        "Ewen Bremner",
+        "Jonny Lee Miller"
+      ],
+      "genres": "Crime, Drama"
     },
     {
       "rank": 4,
       "title": "Primal Fear",
-      "url": "https://letterboxd.com/film/primal-fear/"
+      "url": "https://letterboxd.com/film/primal-fear/",
+      "director": "Gregory Hoblit",
+      "actors": [
+        "Richard Gere",
+        "Laura Linney",
+        "Edward Norton"
+      ],
+      "genres": "Crime, Mystery, Drama, Thriller"
     },
     {
       "rank": 5,
       "title": "Romeo + Juliet",
-      "url": "https://letterboxd.com/film/romeo-juliet-1996/"
+      "url": "https://letterboxd.com/film/romeo-juliet-1996/",
+      "director": "Baz Luhrmann",
+      "actors": [
+        "Leonardo DiCaprio",
+        "Claire Danes",
+        "Jesse Bradford"
+      ],
+      "genres": "Romance, Drama"
     },
     {
       "rank": 6,
       "title": "Crash",
-      "url": "https://letterboxd.com/film/crash/"
+      "url": "https://letterboxd.com/film/crash/",
+      "director": "David Cronenberg",
+      "actors": [
+        "James Spader",
+        "Holly Hunter",
+        "Elias Koteas"
+      ],
+      "genres": "Thriller, Drama"
     },
     {
       "rank": 7,
       "title": "Jerry Maguire",
-      "url": "https://letterboxd.com/film/jerry-maguire/"
+      "url": "https://letterboxd.com/film/jerry-maguire/",
+      "director": "Cameron Crowe",
+      "actors": [
+        "Tom Cruise",
+        "Renée Zellweger",
+        "Cuba Gooding Jr."
+      ],
+      "genres": "Comedy, Romance, Drama"
     },
     {
       "rank": 8,
       "title": "Matilda",
-      "url": "https://letterboxd.com/film/matilda/"
+      "url": "https://letterboxd.com/film/matilda/",
+      "director": "Danny DeVito",
+      "actors": [
+        "Mara Wilson",
+        "Danny DeVito",
+        "Rhea Perlman"
+      ],
+      "genres": "Family, Comedy, Fantasy"
     },
     {
       "rank": 9,
       "title": "A Time to Kill",
-      "url": "https://letterboxd.com/film/a-time-to-kill-1996/"
+      "url": "https://letterboxd.com/film/a-time-to-kill-1996/",
+      "director": "Joel Schumacher",
+      "actors": [
+        "Matthew McConaughey",
+        "Sandra Bullock",
+        "Samuel L. Jackson"
+      ],
+      "genres": "Thriller, Drama, Crime"
     },
     {
       "rank": 10,
       "title": "The Birdcage",
-      "url": "https://letterboxd.com/film/the-birdcage/"
+      "url": "https://letterboxd.com/film/the-birdcage/",
+      "director": "Mike Nichols",
+      "actors": [
+        "Robin Williams",
+        "Gene Hackman",
+        "Nathan Lane"
+      ],
+      "genres": "Comedy, Romance"
     },
     {
       "rank": 11,
       "title": "The Craft",
-      "url": "https://letterboxd.com/film/the-craft/"
+      "url": "https://letterboxd.com/film/the-craft/",
+      "director": "Andrew Fleming",
+      "actors": [
+        "Robin Tunney",
+        "Fairuza Balk",
+        "Neve Campbell"
+      ],
+      "genres": "Horror, Fantasy, Drama"
     },
     {
       "rank": 12,
       "title": "Fear",
-      "url": "https://letterboxd.com/film/fear-1996/"
+      "url": "https://letterboxd.com/film/fear-1996/",
+      "director": "James Foley",
+      "actors": [
+        "Mark Wahlberg",
+        "Reese Witherspoon",
+        "William L. Petersen"
+      ],
+      "genres": "Thriller, Horror"
     },
     {
       "rank": 13,
       "title": "Mission: Impossible",
-      "url": "https://letterboxd.com/film/mission-impossible/"
+      "url": "https://letterboxd.com/film/mission-impossible/",
+      "director": "Brian De Palma",
+      "actors": [
+        "Tom Cruise",
+        "Jon Voight",
+        "Emmanuelle Béart"
+      ],
+      "genres": "Thriller, Action, Adventure"
     },
     {
       "rank": 14,
-      "title": "Waiting for Guffman",
-      "url": "https://letterboxd.com/film/waiting-for-guffman/"
+      "title": "From Dusk Till Dawn",
+      "url": "https://letterboxd.com/film/from-dusk-till-dawn/",
+      "director": "Robert Rodriguez",
+      "actors": [
+        "George Clooney",
+        "Quentin Tarantino",
+        "Harvey Keitel"
+      ],
+      "genres": "Thriller, Horror, Crime, Action"
     },
     {
       "rank": 15,
-      "title": "From Dusk Till Dawn",
-      "url": "https://letterboxd.com/film/from-dusk-till-dawn/"
+      "title": "Waiting for Guffman",
+      "url": "https://letterboxd.com/film/waiting-for-guffman/",
+      "director": "Christopher Guest",
+      "actors": [
+        "Christopher Guest",
+        "Eugene Levy",
+        "Fred Willard"
+      ],
+      "genres": "Music, Comedy"
     },
     {
       "rank": 16,
       "title": "Bound",
-      "url": "https://letterboxd.com/film/bound/"
+      "url": "https://letterboxd.com/film/bound/",
+      "director": "Lana Wachowski, Lilly Wachowski",
+      "actors": [
+        "Gina Gershon",
+        "Jennifer Tilly",
+        "Joe Pantoliano"
+      ],
+      "genres": "Crime, Thriller, Drama"
     },
     {
       "rank": 17,
       "title": "Sleepers",
-      "url": "https://letterboxd.com/film/sleepers/"
+      "url": "https://letterboxd.com/film/sleepers/",
+      "director": "Barry Levinson",
+      "actors": [
+        "Kevin Bacon",
+        "Robert De Niro",
+        "Dustin Hoffman"
+      ],
+      "genres": "Drama, Crime, Thriller"
     },
     {
       "rank": 18,
       "title": "The Hunchback of Notre Dame",
-      "url": "https://letterboxd.com/film/the-hunchback-of-notre-dame-1996/"
+      "url": "https://letterboxd.com/film/the-hunchback-of-notre-dame-1996/",
+      "director": "Gary Trousdale, Kirk Wise",
+      "actors": [
+        "Tom Hulce",
+        "Demi Moore",
+        "Kevin Kline"
+      ],
+      "genres": "Drama, Family, Animation"
     },
     {
       "rank": 19,
       "title": "Independence Day",
-      "url": "https://letterboxd.com/film/independence-day/"
+      "url": "https://letterboxd.com/film/independence-day/",
+      "director": "Roland Emmerich",
+      "actors": [
+        "Will Smith",
+        "Bill Pullman",
+        "Jeff Goldblum"
+      ],
+      "genres": "Science Fiction, Adventure, Action"
     },
     {
       "rank": 20,
       "title": "Happy Gilmore",
-      "url": "https://letterboxd.com/film/happy-gilmore/"
+      "url": "https://letterboxd.com/film/happy-gilmore/",
+      "director": "Dennis Dugan",
+      "actors": [
+        "Adam Sandler",
+        "Christopher McDonald",
+        "Julie Bowen"
+      ],
+      "genres": "Comedy"
     },
     {
       "rank": 21,
       "title": "Thesis",
-      "url": "https://letterboxd.com/film/thesis/"
+      "url": "https://letterboxd.com/film/thesis/",
+      "director": "Alejandro Amenábar",
+      "actors": [
+        "Ana Torrent",
+        "Fele Martínez",
+        "Eduardo Noriega"
+      ],
+      "genres": "Thriller, Horror"
     },
     {
       "rank": 22,
       "title": "Pusher",
-      "url": "https://letterboxd.com/film/pusher/"
+      "url": "https://letterboxd.com/film/pusher/",
+      "director": "Nicolas Winding Refn",
+      "actors": [
+        "Kim Bodnia",
+        "Mads Mikkelsen",
+        "Laura Drasbæk"
+      ],
+      "genres": "Action, Crime, Drama"
     },
     {
       "rank": 23,
       "title": "The Watermelon Woman",
-      "url": "https://letterboxd.com/film/the-watermelon-woman/"
+      "url": "https://letterboxd.com/film/the-watermelon-woman/",
+      "director": "Cheryl Dunye",
+      "actors": [
+        "Cheryl Dunye",
+        "Guinevere Turner",
+        "Valarie Walker"
+      ],
+      "genres": "Comedy, Drama, Romance"
     },
     {
       "rank": 24,
       "title": "Space Jam",
-      "url": "https://letterboxd.com/film/space-jam/"
+      "url": "https://letterboxd.com/film/space-jam/",
+      "director": "Joe Pytka",
+      "actors": [
+        "Michael Jordan",
+        "Wayne Knight",
+        "Theresa Randle"
+      ],
+      "genres": "Family, Fantasy, Comedy, Animation, Science Fiction"
     },
     {
       "rank": 25,
       "title": "Twister",
-      "url": "https://letterboxd.com/film/twister/"
+      "url": "https://letterboxd.com/film/twister/",
+      "director": "Jan de Bont",
+      "actors": [
+        "Helen Hunt",
+        "Bill Paxton",
+        "Jami Gertz"
+      ],
+      "genres": "Adventure, Action, Drama"
     },
     {
       "rank": 26,
       "title": "Hard Eight",
-      "url": "https://letterboxd.com/film/hard-eight/"
+      "url": "https://letterboxd.com/film/hard-eight/",
+      "director": "Paul Thomas Anderson",
+      "actors": [
+        "Philip Baker Hall",
+        "John C. Reilly",
+        "Gwyneth Paltrow"
+      ],
+      "genres": "Drama, Crime"
     },
     {
       "rank": 27,
       "title": "The First Wives Club",
-      "url": "https://letterboxd.com/film/the-first-wives-club/"
+      "url": "https://letterboxd.com/film/the-first-wives-club/",
+      "director": "Hugh Wilson",
+      "actors": [
+        "Goldie Hawn",
+        "Bette Midler",
+        "Diane Keaton"
+      ],
+      "genres": "Comedy"
     },
     {
       "rank": 28,
       "title": "Mars Attacks!",
-      "url": "https://letterboxd.com/film/mars-attacks/"
+      "url": "https://letterboxd.com/film/mars-attacks/",
+      "director": "Tim Burton",
+      "actors": [
+        "Jack Nicholson",
+        "Glenn Close",
+        "Annette Bening"
+      ],
+      "genres": "Fantasy, Science Fiction, Comedy"
     },
     {
       "rank": 29,
       "title": "Bottle Rocket",
-      "url": "https://letterboxd.com/film/bottle-rocket-1996/"
+      "url": "https://letterboxd.com/film/bottle-rocket-1996/",
+      "director": "Wes Anderson",
+      "actors": [
+        "Luke Wilson",
+        "Owen Wilson",
+        "Robert Musgrave"
+      ],
+      "genres": "Crime, Comedy, Drama"
     },
     {
       "rank": 30,
       "title": "Lost and Found",
-      "url": "https://letterboxd.com/film/lost-and-found-1996/"
+      "url": "https://letterboxd.com/film/lost-and-found-1996/",
+      "director": "Lee Chi-Ngai",
+      "actors": [
+        "Takeshi Kaneshiro",
+        "Kelly Chen Hui-Lin",
+        "Michael Wong"
+      ],
+      "genres": "Romance, Drama"
     },
     {
       "rank": 31,
       "title": "Muppet Treasure Island",
-      "url": "https://letterboxd.com/film/muppet-treasure-island/"
+      "url": "https://letterboxd.com/film/muppet-treasure-island/",
+      "director": "Brian Henson",
+      "actors": [
+        "Tim Curry",
+        "Billy Connolly",
+        "Jennifer Saunders"
+      ],
+      "genres": "Family, Comedy, Adventure"
     },
     {
       "rank": 32,
       "title": "A Summer's Tale",
-      "url": "https://letterboxd.com/film/a-summers-tale/"
+      "url": "https://letterboxd.com/film/a-summers-tale/",
+      "director": "Éric Rohmer",
+      "actors": [
+        "Melvil Poupaud",
+        "Amanda Langlet",
+        "Gwenaëlle Simon"
+      ],
+      "genres": "Comedy, Romance, Drama"
     },
     {
       "rank": 33,
       "title": "The Rock",
-      "url": "https://letterboxd.com/film/the-rock/"
+      "url": "https://letterboxd.com/film/the-rock/",
+      "director": "Michael Bay",
+      "actors": [
+        "Sean Connery",
+        "Nicolas Cage",
+        "Ed Harris"
+      ],
+      "genres": "Thriller, Action, Adventure"
     },
     {
       "rank": 34,
       "title": "The Cable Guy",
-      "url": "https://letterboxd.com/film/the-cable-guy/"
+      "url": "https://letterboxd.com/film/the-cable-guy/",
+      "director": "Ben Stiller",
+      "actors": [
+        "Jim Carrey",
+        "Matthew Broderick",
+        "Leslie Mann"
+      ],
+      "genres": "Thriller, Comedy, Drama"
     },
     {
       "rank": 35,
       "title": "The Daytrippers",
-      "url": "https://letterboxd.com/film/the-daytrippers/"
+      "url": "https://letterboxd.com/film/the-daytrippers/",
+      "director": "Greg Mottola",
+      "actors": [
+        "Hope Davis",
+        "Pat McNamara",
+        "Anne Meara"
+      ],
+      "genres": "Comedy, Drama"
     },
     {
       "rank": 36,
       "title": "Breaking the Waves",
-      "url": "https://letterboxd.com/film/breaking-the-waves/"
+      "url": "https://letterboxd.com/film/breaking-the-waves/",
+      "director": "Lars von Trier",
+      "actors": [
+        "Emily Watson",
+        "Stellan Skarsgård",
+        "Katrin Cartlidge"
+      ],
+      "genres": "Drama, Romance"
     },
     {
       "rank": 37,
       "title": "James and the Giant Peach",
-      "url": "https://letterboxd.com/film/james-and-the-giant-peach/"
+      "url": "https://letterboxd.com/film/james-and-the-giant-peach/",
+      "director": "Henry Selick",
+      "actors": [
+        "Paul Terry",
+        "Miriam Margolyes",
+        "Joanna Lumley"
+      ],
+      "genres": "Adventure, Fantasy, Family, Animation"
     },
     {
       "rank": 38,
       "title": "Don't Be a Menace to South Central While Drinking Your Juice in the Hood",
-      "url": "https://letterboxd.com/film/dont-be-a-menace-to-south-central-while-drinking-your-juice-in-the-hood/"
+      "url": "https://letterboxd.com/film/dont-be-a-menace-to-south-central-while-drinking-your-juice-in-the-hood/",
+      "director": "Paris Barclay",
+      "actors": [
+        "Shawn Wayans",
+        "Marlon Wayans",
+        "Tracey Cherelle Jones"
+      ],
+      "genres": "Comedy"
     },
     {
       "rank": 39,
       "title": "Swingers",
-      "url": "https://letterboxd.com/film/swingers/"
+      "url": "https://letterboxd.com/film/swingers/",
+      "director": "Doug Liman",
+      "actors": [
+        "Jon Favreau",
+        "Vince Vaughn",
+        "Ron Livingston"
+      ],
+      "genres": "Drama, Comedy"
     },
     {
       "rank": 40,
       "title": "101 Dalmatians",
-      "url": "https://letterboxd.com/film/101-dalmatians/"
+      "url": "https://letterboxd.com/film/101-dalmatians/",
+      "director": "Stephen Herek",
+      "actors": [
+        "Glenn Close",
+        "Jeff Daniels",
+        "Joely Richardson"
+      ],
+      "genres": "Family, Comedy"
     },
     {
       "rank": 41,
       "title": "Secrets & Lies",
-      "url": "https://letterboxd.com/film/secrets-lies/"
+      "url": "https://letterboxd.com/film/secrets-lies/",
+      "director": "Mike Leigh",
+      "actors": [
+        "Brenda Blethyn",
+        "Marianne Jean-Baptiste",
+        "Timothy Spall"
+      ],
+      "genres": "Drama"
     },
     {
       "rank": 42,
       "title": "The English Patient",
-      "url": "https://letterboxd.com/film/the-english-patient/"
+      "url": "https://letterboxd.com/film/the-english-patient/",
+      "director": "Anthony Minghella",
+      "actors": [
+        "Ralph Fiennes",
+        "Juliette Binoche",
+        "Willem Dafoe"
+      ],
+      "genres": "Drama, Romance, War"
     },
     {
       "rank": 43,
       "title": "The Mirror Has Two Faces",
-      "url": "https://letterboxd.com/film/the-mirror-has-two-faces/"
+      "url": "https://letterboxd.com/film/the-mirror-has-two-faces/",
+      "director": "Barbra Streisand",
+      "actors": [
+        "Barbra Streisand",
+        "Jeff Bridges",
+        "Pierce Brosnan"
+      ],
+      "genres": "Romance, Comedy, Drama"
     },
     {
       "rank": 44,
       "title": "Irma Vep",
-      "url": "https://letterboxd.com/film/irma-vep/"
+      "url": "https://letterboxd.com/film/irma-vep/",
+      "director": "Olivier Assayas",
+      "actors": [
+        "Maggie Cheung",
+        "Jean-Pierre Léaud",
+        "Nathalie Richard"
+      ],
+      "genres": "Drama, Comedy"
     },
     {
       "rank": 45,
       "title": "Picnic",
-      "url": "https://letterboxd.com/film/picnic-1996/"
+      "url": "https://letterboxd.com/film/picnic-1996/",
+      "director": "Shunji Iwai",
+      "actors": [
+        "Chara",
+        "Tadanobu Asano",
+        "Koichi Hashizume"
+      ],
+      "genres": "Drama, Adventure"
     },
     {
       "rank": 46,
       "title": "Ransom",
-      "url": "https://letterboxd.com/film/ransom/"
+      "url": "https://letterboxd.com/film/ransom/",
+      "director": "Ron Howard",
+      "actors": [
+        "Mel Gibson",
+        "Rene Russo",
+        "Gary Sinise"
+      ],
+      "genres": "Action, Thriller"
     },
     {
       "rank": 47,
       "title": "A Moment of Innocence",
-      "url": "https://letterboxd.com/film/a-moment-of-innocence/"
+      "url": "https://letterboxd.com/film/a-moment-of-innocence/",
+      "director": "Mohsen Makhmalbaf",
+      "actors": [
+        "Mirhadi Tayebi",
+        "Mohsen Makhmalbaf",
+        "Ali Bakhsi"
+      ],
+      "genres": "Drama, Comedy"
     },
     {
       "rank": 48,
       "title": "Set It Off",
-      "url": "https://letterboxd.com/film/set-it-off/"
+      "url": "https://letterboxd.com/film/set-it-off/",
+      "director": "F. Gary Gray",
+      "actors": [
+        "Jada Pinkett Smith",
+        "Queen Latifah",
+        "Vivica A. Fox"
+      ],
+      "genres": "Crime, Romance, Action, Drama, Thriller"
     },
     {
       "rank": 49,
       "title": "That Thing You Do!",
-      "url": "https://letterboxd.com/film/that-thing-you-do/"
+      "url": "https://letterboxd.com/film/that-thing-you-do/",
+      "director": "Tom Hanks",
+      "actors": [
+        "Tom Hanks",
+        "Tom Everett Scott",
+        "Liv Tyler"
+      ],
+      "genres": "Music, Drama, Comedy"
     },
     {
       "rank": 50,
       "title": "Comrades, Almost a Love Story",
-      "url": "https://letterboxd.com/film/comrades-almost-a-love-story/"
+      "url": "https://letterboxd.com/film/comrades-almost-a-love-story/",
+      "director": "Peter Chan Ho-Sun",
+      "actors": [
+        "Maggie Cheung",
+        "Leon Lai Ming",
+        "Eric Tsang Chi-Wai"
+      ],
+      "genres": "Drama, Romance"
     }
   ]
 }

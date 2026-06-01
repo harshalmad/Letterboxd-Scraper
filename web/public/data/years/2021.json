@@ -5,252 +5,602 @@
     {
       "rank": 1,
       "title": "Dune",
-      "url": "https://letterboxd.com/film/dune-2021/"
+      "url": "https://letterboxd.com/film/dune-2021/",
+      "director": "Denis Villeneuve",
+      "actors": [
+        "Timothée Chalamet",
+        "Rebecca Ferguson",
+        "Oscar Isaac"
+      ],
+      "genres": "Science Fiction, Adventure"
     },
     {
       "rank": 2,
       "title": "The Worst Person in the World",
-      "url": "https://letterboxd.com/film/the-worst-person-in-the-world/"
+      "url": "https://letterboxd.com/film/the-worst-person-in-the-world/",
+      "director": "Joachim Trier",
+      "actors": [
+        "Renate Reinsve",
+        "Anders Danielsen Lie",
+        "Herbert Nordrum"
+      ],
+      "genres": "Drama, Romance, Comedy"
     },
     {
       "rank": 3,
       "title": "Spider-Man: No Way Home",
-      "url": "https://letterboxd.com/film/spider-man-no-way-home/"
+      "url": "https://letterboxd.com/film/spider-man-no-way-home/",
+      "director": "Jon Watts",
+      "actors": [
+        "Tom Holland",
+        "Zendaya",
+        "Benedict Cumberbatch"
+      ],
+      "genres": "Adventure, Action, Science Fiction"
     },
     {
       "rank": 4,
       "title": "The Black Phone",
-      "url": "https://letterboxd.com/film/the-black-phone/"
+      "url": "https://letterboxd.com/film/the-black-phone/",
+      "director": "Scott Derrickson",
+      "actors": [
+        "Mason Thames",
+        "Madeleine McGraw",
+        "Ethan Hawke"
+      ],
+      "genres": "Thriller, Horror"
     },
     {
       "rank": 5,
       "title": "Don't Look Up",
-      "url": "https://letterboxd.com/film/dont-look-up-2021/"
+      "url": "https://letterboxd.com/film/dont-look-up-2021/",
+      "director": "Adam McKay",
+      "actors": [
+        "Leonardo DiCaprio",
+        "Jennifer Lawrence",
+        "Meryl Streep"
+      ],
+      "genres": "Drama, Science Fiction, Comedy"
     },
     {
       "rank": 6,
       "title": "Cruella",
-      "url": "https://letterboxd.com/film/cruella/"
+      "url": "https://letterboxd.com/film/cruella/",
+      "director": "Craig Gillespie",
+      "actors": [
+        "Emma Stone",
+        "Emma Thompson",
+        "Joel Fry"
+      ],
+      "genres": "Comedy, Crime, Drama"
     },
     {
       "rank": 7,
       "title": "Mortal Kombat",
-      "url": "https://letterboxd.com/film/mortal-kombat-2021/"
+      "url": "https://letterboxd.com/film/mortal-kombat-2021/",
+      "director": "Simon McQuoid",
+      "actors": [
+        "Lewis Tan",
+        "Jessica McNamee",
+        "Mehcad Brooks"
+      ],
+      "genres": "Action, Adventure, Fantasy"
     },
     {
       "rank": 8,
       "title": "Licorice Pizza",
-      "url": "https://letterboxd.com/film/licorice-pizza/"
+      "url": "https://letterboxd.com/film/licorice-pizza/",
+      "director": "Paul Thomas Anderson",
+      "actors": [
+        "Alana Haim",
+        "Cooper Hoffman",
+        "Sean Penn"
+      ],
+      "genres": "Drama, Romance, Comedy"
     },
     {
       "rank": 9,
       "title": "Jujutsu Kaisen 0",
-      "url": "https://letterboxd.com/film/jujutsu-kaisen-0/"
+      "url": "https://letterboxd.com/film/jujutsu-kaisen-0/",
+      "director": "Sunghoo Park",
+      "actors": [
+        "Megumi Ogata",
+        "Kana Hanazawa",
+        "Yuichi Nakamura"
+      ],
+      "genres": "Action, Animation, Fantasy"
     },
     {
       "rank": 10,
       "title": "Encanto",
-      "url": "https://letterboxd.com/film/encanto/"
+      "url": "https://letterboxd.com/film/encanto/",
+      "director": "Byron Howard, Jared Bush",
+      "actors": [
+        "Stephanie Beatriz",
+        "María Cecilia Botero",
+        "John Leguizamo"
+      ],
+      "genres": "Comedy, Family, Fantasy, Animation"
     },
     {
       "rank": 11,
       "title": "The French Dispatch of the Liberty, Kansas Evening Sun",
-      "url": "https://letterboxd.com/film/the-french-dispatch-of-the-liberty-kansas/"
+      "url": "https://letterboxd.com/film/the-french-dispatch-of-the-liberty-kansas/",
+      "director": "Wes Anderson",
+      "actors": [
+        "Benicio del Toro",
+        "Adrien Brody",
+        "Tilda Swinton"
+      ],
+      "genres": "Drama, Comedy"
     },
     {
       "rank": 12,
       "title": "Luca",
-      "url": "https://letterboxd.com/film/luca-2021/"
+      "url": "https://letterboxd.com/film/luca-2021/",
+      "director": "Enrico Casarosa",
+      "actors": [
+        "Jacob Tremblay",
+        "Jack Dylan Grazer",
+        "Emma Berman"
+      ],
+      "genres": "Fantasy, Comedy, Drama, Family, Animation"
     },
     {
       "rank": 13,
       "title": "Black Widow",
-      "url": "https://letterboxd.com/film/black-widow-2021/"
+      "url": "https://letterboxd.com/film/black-widow-2021/",
+      "director": "Cate Shortland",
+      "actors": [
+        "Scarlett Johansson",
+        "Florence Pugh",
+        "Rachel Weisz"
+      ],
+      "genres": "Action, Adventure, Science Fiction"
     },
     {
       "rank": 14,
       "title": "No Time to Die",
-      "url": "https://letterboxd.com/film/no-time-to-die-2021/"
+      "url": "https://letterboxd.com/film/no-time-to-die-2021/",
+      "director": "Cary Joji Fukunaga",
+      "actors": [
+        "Daniel Craig",
+        "Léa Seydoux",
+        "Rami Malek"
+      ],
+      "genres": "Action, Adventure, Thriller"
     },
     {
       "rank": 15,
       "title": "Fear Street: 1994",
-      "url": "https://letterboxd.com/film/fear-street-1994/"
+      "url": "https://letterboxd.com/film/fear-street-1994/",
+      "director": "Leigh Janiak",
+      "actors": [
+        "Kiana Madeira",
+        "Olivia Scott Welch",
+        "Benjamin Flores Jr."
+      ],
+      "genres": "Horror, Mystery, Drama"
     },
     {
       "rank": 16,
       "title": "The Guilty",
-      "url": "https://letterboxd.com/film/the-guilty-2021/"
+      "url": "https://letterboxd.com/film/the-guilty-2021/",
+      "director": "Antoine Fuqua",
+      "actors": [
+        "Jake Gyllenhaal",
+        "Ethan Hawke",
+        "Riley Keough"
+      ],
+      "genres": "Drama, Thriller"
     },
     {
       "rank": 17,
       "title": "Shang-Chi and the Legend of the Ten Rings",
-      "url": "https://letterboxd.com/film/shang-chi-and-the-legend-of-the-ten-rings/"
+      "url": "https://letterboxd.com/film/shang-chi-and-the-legend-of-the-ten-rings/",
+      "director": "Destin Daniel Cretton",
+      "actors": [
+        "Simu Liu",
+        "Tony Leung Chiu-wai",
+        "Awkwafina"
+      ],
+      "genres": "Adventure, Fantasy, Action"
     },
     {
       "rank": 18,
       "title": "To All the Boys: Always and Forever",
-      "url": "https://letterboxd.com/film/to-all-the-boys-always-and-forever/"
+      "url": "https://letterboxd.com/film/to-all-the-boys-always-and-forever/",
+      "director": "Michael Fimognari",
+      "actors": [
+        "Lana Condor",
+        "Noah Centineo",
+        "Janel Parrish"
+      ],
+      "genres": "Comedy, Romance, Drama"
     },
     {
       "rank": 19,
       "title": "Fear Street: 1978",
-      "url": "https://letterboxd.com/film/fear-street-1978/"
+      "url": "https://letterboxd.com/film/fear-street-1978/",
+      "director": "Leigh Janiak",
+      "actors": [
+        "Sadie Sink",
+        "Emily Rudd",
+        "Ryan Simpkins"
+      ],
+      "genres": "Drama, Horror, Mystery"
     },
     {
       "rank": 20,
       "title": "tick, tick... BOOM!",
-      "url": "https://letterboxd.com/film/tick-tick-boom-2021/"
+      "url": "https://letterboxd.com/film/tick-tick-boom-2021/",
+      "director": "Lin-Manuel Miranda",
+      "actors": [
+        "Andrew Garfield",
+        "Alexandra Shipp",
+        "Robin de Jesús"
+      ],
+      "genres": "Drama, Music"
     },
     {
       "rank": 21,
       "title": "Free Guy",
-      "url": "https://letterboxd.com/film/free-guy/"
+      "url": "https://letterboxd.com/film/free-guy/",
+      "director": "Shawn Levy",
+      "actors": [
+        "Ryan Reynolds",
+        "Jodie Comer",
+        "Lil Rel Howery"
+      ],
+      "genres": "Comedy, Adventure, Science Fiction"
     },
     {
       "rank": 22,
       "title": "Nobody",
-      "url": "https://letterboxd.com/film/nobody-2021/"
+      "url": "https://letterboxd.com/film/nobody-2021/",
+      "director": "Ilya Naishuller",
+      "actors": [
+        "Bob Odenkirk",
+        "Aleksey Serebryakov",
+        "Connie Nielsen"
+      ],
+      "genres": "Action, Thriller"
     },
     {
       "rank": 23,
       "title": "Eternals",
-      "url": "https://letterboxd.com/film/eternals/"
+      "url": "https://letterboxd.com/film/eternals/",
+      "director": "Chloé Zhao",
+      "actors": [
+        "Gemma Chan",
+        "Richard Madden",
+        "Angelina Jolie"
+      ],
+      "genres": "Action, Science Fiction, Adventure"
     },
     {
       "rank": 24,
       "title": "Fear Street: 1666",
-      "url": "https://letterboxd.com/film/fear-street-1666/"
+      "url": "https://letterboxd.com/film/fear-street-1666/",
+      "director": "Leigh Janiak",
+      "actors": [
+        "Kiana Madeira",
+        "Benjamin Flores Jr.",
+        "Olivia Scott Welch"
+      ],
+      "genres": "Mystery, Horror"
     },
     {
       "rank": 25,
       "title": "The Suicide Squad",
-      "url": "https://letterboxd.com/film/the-suicide-squad/"
+      "url": "https://letterboxd.com/film/the-suicide-squad/",
+      "director": "James Gunn",
+      "actors": [
+        "Margot Robbie",
+        "Idris Elba",
+        "John Cena"
+      ],
+      "genres": "Action, Comedy, Adventure"
     },
     {
       "rank": 26,
       "title": "The Conjuring: The Devil Made Me Do It",
-      "url": "https://letterboxd.com/film/the-conjuring-the-devil-made-me-do-it/"
+      "url": "https://letterboxd.com/film/the-conjuring-the-devil-made-me-do-it/",
+      "director": "Michael Chaves",
+      "actors": [
+        "Vera Farmiga",
+        "Patrick Wilson",
+        "Sterling Jerins"
+      ],
+      "genres": "Thriller, Horror, Mystery"
     },
     {
       "rank": 27,
       "title": "The Green Knight",
-      "url": "https://letterboxd.com/film/the-green-knight/"
+      "url": "https://letterboxd.com/film/the-green-knight/",
+      "director": "David Lowery",
+      "actors": [
+        "Dev Patel",
+        "Alicia Vikander",
+        "Joel Edgerton"
+      ],
+      "genres": "Adventure, Fantasy, Drama"
     },
     {
       "rank": 28,
       "title": "Last Night in Soho",
-      "url": "https://letterboxd.com/film/last-night-in-soho/"
+      "url": "https://letterboxd.com/film/last-night-in-soho/",
+      "director": "Edgar Wright",
+      "actors": [
+        "Thomasin McKenzie",
+        "Anya Taylor-Joy",
+        "Matt Smith"
+      ],
+      "genres": "Horror, Mystery"
     },
     {
       "rank": 29,
       "title": "Titane",
-      "url": "https://letterboxd.com/film/titane/"
+      "url": "https://letterboxd.com/film/titane/",
+      "director": "Julia Ducournau",
+      "actors": [
+        "Vincent Lindon",
+        "Agathe Rousselle",
+        "Garance Marillier"
+      ],
+      "genres": "Thriller, Horror, Science Fiction, Drama"
     },
     {
       "rank": 30,
       "title": "Squid Game",
-      "url": "https://letterboxd.com/film/squid-game/"
+      "url": "https://letterboxd.com/film/squid-game/",
+      "director": "Hwang Dong-hyuk",
+      "actors": [
+        "Lee Jung-jae",
+        "Yim Si-wan",
+        "Wi Ha-jun"
+      ],
+      "genres": "Drama, Mystery"
     },
     {
       "rank": 31,
       "title": "Boiling Point",
-      "url": "https://letterboxd.com/film/boiling-point-2021/"
+      "url": "https://letterboxd.com/film/boiling-point-2021/",
+      "director": "Philip Barantini",
+      "actors": [
+        "Stephen Graham",
+        "Vinette Robinson",
+        "Alice May Feetham"
+      ],
+      "genres": "Drama, Thriller"
     },
     {
       "rank": 32,
       "title": "The Fallout",
-      "url": "https://letterboxd.com/film/the-fallout/"
+      "url": "https://letterboxd.com/film/the-fallout/",
+      "director": "Megan Park",
+      "actors": [
+        "Jenna Ortega",
+        "Maddie Ziegler",
+        "Niles Fitch"
+      ],
+      "genres": "Drama"
     },
     {
       "rank": 33,
       "title": "Venom: Let There Be Carnage",
-      "url": "https://letterboxd.com/film/venom-let-there-be-carnage/"
+      "url": "https://letterboxd.com/film/venom-let-there-be-carnage/",
+      "director": "Andy Serkis",
+      "actors": [
+        "Tom Hardy",
+        "Woody Harrelson",
+        "Michelle Williams"
+      ],
+      "genres": "Science Fiction, Action, Adventure"
     },
     {
       "rank": 34,
       "title": "The Mitchells vs. the Machines",
-      "url": "https://letterboxd.com/film/the-mitchells-vs-the-machines/"
+      "url": "https://letterboxd.com/film/the-mitchells-vs-the-machines/",
+      "director": "Mike Rianda",
+      "actors": [
+        "Abbi Jacobson",
+        "Danny McBride",
+        "Maya Rudolph"
+      ],
+      "genres": "Animation, Science Fiction, Comedy, Adventure"
     },
     {
       "rank": 35,
       "title": "Drive My Car",
-      "url": "https://letterboxd.com/film/drive-my-car/"
+      "url": "https://letterboxd.com/film/drive-my-car/",
+      "director": "Ryusuke Hamaguchi",
+      "actors": [
+        "Hidetoshi Nishijima",
+        "Toko Miura",
+        "Masaki Okada"
+      ],
+      "genres": "Drama"
     },
     {
       "rank": 36,
       "title": "Red Notice",
-      "url": "https://letterboxd.com/film/red-notice/"
+      "url": "https://letterboxd.com/film/red-notice/",
+      "director": "Rawson Marshall Thurber",
+      "actors": [
+        "Dwayne Johnson",
+        "Ryan Reynolds",
+        "Gal Gadot"
+      ],
+      "genres": "Crime, Comedy, Action"
     },
     {
       "rank": 37,
       "title": "West Side Story",
-      "url": "https://letterboxd.com/film/west-side-story-2021/"
+      "url": "https://letterboxd.com/film/west-side-story-2021/",
+      "director": "Steven Spielberg",
+      "actors": [
+        "Ansel Elgort",
+        "Rachel Zegler",
+        "Ariana DeBose"
+      ],
+      "genres": "Romance, Crime, Drama"
     },
     {
       "rank": 38,
       "title": "CODA",
-      "url": "https://letterboxd.com/film/coda-2021/"
+      "url": "https://letterboxd.com/film/coda-2021/",
+      "director": "Sian Heder",
+      "actors": [
+        "Emilia Jones",
+        "Marlee Matlin",
+        "Troy Kotsur"
+      ],
+      "genres": "Drama, Music, Romance"
     },
     {
       "rank": 39,
       "title": "WandaVision",
-      "url": "https://letterboxd.com/film/wandavision/"
+      "url": "https://letterboxd.com/film/wandavision/",
+      "director": "Matt Shakman",
+      "actors": [
+        "Elizabeth Olsen",
+        "Paul Bettany",
+        "Kathryn Hahn"
+      ],
+      "genres": "Mystery, Drama"
     },
     {
       "rank": 40,
       "title": "Loki",
-      "url": "https://letterboxd.com/film/loki-2021/"
+      "url": "https://letterboxd.com/film/loki-2021/",
+      "director": "Kate Herron",
+      "actors": [
+        "Tom Hiddleston",
+        "Sophia Di Martino",
+        "Wunmi Mosaku"
+      ],
+      "genres": "Drama"
     },
     {
       "rank": 41,
       "title": "The Hating Game",
-      "url": "https://letterboxd.com/film/the-hating-game/"
+      "url": "https://letterboxd.com/film/the-hating-game/",
+      "director": "Peter Hutchings",
+      "actors": [
+        "Lucy Hale",
+        "Austin Stowell",
+        "Corbin Bernsen"
+      ],
+      "genres": "Romance, Drama, Comedy"
     },
     {
       "rank": 42,
       "title": "Red Rocket",
-      "url": "https://letterboxd.com/film/red-rocket-2021/"
+      "url": "https://letterboxd.com/film/red-rocket-2021/",
+      "director": "Sean Baker",
+      "actors": [
+        "Simon Rex",
+        "Suzanna Son",
+        "Bree Elrod"
+      ],
+      "genres": "Comedy, Drama"
     },
     {
       "rank": 43,
       "title": "Marcel the Shell with Shoes On",
-      "url": "https://letterboxd.com/film/marcel-the-shell-with-shoes-on-2021/"
+      "url": "https://letterboxd.com/film/marcel-the-shell-with-shoes-on-2021/",
+      "director": "Dean Fleischer Camp",
+      "actors": [
+        "Jenny Slate",
+        "Dean Fleischer Camp",
+        "Isabella Rossellini"
+      ],
+      "genres": "Animation, Drama, Comedy, Family"
     },
     {
       "rank": 44,
       "title": "Old",
-      "url": "https://letterboxd.com/film/old-2021/"
+      "url": "https://letterboxd.com/film/old-2021/",
+      "director": "M. Night Shyamalan",
+      "actors": [
+        "Gael García Bernal",
+        "Vicky Krieps",
+        "Rufus Sewell"
+      ],
+      "genres": "Thriller, Mystery, Horror"
     },
     {
       "rank": 45,
       "title": "Raya and the Last Dragon",
-      "url": "https://letterboxd.com/film/raya-and-the-last-dragon/"
+      "url": "https://letterboxd.com/film/raya-and-the-last-dragon/",
+      "director": "Don Hall, Carlos López Estrada",
+      "actors": [
+        "Kelly Marie Tran",
+        "Awkwafina",
+        "Gemma Chan"
+      ],
+      "genres": "Animation, Adventure, Family, Action, Fantasy"
     },
     {
       "rank": 46,
       "title": "The Lost Daughter",
-      "url": "https://letterboxd.com/film/the-lost-daughter-2021/"
+      "url": "https://letterboxd.com/film/the-lost-daughter-2021/",
+      "director": "Maggie Gyllenhaal",
+      "actors": [
+        "Olivia Colman",
+        "Jessie Buckley",
+        "Dakota Johnson"
+      ],
+      "genres": "Drama"
     },
     {
       "rank": 47,
       "title": "The Kissing Booth 3",
-      "url": "https://letterboxd.com/film/the-kissing-booth-3/"
+      "url": "https://letterboxd.com/film/the-kissing-booth-3/",
+      "director": "Vince Marcello",
+      "actors": [
+        "Joey King",
+        "Joel Courtney",
+        "Jacob Elordi"
+      ],
+      "genres": "Romance, Comedy"
     },
     {
       "rank": 48,
       "title": "Godzilla vs. Kong",
-      "url": "https://letterboxd.com/film/godzilla-vs-kong/"
+      "url": "https://letterboxd.com/film/godzilla-vs-kong/",
+      "director": "Adam Wingard",
+      "actors": [
+        "Alexander Skarsgård",
+        "Rebecca Hall",
+        "Kaylee Hottle"
+      ],
+      "genres": "Science Fiction, Adventure, Action"
     },
     {
       "rank": 49,
       "title": "The Medium",
-      "url": "https://letterboxd.com/film/the-medium-2021/"
+      "url": "https://letterboxd.com/film/the-medium-2021/",
+      "director": "Banjong Pisanthanakun",
+      "actors": [
+        "Narilya Gulmongkolpech",
+        "Sawanee Utoomma",
+        "Sirani Yankittikan"
+      ],
+      "genres": "Mystery, Horror"
     },
     {
       "rank": 50,
       "title": "He's All That",
-      "url": "https://letterboxd.com/film/hes-all-that/"
+      "url": "https://letterboxd.com/film/hes-all-that/",
+      "director": "Mark Waters",
+      "actors": [
+        "Addison Rae",
+        "Tanner Buchanan",
+        "Madison Pettis"
+      ],
+      "genres": "Comedy, Romance"
     }
   ]
 }

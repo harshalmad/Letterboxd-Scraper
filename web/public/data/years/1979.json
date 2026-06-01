@@ -5,252 +5,597 @@
     {
       "rank": 1,
       "title": "Alien",
-      "url": "https://letterboxd.com/film/alien/"
+      "url": "https://letterboxd.com/film/alien/",
+      "director": "Ridley Scott",
+      "actors": [
+        "Tom Skerritt",
+        "Sigourney Weaver",
+        "Veronica Cartwright"
+      ],
+      "genres": "Horror, Science Fiction"
     },
     {
       "rank": 2,
       "title": "Apocalypse Now",
-      "url": "https://letterboxd.com/film/apocalypse-now/"
+      "url": "https://letterboxd.com/film/apocalypse-now/",
+      "director": "Francis Ford Coppola",
+      "actors": [
+        "Martin Sheen",
+        "Marlon Brando",
+        "Frederic Forrest"
+      ],
+      "genres": "Drama, War"
     },
     {
       "rank": 3,
       "title": "Stalker",
-      "url": "https://letterboxd.com/film/stalker/"
+      "url": "https://letterboxd.com/film/stalker/",
+      "director": "Andrei Tarkovsky",
+      "actors": [
+        "Alisa Freyndlikh",
+        "Aleksandr Kaydanovskiy",
+        "Anatoliy Solonitsyn"
+      ],
+      "genres": "Drama, Science Fiction"
     },
     {
       "rank": 4,
       "title": "All That Jazz",
-      "url": "https://letterboxd.com/film/all-that-jazz/"
+      "url": "https://letterboxd.com/film/all-that-jazz/",
+      "director": "Bob Fosse",
+      "actors": [
+        "Roy Scheider",
+        "Jessica Lange",
+        "Ann Reinking"
+      ],
+      "genres": "Music, Drama"
     },
     {
       "rank": 5,
       "title": "Life of Brian",
-      "url": "https://letterboxd.com/film/life-of-brian/"
+      "url": "https://letterboxd.com/film/life-of-brian/",
+      "director": "Terry Jones",
+      "actors": [
+        "Graham Chapman",
+        "John Cleese",
+        "Terry Gilliam"
+      ],
+      "genres": "Comedy"
     },
     {
       "rank": 6,
       "title": "Kramer vs. Kramer",
-      "url": "https://letterboxd.com/film/kramer-vs-kramer/"
+      "url": "https://letterboxd.com/film/kramer-vs-kramer/",
+      "director": "Robert Benton",
+      "actors": [
+        "Dustin Hoffman",
+        "Meryl Streep",
+        "Jane Alexander"
+      ],
+      "genres": "Drama"
     },
     {
       "rank": 7,
       "title": "The Muppet Movie",
-      "url": "https://letterboxd.com/film/the-muppet-movie/"
+      "url": "https://letterboxd.com/film/the-muppet-movie/",
+      "director": "James Frawley",
+      "actors": [
+        "Jim Henson",
+        "Frank Oz",
+        "Jerry Nelson"
+      ],
+      "genres": "Comedy, Family, Adventure"
     },
     {
       "rank": 8,
       "title": "Rocky II",
-      "url": "https://letterboxd.com/film/rocky-ii/"
+      "url": "https://letterboxd.com/film/rocky-ii/",
+      "director": "Sylvester Stallone",
+      "actors": [
+        "Sylvester Stallone",
+        "Talia Shire",
+        "Burt Young"
+      ],
+      "genres": "Drama"
     },
     {
       "rank": 9,
       "title": "Escape from Alcatraz",
-      "url": "https://letterboxd.com/film/escape-from-alcatraz/"
+      "url": "https://letterboxd.com/film/escape-from-alcatraz/",
+      "director": "Don Siegel",
+      "actors": [
+        "Clint Eastwood",
+        "Patrick McGoohan",
+        "Roberts Blossom"
+      ],
+      "genres": "Drama, Thriller"
     },
     {
       "rank": 10,
       "title": "Mad Max",
-      "url": "https://letterboxd.com/film/mad-max/"
+      "url": "https://letterboxd.com/film/mad-max/",
+      "director": "George Miller",
+      "actors": [
+        "Mel Gibson",
+        "Joanne Samuel",
+        "Hugh Keays-Byrne"
+      ],
+      "genres": "Action, Science Fiction, Thriller"
     },
     {
       "rank": 11,
       "title": "The Warriors",
-      "url": "https://letterboxd.com/film/the-warriors/"
+      "url": "https://letterboxd.com/film/the-warriors/",
+      "director": "Walter Hill",
+      "actors": [
+        "Michael Beck",
+        "James Remar",
+        "David Patrick Kelly"
+      ],
+      "genres": "Thriller, Action"
     },
     {
       "rank": 12,
       "title": "...And Justice for All",
-      "url": "https://letterboxd.com/film/and-justice-for-all/"
+      "url": "https://letterboxd.com/film/and-justice-for-all/",
+      "director": "Norman Jewison",
+      "actors": [
+        "Al Pacino",
+        "Jack Warden",
+        "John Forsythe"
+      ],
+      "genres": "Drama"
     },
     {
       "rank": 13,
       "title": "Moonraker",
-      "url": "https://letterboxd.com/film/moonraker/"
+      "url": "https://letterboxd.com/film/moonraker/",
+      "director": "Lewis Gilbert",
+      "actors": [
+        "Roger Moore",
+        "Lois Chiles",
+        "Michael Lonsdale"
+      ],
+      "genres": "Science Fiction, Thriller, Adventure, Action"
     },
     {
       "rank": 14,
       "title": "Nosferatu the Vampyre",
-      "url": "https://letterboxd.com/film/nosferatu-the-vampyre/"
+      "url": "https://letterboxd.com/film/nosferatu-the-vampyre/",
+      "director": "Werner Herzog",
+      "actors": [
+        "Klaus Kinski",
+        "Isabelle Adjani",
+        "Bruno Ganz"
+      ],
+      "genres": "Drama, Horror"
     },
     {
       "rank": 15,
       "title": "The Brood",
-      "url": "https://letterboxd.com/film/the-brood/"
+      "url": "https://letterboxd.com/film/the-brood/",
+      "director": "David Cronenberg",
+      "actors": [
+        "Oliver Reed",
+        "Samantha Eggar",
+        "Art Hindle"
+      ],
+      "genres": "Science Fiction, Horror"
     },
     {
       "rank": 16,
       "title": "Manhattan",
-      "url": "https://letterboxd.com/film/manhattan/"
+      "url": "https://letterboxd.com/film/manhattan/",
+      "director": "Woody Allen",
+      "actors": [
+        "Woody Allen",
+        "Diane Keaton",
+        "Michael Murphy"
+      ],
+      "genres": "Comedy, Drama, Romance"
     },
     {
       "rank": 17,
       "title": "Being There",
-      "url": "https://letterboxd.com/film/being-there/"
+      "url": "https://letterboxd.com/film/being-there/",
+      "director": "Hal Ashby",
+      "actors": [
+        "Peter Sellers",
+        "Shirley MacLaine",
+        "Melvyn Douglas"
+      ],
+      "genres": "Comedy, Drama"
     },
     {
       "rank": 18,
       "title": "The Castle of Cagliostro",
-      "url": "https://letterboxd.com/film/the-castle-of-cagliostro/"
+      "url": "https://letterboxd.com/film/the-castle-of-cagliostro/",
+      "director": "Hayao Miyazaki",
+      "actors": [
+        "Yasuo Yamada",
+        "Kiyoshi Kobayashi",
+        "Eiko Masuyama"
+      ],
+      "genres": "Adventure, Comedy, Animation, Crime"
     },
     {
       "rank": 19,
       "title": "Hair",
-      "url": "https://letterboxd.com/film/hair/"
+      "url": "https://letterboxd.com/film/hair/",
+      "director": "Miloš Forman",
+      "actors": [
+        "John Savage",
+        "Treat Williams",
+        "Beverly D'Angelo"
+      ],
+      "genres": "Drama, Music, Comedy"
     },
     {
       "rank": 20,
       "title": "Hardcore",
-      "url": "https://letterboxd.com/film/hardcore/"
+      "url": "https://letterboxd.com/film/hardcore/",
+      "director": "Paul Schrader",
+      "actors": [
+        "George C. Scott",
+        "Peter Boyle",
+        "Season Hubley"
+      ],
+      "genres": "Drama, Crime, Thriller"
     },
     {
       "rank": 21,
       "title": "Star Trek: The Motion Picture",
-      "url": "https://letterboxd.com/film/star-trek-the-motion-picture/"
+      "url": "https://letterboxd.com/film/star-trek-the-motion-picture/",
+      "director": "Robert Wise",
+      "actors": [
+        "William Shatner",
+        "Leonard Nimoy",
+        "DeForest Kelley"
+      ],
+      "genres": "Mystery, Science Fiction, Adventure"
     },
     {
       "rank": 22,
       "title": "Phantasm",
-      "url": "https://letterboxd.com/film/phantasm/"
+      "url": "https://letterboxd.com/film/phantasm/",
+      "director": "Don Coscarelli",
+      "actors": [
+        "A. Michael Baldwin",
+        "Bill Thornbury",
+        "Reggie Bannister"
+      ],
+      "genres": "Science Fiction, Horror"
     },
     {
       "rank": 23,
       "title": "The Jerk",
-      "url": "https://letterboxd.com/film/the-jerk/"
+      "url": "https://letterboxd.com/film/the-jerk/",
+      "director": "Carl Reiner",
+      "actors": [
+        "Steve Martin",
+        "Bernadette Peters",
+        "Catlin Adams"
+      ],
+      "genres": "Comedy"
     },
     {
       "rank": 24,
       "title": "French Fried Vacation 2",
-      "url": "https://letterboxd.com/film/french-fried-vacation-2/"
+      "url": "https://letterboxd.com/film/french-fried-vacation-2/",
+      "director": "Patrice Leconte",
+      "actors": [
+        "Thierry Lhermitte",
+        "Michel Blanc",
+        "Christian Clavier"
+      ],
+      "genres": "Comedy"
     },
     {
       "rank": 25,
       "title": "Quadrophenia",
-      "url": "https://letterboxd.com/film/quadrophenia/"
+      "url": "https://letterboxd.com/film/quadrophenia/",
+      "director": "Franc Roddam",
+      "actors": [
+        "Phil Daniels",
+        "Leslie Ash",
+        "Phil Davis"
+      ],
+      "genres": "Drama, Music"
     },
     {
       "rank": 26,
-      "title": "Asparagus",
-      "url": "https://letterboxd.com/film/asparagus/"
+      "title": "The Amityville Horror",
+      "url": "https://letterboxd.com/film/the-amityville-horror/",
+      "director": "Stuart Rosenberg",
+      "actors": [
+        "James Brolin",
+        "Margot Kidder",
+        "Rod Steiger"
+      ],
+      "genres": "Horror"
     },
     {
       "rank": 27,
-      "title": "The Amityville Horror",
-      "url": "https://letterboxd.com/film/the-amityville-horror/"
+      "title": "Asparagus",
+      "url": "https://letterboxd.com/film/asparagus/",
+      "director": "Suzan Pitt",
+      "actors": [],
+      "genres": "Animation"
     },
     {
       "rank": 28,
       "title": "Zombie Flesh Eaters",
-      "url": "https://letterboxd.com/film/zombie-flesh-eaters/"
+      "url": "https://letterboxd.com/film/zombie-flesh-eaters/",
+      "director": "Lucio Fulci",
+      "actors": [
+        "Tisa Farrow",
+        "Ian McCulloch",
+        "Richard Johnson"
+      ],
+      "genres": "Horror"
     },
     {
       "rank": 29,
       "title": "Caligula",
-      "url": "https://letterboxd.com/film/caligula/"
+      "url": "https://letterboxd.com/film/caligula/",
+      "director": "Tinto Brass",
+      "actors": [
+        "Malcolm McDowell",
+        "Teresa Ann Savoy",
+        "Helen Mirren"
+      ],
+      "genres": "Drama, History"
     },
     {
       "rank": 30,
       "title": "Salem's Lot",
-      "url": "https://letterboxd.com/film/salems-lot/"
+      "url": "https://letterboxd.com/film/salems-lot/",
+      "director": "Tobe Hooper",
+      "actors": [
+        "David Soul",
+        "James Mason",
+        "Lance Kerwin"
+      ],
+      "genres": "Horror, Mystery"
     },
     {
       "rank": 31,
       "title": "Fascination",
-      "url": "https://letterboxd.com/film/fascination-1979/"
+      "url": "https://letterboxd.com/film/fascination-1979/",
+      "director": "Jean Rollin",
+      "actors": [
+        "Franca Maï",
+        "Jean-Marie Lemaire",
+        "Brigitte Lahaie"
+      ],
+      "genres": "Horror"
     },
     {
       "rank": 32,
-      "title": "Real Life",
-      "url": "https://letterboxd.com/film/real-life/"
+      "title": "The Wizard of Speed and Time",
+      "url": "https://letterboxd.com/film/the-wizard-of-speed-and-time-1979/",
+      "director": "Mike Jittlov",
+      "actors": [
+        "Mike Jittlov",
+        "Toni Handcock"
+      ],
+      "genres": "Fantasy, Animation, Music, Comedy"
     },
     {
       "rank": 33,
-      "title": "The Wizard of Speed and Time",
-      "url": "https://letterboxd.com/film/the-wizard-of-speed-and-time-1979/"
+      "title": "Real Life",
+      "url": "https://letterboxd.com/film/real-life/",
+      "director": "Albert Brooks",
+      "actors": [
+        "Albert Brooks",
+        "Charles Grodin",
+        "Frances Lee McCain"
+      ],
+      "genres": "Comedy"
     },
     {
       "rank": 34,
       "title": "The Plumber",
-      "url": "https://letterboxd.com/film/the-plumber/"
+      "url": "https://letterboxd.com/film/the-plumber/",
+      "director": "Peter Weir",
+      "actors": [
+        "Ivar Kants",
+        "Judy Morris",
+        "Robert Coleby"
+      ],
+      "genres": "Thriller, TV Movie, Horror, Comedy"
     },
     {
       "rank": 35,
       "title": "The Driller Killer",
-      "url": "https://letterboxd.com/film/the-driller-killer/"
+      "url": "https://letterboxd.com/film/the-driller-killer/",
+      "director": "Abel Ferrara",
+      "actors": [
+        "Abel Ferrara",
+        "Carolyn Marz",
+        "Baybi Day"
+      ],
+      "genres": "Horror"
     },
     {
       "rank": 36,
       "title": "Tourist Trap",
-      "url": "https://letterboxd.com/film/tourist-trap/"
+      "url": "https://letterboxd.com/film/tourist-trap/",
+      "director": "David Schmoeller",
+      "actors": [
+        "Chuck Connors",
+        "Jocelyn Jones",
+        "Jon Van Ness"
+      ],
+      "genres": "Fantasy, Horror"
     },
     {
       "rank": 37,
       "title": "Woyzeck",
-      "url": "https://letterboxd.com/film/woyzeck/"
+      "url": "https://letterboxd.com/film/woyzeck/",
+      "director": "Werner Herzog",
+      "actors": [
+        "Klaus Kinski",
+        "Eva Mattes",
+        "Wolfgang Reichmann"
+      ],
+      "genres": "Drama"
     },
     {
       "rank": 38,
       "title": "Breaking Away",
-      "url": "https://letterboxd.com/film/breaking-away/"
+      "url": "https://letterboxd.com/film/breaking-away/",
+      "director": "Peter Yates",
+      "actors": [
+        "Dennis Christopher",
+        "Dennis Quaid",
+        "Daniel Stern"
+      ],
+      "genres": "Comedy, Drama"
     },
     {
       "rank": 39,
       "title": "Camera Buff",
-      "url": "https://letterboxd.com/film/camera-buff/"
+      "url": "https://letterboxd.com/film/camera-buff/",
+      "director": "Krzysztof Kieślowski",
+      "actors": [
+        "Jerzy Stuhr",
+        "Małgorzata Ząbkowska",
+        "Ewa Pokas"
+      ],
+      "genres": "Drama"
     },
     {
       "rank": 40,
       "title": "Scum",
-      "url": "https://letterboxd.com/film/scum/"
+      "url": "https://letterboxd.com/film/scum/",
+      "director": "Alan Clarke",
+      "actors": [
+        "Ray Winstone",
+        "Mick Ford",
+        "Julian Firth"
+      ],
+      "genres": "Crime, Drama"
     },
     {
       "rank": 41,
       "title": "The Marriage of Maria Braun",
-      "url": "https://letterboxd.com/film/the-marriage-of-maria-braun/"
+      "url": "https://letterboxd.com/film/the-marriage-of-maria-braun/",
+      "director": "Rainer Werner Fassbinder",
+      "actors": [
+        "Hanna Schygulla",
+        "Klaus Löwitsch",
+        "Ivan Desny"
+      ],
+      "genres": "Drama"
     },
     {
       "rank": 42,
       "title": "Chilly Scenes of Winter",
-      "url": "https://letterboxd.com/film/chilly-scenes-of-winter/"
+      "url": "https://letterboxd.com/film/chilly-scenes-of-winter/",
+      "director": "Joan Micklin Silver",
+      "actors": [
+        "John Heard",
+        "Mary Beth Hurt",
+        "Peter Riegert"
+      ],
+      "genres": "Romance, Comedy, Drama"
     },
     {
       "rank": 43,
       "title": "Dead Mountaineer's Hotel",
-      "url": "https://letterboxd.com/film/dead-mountaineers-hotel/"
+      "url": "https://letterboxd.com/film/dead-mountaineers-hotel/",
+      "director": "Grigori Kromanov",
+      "actors": [
+        "Uldis Pūcītis",
+        "Jüri Järvet",
+        "Lembit Peterson"
+      ],
+      "genres": "Horror, Drama, Science Fiction, Crime"
     },
     {
       "rank": 44,
       "title": "1941",
-      "url": "https://letterboxd.com/film/1941/"
+      "url": "https://letterboxd.com/film/1941/",
+      "director": "Steven Spielberg",
+      "actors": [
+        "Dan Aykroyd",
+        "Ned Beatty",
+        "John Belushi"
+      ],
+      "genres": "War, Comedy, Action"
     },
     {
       "rank": 45,
       "title": "When a Stranger Calls",
-      "url": "https://letterboxd.com/film/when-a-stranger-calls/"
+      "url": "https://letterboxd.com/film/when-a-stranger-calls/",
+      "director": "Fred Walton",
+      "actors": [
+        "Carol Kane",
+        "Charles Durning",
+        "Colleen Dewhurst"
+      ],
+      "genres": "Thriller, Horror"
     },
     {
       "rank": 46,
       "title": "Rapture",
-      "url": "https://letterboxd.com/film/rapture-1979/"
+      "url": "https://letterboxd.com/film/rapture-1979/",
+      "director": "Iván Zulueta",
+      "actors": [
+        "Eusebio Poncela",
+        "Cecilia Roth",
+        "Will More"
+      ],
+      "genres": "Horror, Drama, Fantasy"
     },
     {
       "rank": 47,
       "title": "Winter Kills",
-      "url": "https://letterboxd.com/film/winter-kills/"
+      "url": "https://letterboxd.com/film/winter-kills/",
+      "director": "William Richert",
+      "actors": [
+        "Jeff Bridges",
+        "John Huston",
+        "Anthony Perkins"
+      ],
+      "genres": "Drama, Thriller, Mystery, Comedy"
     },
     {
       "rank": 48,
       "title": "The Visitor",
-      "url": "https://letterboxd.com/film/the-visitor-1979/"
+      "url": "https://letterboxd.com/film/the-visitor-1979/",
+      "director": "Giulio Paradisi",
+      "actors": [
+        "Mel Ferrer",
+        "Glenn Ford",
+        "Lance Henriksen"
+      ],
+      "genres": "Science Fiction, Horror"
     },
     {
       "rank": 49,
       "title": "The Man Who Stole the Sun",
-      "url": "https://letterboxd.com/film/the-man-who-stole-the-sun/"
+      "url": "https://letterboxd.com/film/the-man-who-stole-the-sun/",
+      "director": "Kazuhiko Hasegawa",
+      "actors": [
+        "Kenji Sawada",
+        "Bunta Sugawara",
+        "Kimiko Ikegami"
+      ],
+      "genres": "Action, Thriller, Crime"
     },
     {
       "rank": 50,
       "title": "Rock 'n' Roll High School",
-      "url": "https://letterboxd.com/film/rock-n-roll-high-school/"
+      "url": "https://letterboxd.com/film/rock-n-roll-high-school/",
+      "director": "Allan Arkush",
+      "actors": [
+        "P. J. Soles",
+        "Vincent Van Patten",
+        "Clint Howard"
+      ],
+      "genres": "Music, Comedy"
     }
   ]
 }

@@ -1,51 +1,51 @@
-rank,title,url
-1,Back to the Future,https://letterboxd.com/film/back-to-the-future/
-2,After Hours,https://letterboxd.com/film/after-hours/
-3,The Breakfast Club,https://letterboxd.com/film/the-breakfast-club/
-4,Clue,https://letterboxd.com/film/clue/
-5,Come and See,https://letterboxd.com/film/come-and-see/
-6,Angel's Egg,https://letterboxd.com/film/angels-egg/
-7,To Live and Die in L.A.,https://letterboxd.com/film/to-live-and-die-in-la/
-8,Ran,https://letterboxd.com/film/ran/
-9,The Goonies,https://letterboxd.com/film/the-goonies/
-10,Brazil,https://letterboxd.com/film/brazil/
-11,Tampopo,https://letterboxd.com/film/tampopo/
-12,Hour of the Star,https://letterboxd.com/film/hour-of-the-star/
-13,Rocky IV,https://letterboxd.com/film/rocky-iv/
-14,Witness,https://letterboxd.com/film/witness/
-15,Police Story,https://letterboxd.com/film/police-story/
-16,Mishima: A Life in Four Chapters,https://letterboxd.com/film/mishima-a-life-in-four-chapters/
-17,Re-Animator,https://letterboxd.com/film/re-animator/
-18,Desert Hearts,https://letterboxd.com/film/desert-hearts/
-19,Vagabond,https://letterboxd.com/film/vagabond/
-20,Lost in America,https://letterboxd.com/film/lost-in-america/
-21,Pee-wee's Big Adventure,https://letterboxd.com/film/pee-wees-big-adventure/
-22,Legend,https://letterboxd.com/film/legend/
-23,The Stuff,https://letterboxd.com/film/the-stuff/
-24,The Return of the Living Dead,https://letterboxd.com/film/the-return-of-the-living-dead/
-25,The Color Purple,https://letterboxd.com/film/the-color-purple/
-26,A View to a Kill,https://letterboxd.com/film/a-view-to-a-kill/
-27,A Nightmare on Elm Street Part 2: Freddy's Revenge,https://letterboxd.com/film/a-nightmare-on-elm-street-part-2-freddys-revenge/
-28,Friday the 13th: A New Beginning,https://letterboxd.com/film/friday-the-13th-a-new-beginning/
-29,Rambo: First Blood Part II,https://letterboxd.com/film/rambo-first-blood-part-ii/
-30,Phenomena,https://letterboxd.com/film/phenomena/
-31,Mad Max Beyond Thunderdome,https://letterboxd.com/film/mad-max-beyond-thunderdome/
-32,Return to Oz,https://letterboxd.com/film/return-to-oz/
-33,Vampire Hunter D,https://letterboxd.com/film/vampire-hunter-d/
-34,Commando,https://letterboxd.com/film/commando/
-35,Fright Night,https://letterboxd.com/film/fright-night/
-36,The Black Cauldron,https://letterboxd.com/film/the-black-cauldron/
-37,Waiting for the Hearse,https://letterboxd.com/film/waiting-for-the-hearse/
-38,Day of the Dead,https://letterboxd.com/film/day-of-the-dead/
-39,Taipei Story,https://letterboxd.com/film/taipei-story/
-40,Desperately Seeking Susan,https://letterboxd.com/film/desperately-seeking-susan/
-41,Out of Africa,https://letterboxd.com/film/out-of-africa/
-42,The Purple Rose of Cairo,https://letterboxd.com/film/the-purple-rose-of-cairo/
-43,Weird Science,https://letterboxd.com/film/weird-science/
-44,Better Off Dead...,https://letterboxd.com/film/better-off-dead/
-45,Teen Wolf,https://letterboxd.com/film/teen-wolf/
-46,Demons,https://letterboxd.com/film/demons/
-47,St. Elmo's Fire,https://letterboxd.com/film/st-elmos-fire/
-48,The Official Story,https://letterboxd.com/film/the-official-story/
-49,Just One of the Guys,https://letterboxd.com/film/just-one-of-the-guys/
-50,Kiss of the Spider Woman,https://letterboxd.com/film/kiss-of-the-spider-woman/
+rank,title,director,actors,genres,url
+1,Back to the Future,Robert Zemeckis,Michael J. Fox; Christopher Lloyd; Crispin Glover,"Adventure, Comedy, Science Fiction",https://letterboxd.com/film/back-to-the-future/
+2,After Hours,Martin Scorsese,Griffin Dunne; Rosanna Arquette; Verna Bloom,"Thriller, Comedy, Drama",https://letterboxd.com/film/after-hours/
+3,The Breakfast Club,John Hughes,Emilio Estevez; Judd Nelson; Molly Ringwald,"Drama, Comedy",https://letterboxd.com/film/the-breakfast-club/
+4,Clue,Jonathan Lynn,Tim Curry; Eileen Brennan; Madeline Kahn,"Crime, Comedy, Mystery, Thriller",https://letterboxd.com/film/clue/
+5,Come and See,Elem Klimov,Aleksei Kravchenko; Olga Mironova; Liubomiras Laucevičius,"Horror, War, Drama",https://letterboxd.com/film/come-and-see/
+6,Angel's Egg,Mamoru Oshii,Keiichi Noda; Mako Hyodo; Jinpachi Nezu,"Fantasy, Animation, Mystery",https://letterboxd.com/film/angels-egg/
+7,To Live and Die in L.A.,William Friedkin,William L. Petersen; Willem Dafoe; John Pankow,"Action, Crime, Thriller",https://letterboxd.com/film/to-live-and-die-in-la/
+8,Ran,Akira Kurosawa,Tatsuya Nakadai; Akira Terao; Jinpachi Nezu,"Drama, History, Action",https://letterboxd.com/film/ran/
+9,The Goonies,Richard Donner,Sean Astin; Josh Brolin; Jeff Cohen,"Adventure, Family, Comedy",https://letterboxd.com/film/the-goonies/
+10,Brazil,Terry Gilliam,Jonathan Pryce; Robert De Niro; Katherine Helmond,"Science Fiction, Comedy",https://letterboxd.com/film/brazil/
+11,Tampopo,Jūzō Itami,Tsutomu Yamazaki; Nobuko Miyamoto; Ken Watanabe,Comedy,https://letterboxd.com/film/tampopo/
+12,Hour of the Star,Suzana Amaral,Marcélia Cartaxo; José Dumont; Tamara Taxman,Drama,https://letterboxd.com/film/hour-of-the-star/
+13,Rocky IV,Sylvester Stallone,Sylvester Stallone; Dolph Lundgren; Carl Weathers,Drama,https://letterboxd.com/film/rocky-iv/
+14,Witness,Peter Weir,Harrison Ford; Kelly McGillis; Josef Sommer,"Drama, Crime, Thriller",https://letterboxd.com/film/witness/
+15,Police Story,Jackie Chan,Jackie Chan; Brigitte Lin; Maggie Cheung,"Comedy, Crime, Action",https://letterboxd.com/film/police-story/
+16,Mishima: A Life in Four Chapters,Paul Schrader,Ken Ogata; Kenji Sawada; Bandō Mitsugorō X,Drama,https://letterboxd.com/film/mishima-a-life-in-four-chapters/
+17,Re-Animator,Stuart Gordon,Jeffrey Combs; Bruce Abbott; Barbara Crampton,"Comedy, Horror, Science Fiction",https://letterboxd.com/film/re-animator/
+18,Desert Hearts,Donna Deitch,Helen Shaver; Patricia Charbonneau; Audra Lindley,"Drama, Romance",https://letterboxd.com/film/desert-hearts/
+19,Vagabond,Agnès Varda,Sandrine Bonnaire; Macha Méril; Yolande Moreau,Drama,https://letterboxd.com/film/vagabond/
+20,Lost in America,Albert Brooks,Albert Brooks; Julie Hagerty; Michael Greene,Comedy,https://letterboxd.com/film/lost-in-america/
+21,Pee-wee's Big Adventure,Tim Burton,Paul Reubens; E. G. Daily; Mark Holton,"Adventure, Family, Comedy",https://letterboxd.com/film/pee-wees-big-adventure/
+22,Legend,Ridley Scott,Tom Cruise; Mia Sara; Tim Curry,"Adventure, Fantasy",https://letterboxd.com/film/legend/
+23,The Stuff,Larry Cohen,Michael Moriarty; Andrea Marcovicci; Garrett Morris,"Horror, Comedy, Science Fiction",https://letterboxd.com/film/the-stuff/
+24,The Return of the Living Dead,Dan O'Bannon,Clu Gulager; James Karen; Don Calfa,"Science Fiction, Comedy, Horror",https://letterboxd.com/film/the-return-of-the-living-dead/
+25,The Color Purple,Steven Spielberg,Danny Glover; Whoopi Goldberg; Margaret Avery,"History, Drama",https://letterboxd.com/film/the-color-purple/
+26,A View to a Kill,John Glen,Roger Moore; Tanya Roberts; Christopher Walken,"Action, Adventure, Thriller",https://letterboxd.com/film/a-view-to-a-kill/
+27,A Nightmare on Elm Street Part 2: Freddy's Revenge,Jack Sholder,Robert Englund; Mark Patton; Kim Myers,Horror,https://letterboxd.com/film/a-nightmare-on-elm-street-part-2-freddys-revenge/
+28,Friday the 13th: A New Beginning,Danny Steinmann,John Shepherd; Tiffany Helm; John Robert Dixon,"Thriller, Horror",https://letterboxd.com/film/friday-the-13th-a-new-beginning/
+29,Rambo: First Blood Part II,George P. Cosmatos,Sylvester Stallone; Richard Crenna; Charles Napier,"Adventure, Action, War, Thriller",https://letterboxd.com/film/rambo-first-blood-part-ii/
+30,Phenomena,Dario Argento,Jennifer Connelly; Daria Nicolodi; Fiore Argento,"Horror, Thriller",https://letterboxd.com/film/phenomena/
+31,Mad Max Beyond Thunderdome,"George Miller, George Ogilvie",Mel Gibson; Tina Turner; Helen Buday,"Science Fiction, Adventure, Action",https://letterboxd.com/film/mad-max-beyond-thunderdome/
+32,Vampire Hunter D,Toyoo Ashida,Kaneto Shiozawa; Michie Tomizawa; Seizo Kato,"Fantasy, Animation, Horror",https://letterboxd.com/film/vampire-hunter-d/
+33,Return to Oz,Walter Murch,Fairuza Balk; Nicol Williamson; Jean Marsh,"Adventure, Fantasy, Family",https://letterboxd.com/film/return-to-oz/
+34,Fright Night,Tom Holland,Chris Sarandon; William Ragsdale; Amanda Bearse,"Comedy, Horror",https://letterboxd.com/film/fright-night/
+35,Commando,Mark L. Lester,Arnold Schwarzenegger; Rae Dawn Chong; Dan Hedaya,"Adventure, Action, Thriller",https://letterboxd.com/film/commando/
+36,The Black Cauldron,"Richard Rich, Ted Berman",Grant Bardsley; Susan Sheridan; John Byner,"Animation, Adventure, Family, Fantasy",https://letterboxd.com/film/the-black-cauldron/
+37,Waiting for the Hearse,Alejandro Doria,Luis Brandoni; China Zorrilla; Antonio Gasalla,Comedy,https://letterboxd.com/film/waiting-for-the-hearse/
+38,Day of the Dead,George A. Romero,Lori Cardille; Terry Alexander; Joseph Pilato,"Mystery, Drama, Horror",https://letterboxd.com/film/day-of-the-dead/
+39,Taipei Story,Edward Yang,Tsai Chin; Hou Hsiao-hsien; Wu Nien-jen,Drama,https://letterboxd.com/film/taipei-story/
+40,Desperately Seeking Susan,Susan Seidelman,Rosanna Arquette; Madonna; Aidan Quinn,"Crime, Comedy, Drama",https://letterboxd.com/film/desperately-seeking-susan/
+41,Out of Africa,Sydney Pollack,Robert Redford; Meryl Streep; Klaus Maria Brandauer,"Drama, History, Romance",https://letterboxd.com/film/out-of-africa/
+42,The Purple Rose of Cairo,Woody Allen,Mia Farrow; Jeff Daniels; Danny Aiello,"Comedy, Romance, Fantasy",https://letterboxd.com/film/the-purple-rose-of-cairo/
+43,Weird Science,John Hughes,Anthony Michael Hall; Kelly LeBrock; Ilan Mitchell-Smith,"Romance, Fantasy, Comedy, Science Fiction",https://letterboxd.com/film/weird-science/
+44,Better Off Dead...,Savage Steve Holland,John Cusack; Amanda Wyss; Diane Franklin,"Comedy, Romance",https://letterboxd.com/film/better-off-dead/
+45,Teen Wolf,Rod Daniel,Michael J. Fox; James Hampton; Susan Ursitti,"Comedy, Romance, Fantasy",https://letterboxd.com/film/teen-wolf/
+46,Demons,Lamberto Bava,Urbano Barberini; Natasha Hovey; Karl Zinny,Horror,https://letterboxd.com/film/demons/
+47,St. Elmo's Fire,Joel Schumacher,Emilio Estevez; Rob Lowe; Andrew McCarthy,"Romance, Drama, Comedy",https://letterboxd.com/film/st-elmos-fire/
+48,The Official Story,Luis Puenzo,Norma Aleandro; Héctor Alterio; Hugo Arana,"History, Drama",https://letterboxd.com/film/the-official-story/
+49,Just One of the Guys,Lisa Gottlieb,Joyce Hyser; Clayton Rohner; Billy Jayne,"Comedy, Romance",https://letterboxd.com/film/just-one-of-the-guys/
+50,Kiss of the Spider Woman,Héctor Babenco,William Hurt; Raúl Juliá; Sonia Braga,Drama,https://letterboxd.com/film/kiss-of-the-spider-woman/

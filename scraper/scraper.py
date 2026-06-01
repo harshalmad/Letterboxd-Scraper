@@ -28,6 +28,8 @@ DEFAULT_START_YEAR = 1977
 DEFAULT_END_YEAR = 2026
 DEFAULT_MAX_FILMS = 50
 DEFAULT_DELAY = 1.5
+DEFAULT_FILM_DELAY = 0.75
+DEFAULT_MAX_ACTORS = 3
 DEFAULT_RETRIES = 3
 DEFAULT_OUTPUT_DIR = Path(__file__).resolve().parent / "output"
 DEFAULT_JSON_DIR = Path(__file__).resolve().parent.parent / "web" / "public" / "data"
@@ -41,6 +43,114 @@ class Film:
     rank: int
     title: str
     url: str
+    director: str = ""
+    actors: tuple[str, ...] = ()
+    genres: str = ""
+
+
+CSV_FIELDNAMES = ["rank", "title", "director", "actors", "genres", "url"]
+
+
+def slug_from_url(url: str) -> str:
+    match = re.search(r"/film/([^/]+)/?", url)
+    if not match:
+        raise ValueError(f"Could not extract film slug from URL: {url}")
+    return match.group(1)
+
+
+def parse_film_details_from_html(html: str, max_actors: int = DEFAULT_MAX_ACTORS) -> dict[str, str | tuple[str, ...]]:
+    soup = BeautifulSoup(html, "lxml")
+    script = soup.find("script", type="application/ld+json")
+    if not script:
+        return {"director": "", "actors": (), "genres": ""}
+
+    raw = script.string or script.get_text()
+    raw = re.sub(r"/\*.*?\*/", "", raw, flags=re.DOTALL).strip()
+    try:
+        data = json.loads(raw)
+    except json.JSONDecodeError:
+        return {"director": "", "actors": (), "genres": ""}
+
+    directors = data.get("director") or []
+    if isinstance(directors, dict):
+        directors = [directors]
+    director = ", ".join(
+        person.get("name", "")
+        for person in directors
+        if isinstance(person, dict) and person.get("name")
+    )
+
+    actors_data = data.get("actors") or data.get("actor") or []
+    if isinstance(actors_data, dict):
+        actors_data = [actors_data]
+    actors: list[str] = []
+    for person in actors_data:
+        if not isinstance(person, dict):
+            continue
+        name = person.get("name")
+        if name:
+            actors.append(name)
+        if len(actors) >= max_actors:
+            break
+
+    genres = data.get("genre") or []
+    if isinstance(genres, str):
+        genres = [genres]
+    genre = ", ".join(str(item) for item in genres if item)
+
+    return {"director": director, "actors": tuple(actors), "genres": genre}
+
+
+def fetch_film_details(
+    film: Film,
+    retries: int,
+    timeout: int,
+    max_actors: int,
+) -> Film:
+    slug = slug_from_url(film.url)
+    page_url = urljoin(BASE_URL, f"/film/{slug}/")
+
+    last_error: Exception | None = None
+    for attempt in range(1, retries + 1):
+        try:
+            html = fetch_page(page_url, referer=f"{BASE_URL}/films/popular/", timeout=timeout)
+            details = parse_film_details_from_html(html, max_actors=max_actors)
+            return Film(
+                rank=film.rank,
+                title=film.title,
+                url=film.url,
+                director=str(details["director"]),
+                actors=tuple(details["actors"]),
+                genres=str(details["genres"]),
+            )
+        except Exception as exc:
+            last_error = exc
+            if attempt < retries:
+                time.sleep(attempt * 2)
+
+    logger.warning("Could not enrich %s: %s", film.title, last_error)
+    return film
+
+
+def enrich_films(
+    films: list[Film],
+    film_delay: float,
+    retries: int,
+    timeout: int,
+    max_actors: int,
+) -> list[Film]:
+    enriched: list[Film] = []
+    for index, film in enumerate(films):
+        enriched_film = fetch_film_details(
+            film,
+            retries=retries,
+            timeout=timeout,
+            max_actors=max_actors,
+        )
+        enriched.append(enriched_film)
+        if index < len(films) - 1 and film_delay > 0:
+            time.sleep(film_delay)
+    return enriched
 
 
 def build_page_url(year: int, page: int) -> str:
@@ -256,10 +366,19 @@ def scrape_year(year: int, max_films: int, retries: int, timeout: int) -> list[F
 def write_csv(path: Path, films: list[Film]) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     with path.open("w", encoding="utf-8", newline="") as handle:
-        writer = csv.DictWriter(handle, fieldnames=["rank", "title", "url"])
+        writer = csv.DictWriter(handle, fieldnames=CSV_FIELDNAMES)
         writer.writeheader()
         for film in films:
-            writer.writerow({"rank": film.rank, "title": film.title, "url": film.url})
+            writer.writerow(
+                {
+                    "rank": film.rank,
+                    "title": film.title,
+                    "director": film.director,
+                    "actors": "; ".join(film.actors),
+                    "genres": film.genres,
+                    "url": film.url,
+                }
+            )
 
 
 def write_year_json(path: Path, year: int, films: list[Film]) -> None:
@@ -323,6 +442,23 @@ def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
         "--no-json",
         action="store_true",
         help="Skip writing JSON files for the web app",
+    )
+    parser.add_argument(
+        "--no-details",
+        action="store_true",
+        help="Skip fetching director, cast, and genre from film pages",
+    )
+    parser.add_argument(
+        "--film-delay",
+        type=float,
+        default=DEFAULT_FILM_DELAY,
+        help=f"Seconds to wait between film detail requests (default: {DEFAULT_FILM_DELAY})",
+    )
+    parser.add_argument(
+        "--max-actors",
+        type=int,
+        default=DEFAULT_MAX_ACTORS,
+        help=f"Maximum billed actors to store per film (default: {DEFAULT_MAX_ACTORS})",
     )
     parser.add_argument(
         "--max-films",
@@ -408,6 +544,16 @@ def main(argv: list[str] | None = None) -> int:
                 retries=args.retries,
                 timeout=args.timeout,
             )
+
+            if not args.no_details:
+                logger.info("Enriching %s films for %s with cast, director, and genre...", len(films), year)
+                films = enrich_films(
+                    films,
+                    film_delay=args.film_delay,
+                    retries=args.retries,
+                    timeout=args.timeout,
+                    max_actors=args.max_actors,
+                )
             csv_path = args.output_dir / f"{year}.csv"
             write_csv(csv_path, films)
 

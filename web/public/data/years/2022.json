@@ -5,252 +5,598 @@
     {
       "rank": 1,
       "title": "Bones and All",
-      "url": "https://letterboxd.com/film/bones-and-all/"
+      "url": "https://letterboxd.com/film/bones-and-all/",
+      "director": "Luca Guadagnino",
+      "actors": [
+        "Taylor Russell",
+        "Timothée Chalamet",
+        "Mark Rylance"
+      ],
+      "genres": "Horror, Drama, Romance"
     },
     {
       "rank": 2,
       "title": "Avatar: The Way of Water",
-      "url": "https://letterboxd.com/film/avatar-the-way-of-water/"
+      "url": "https://letterboxd.com/film/avatar-the-way-of-water/",
+      "director": "James Cameron",
+      "actors": [
+        "Sam Worthington",
+        "Zoe Saldaña",
+        "Sigourney Weaver"
+      ],
+      "genres": "Science Fiction, Action, Adventure"
     },
     {
       "rank": 3,
       "title": "Everything Everywhere All at Once",
-      "url": "https://letterboxd.com/film/everything-everywhere-all-at-once/"
+      "url": "https://letterboxd.com/film/everything-everywhere-all-at-once/",
+      "director": "Daniel Scheinert, Daniel Kwan",
+      "actors": [
+        "Michelle Yeoh",
+        "Stephanie Hsu",
+        "Ke Huy Quan"
+      ],
+      "genres": "Science Fiction, Adventure, Comedy, Action"
     },
     {
       "rank": 4,
       "title": "Glass Onion",
-      "url": "https://letterboxd.com/film/glass-onion/"
+      "url": "https://letterboxd.com/film/glass-onion/",
+      "director": "Rian Johnson",
+      "actors": [
+        "Daniel Craig",
+        "Edward Norton",
+        "Janelle Monáe"
+      ],
+      "genres": "Crime, Mystery, Comedy"
     },
     {
       "rank": 5,
       "title": "Aftersun",
-      "url": "https://letterboxd.com/film/aftersun/"
+      "url": "https://letterboxd.com/film/aftersun/",
+      "director": "Charlotte Wells",
+      "actors": [
+        "Paul Mescal",
+        "Frankie Corio",
+        "Brooklyn Toulson"
+      ],
+      "genres": "Drama"
     },
     {
       "rank": 6,
       "title": "The Batman",
-      "url": "https://letterboxd.com/film/the-batman/"
+      "url": "https://letterboxd.com/film/the-batman/",
+      "director": "Matt Reeves",
+      "actors": [
+        "Robert Pattinson",
+        "Zoë Kravitz",
+        "Jeffrey Wright"
+      ],
+      "genres": "Crime, Mystery, Thriller"
     },
     {
       "rank": 7,
       "title": "The Menu",
-      "url": "https://letterboxd.com/film/the-menu-2022/"
+      "url": "https://letterboxd.com/film/the-menu-2022/",
+      "director": "Mark Mylod",
+      "actors": [
+        "Anya Taylor-Joy",
+        "Ralph Fiennes",
+        "Nicholas Hoult"
+      ],
+      "genres": "Comedy, Horror"
     },
     {
       "rank": 8,
       "title": "Top Gun: Maverick",
-      "url": "https://letterboxd.com/film/top-gun-maverick/"
+      "url": "https://letterboxd.com/film/top-gun-maverick/",
+      "director": "Joseph Kosinski",
+      "actors": [
+        "Tom Cruise",
+        "Miles Teller",
+        "Jennifer Connelly"
+      ],
+      "genres": "Action, Drama"
     },
     {
       "rank": 9,
       "title": "Bullet Train",
-      "url": "https://letterboxd.com/film/bullet-train/"
+      "url": "https://letterboxd.com/film/bullet-train/",
+      "director": "David Leitch",
+      "actors": [
+        "Brad Pitt",
+        "Joey King",
+        "Aaron Taylor-Johnson"
+      ],
+      "genres": "Comedy, Thriller, Action"
     },
     {
       "rank": 10,
       "title": "Pearl",
-      "url": "https://letterboxd.com/film/pearl-2022/"
+      "url": "https://letterboxd.com/film/pearl-2022/",
+      "director": "Ti West",
+      "actors": [
+        "Mia Goth",
+        "David Corenswet",
+        "Tandi Wright"
+      ],
+      "genres": "Horror"
     },
     {
       "rank": 11,
       "title": "All Quiet on the Western Front",
-      "url": "https://letterboxd.com/film/all-quiet-on-the-western-front-2022/"
+      "url": "https://letterboxd.com/film/all-quiet-on-the-western-front-2022/",
+      "director": "Edward Berger",
+      "actors": [
+        "Felix Kammerer",
+        "Albrecht Schuch",
+        "Aaron Hilmer"
+      ],
+      "genres": "Drama, War"
     },
     {
       "rank": 12,
       "title": "Scream",
-      "url": "https://letterboxd.com/film/scream-2022/"
+      "url": "https://letterboxd.com/film/scream-2022/",
+      "director": "Tyler Gillett, Matt Bettinelli-Olpin",
+      "actors": [
+        "Melissa Barrera",
+        "Jenna Ortega",
+        "Mason Gooding"
+      ],
+      "genres": "Mystery, Horror"
     },
     {
       "rank": 13,
       "title": "Barbarian",
-      "url": "https://letterboxd.com/film/barbarian-2022/"
+      "url": "https://letterboxd.com/film/barbarian-2022/",
+      "director": "Zach Cregger",
+      "actors": [
+        "Georgina Campbell",
+        "Justin Long",
+        "Bill Skarsgård"
+      ],
+      "genres": "Horror, Mystery"
     },
     {
       "rank": 14,
       "title": "Nope",
-      "url": "https://letterboxd.com/film/nope/"
+      "url": "https://letterboxd.com/film/nope/",
+      "director": "Jordan Peele",
+      "actors": [
+        "Daniel Kaluuya",
+        "Keke Palmer",
+        "Brandon Perea"
+      ],
+      "genres": "Science Fiction, Horror"
     },
     {
       "rank": 15,
       "title": "Bodies Bodies Bodies",
-      "url": "https://letterboxd.com/film/bodies-bodies-bodies/"
+      "url": "https://letterboxd.com/film/bodies-bodies-bodies/",
+      "director": "Halina Reijn",
+      "actors": [
+        "Amandla Stenberg",
+        "Maria Bakalova",
+        "Myha'la"
+      ],
+      "genres": "Comedy, Horror, Mystery"
     },
     {
       "rank": 16,
       "title": "Close",
-      "url": "https://letterboxd.com/film/close-2022/"
+      "url": "https://letterboxd.com/film/close-2022/",
+      "director": "Lukas Dhont",
+      "actors": [
+        "Eden Dambrine",
+        "Gustav De Waele",
+        "Émilie Dequenne"
+      ],
+      "genres": "Drama"
     },
     {
       "rank": 17,
       "title": "Puss in Boots: The Last Wish",
-      "url": "https://letterboxd.com/film/puss-in-boots-the-last-wish/"
+      "url": "https://letterboxd.com/film/puss-in-boots-the-last-wish/",
+      "director": "Joel Crawford",
+      "actors": [
+        "Antonio Banderas",
+        "Salma Hayek Pinault",
+        "Harvey Guillén"
+      ],
+      "genres": "Animation, Family, Fantasy, Comedy, Adventure"
     },
     {
       "rank": 18,
       "title": "Babylon",
-      "url": "https://letterboxd.com/film/babylon-2022/"
+      "url": "https://letterboxd.com/film/babylon-2022/",
+      "director": "Damien Chazelle",
+      "actors": [
+        "Diego Calva",
+        "Margot Robbie",
+        "Brad Pitt"
+      ],
+      "genres": "Comedy, Drama"
     },
     {
       "rank": 19,
       "title": "Don't Worry Darling",
-      "url": "https://letterboxd.com/film/dont-worry-darling/"
+      "url": "https://letterboxd.com/film/dont-worry-darling/",
+      "director": "Olivia Wilde",
+      "actors": [
+        "Florence Pugh",
+        "Harry Styles",
+        "Chris Pine"
+      ],
+      "genres": "Horror, Mystery, Science Fiction, Thriller"
     },
     {
       "rank": 20,
       "title": "X",
-      "url": "https://letterboxd.com/film/x-2022/"
+      "url": "https://letterboxd.com/film/x-2022/",
+      "director": "Ti West",
+      "actors": [
+        "Mia Goth",
+        "Jenna Ortega",
+        "Brittany Snow"
+      ],
+      "genres": "Horror"
     },
     {
       "rank": 21,
       "title": "Smile",
-      "url": "https://letterboxd.com/film/smile-2022/"
+      "url": "https://letterboxd.com/film/smile-2022/",
+      "director": "Parker Finn",
+      "actors": [
+        "Sosie Bacon",
+        "Kyle Gallner",
+        "Jessie T. Usher"
+      ],
+      "genres": "Horror, Mystery"
     },
     {
       "rank": 22,
       "title": "Talk to Me",
-      "url": "https://letterboxd.com/film/talk-to-me-2022/"
+      "url": "https://letterboxd.com/film/talk-to-me-2022/",
+      "director": "Michael Philippou, Danny Philippou",
+      "actors": [
+        "Sophie Wilde",
+        "Alexandra Jensen",
+        "Joe Bird"
+      ],
+      "genres": "Horror"
     },
     {
       "rank": 23,
       "title": "Fall",
-      "url": "https://letterboxd.com/film/fall-2022/"
+      "url": "https://letterboxd.com/film/fall-2022/",
+      "director": "Scott Mann",
+      "actors": [
+        "Grace Caroline Currey",
+        "Virginia Gardner",
+        "Jeffrey Dean Morgan"
+      ],
+      "genres": "Action, Thriller"
     },
     {
       "rank": 24,
       "title": "Doctor Strange in the Multiverse of Madness",
-      "url": "https://letterboxd.com/film/doctor-strange-in-the-multiverse-of-madness/"
+      "url": "https://letterboxd.com/film/doctor-strange-in-the-multiverse-of-madness/",
+      "director": "Sam Raimi",
+      "actors": [
+        "Benedict Cumberbatch",
+        "Xochitl Gomez",
+        "Elizabeth Olsen"
+      ],
+      "genres": "Fantasy, Action, Adventure"
     },
     {
       "rank": 25,
       "title": "The Whale",
-      "url": "https://letterboxd.com/film/the-whale-2022/"
+      "url": "https://letterboxd.com/film/the-whale-2022/",
+      "director": "Darren Aronofsky",
+      "actors": [
+        "Brendan Fraser",
+        "Sadie Sink",
+        "Ty Simpkins"
+      ],
+      "genres": "Drama"
     },
     {
       "rank": 26,
       "title": "A Man Called Otto",
-      "url": "https://letterboxd.com/film/a-man-called-otto/"
+      "url": "https://letterboxd.com/film/a-man-called-otto/",
+      "director": "Marc Forster",
+      "actors": [
+        "Tom Hanks",
+        "Mariana Treviño",
+        "Cameron Britton"
+      ],
+      "genres": "Drama, Comedy"
     },
     {
       "rank": 27,
       "title": "Triangle of Sadness",
-      "url": "https://letterboxd.com/film/triangle-of-sadness/"
+      "url": "https://letterboxd.com/film/triangle-of-sadness/",
+      "director": "Ruben Östlund",
+      "actors": [
+        "Harris Dickinson",
+        "Charlbi Dean",
+        "Dolly de Leon"
+      ],
+      "genres": "Drama, Comedy"
     },
     {
       "rank": 28,
       "title": "Enola Holmes 2",
-      "url": "https://letterboxd.com/film/enola-holmes-2/"
+      "url": "https://letterboxd.com/film/enola-holmes-2/",
+      "director": "Harry Bradbeer",
+      "actors": [
+        "Millie Bobby Brown",
+        "Henry Cavill",
+        "David Thewlis"
+      ],
+      "genres": "Adventure, Crime, Mystery"
     },
     {
       "rank": 29,
       "title": "The Banshees of Inisherin",
-      "url": "https://letterboxd.com/film/the-banshees-of-inisherin/"
+      "url": "https://letterboxd.com/film/the-banshees-of-inisherin/",
+      "director": "Martin McDonagh",
+      "actors": [
+        "Colin Farrell",
+        "Brendan Gleeson",
+        "Kerry Condon"
+      ],
+      "genres": "Comedy, Drama"
     },
     {
       "rank": 30,
       "title": "Entergalactic",
-      "url": "https://letterboxd.com/film/entergalactic/"
+      "url": "https://letterboxd.com/film/entergalactic/",
+      "director": "Fletcher Moules",
+      "actors": [
+        "Kid Cudi",
+        "Jessica Williams",
+        "Laura Harrier"
+      ],
+      "genres": "Romance, Animation, Music"
     },
     {
       "rank": 31,
       "title": "Incantation",
-      "url": "https://letterboxd.com/film/incantation-2022/"
+      "url": "https://letterboxd.com/film/incantation-2022/",
+      "director": "Kevin Ko",
+      "actors": [
+        "Ina Tsai",
+        "Ven Kao",
+        "Sin-Ting Huang"
+      ],
+      "genres": "Horror"
     },
     {
       "rank": 32,
       "title": "The Northman",
-      "url": "https://letterboxd.com/film/the-northman/"
+      "url": "https://letterboxd.com/film/the-northman/",
+      "director": "Robert Eggers",
+      "actors": [
+        "Alexander Skarsgård",
+        "Nicole Kidman",
+        "Claes Bang"
+      ],
+      "genres": "Adventure, Action, Fantasy"
     },
     {
       "rank": 33,
       "title": "Decision to Leave",
-      "url": "https://letterboxd.com/film/decision-to-leave/"
+      "url": "https://letterboxd.com/film/decision-to-leave/",
+      "director": "Park Chan-wook",
+      "actors": [
+        "Tang Wei",
+        "Park Hae-il",
+        "Lee Jung-hyun"
+      ],
+      "genres": "Mystery, Thriller, Romance"
     },
     {
       "rank": 34,
       "title": "Fresh",
-      "url": "https://letterboxd.com/film/fresh-2022/"
+      "url": "https://letterboxd.com/film/fresh-2022/",
+      "director": "Mimi Cave",
+      "actors": [
+        "Daisy Edgar-Jones",
+        "Sebastian Stan",
+        "Jojo T. Gibbs"
+      ],
+      "genres": "Horror, Thriller"
     },
     {
       "rank": 35,
       "title": "20th Century Girl",
-      "url": "https://letterboxd.com/film/20th-century-girl/"
+      "url": "https://letterboxd.com/film/20th-century-girl/",
+      "director": "Bang Woo-ri",
+      "actors": [
+        "Kim You-jung",
+        "Byeon Woo-seok",
+        "Park Jung-woo"
+      ],
+      "genres": "Drama, Romance"
     },
     {
       "rank": 36,
       "title": "Thor: Love and Thunder",
-      "url": "https://letterboxd.com/film/thor-love-and-thunder/"
+      "url": "https://letterboxd.com/film/thor-love-and-thunder/",
+      "director": "Taika Waititi",
+      "actors": [
+        "Chris Hemsworth",
+        "Natalie Portman",
+        "Christian Bale"
+      ],
+      "genres": "Action, Fantasy, Comedy"
     },
     {
       "rank": 37,
       "title": "Turning Red",
-      "url": "https://letterboxd.com/film/turning-red/"
+      "url": "https://letterboxd.com/film/turning-red/",
+      "director": "Domee Shi",
+      "actors": [
+        "Rosalie Chiang",
+        "Sandra Oh",
+        "Ava Morse"
+      ],
+      "genres": "Family, Fantasy, Animation, Comedy"
     },
     {
       "rank": 38,
       "title": "Black Panther: Wakanda Forever",
-      "url": "https://letterboxd.com/film/black-panther-wakanda-forever/"
+      "url": "https://letterboxd.com/film/black-panther-wakanda-forever/",
+      "director": "Ryan Coogler",
+      "actors": [
+        "Letitia Wright",
+        "Tenoch Huerta Mejía",
+        "Lupita Nyong'o"
+      ],
+      "genres": "Science Fiction, Adventure, Action"
     },
     {
       "rank": 39,
       "title": "Am I OK?",
-      "url": "https://letterboxd.com/film/am-i-ok/"
+      "url": "https://letterboxd.com/film/am-i-ok/",
+      "director": "Tig Notaro, Stephanie Allynne",
+      "actors": [
+        "Dakota Johnson",
+        "Sonoya Mizuno",
+        "Jermaine Fowler"
+      ],
+      "genres": "Romance, Comedy, Drama"
     },
     {
       "rank": 40,
       "title": "Weak Hero",
-      "url": "https://letterboxd.com/film/weak-hero/"
+      "url": "https://letterboxd.com/film/weak-hero/",
+      "director": "Park Dan-hee, You Su-min",
+      "actors": [
+        "Park Ji-hoon",
+        "Choi Hyun-wook",
+        "Hong Kyung"
+      ],
+      "genres": "Drama"
     },
     {
       "rank": 41,
       "title": "The Gray Man",
-      "url": "https://letterboxd.com/film/the-gray-man-2022/"
+      "url": "https://letterboxd.com/film/the-gray-man-2022/",
+      "director": "Joe Russo, Anthony Russo",
+      "actors": [
+        "Ryan Gosling",
+        "Chris Evans",
+        "Ana de Armas"
+      ],
+      "genres": "Thriller, Action"
     },
     {
       "rank": 42,
-      "title": "Do Revenge",
-      "url": "https://letterboxd.com/film/do-revenge/"
+      "title": "The Backrooms (Found Footage)",
+      "url": "https://letterboxd.com/film/the-backrooms-found-footage/",
+      "director": "Kane Parsons",
+      "actors": [],
+      "genres": "Science Fiction, Mystery, Horror"
     },
     {
       "rank": 43,
-      "title": "Uncharted",
-      "url": "https://letterboxd.com/film/uncharted-2022/"
+      "title": "Do Revenge",
+      "url": "https://letterboxd.com/film/do-revenge/",
+      "director": "Jennifer Kaytin Robinson",
+      "actors": [
+        "Camila Mendes",
+        "Maya Hawke",
+        "Austin Abrams"
+      ],
+      "genres": "Thriller, Comedy, Romance"
     },
     {
       "rank": 44,
-      "title": "Jurassic World Dominion",
-      "url": "https://letterboxd.com/film/jurassic-world-dominion/"
+      "title": "Uncharted",
+      "url": "https://letterboxd.com/film/uncharted-2022/",
+      "director": "Ruben Fleischer",
+      "actors": [
+        "Tom Holland",
+        "Mark Wahlberg",
+        "Sophia Ali"
+      ],
+      "genres": "Action, Adventure, Mystery"
     },
     {
       "rank": 45,
-      "title": "Where the Crawdads Sing",
-      "url": "https://letterboxd.com/film/where-the-crawdads-sing/"
+      "title": "Jurassic World Dominion",
+      "url": "https://letterboxd.com/film/jurassic-world-dominion/",
+      "director": "Colin Trevorrow",
+      "actors": [
+        "Chris Pratt",
+        "Bryce Dallas Howard",
+        "Laura Dern"
+      ],
+      "genres": "Thriller, Science Fiction, Adventure"
     },
     {
       "rank": 46,
-      "title": "Suzume",
-      "url": "https://letterboxd.com/film/suzume/"
+      "title": "Where the Crawdads Sing",
+      "url": "https://letterboxd.com/film/where-the-crawdads-sing/",
+      "director": "Olivia Newman",
+      "actors": [
+        "Daisy Edgar-Jones",
+        "Taylor John Smith",
+        "Harris Dickinson"
+      ],
+      "genres": "Mystery, Drama, Romance"
     },
     {
       "rank": 47,
-      "title": "Purple Hearts",
-      "url": "https://letterboxd.com/film/purple-hearts-2022/"
+      "title": "Suzume",
+      "url": "https://letterboxd.com/film/suzume/",
+      "director": "Makoto Shinkai",
+      "actors": [
+        "Nanoka Hara",
+        "Hokuto Matsumura",
+        "Eri Fukatsu"
+      ],
+      "genres": "Fantasy, Animation, Adventure, Drama"
     },
     {
       "rank": 48,
-      "title": "Elvis",
-      "url": "https://letterboxd.com/film/elvis-2022/"
+      "title": "Purple Hearts",
+      "url": "https://letterboxd.com/film/purple-hearts-2022/",
+      "director": "Elizabeth Allen Rosenbaum",
+      "actors": [
+        "Sofia Carson",
+        "Nicholas Galitzine",
+        "John Harlan Kim"
+      ],
+      "genres": "Drama, Romance"
     },
     {
       "rank": 49,
-      "title": "The Backrooms (Found Footage)",
-      "url": "https://letterboxd.com/film/the-backrooms-found-footage/"
+      "title": "Elvis",
+      "url": "https://letterboxd.com/film/elvis-2022/",
+      "director": "Baz Luhrmann",
+      "actors": [
+        "Austin Butler",
+        "Tom Hanks",
+        "Olivia DeJonge"
+      ],
+      "genres": "Music, History, Drama"
     },
     {
       "rank": 50,
       "title": "Hundreds of Beavers",
-      "url": "https://letterboxd.com/film/hundreds-of-beavers/"
+      "url": "https://letterboxd.com/film/hundreds-of-beavers/",
+      "director": "Mike Cheslik",
+      "actors": [
+        "Ryland Brickson Cole Tews",
+        "Olivia Graves",
+        "Doug Mancheski"
+      ],
+      "genres": "Adventure, Comedy, Action"
     }
   ]
 }

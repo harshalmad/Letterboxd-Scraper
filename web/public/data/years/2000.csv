@@ -1,51 +1,51 @@
-rank,title,url
-1,American Psycho,https://letterboxd.com/film/american-psycho/
-2,Memento,https://letterboxd.com/film/memento/
-3,Scary Movie,https://letterboxd.com/film/scary-movie-2000/
-4,In the Mood for Love,https://letterboxd.com/film/in-the-mood-for-love/
-5,Requiem for a Dream,https://letterboxd.com/film/requiem-for-a-dream/
-6,Almost Famous,https://letterboxd.com/film/almost-famous/
-7,Gladiator,https://letterboxd.com/film/gladiator-2000/
-8,Scream 3,https://letterboxd.com/film/scream-3/
-9,Best in Show,https://letterboxd.com/film/best-in-show/
-10,Snatch,https://letterboxd.com/film/snatch/
-11,Erin Brockovich,https://letterboxd.com/film/erin-brockovich/
-12,Final Destination,https://letterboxd.com/film/final-destination/
-13,X-Men,https://letterboxd.com/film/x-men/
-14,The Emperor's New Groove,https://letterboxd.com/film/the-emperors-new-groove/
-15,Cast Away,https://letterboxd.com/film/cast-away/
-16,"O Brother, Where Art Thou?",https://letterboxd.com/film/o-brother-where-art-thou/
-17,Charlie's Angels,https://letterboxd.com/film/charlies-angels/
-18,Battle Royale,https://letterboxd.com/film/battle-royale/
-19,Miss Congeniality,https://letterboxd.com/film/miss-congeniality/
-20,Billy Elliot,https://letterboxd.com/film/billy-elliot/
-21,Yi Yi,https://letterboxd.com/film/yi-yi/
-22,Meet the Parents,https://letterboxd.com/film/meet-the-parents/
-23,What Women Want,https://letterboxd.com/film/what-women-want/
-24,Amores Perros,https://letterboxd.com/film/amores-perros/
-25,Remember the Titans,https://letterboxd.com/film/remember-the-titans/
-26,Bring It On,https://letterboxd.com/film/bring-it-on/
-27,"Crouching Tiger, Hidden Dragon",https://letterboxd.com/film/crouching-tiger-hidden-dragon/
-28,Dancer in the Dark,https://letterboxd.com/film/dancer-in-the-dark/
-29,Coyote Ugly,https://letterboxd.com/film/coyote-ugly/
-30,High Fidelity,https://letterboxd.com/film/high-fidelity/
-31,How the Grinch Stole Christmas,https://letterboxd.com/film/how-the-grinch-stole-christmas-2000/
-32,Mission: Impossible II,https://letterboxd.com/film/mission-impossible-ii/
-33,Unbreakable,https://letterboxd.com/film/unbreakable/
-34,Ginger Snaps,https://letterboxd.com/film/ginger-snaps/
-35,The Beach,https://letterboxd.com/film/the-beach/
-36,Joint Security Area,https://letterboxd.com/film/joint-security-area/
-37,Vampire Hunter D: Bloodlust,https://letterboxd.com/film/vampire-hunter-d-bloodlust/
-38,Sexy Beast,https://letterboxd.com/film/sexy-beast/
-39,Chicken Run,https://letterboxd.com/film/chicken-run/
-40,The Road to El Dorado,https://letterboxd.com/film/the-road-to-el-dorado/
-41,Road Trip,https://letterboxd.com/film/road-trip/
-42,Nine Queens,https://letterboxd.com/film/nine-queens/
-43,Hollow Man,https://letterboxd.com/film/hollow-man/
-44,Love & Basketball,https://letterboxd.com/film/love-basketball/
-45,What Lies Beneath,https://letterboxd.com/film/what-lies-beneath/
-46,Werckmeister Harmonies,https://letterboxd.com/film/werckmeister-harmonies/
-47,Malena,https://letterboxd.com/film/malena/
-48,The Gleaners and I,https://letterboxd.com/film/the-gleaners-and-i/
-49,The Patriot,https://letterboxd.com/film/the-patriot-2000/
-50,Cecil B. Demented,https://letterboxd.com/film/cecil-b-demented/
+rank,title,director,actors,genres,url
+1,American Psycho,Mary Harron,Christian Bale; Justin Theroux; Josh Lucas,"Crime, Drama, Thriller, Horror",https://letterboxd.com/film/american-psycho/
+2,Memento,Christopher Nolan,Guy Pearce; Carrie-Anne Moss; Joe Pantoliano,"Thriller, Mystery",https://letterboxd.com/film/memento/
+3,Scary Movie,Keenen Ivory Wayans,Anna Faris; Regina Hall; Marlon Wayans,Comedy,https://letterboxd.com/film/scary-movie-2000/
+4,In the Mood for Love,Wong Kar-Wai,Maggie Cheung; Tony Leung Chiu-wai; Siu Ping-Lam,"Romance, Drama",https://letterboxd.com/film/in-the-mood-for-love/
+5,Requiem for a Dream,Darren Aronofsky,Ellen Burstyn; Jared Leto; Jennifer Connelly,"Drama, Crime",https://letterboxd.com/film/requiem-for-a-dream/
+6,Almost Famous,Cameron Crowe,Billy Crudup; Frances McDormand; Kate Hudson,"Drama, Music",https://letterboxd.com/film/almost-famous/
+7,Gladiator,Ridley Scott,Russell Crowe; Joaquin Phoenix; Connie Nielsen,"Action, Adventure, Drama",https://letterboxd.com/film/gladiator-2000/
+8,Scream 3,Wes Craven,David Arquette; Neve Campbell; Courteney Cox,"Horror, Mystery",https://letterboxd.com/film/scream-3/
+9,Best in Show,Christopher Guest,Bob Balaban; Jennifer Coolidge; Christopher Guest,Comedy,https://letterboxd.com/film/best-in-show/
+10,Snatch,Guy Ritchie,Jason Statham; Alan Ford; Stephen Graham,"Comedy, Crime",https://letterboxd.com/film/snatch/
+11,Erin Brockovich,Steven Soderbergh,Julia Roberts; Albert Finney; Aaron Eckhart,Drama,https://letterboxd.com/film/erin-brockovich/
+12,Final Destination,James Wong,Devon Sawa; Ali Larter; Kerr Smith,Horror,https://letterboxd.com/film/final-destination/
+13,X-Men,Bryan Singer,Hugh Jackman; Patrick Stewart; Ian McKellen,"Science Fiction, Action, Adventure",https://letterboxd.com/film/x-men/
+14,The Emperor's New Groove,Mark Dindal,David Spade; John Goodman; Eartha Kitt,"Comedy, Adventure, Animation, Family, Fantasy",https://letterboxd.com/film/the-emperors-new-groove/
+15,Cast Away,Robert Zemeckis,Tom Hanks; Helen Hunt; Chris Noth,"Drama, Adventure",https://letterboxd.com/film/cast-away/
+16,"O Brother, Where Art Thou?",Joel Coen,George Clooney; John Turturro; Tim Blake Nelson,"Comedy, Adventure, Crime",https://letterboxd.com/film/o-brother-where-art-thou/
+17,Charlie's Angels,McG,Cameron Diaz; Drew Barrymore; Lucy Liu,"Adventure, Comedy, Action",https://letterboxd.com/film/charlies-angels/
+18,Battle Royale,Kinji Fukasaku,Tatsuya Fujiwara; Aki Maeda; Takeshi Kitano,"Action, Thriller, Drama",https://letterboxd.com/film/battle-royale/
+19,Miss Congeniality,Donald Petrie,Sandra Bullock; Benjamin Bratt; Heather Burns,"Crime, Comedy, Action",https://letterboxd.com/film/miss-congeniality/
+20,Billy Elliot,Stephen Daldry,Jamie Bell; Gary Lewis; Julie Walters,"Drama, Music, Comedy",https://letterboxd.com/film/billy-elliot/
+21,Yi Yi,Edward Yang,Wu Nien-jen; Issey Ogata; Elaine Jin Yan-Ling,Drama,https://letterboxd.com/film/yi-yi/
+22,Meet the Parents,Jay Roach,Ben Stiller; Robert De Niro; Teri Polo,"Comedy, Romance",https://letterboxd.com/film/meet-the-parents/
+23,What Women Want,Nancy Meyers,Mel Gibson; Helen Hunt; Marisa Tomei,"Comedy, Romance",https://letterboxd.com/film/what-women-want/
+24,Amores Perros,Alejandro G. Iñárritu,Emilio Echevarría; Gael García Bernal; Vanessa Bauche,"Thriller, Drama",https://letterboxd.com/film/amores-perros/
+25,Remember the Titans,Boaz Yakin,Denzel Washington; Will Patton; Wood Harris,Drama,https://letterboxd.com/film/remember-the-titans/
+26,Bring It On,Peyton Reed,Kirsten Dunst; Eliza Dushku; Jesse Bradford,Comedy,https://letterboxd.com/film/bring-it-on/
+27,"Crouching Tiger, Hidden Dragon",Ang Lee,Chow Yun-Fat; Michelle Yeoh; Zhang Ziyi,"Drama, Romance, Action, Adventure",https://letterboxd.com/film/crouching-tiger-hidden-dragon/
+28,Dancer in the Dark,Lars von Trier,Björk; Catherine Deneuve; David Morse,"Drama, Crime",https://letterboxd.com/film/dancer-in-the-dark/
+29,Coyote Ugly,David McNally,Piper Perabo; Maria Bello; Bridget Moynahan,"Romance, Music, Comedy, Drama",https://letterboxd.com/film/coyote-ugly/
+30,High Fidelity,Stephen Frears,John Cusack; Iben Hjejle; Todd Louiso,"Drama, Music, Comedy, Romance",https://letterboxd.com/film/high-fidelity/
+31,How the Grinch Stole Christmas,Ron Howard,Jim Carrey; Taylor Momsen; Jeffrey Tambor,"Comedy, Family, Fantasy",https://letterboxd.com/film/how-the-grinch-stole-christmas-2000/
+32,Mission: Impossible II,John Woo,Tom Cruise; Dougray Scott; Thandiwe Newton,"Thriller, Action, Adventure",https://letterboxd.com/film/mission-impossible-ii/
+33,Unbreakable,M. Night Shyamalan,Bruce Willis; Samuel L. Jackson; Robin Wright,"Thriller, Mystery, Drama",https://letterboxd.com/film/unbreakable/
+34,Ginger Snaps,John Fawcett,Katharine Isabelle; Emily Perkins; Kris Lemche,"Drama, Horror, Thriller, Fantasy",https://letterboxd.com/film/ginger-snaps/
+35,The Beach,Danny Boyle,Leonardo DiCaprio; Virginie Ledoyen; Guillaume Canet,"Drama, Romance, Thriller, Adventure",https://letterboxd.com/film/the-beach/
+36,Joint Security Area,Park Chan-wook,Lee Young-ae; Lee Byung-hun; Song Kang-ho,"Action, Thriller, Drama",https://letterboxd.com/film/joint-security-area/
+37,Vampire Hunter D: Bloodlust,Yoshiaki Kawajiri,Andrew Philpot; John Rafter Lee; Pamela Adlon,"Fantasy, Animation, Action, Horror, Adventure, Science Fiction",https://letterboxd.com/film/vampire-hunter-d-bloodlust/
+38,Sexy Beast,Jonathan Glazer,Ray Winstone; Ben Kingsley; Ian McShane,"Thriller, Drama, Crime",https://letterboxd.com/film/sexy-beast/
+39,Chicken Run,"Peter Lord, Nick Park",Julia Sawalha; Mel Gibson; Imelda Staunton,"Animation, Family, Comedy",https://letterboxd.com/film/chicken-run/
+40,The Road to El Dorado,"Bibo Bergeron, Don Paul",Kenneth Branagh; Kevin Kline; Rosie Perez,"Fantasy, Comedy, Family, Animation, Adventure",https://letterboxd.com/film/the-road-to-el-dorado/
+41,Road Trip,Todd Phillips,Breckin Meyer; Seann William Scott; Amy Smart,"Comedy, Adventure",https://letterboxd.com/film/road-trip/
+42,Nine Queens,Fabián Bielinsky,Ricardo Darín; Gastón Pauls; Leticia Brédice,"Crime, Drama, Thriller",https://letterboxd.com/film/nine-queens/
+43,Hollow Man,Paul Verhoeven,Kevin Bacon; Elisabeth Shue; Josh Brolin,"Science Fiction, Action, Thriller, Horror",https://letterboxd.com/film/hollow-man/
+44,Love & Basketball,Gina Prince-Bythewood,Sanaa Lathan; Omar Epps; Chris Warren,"Drama, Romance, Comedy",https://letterboxd.com/film/love-basketball/
+45,What Lies Beneath,Robert Zemeckis,Michelle Pfeiffer; Harrison Ford; Diana Scarwid,"Drama, Mystery, Horror, Thriller",https://letterboxd.com/film/what-lies-beneath/
+46,Werckmeister Harmonies,Béla Tarr,Lars Rudolph; Peter Fitz; Hanna Schygulla,Drama,https://letterboxd.com/film/werckmeister-harmonies/
+47,Malena,Giuseppe Tornatore,Monica Bellucci; Giuseppe Sulfaro; Luciano Federico,Drama,https://letterboxd.com/film/malena/
+48,The Gleaners and I,Agnès Varda,Agnès Varda; Bodan Litnanski; François Wertheimer,Documentary,https://letterboxd.com/film/the-gleaners-and-i/
+49,The Patriot,Roland Emmerich,Mel Gibson; Heath Ledger; Joely Richardson,"Drama, War, History, Action",https://letterboxd.com/film/the-patriot-2000/
+50,Cecil B. Demented,John Waters,Melanie Griffith; Stephen Dorff; Alicia Witt,"Crime, Comedy, Action",https://letterboxd.com/film/cecil-b-demented/

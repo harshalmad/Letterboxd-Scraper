@@ -33,8 +33,10 @@ python scraper/scraper.py
 This writes:
 
 - CSV files to `scraper/output/{year}.csv` and `web/public/data/years/{year}.csv`
-- JSON files to `web/public/data/years/{year}.json`
+- JSON files to `web/public/data/years/{year}.json` (includes director, top 3 cast, genres)
 - Manifest to `web/public/data/manifest.json`
+
+Director, cast, and genre are sourced from each film's Letterboxd page (JSON-LD metadata).
 
 ### Scraper options
 
@@ -47,6 +49,9 @@ This writes:
 | `--output-dir` | `scraper/output` | CSV output directory |
 | `--max-films` | 50 | Films per year |
 | `--delay` | 1.5 | Seconds between years |
+| `--film-delay` | 0.75 | Seconds between film detail requests |
+| `--max-actors` | 3 | Top billed actors stored per film |
+| `--no-details` | — | Skip director, cast, and genre enrichment |
 | `--no-json` | — | Skip JSON output |
 
 ## Web app (local)

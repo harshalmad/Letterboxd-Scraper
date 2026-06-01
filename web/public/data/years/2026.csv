@@ -1,51 +1,51 @@
-rank,title,url
-1,Project Hail Mary,https://letterboxd.com/film/project-hail-mary/
-2,The Drama,https://letterboxd.com/film/the-drama/
-3,Wuthering Heights,https://letterboxd.com/film/wuthering-heights-2026/
-4,Michael,https://letterboxd.com/film/michael-2026/
-5,The Devil Wears Prada 2,https://letterboxd.com/film/the-devil-wears-prada-2/
-6,People We Meet on Vacation,https://letterboxd.com/film/people-we-meet-on-vacation/
-7,Send Help,https://letterboxd.com/film/send-help/
-8,28 Years Later: The Bone Temple,https://letterboxd.com/film/28-years-later-the-bone-temple/
-9,The Super Mario Galaxy Movie,https://letterboxd.com/film/the-super-mario-galaxy-movie/
-10,Hoppers,https://letterboxd.com/film/hoppers/
-11,Scream 7,https://letterboxd.com/film/scream-7/
-12,Ready or Not 2: Here I Come,https://letterboxd.com/film/ready-or-not-2-here-i-come/
-13,The Rip,https://letterboxd.com/film/the-rip-2026/
-14,Star Wars: The Mandalorian and Grogu,https://letterboxd.com/film/star-wars-the-mandalorian-and-grogu/
-15,The Bride!,https://letterboxd.com/film/the-bride-2026/
-16,Iron Lung,https://letterboxd.com/film/iron-lung/
-17,Apex,https://letterboxd.com/film/apex-2026/
-18,Hokum,https://letterboxd.com/film/hokum/
-19,Roommates,https://letterboxd.com/film/roommates-2026/
-20,Backrooms,https://letterboxd.com/film/backrooms-2026/
-21,The Sheep Detectives,https://letterboxd.com/film/the-sheep-detectives/
-22,Crime 101,https://letterboxd.com/film/crime-101/
-23,Peaky Blinders: The Immortal Man,https://letterboxd.com/film/peaky-blinders-the-immortal-man/
-24,Louis Theroux: Inside the Manosphere,https://letterboxd.com/film/louis-theroux-inside-the-manosphere/
-25,GOAT,https://letterboxd.com/film/goat-2026/
-26,Lee Cronin's The Mummy,https://letterboxd.com/film/lee-cronins-the-mummy/
-27,The Moment,https://letterboxd.com/film/the-moment-2026/
-28,How to Make a Killing,https://letterboxd.com/film/how-to-make-a-killing-2026/
-29,Thrash,https://letterboxd.com/film/thrash-2026/
-30,War Machine,https://letterboxd.com/film/war-machine-2026/
-31,Mortal Kombat II,https://letterboxd.com/film/mortal-kombat-ii/
-32,Mercy,https://letterboxd.com/film/mercy-2026/
-33,Swapped,https://letterboxd.com/film/swapped-2026/
-34,They Will Kill You,https://letterboxd.com/film/they-will-kill-you/
-35,Pizza Movie,https://letterboxd.com/film/pizza-movie-2026/
-36,Pretty Lethal,https://letterboxd.com/film/pretty-lethal/
-37,Remarkably Bright Creatures,https://letterboxd.com/film/remarkably-bright-creatures/
-38,Return to Silent Hill,https://letterboxd.com/film/return-to-silent-hill/
-39,Forbidden Fruits,https://letterboxd.com/film/forbidden-fruits-2026/
-40,Something Very Bad Is Going to Happen,https://letterboxd.com/film/something-very-bad-is-going-to-happen/
-41,Reminders of Him,https://letterboxd.com/film/reminders-of-him/
-42,Mother Mary,https://letterboxd.com/film/mother-mary-2026/
-43,I Love Boosters,https://letterboxd.com/film/i-love-boosters/
-44,HIS & HERS,https://letterboxd.com/film/his-hers-2026/
-45,The Punisher: One Last Kill,https://letterboxd.com/film/the-punisher-one-last-kill/
-46,Cold Storage,https://letterboxd.com/film/cold-storage-2026/
-47,The Muppet Show,https://letterboxd.com/film/the-muppet-show/
-48,Love Me Love Me,https://letterboxd.com/film/love-me-love-me/
-49,The Crash,https://letterboxd.com/film/the-crash-2026/
-50,Hannah Montana 20th Anniversary Special,https://letterboxd.com/film/hannah-montana-20th-anniversary-special/
+rank,title,director,actors,genres,url
+1,Project Hail Mary,"Phil Lord, Christopher Miller",Ryan Gosling; James Ortiz; Sandra Hüller,"Science Fiction, Adventure",https://letterboxd.com/film/project-hail-mary/
+2,The Drama,Kristoffer Borgli,Zendaya; Robert Pattinson; Mamoudou Athie,"Romance, Drama, Comedy",https://letterboxd.com/film/the-drama/
+3,Wuthering Heights,Emerald Fennell,Margot Robbie; Jacob Elordi; Hong Chau,"Romance, Drama",https://letterboxd.com/film/wuthering-heights-2026/
+4,Michael,Antoine Fuqua,Jaafar Jackson; Colman Domingo; Nia Long,"Music, Drama",https://letterboxd.com/film/michael-2026/
+5,The Devil Wears Prada 2,David Frankel,Meryl Streep; Anne Hathaway; Emily Blunt,"Comedy, Drama",https://letterboxd.com/film/the-devil-wears-prada-2/
+6,People We Meet on Vacation,Brett Haley,Emily Bader; Tom Blyth; Sarah Catherine Hook,"Comedy, Drama, Romance",https://letterboxd.com/film/people-we-meet-on-vacation/
+7,Send Help,Sam Raimi,Rachel McAdams; Dylan O'Brien; Edyll Ismail,"Thriller, Horror, Comedy",https://letterboxd.com/film/send-help/
+8,28 Years Later: The Bone Temple,Nia DaCosta,Ralph Fiennes; Jack O'Connell; Alfie Williams,"Horror, Science Fiction, Thriller",https://letterboxd.com/film/28-years-later-the-bone-temple/
+9,The Super Mario Galaxy Movie,"Aaron Horvath, Michael Jelenic",Chris Pratt; Anya Taylor-Joy; Charlie Day,"Adventure, Fantasy, Family, Animation, Comedy",https://letterboxd.com/film/the-super-mario-galaxy-movie/
+10,Hoppers,Daniel Chong,Piper Curda; Bobby Moynihan; Jon Hamm,"Science Fiction, Animation, Adventure, Comedy, Family",https://letterboxd.com/film/hoppers/
+11,Scream 7,Kevin Williamson,Neve Campbell; Courteney Cox; Isabel May,"Horror, Crime, Mystery",https://letterboxd.com/film/scream-7/
+12,Backrooms,Kane Parsons,Chiwetel Ejiofor; Renate Reinsve; Finn Bennett,"Mystery, Science Fiction, Horror",https://letterboxd.com/film/backrooms-2026/
+13,Ready or Not 2: Here I Come,"Matt Bettinelli-Olpin, Tyler Gillett",Samara Weaving; Kathryn Newton; Elijah Wood,"Thriller, Comedy, Horror",https://letterboxd.com/film/ready-or-not-2-here-i-come/
+14,The Rip,Joe Carnahan,Matt Damon; Ben Affleck; Teyana Taylor,"Action, Crime, Thriller",https://letterboxd.com/film/the-rip-2026/
+15,Star Wars: The Mandalorian and Grogu,Jon Favreau,Pedro Pascal; Jeremy Allen White; Sigourney Weaver,"Science Fiction, Action, Adventure",https://letterboxd.com/film/star-wars-the-mandalorian-and-grogu/
+16,The Bride!,Maggie Gyllenhaal,Jessie Buckley; Christian Bale; Peter Sarsgaard,"Horror, Science Fiction, Fantasy",https://letterboxd.com/film/the-bride-2026/
+17,Iron Lung,Mark Fischbach,Mark Fischbach; Caroline Kaplan; Troy Baker,"Mystery, Science Fiction, Horror",https://letterboxd.com/film/iron-lung/
+18,Apex,Baltasar Kormákur,Charlize Theron; Taron Egerton; Eric Bana,"Action, Thriller",https://letterboxd.com/film/apex-2026/
+19,The Sheep Detectives,Kyle Balda,Hugh Jackman; Julia Louis-Dreyfus; Emma Thompson,"Mystery, Family, Comedy",https://letterboxd.com/film/the-sheep-detectives/
+20,Hokum,Damian McCarthy,Adam Scott; Peter Coonan; David Wilmot,Horror,https://letterboxd.com/film/hokum/
+21,Roommates,Chandler Levack,Sadie Sandler; Chloe East; Billy Bryk,Comedy,https://letterboxd.com/film/roommates-2026/
+22,Crime 101,Bart Layton,Chris Hemsworth; Mark Ruffalo; Halle Berry,"Crime, Thriller",https://letterboxd.com/film/crime-101/
+23,Peaky Blinders: The Immortal Man,Tom Harper,Cillian Murphy; Barry Keoghan; Rebecca Ferguson,"Crime, Drama",https://letterboxd.com/film/peaky-blinders-the-immortal-man/
+24,Louis Theroux: Inside the Manosphere,Adrian Choa,Louis Theroux; HSTikkyTokky; Myron Gaines,Documentary,https://letterboxd.com/film/louis-theroux-inside-the-manosphere/
+25,GOAT,Tyree Dillihay,Caleb McLaughlin; Gabrielle Union; Stephen Curry,"Family, Animation, Comedy",https://letterboxd.com/film/goat-2026/
+26,Lee Cronin's The Mummy,Lee Cronin,Jack Reynor; Laia Costa; May Calamawy,"Horror, Mystery",https://letterboxd.com/film/lee-cronins-the-mummy/
+27,The Moment,Aidan Zamiri,Charli xcx; Alexander Skarsgård; Rosanna Arquette,"Music, Comedy, Thriller",https://letterboxd.com/film/the-moment-2026/
+28,How to Make a Killing,John Patton Ford,Glen Powell; Margaret Qualley; Jessica Henwick,"Comedy, Thriller",https://letterboxd.com/film/how-to-make-a-killing-2026/
+29,Thrash,Tommy Wirkola,Phoebe Dynevor; Whitney Peak; Djimon Hounsou,"Horror, Thriller",https://letterboxd.com/film/thrash-2026/
+30,War Machine,Patrick Hughes,Alan Ritchson; Dennis Quaid; Stephan James,"Action, Science Fiction, Thriller",https://letterboxd.com/film/war-machine-2026/
+31,Mortal Kombat II,Simon McQuoid,Karl Urban; Adeline Rudolph; Jessica McNamee,"Adventure, Fantasy, Action",https://letterboxd.com/film/mortal-kombat-ii/
+32,Swapped,Nathan Greno,Michael B. Jordan; Juno Temple; Tracy Morgan,"Family, Adventure, Fantasy, Animation",https://letterboxd.com/film/swapped-2026/
+33,Mercy,Timur Bekmambetov,Chris Pratt; Rebecca Ferguson; Kali Reis,"Science Fiction, Action, Thriller",https://letterboxd.com/film/mercy-2026/
+34,They Will Kill You,Kirill Sokolov,Zazie Beetz; Myha'la; Patricia Arquette,"Action, Comedy, Horror",https://letterboxd.com/film/they-will-kill-you/
+35,Pizza Movie,"Nick Kocher, Brian McElhaney",Gaten Matarazzo; Sean Giambrone; Lulu Wilson,Comedy,https://letterboxd.com/film/pizza-movie-2026/
+36,Pretty Lethal,Vicky Jewson,Maddie Ziegler; Lana Condor; Iris Apatow,"Horror, Music, Action, Thriller",https://letterboxd.com/film/pretty-lethal/
+37,Remarkably Bright Creatures,Olivia Newman,Sally Field; Lewis Pullman; Colm Meaney,"Mystery, Drama",https://letterboxd.com/film/remarkably-bright-creatures/
+38,Return to Silent Hill,Christophe Gans,Jeremy Irvine; Hannah Emily Anderson; Evie Templeton,"Mystery, Horror, Drama",https://letterboxd.com/film/return-to-silent-hill/
+39,Forbidden Fruits,Meredith Alloway,Lili Reinhart; Lola Tung; Victoria Pedretti,"Comedy, Horror",https://letterboxd.com/film/forbidden-fruits-2026/
+40,Something Very Bad Is Going to Happen,"Weronika Tofilska, Axelle Carolyn, Lisa Brühlmann",Camila Morrone; Adam DiMarco; Gus Birney,"Drama, Mystery",https://letterboxd.com/film/something-very-bad-is-going-to-happen/
+41,Reminders of Him,Vanessa Caswill,Maika Monroe; Tyriq Withers; Rudy Pankow,"Drama, Romance",https://letterboxd.com/film/reminders-of-him/
+42,I Love Boosters,Boots Riley,Keke Palmer; Naomi Ackie; Taylour Paige,"Crime, Science Fiction, Comedy",https://letterboxd.com/film/i-love-boosters/
+43,Mother Mary,David Lowery,Anne Hathaway; Michaela Coel; Hunter Schafer,"Thriller, Music, Drama",https://letterboxd.com/film/mother-mary-2026/
+44,HIS & HERS,"William Oldroyd, Anja Marquardt",Tessa Thompson; Jon Bernthal; Pablo Schreiber,"Crime, Drama, Mystery",https://letterboxd.com/film/his-hers-2026/
+45,The Punisher: One Last Kill,Reinaldo Marcus Green,Jon Bernthal; Deborah Ann Woll; Jason R. Moore,"Crime, Action, Drama",https://letterboxd.com/film/the-punisher-one-last-kill/
+46,Cold Storage,Jonny Campbell,Georgina Campbell; Joe Keery; Sosie Bacon,"Science Fiction, Horror, Comedy",https://letterboxd.com/film/cold-storage-2026/
+47,The Crash,Gareth Johnson,Mackenzie Shirilla; Dominic Russo; Davion Flanagan,"Documentary, Crime",https://letterboxd.com/film/the-crash-2026/
+48,The Muppet Show,Alex Timbers,Bill Barretta; Dave Goelz; Eric Jacobson,"TV Movie, Music, Family, Comedy",https://letterboxd.com/film/the-muppet-show/
+49,Love Me Love Me,Roger Kumble,Pepe Barroso; Mia Jenkins; Luca Melucci,"Romance, Drama",https://letterboxd.com/film/love-me-love-me/
+50,Hannah Montana 20th Anniversary Special,Sam Wrench,Miley Cyrus; Alex Cooper; Tish Cyrus-Purcell,"Music, Documentary",https://letterboxd.com/film/hannah-montana-20th-anniversary-special/

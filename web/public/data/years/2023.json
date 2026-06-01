@@ -5,252 +5,602 @@
     {
       "rank": 1,
       "title": "Barbie",
-      "url": "https://letterboxd.com/film/barbie/"
+      "url": "https://letterboxd.com/film/barbie/",
+      "director": "Greta Gerwig",
+      "actors": [
+        "Margot Robbie",
+        "Ryan Gosling",
+        "America Ferrera"
+      ],
+      "genres": "Comedy, Fantasy, Adventure"
     },
     {
       "rank": 2,
       "title": "Spider-Man: Across the Spider-Verse",
-      "url": "https://letterboxd.com/film/spider-man-across-the-spider-verse/"
+      "url": "https://letterboxd.com/film/spider-man-across-the-spider-verse/",
+      "director": "Justin K. Thompson, Kemp Powers, Joaquim Dos Santos",
+      "actors": [
+        "Shameik Moore",
+        "Hailee Steinfeld",
+        "Brian Tyree Henry"
+      ],
+      "genres": "Animation, Science Fiction, Adventure, Action"
     },
     {
       "rank": 3,
       "title": "Bottoms",
-      "url": "https://letterboxd.com/film/bottoms/"
+      "url": "https://letterboxd.com/film/bottoms/",
+      "director": "Emma Seligman",
+      "actors": [
+        "Rachel Sennott",
+        "Ayo Edebiri",
+        "Ruby Cruz"
+      ],
+      "genres": "Comedy"
     },
     {
       "rank": 4,
       "title": "Oppenheimer",
-      "url": "https://letterboxd.com/film/oppenheimer-2023/"
+      "url": "https://letterboxd.com/film/oppenheimer-2023/",
+      "director": "Christopher Nolan",
+      "actors": [
+        "Cillian Murphy",
+        "Emily Blunt",
+        "Matt Damon"
+      ],
+      "genres": "Drama, History"
     },
     {
       "rank": 5,
       "title": "Saltburn",
-      "url": "https://letterboxd.com/film/saltburn/"
+      "url": "https://letterboxd.com/film/saltburn/",
+      "director": "Emerald Fennell",
+      "actors": [
+        "Barry Keoghan",
+        "Jacob Elordi",
+        "Rosamund Pike"
+      ],
+      "genres": "Comedy, Drama, Thriller"
     },
     {
       "rank": 6,
       "title": "Past Lives",
-      "url": "https://letterboxd.com/film/past-lives/"
+      "url": "https://letterboxd.com/film/past-lives/",
+      "director": "Celine Song",
+      "actors": [
+        "Greta Lee",
+        "Teo Yoo",
+        "John Magaro"
+      ],
+      "genres": "Drama, Romance"
     },
     {
       "rank": 7,
       "title": "Priscilla",
-      "url": "https://letterboxd.com/film/priscilla/"
+      "url": "https://letterboxd.com/film/priscilla/",
+      "director": "Sofia Coppola",
+      "actors": [
+        "Cailee Spaeny",
+        "Jacob Elordi",
+        "Ari Cohen"
+      ],
+      "genres": "Drama, Romance"
     },
     {
       "rank": 8,
       "title": "The Hunger Games: The Ballad of Songbirds & Snakes",
-      "url": "https://letterboxd.com/film/the-hunger-games-the-ballad-of-songbirds-snakes/"
+      "url": "https://letterboxd.com/film/the-hunger-games-the-ballad-of-songbirds-snakes/",
+      "director": "Francis Lawrence",
+      "actors": [
+        "Tom Blyth",
+        "Rachel Zegler",
+        "Peter Dinklage"
+      ],
+      "genres": "Action, Science Fiction"
     },
     {
       "rank": 9,
       "title": "The Super Mario Bros. Movie",
-      "url": "https://letterboxd.com/film/the-super-mario-bros-movie/"
+      "url": "https://letterboxd.com/film/the-super-mario-bros-movie/",
+      "director": "Aaron Horvath, Michael Jelenic",
+      "actors": [
+        "Chris Pratt",
+        "Anya Taylor-Joy",
+        "Charlie Day"
+      ],
+      "genres": "Adventure, Animation, Comedy, Family, Fantasy"
     },
     {
       "rank": 10,
       "title": "Perfect Days",
-      "url": "https://letterboxd.com/film/perfect-days-2023/"
+      "url": "https://letterboxd.com/film/perfect-days-2023/",
+      "director": "Wim Wenders",
+      "actors": [
+        "Koji Yakusho",
+        "Tokio Emoto",
+        "Arisa Nakano"
+      ],
+      "genres": "Drama"
     },
     {
       "rank": 11,
       "title": "The Holdovers",
-      "url": "https://letterboxd.com/film/the-holdovers/"
+      "url": "https://letterboxd.com/film/the-holdovers/",
+      "director": "Alexander Payne",
+      "actors": [
+        "Paul Giamatti",
+        "Dominic Sessa",
+        "Da'Vine Joy Randolph"
+      ],
+      "genres": "Drama, Comedy"
     },
     {
       "rank": 12,
       "title": "Poor Things",
-      "url": "https://letterboxd.com/film/poor-things-2023/"
+      "url": "https://letterboxd.com/film/poor-things-2023/",
+      "director": "Yorgos Lanthimos",
+      "actors": [
+        "Emma Stone",
+        "Mark Ruffalo",
+        "Willem Dafoe"
+      ],
+      "genres": "Romance, Science Fiction, Comedy"
     },
     {
       "rank": 13,
       "title": "Anyone But You",
-      "url": "https://letterboxd.com/film/anyone-but-you/"
+      "url": "https://letterboxd.com/film/anyone-but-you/",
+      "director": "Will Gluck",
+      "actors": [
+        "Sydney Sweeney",
+        "Glen Powell",
+        "Mia Artemis"
+      ],
+      "genres": "Romance, Comedy"
     },
     {
       "rank": 14,
       "title": "Five Nights at Freddy's",
-      "url": "https://letterboxd.com/film/five-nights-at-freddys/"
+      "url": "https://letterboxd.com/film/five-nights-at-freddys/",
+      "director": "Emma Tammi",
+      "actors": [
+        "Josh Hutcherson",
+        "Piper Rubio",
+        "Elizabeth Lail"
+      ],
+      "genres": "Horror, Thriller"
     },
     {
       "rank": 15,
       "title": "Anatomy of a Fall",
-      "url": "https://letterboxd.com/film/anatomy-of-a-fall/"
+      "url": "https://letterboxd.com/film/anatomy-of-a-fall/",
+      "director": "Justine Triet",
+      "actors": [
+        "Sandra Hüller",
+        "Swann Arlaud",
+        "Milo Machado-Graner"
+      ],
+      "genres": "Crime, Thriller, Mystery"
     },
     {
       "rank": 16,
       "title": "Scream VI",
-      "url": "https://letterboxd.com/film/scream-vi/"
+      "url": "https://letterboxd.com/film/scream-vi/",
+      "director": "Matt Bettinelli-Olpin, Tyler Gillett",
+      "actors": [
+        "Melissa Barrera",
+        "Jenna Ortega",
+        "Jasmin Savoy Brown"
+      ],
+      "genres": "Crime, Thriller, Horror"
     },
     {
       "rank": 17,
       "title": "Guardians of the Galaxy Vol. 3",
-      "url": "https://letterboxd.com/film/guardians-of-the-galaxy-vol-3/"
+      "url": "https://letterboxd.com/film/guardians-of-the-galaxy-vol-3/",
+      "director": "James Gunn",
+      "actors": [
+        "Chris Pratt",
+        "Zoe Saldaña",
+        "Dave Bautista"
+      ],
+      "genres": "Action, Science Fiction, Adventure"
     },
     {
       "rank": 18,
       "title": "Wonka",
-      "url": "https://letterboxd.com/film/wonka/"
+      "url": "https://letterboxd.com/film/wonka/",
+      "director": "Paul King",
+      "actors": [
+        "Timothée Chalamet",
+        "Calah Lane",
+        "Keegan-Michael Key"
+      ],
+      "genres": "Fantasy, Family, Comedy"
     },
     {
       "rank": 19,
       "title": "No Hard Feelings",
-      "url": "https://letterboxd.com/film/no-hard-feelings-2023/"
+      "url": "https://letterboxd.com/film/no-hard-feelings-2023/",
+      "director": "Gene Stupnitsky",
+      "actors": [
+        "Jennifer Lawrence",
+        "Andrew Barth Feldman",
+        "Laura Benanti"
+      ],
+      "genres": "Comedy, Romance"
     },
     {
       "rank": 20,
       "title": "Red, White & Royal Blue",
-      "url": "https://letterboxd.com/film/red-white-royal-blue/"
+      "url": "https://letterboxd.com/film/red-white-royal-blue/",
+      "director": "Matthew López",
+      "actors": [
+        "Taylor Zakhar Perez",
+        "Nicholas Galitzine",
+        "Uma Thurman"
+      ],
+      "genres": "Comedy, Romance"
     },
     {
       "rank": 21,
       "title": "Monster",
-      "url": "https://letterboxd.com/film/monster-2023/"
+      "url": "https://letterboxd.com/film/monster-2023/",
+      "director": "Hirokazu Kore-eda",
+      "actors": [
+        "Sakura Ando",
+        "Soya Kurokawa",
+        "Hinata Hiiragi"
+      ],
+      "genres": "Thriller, Mystery, Drama"
     },
     {
       "rank": 22,
       "title": "The Boy and the Heron",
-      "url": "https://letterboxd.com/film/the-boy-and-the-heron/"
+      "url": "https://letterboxd.com/film/the-boy-and-the-heron/",
+      "director": "Hayao Miyazaki",
+      "actors": [
+        "Soma Santoki",
+        "Masaki Suda",
+        "Ko Shibasaki"
+      ],
+      "genres": "Animation, Fantasy, Drama"
     },
     {
       "rank": 23,
       "title": "The Iron Claw",
-      "url": "https://letterboxd.com/film/the-iron-claw-2023/"
+      "url": "https://letterboxd.com/film/the-iron-claw-2023/",
+      "director": "Sean Durkin",
+      "actors": [
+        "Zac Efron",
+        "Jeremy Allen White",
+        "Harris Dickinson"
+      ],
+      "genres": "History, Drama"
     },
     {
       "rank": 24,
       "title": "Godzilla Minus One",
-      "url": "https://letterboxd.com/film/godzilla-minus-one/"
+      "url": "https://letterboxd.com/film/godzilla-minus-one/",
+      "director": "Takashi Yamazaki",
+      "actors": [
+        "Ryunosuke Kamiki",
+        "Minami Hamabe",
+        "Yuki Yamada"
+      ],
+      "genres": "Horror, Science Fiction, Action"
     },
     {
       "rank": 25,
       "title": "La Chimera",
-      "url": "https://letterboxd.com/film/la-chimera/"
+      "url": "https://letterboxd.com/film/la-chimera/",
+      "director": "Alice Rohrwacher",
+      "actors": [
+        "Josh O'Connor",
+        "Carol Duarte",
+        "Alba Rohrwacher"
+      ],
+      "genres": "Drama, Comedy, Fantasy"
     },
     {
       "rank": 26,
       "title": "The Wonderful Story of Henry Sugar",
-      "url": "https://letterboxd.com/film/the-wonderful-story-of-henry-sugar/"
+      "url": "https://letterboxd.com/film/the-wonderful-story-of-henry-sugar/",
+      "director": "Wes Anderson",
+      "actors": [
+        "Ralph Fiennes",
+        "Benedict Cumberbatch",
+        "Dev Patel"
+      ],
+      "genres": "Fantasy, Comedy, Adventure, Drama"
     },
     {
       "rank": 27,
       "title": "Elemental",
-      "url": "https://letterboxd.com/film/elemental-2023/"
+      "url": "https://letterboxd.com/film/elemental-2023/",
+      "director": "Peter Sohn",
+      "actors": [
+        "Leah Lewis",
+        "Mamoudou Athie",
+        "Ronnie del Carmen"
+      ],
+      "genres": "Comedy, Romance, Animation, Fantasy, Family"
     },
     {
       "rank": 28,
       "title": "The Zone of Interest",
-      "url": "https://letterboxd.com/film/the-zone-of-interest/"
+      "url": "https://letterboxd.com/film/the-zone-of-interest/",
+      "director": "Jonathan Glazer",
+      "actors": [
+        "Christian Friedel",
+        "Sandra Hüller",
+        "Johann Karthaus"
+      ],
+      "genres": "Drama, War, History"
     },
     {
       "rank": 29,
       "title": "BEEF",
-      "url": "https://letterboxd.com/film/beef-2023/"
+      "url": "https://letterboxd.com/film/beef-2023/",
+      "director": "Hikari, Jake Schreier, Lee Sung Jin",
+      "actors": [
+        "Oscar Isaac",
+        "Carey Mulligan",
+        "Cailee Spaeny"
+      ],
+      "genres": "Comedy, Drama"
     },
     {
       "rank": 30,
-      "title": "Society of the Snow",
-      "url": "https://letterboxd.com/film/society-of-the-snow/"
+      "title": "Evil Dead Rise",
+      "url": "https://letterboxd.com/film/evil-dead-rise/",
+      "director": "Lee Cronin",
+      "actors": [
+        "Lily Sullivan",
+        "Alyssa Sutherland",
+        "Morgan Davies"
+      ],
+      "genres": "Horror, Thriller"
     },
     {
       "rank": 31,
-      "title": "Evil Dead Rise",
-      "url": "https://letterboxd.com/film/evil-dead-rise/"
+      "title": "Society of the Snow",
+      "url": "https://letterboxd.com/film/society-of-the-snow/",
+      "director": "J. A. Bayona",
+      "actors": [
+        "Enzo Vogrincic",
+        "Agustín Pardella",
+        "Matías Recalt"
+      ],
+      "genres": "History, Drama"
     },
     {
       "rank": 32,
       "title": "BlackBerry",
-      "url": "https://letterboxd.com/film/blackberry-2023/"
+      "url": "https://letterboxd.com/film/blackberry-2023/",
+      "director": "Matt Johnson",
+      "actors": [
+        "Jay Baruchel",
+        "Glenn Howerton",
+        "Matt Johnson"
+      ],
+      "genres": "Drama, History, Comedy"
     },
     {
       "rank": 33,
-      "title": "All of Us Strangers",
-      "url": "https://letterboxd.com/film/all-of-us-strangers/"
+      "title": "Late Night with the Devil",
+      "url": "https://letterboxd.com/film/late-night-with-the-devil/",
+      "director": "Cameron Cairnes, Colin Cairnes",
+      "actors": [
+        "David Dastmalchian",
+        "Laura Gordon",
+        "Ian Bliss"
+      ],
+      "genres": "Horror"
     },
     {
       "rank": 34,
-      "title": "Late Night with the Devil",
-      "url": "https://letterboxd.com/film/late-night-with-the-devil/"
+      "title": "All of Us Strangers",
+      "url": "https://letterboxd.com/film/all-of-us-strangers/",
+      "director": "Andrew Haigh",
+      "actors": [
+        "Andrew Scott",
+        "Paul Mescal",
+        "Carter John Grout"
+      ],
+      "genres": "Drama, Romance, Fantasy"
     },
     {
       "rank": 35,
       "title": "Hell of a Summer",
-      "url": "https://letterboxd.com/film/hell-of-a-summer/"
+      "url": "https://letterboxd.com/film/hell-of-a-summer/",
+      "director": "Billy Bryk, Finn Wolfhard",
+      "actors": [
+        "Finn Wolfhard",
+        "Billy Bryk",
+        "Fred Hechinger"
+      ],
+      "genres": "Horror, Comedy, Mystery"
     },
     {
       "rank": 36,
       "title": "Asteroid City",
-      "url": "https://letterboxd.com/film/asteroid-city/"
+      "url": "https://letterboxd.com/film/asteroid-city/",
+      "director": "Wes Anderson",
+      "actors": [
+        "Jason Schwartzman",
+        "Scarlett Johansson",
+        "Tom Hanks"
+      ],
+      "genres": "Drama, Comedy"
     },
     {
       "rank": 37,
       "title": "John Wick: Chapter 4",
-      "url": "https://letterboxd.com/film/john-wick-chapter-4/"
+      "url": "https://letterboxd.com/film/john-wick-chapter-4/",
+      "director": "Chad Stahelski",
+      "actors": [
+        "Keanu Reeves",
+        "Donnie Yen",
+        "Bill Skarsgård"
+      ],
+      "genres": "Crime, Action, Thriller"
     },
     {
       "rank": 38,
       "title": "Humanist Vampire Seeking Consenting Suicidal Person",
-      "url": "https://letterboxd.com/film/humanist-vampire-seeking-consenting-suicidal-person/"
+      "url": "https://letterboxd.com/film/humanist-vampire-seeking-consenting-suicidal-person/",
+      "director": "Ariane Louis-Seize",
+      "actors": [
+        "Sara Montpetit",
+        "Félix-Antoine Bénard",
+        "Steve Laplante"
+      ],
+      "genres": "Romance, Comedy, Fantasy, Horror"
     },
     {
       "rank": 39,
       "title": "Woman of the Hour",
-      "url": "https://letterboxd.com/film/woman-of-the-hour/"
+      "url": "https://letterboxd.com/film/woman-of-the-hour/",
+      "director": "Anna Kendrick",
+      "actors": [
+        "Anna Kendrick",
+        "Daniel Zovatto",
+        "Nicolette Robinson"
+      ],
+      "genres": "Drama, Crime, Thriller"
     },
     {
       "rank": 40,
       "title": "Killers of the Flower Moon",
-      "url": "https://letterboxd.com/film/killers-of-the-flower-moon/"
+      "url": "https://letterboxd.com/film/killers-of-the-flower-moon/",
+      "director": "Martin Scorsese",
+      "actors": [
+        "Leonardo DiCaprio",
+        "Robert De Niro",
+        "Lily Gladstone"
+      ],
+      "genres": "Crime, History, Drama"
     },
     {
       "rank": 41,
       "title": "Sing Sing",
-      "url": "https://letterboxd.com/film/sing-sing-2023/"
+      "url": "https://letterboxd.com/film/sing-sing-2023/",
+      "director": "Greg Kwedar",
+      "actors": [
+        "Colman Domingo",
+        "Clarence Maclin",
+        "Sean San Jose"
+      ],
+      "genres": "Drama"
     },
     {
       "rank": 42,
       "title": "Leave the World Behind",
-      "url": "https://letterboxd.com/film/leave-the-world-behind-2023/"
+      "url": "https://letterboxd.com/film/leave-the-world-behind-2023/",
+      "director": "Sam Esmail",
+      "actors": [
+        "Julia Roberts",
+        "Ethan Hawke",
+        "Mahershala Ali"
+      ],
+      "genres": "Drama, Mystery, Thriller"
     },
     {
       "rank": 43,
       "title": "Hit Man",
-      "url": "https://letterboxd.com/film/hit-man-2023/"
+      "url": "https://letterboxd.com/film/hit-man-2023/",
+      "director": "Richard Linklater",
+      "actors": [
+        "Glen Powell",
+        "Adria Arjona",
+        "Austin Amelio"
+      ],
+      "genres": "Comedy, Crime, Romance"
     },
     {
       "rank": 44,
       "title": "My Fault",
-      "url": "https://letterboxd.com/film/my-fault/"
+      "url": "https://letterboxd.com/film/my-fault/",
+      "director": "Domingo González",
+      "actors": [
+        "Nicole Wallace",
+        "Gabriel Guevara",
+        "Marta Hazas"
+      ],
+      "genres": "Romance, Thriller, Drama"
     },
     {
       "rank": 45,
       "title": "The Killer",
-      "url": "https://letterboxd.com/film/the-killer-2023/"
+      "url": "https://letterboxd.com/film/the-killer-2023/",
+      "director": "David Fincher",
+      "actors": [
+        "Michael Fassbender",
+        "Tilda Swinton",
+        "Charles Parnell"
+      ],
+      "genres": "Thriller, Crime"
     },
     {
       "rank": 46,
       "title": "When Evil Lurks",
-      "url": "https://letterboxd.com/film/when-evil-lurks/"
+      "url": "https://letterboxd.com/film/when-evil-lurks/",
+      "director": "Demián Rugna",
+      "actors": [
+        "Ezequiel Rodríguez",
+        "Demián Salomón",
+        "Silvina Sabater"
+      ],
+      "genres": "Horror, Thriller"
     },
     {
       "rank": 47,
       "title": "Are You There God? It's Me, Margaret.",
-      "url": "https://letterboxd.com/film/are-you-there-god-its-me-margaret/"
+      "url": "https://letterboxd.com/film/are-you-there-god-its-me-margaret/",
+      "director": "Kelly Fremon Craig",
+      "actors": [
+        "Abby Ryder Fortson",
+        "Rachel McAdams",
+        "Kathy Bates"
+      ],
+      "genres": "Drama, Comedy"
     },
     {
       "rank": 48,
       "title": "Poison",
-      "url": "https://letterboxd.com/film/poison-2023/"
+      "url": "https://letterboxd.com/film/poison-2023/",
+      "director": "Wes Anderson",
+      "actors": [
+        "Benedict Cumberbatch",
+        "Dev Patel",
+        "Ben Kingsley"
+      ],
+      "genres": "Thriller, Comedy, Drama"
     },
     {
       "rank": 49,
       "title": "Ant-Man and the Wasp: Quantumania",
-      "url": "https://letterboxd.com/film/ant-man-and-the-wasp-quantumania/"
+      "url": "https://letterboxd.com/film/ant-man-and-the-wasp-quantumania/",
+      "director": "Peyton Reed",
+      "actors": [
+        "Paul Rudd",
+        "Evangeline Lilly",
+        "Michael Douglas"
+      ],
+      "genres": "Adventure, Science Fiction, Action"
     },
     {
       "rank": 50,
       "title": "The Swan",
-      "url": "https://letterboxd.com/film/the-swan-2023/"
+      "url": "https://letterboxd.com/film/the-swan-2023/",
+      "director": "Wes Anderson",
+      "actors": [
+        "Rupert Friend",
+        "Ralph Fiennes",
+        "Asa Jennings"
+      ],
+      "genres": "Drama, Comedy"
     }
   ]
 }

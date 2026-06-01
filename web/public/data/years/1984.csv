@@ -1,51 +1,51 @@
-rank,title,url
-1,"Paris, Texas",https://letterboxd.com/film/paris-texas/
-2,The Terminator,https://letterboxd.com/film/the-terminator/
-3,Amadeus,https://letterboxd.com/film/amadeus/
-4,Nausicaä of the Valley of the Wind,https://letterboxd.com/film/nausicaa-of-the-valley-of-the-wind/
-5,This Is Spinal Tap,https://letterboxd.com/film/this-is-spinal-tap/
-6,Indiana Jones and the Temple of Doom,https://letterboxd.com/film/indiana-jones-and-the-temple-of-doom/
-7,Ghostbusters,https://letterboxd.com/film/ghostbusters/
-8,A Nightmare on Elm Street,https://letterboxd.com/film/a-nightmare-on-elm-street/
-9,The Karate Kid,https://letterboxd.com/film/the-karate-kid/
-10,Dune,https://letterboxd.com/film/dune/
-11,Once Upon a Time in America,https://letterboxd.com/film/once-upon-a-time-in-america/
-12,Gremlins,https://letterboxd.com/film/gremlins/
-13,Stop Making Sense,https://letterboxd.com/film/stop-making-sense/
-14,The NeverEnding Story,https://letterboxd.com/film/the-neverending-story/
-15,Sixteen Candles,https://letterboxd.com/film/sixteen-candles/
-16,Footloose,https://letterboxd.com/film/footloose/
-17,Body Double,https://letterboxd.com/film/body-double/
-18,Blood Simple,https://letterboxd.com/film/blood-simple/
-19,Top Secret!,https://letterboxd.com/film/top-secret/
-20,Beverly Hills Cop,https://letterboxd.com/film/beverly-hills-cop/
-21,Friday the 13th: The Final Chapter,https://letterboxd.com/film/friday-the-13th-the-final-chapter/
-22,Repo Man,https://letterboxd.com/film/repo-man/
-23,Nineteen Eighty-Four,https://letterboxd.com/film/nineteen-eighty-four-1984/
-24,Threads,https://letterboxd.com/film/threads/
-25,Purple Rain,https://letterboxd.com/film/purple-rain/
-26,Stranger Than Paradise,https://letterboxd.com/film/stranger-than-paradise/
-27,Splash,https://letterboxd.com/film/splash/
-28,Children of the Corn,https://letterboxd.com/film/children-of-the-corn/
-29,The Muppets Take Manhattan,https://letterboxd.com/film/the-muppets-take-manhattan/
-30,C.H.U.D.,https://letterboxd.com/film/chud/
-31,Starman,https://letterboxd.com/film/starman/
-32,The Toxic Avenger,https://letterboxd.com/film/the-toxic-avenger/
-33,Police Academy,https://letterboxd.com/film/police-academy/
-34,Romancing the Stone,https://letterboxd.com/film/romancing-the-stone/
-35,Twenty Years Later,https://letterboxd.com/film/twenty-years-later/
-36,Streetwise,https://letterboxd.com/film/streetwise/
-37,Star Trek III: The Search for Spock,https://letterboxd.com/film/star-trek-iii-the-search-for-spock/
-38,The Company of Wolves,https://letterboxd.com/film/the-company-of-wolves/
-39,Love Streams,https://letterboxd.com/film/love-streams/
-40,Streets of Fire,https://letterboxd.com/film/streets-of-fire/
-41,Red Dawn,https://letterboxd.com/film/red-dawn/
-42,The Natural,https://letterboxd.com/film/the-natural/
-43,The Hit,https://letterboxd.com/film/the-hit-1984/
-44,Shanghai Blues,https://letterboxd.com/film/shanghai-blues/
-45,The Adventures of Buckaroo Banzai Across the 8th Dimension,https://letterboxd.com/film/the-adventures-of-buckaroo-banzai-across-the-8th-dimension/
-46,Night of the Comet,https://letterboxd.com/film/night-of-the-comet/
-47,Crimes of Passion,https://letterboxd.com/film/crimes-of-passion/
-48,What Have I Done to Deserve This?,https://letterboxd.com/film/what-have-i-done-to-deserve-this/
-49,The Return of Godzilla,https://letterboxd.com/film/the-return-of-godzilla/
-50,Another Country,https://letterboxd.com/film/another-country/
+rank,title,director,actors,genres,url
+1,"Paris, Texas",Wim Wenders,Harry Dean Stanton; Nastassja Kinski; Dean Stockwell,Drama,https://letterboxd.com/film/paris-texas/
+2,The Terminator,James Cameron,Arnold Schwarzenegger; Michael Biehn; Linda Hamilton,"Action, Thriller, Science Fiction",https://letterboxd.com/film/the-terminator/
+3,Amadeus,Miloš Forman,F. Murray Abraham; Tom Hulce; Elizabeth Berridge,"Drama, History, Music",https://letterboxd.com/film/amadeus/
+4,Nausicaä of the Valley of the Wind,Hayao Miyazaki,Sumi Shimamoto; Ichiro Nagai; Gorō Naya,"Animation, Science Fiction, Fantasy, Adventure",https://letterboxd.com/film/nausicaa-of-the-valley-of-the-wind/
+5,This Is Spinal Tap,Rob Reiner,Christopher Guest; Michael McKean; Harry Shearer,"Comedy, Music",https://letterboxd.com/film/this-is-spinal-tap/
+6,Indiana Jones and the Temple of Doom,Steven Spielberg,Harrison Ford; Kate Capshaw; Ke Huy Quan,"Adventure, Action",https://letterboxd.com/film/indiana-jones-and-the-temple-of-doom/
+7,Ghostbusters,Ivan Reitman,Bill Murray; Dan Aykroyd; Sigourney Weaver,"Comedy, Fantasy",https://letterboxd.com/film/ghostbusters/
+8,A Nightmare on Elm Street,Wes Craven,John Saxon; Ronee Blakley; Heather Langenkamp,Horror,https://letterboxd.com/film/a-nightmare-on-elm-street/
+9,The Karate Kid,John G. Avildsen,Ralph Macchio; Pat Morita; Elisabeth Shue,"Action, Drama, Family",https://letterboxd.com/film/the-karate-kid/
+10,Dune,David Lynch,Kyle MacLachlan; Francesca Annis; Patrick Stewart,"Adventure, Science Fiction, Action",https://letterboxd.com/film/dune/
+11,Once Upon a Time in America,Sergio Leone,Robert De Niro; James Woods; Elizabeth McGovern,"Crime, Drama",https://letterboxd.com/film/once-upon-a-time-in-america/
+12,Gremlins,Joe Dante,Zach Galligan; Phoebe Cates; Hoyt Axton,"Fantasy, Comedy, Horror",https://letterboxd.com/film/gremlins/
+13,Stop Making Sense,Jonathan Demme,David Byrne; Chris Frantz; Jerry Harrison,"Music, Documentary",https://letterboxd.com/film/stop-making-sense/
+14,The NeverEnding Story,Wolfgang Petersen,Noah Hathaway; Barret Oliver; Tami Stronach,"Fantasy, Family, Adventure",https://letterboxd.com/film/the-neverending-story/
+15,Sixteen Candles,John Hughes,Molly Ringwald; Michael Schoeffling; Haviland Morris,"Romance, Comedy",https://letterboxd.com/film/sixteen-candles/
+16,Footloose,Herbert Ross,Kevin Bacon; Lori Singer; John Lithgow,"Drama, Romance",https://letterboxd.com/film/footloose/
+17,Body Double,Brian De Palma,Craig Wasson; Melanie Griffith; Gregg Henry,"Crime, Thriller, Mystery",https://letterboxd.com/film/body-double/
+18,Blood Simple,Joel Coen,John Getz; Frances McDormand; Dan Hedaya,"Thriller, Crime, Drama",https://letterboxd.com/film/blood-simple/
+19,Top Secret!,"Jim Abrahams, David Zucker, Jerry Zucker",Val Kilmer; Lucy Gutteridge; Peter Cushing,Comedy,https://letterboxd.com/film/top-secret/
+20,Beverly Hills Cop,Martin Brest,Eddie Murphy; Judge Reinhold; John Ashton,"Crime, Action, Comedy",https://letterboxd.com/film/beverly-hills-cop/
+21,Friday the 13th: The Final Chapter,Joseph Zito,Judie Aronson; Kimberly Beck; Joan Freeman,"Thriller, Horror",https://letterboxd.com/film/friday-the-13th-the-final-chapter/
+22,Repo Man,Alex Cox,Emilio Estevez; Harry Dean Stanton; Tracey Walter,"Comedy, Science Fiction",https://letterboxd.com/film/repo-man/
+23,Nineteen Eighty-Four,Michael Radford,John Hurt; Richard Burton; Suzanna Hamilton,"Drama, Science Fiction, Thriller",https://letterboxd.com/film/nineteen-eighty-four-1984/
+24,Threads,Mick Jackson,Karen Meagher; Reece Dinsdale; David Brierly,"Drama, War, Science Fiction",https://letterboxd.com/film/threads/
+25,Purple Rain,Albert Magnoli,Prince; Apollonia Kotero; Morris Day,"Drama, Romance, Music",https://letterboxd.com/film/purple-rain/
+26,Stranger Than Paradise,Jim Jarmusch,John Lurie; Eszter Balint; Richard Edson,"Comedy, Drama",https://letterboxd.com/film/stranger-than-paradise/
+27,Splash,Ron Howard,Tom Hanks; Daryl Hannah; Eugene Levy,"Fantasy, Romance, Comedy",https://letterboxd.com/film/splash/
+28,Children of the Corn,Fritz Kiersch,Peter Horton; Linda Hamilton; R.G. Armstrong,"Thriller, Horror",https://letterboxd.com/film/children-of-the-corn/
+29,The Muppets Take Manhattan,Frank Oz,Jim Henson; Frank Oz; Dave Goelz,"Family, Comedy, Romance",https://letterboxd.com/film/the-muppets-take-manhattan/
+30,C.H.U.D.,Douglas Cheek,John Heard; Daniel Stern; Christopher Curry,"Horror, Science Fiction",https://letterboxd.com/film/chud/
+31,Starman,John Carpenter,Jeff Bridges; Karen Allen; Charles Martin Smith,"Drama, Romance, Science Fiction",https://letterboxd.com/film/starman/
+32,The Toxic Avenger,"Lloyd Kaufman, Michael Herz",Andree Maranda; Mitch Cohen; Jennifer Prichard,"Comedy, Science Fiction, Action, Horror",https://letterboxd.com/film/the-toxic-avenger/
+33,Police Academy,Hugh Wilson,Steve Guttenberg; Kim Cattrall; G.W. Bailey,"Crime, Comedy",https://letterboxd.com/film/police-academy/
+34,Romancing the Stone,Robert Zemeckis,Michael Douglas; Kathleen Turner; Danny DeVito,"Action, Comedy, Romance, Adventure",https://letterboxd.com/film/romancing-the-stone/
+35,Twenty Years Later,Eduardo Coutinho,Eduardo Coutinho; Elizabeth Teixeira; Ferreira Gullar,"History, Documentary",https://letterboxd.com/film/twenty-years-later/
+36,Streetwise,Martin Bell,Erin Blackwell; Dewayne Pomeroy; Roberta Joseph Hayes,Documentary,https://letterboxd.com/film/streetwise/
+37,Star Trek III: The Search for Spock,Leonard Nimoy,William Shatner; DeForest Kelley; James Doohan,"Science Fiction, Action, Thriller, Adventure",https://letterboxd.com/film/star-trek-iii-the-search-for-spock/
+38,The Company of Wolves,Neil Jordan,Sarah Patterson; Angela Lansbury; David Warner,"Horror, Fantasy",https://letterboxd.com/film/the-company-of-wolves/
+39,Love Streams,John Cassavetes,Gena Rowlands; John Cassavetes; Diahnne Abbott,Drama,https://letterboxd.com/film/love-streams/
+40,Streets of Fire,Walter Hill,Michael Paré; Diane Lane; Rick Moranis,Action,https://letterboxd.com/film/streets-of-fire/
+41,Red Dawn,John Milius,Patrick Swayze; Charlie Sheen; C. Thomas Howell,"Thriller, Action, Drama, War",https://letterboxd.com/film/red-dawn/
+42,The Natural,Barry Levinson,Robert Redford; Robert Duvall; Glenn Close,Drama,https://letterboxd.com/film/the-natural/
+43,The Hit,Stephen Frears,John Hurt; Terence Stamp; Tim Roth,"Drama, Crime, Thriller",https://letterboxd.com/film/the-hit-1984/
+44,Shanghai Blues,Tsui Hark,Kenny Bee; Sylvia Chang; Sally Yip Sin-Man,"Romance, Comedy",https://letterboxd.com/film/shanghai-blues/
+45,The Adventures of Buckaroo Banzai Across the 8th Dimension,W.D. Richter,Peter Weller; John Lithgow; Ellen Barkin,"Comedy, Science Fiction, Romance, Adventure",https://letterboxd.com/film/the-adventures-of-buckaroo-banzai-across-the-8th-dimension/
+46,Night of the Comet,Thom Eberhardt,Catherine Mary Stewart; Robert Beltran; Kelli Maroney,"Science Fiction, Comedy, Horror",https://letterboxd.com/film/night-of-the-comet/
+47,Crimes of Passion,Ken Russell,Kathleen Turner; Anthony Perkins; John Laughlin,"Thriller, Crime, Drama",https://letterboxd.com/film/crimes-of-passion/
+48,What Have I Done to Deserve This?,Pedro Almodóvar,Carmen Maura; Luis Hostalot; Ryo Hiruma,"Comedy, Drama",https://letterboxd.com/film/what-have-i-done-to-deserve-this/
+49,The Return of Godzilla,Koji Hashimoto,Keiju Kobayashi; Ken Tanaka; Yasuko Sawaguchi,"Action, Horror, Science Fiction",https://letterboxd.com/film/the-return-of-godzilla/
+50,Another Country,Marek Kanievska,Rupert Everett; Colin Firth; Michael Jenn,"Drama, Romance",https://letterboxd.com/film/another-country/

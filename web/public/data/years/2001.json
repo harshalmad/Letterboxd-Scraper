@@ -5,252 +5,602 @@
     {
       "rank": 1,
       "title": "The Lord of the Rings: The Fellowship of the Ring",
-      "url": "https://letterboxd.com/film/the-lord-of-the-rings-the-fellowship-of-the-ring/"
+      "url": "https://letterboxd.com/film/the-lord-of-the-rings-the-fellowship-of-the-ring/",
+      "director": "Peter Jackson",
+      "actors": [
+        "Elijah Wood",
+        "Ian McKellen",
+        "Viggo Mortensen"
+      ],
+      "genres": "Adventure, Action, Fantasy"
     },
     {
       "rank": 2,
       "title": "Legally Blonde",
-      "url": "https://letterboxd.com/film/legally-blonde/"
+      "url": "https://letterboxd.com/film/legally-blonde/",
+      "director": "Robert Luketic",
+      "actors": [
+        "Reese Witherspoon",
+        "Luke Wilson",
+        "Selma Blair"
+      ],
+      "genres": "Comedy"
     },
     {
       "rank": 3,
       "title": "Spirited Away",
-      "url": "https://letterboxd.com/film/spirited-away/"
+      "url": "https://letterboxd.com/film/spirited-away/",
+      "director": "Hayao Miyazaki",
+      "actors": [
+        "Rumi Hiiragi",
+        "Miyu Irino",
+        "Mari Natsuki"
+      ],
+      "genres": "Family, Fantasy, Animation"
     },
     {
       "rank": 4,
       "title": "Donnie Darko",
-      "url": "https://letterboxd.com/film/donnie-darko/"
+      "url": "https://letterboxd.com/film/donnie-darko/",
+      "director": "Richard Kelly",
+      "actors": [
+        "Jake Gyllenhaal",
+        "Jena Malone",
+        "James Duval"
+      ],
+      "genres": "Drama, Fantasy, Mystery"
     },
     {
       "rank": 5,
       "title": "Mulholland Drive",
-      "url": "https://letterboxd.com/film/mulholland-drive/"
+      "url": "https://letterboxd.com/film/mulholland-drive/",
+      "director": "David Lynch",
+      "actors": [
+        "Naomi Watts",
+        "Laura Harring",
+        "Justin Theroux"
+      ],
+      "genres": "Drama, Mystery, Thriller"
     },
     {
       "rank": 6,
       "title": "Harry Potter and the Philosopher's Stone",
-      "url": "https://letterboxd.com/film/harry-potter-and-the-philosophers-stone/"
+      "url": "https://letterboxd.com/film/harry-potter-and-the-philosophers-stone/",
+      "director": "Chris Columbus",
+      "actors": [
+        "Daniel Radcliffe",
+        "Rupert Grint",
+        "Emma Watson"
+      ],
+      "genres": "Adventure, Fantasy"
     },
     {
       "rank": 7,
       "title": "Shrek",
-      "url": "https://letterboxd.com/film/shrek/"
+      "url": "https://letterboxd.com/film/shrek/",
+      "director": "Andrew Adamson, Vicky Jenson",
+      "actors": [
+        "Mike Myers",
+        "Eddie Murphy",
+        "Cameron Diaz"
+      ],
+      "genres": "Adventure, Fantasy, Family, Animation, Comedy"
     },
     {
       "rank": 8,
       "title": "The Royal Tenenbaums",
-      "url": "https://letterboxd.com/film/the-royal-tenenbaums/"
+      "url": "https://letterboxd.com/film/the-royal-tenenbaums/",
+      "director": "Wes Anderson",
+      "actors": [
+        "Gene Hackman",
+        "Anjelica Huston",
+        "Ben Stiller"
+      ],
+      "genres": "Drama, Comedy"
     },
     {
       "rank": 9,
       "title": "Amélie",
-      "url": "https://letterboxd.com/film/amelie/"
+      "url": "https://letterboxd.com/film/amelie/",
+      "director": "Jean-Pierre Jeunet",
+      "actors": [
+        "Audrey Tautou",
+        "Mathieu Kassovitz",
+        "Rufus"
+      ],
+      "genres": "Romance, Comedy"
     },
     {
       "rank": 10,
       "title": "Ocean's Eleven",
-      "url": "https://letterboxd.com/film/oceans-eleven-2001/"
+      "url": "https://letterboxd.com/film/oceans-eleven-2001/",
+      "director": "Steven Soderbergh",
+      "actors": [
+        "George Clooney",
+        "Brad Pitt",
+        "Andy Garcia"
+      ],
+      "genres": "Thriller, Crime"
     },
     {
       "rank": 11,
       "title": "The Princess Diaries",
-      "url": "https://letterboxd.com/film/the-princess-diaries/"
+      "url": "https://letterboxd.com/film/the-princess-diaries/",
+      "director": "Garry Marshall",
+      "actors": [
+        "Anne Hathaway",
+        "Julie Andrews",
+        "Heather Matarazzo"
+      ],
+      "genres": "Comedy, Romance, Family"
     },
     {
       "rank": 12,
       "title": "The Piano Teacher",
-      "url": "https://letterboxd.com/film/the-piano-teacher/"
+      "url": "https://letterboxd.com/film/the-piano-teacher/",
+      "director": "Michael Haneke",
+      "actors": [
+        "Isabelle Huppert",
+        "Annie Girardot",
+        "Benoît Magimel"
+      ],
+      "genres": "Romance, Drama"
     },
     {
       "rank": 13,
       "title": "Monsters, Inc.",
-      "url": "https://letterboxd.com/film/monsters-inc/"
+      "url": "https://letterboxd.com/film/monsters-inc/",
+      "director": "Pete Docter",
+      "actors": [
+        "John Goodman",
+        "Billy Crystal",
+        "Mary Gibbs"
+      ],
+      "genres": "Comedy, Animation, Family, Fantasy"
     },
     {
       "rank": 14,
       "title": "Y Tu Mamá También",
-      "url": "https://letterboxd.com/film/y-tu-mama-tambien/"
+      "url": "https://letterboxd.com/film/y-tu-mama-tambien/",
+      "director": "Alfonso Cuarón",
+      "actors": [
+        "Maribel Verdú",
+        "Gael García Bernal",
+        "Diego Luna"
+      ],
+      "genres": "Romance, Drama"
     },
     {
       "rank": 15,
       "title": "Bridget Jones's Diary",
-      "url": "https://letterboxd.com/film/bridget-joness-diary/"
+      "url": "https://letterboxd.com/film/bridget-joness-diary/",
+      "director": "Sharon Maguire",
+      "actors": [
+        "Renée Zellweger",
+        "Colin Firth",
+        "Hugh Grant"
+      ],
+      "genres": "Drama, Comedy, Romance"
     },
     {
       "rank": 16,
-      "title": "Zoolander",
-      "url": "https://letterboxd.com/film/zoolander/"
+      "title": "Scary Movie 2",
+      "url": "https://letterboxd.com/film/scary-movie-2/",
+      "director": "Keenen Ivory Wayans",
+      "actors": [
+        "Anna Faris",
+        "Regina Hall",
+        "Marlon Wayans"
+      ],
+      "genres": "Comedy"
     },
     {
       "rank": 17,
-      "title": "Scary Movie 2",
-      "url": "https://letterboxd.com/film/scary-movie-2/"
+      "title": "Zoolander",
+      "url": "https://letterboxd.com/film/zoolander/",
+      "director": "Ben Stiller",
+      "actors": [
+        "Ben Stiller",
+        "Owen Wilson",
+        "Christine Taylor"
+      ],
+      "genres": "Comedy"
     },
     {
       "rank": 18,
       "title": "The Fast and the Furious",
-      "url": "https://letterboxd.com/film/the-fast-and-the-furious-2001/"
+      "url": "https://letterboxd.com/film/the-fast-and-the-furious-2001/",
+      "director": "Rob Cohen",
+      "actors": [
+        "Paul Walker",
+        "Vin Diesel",
+        "Michelle Rodriguez"
+      ],
+      "genres": "Action, Crime, Thriller"
     },
     {
       "rank": 19,
       "title": "Moulin Rouge!",
-      "url": "https://letterboxd.com/film/moulin-rouge-2001/"
+      "url": "https://letterboxd.com/film/moulin-rouge-2001/",
+      "director": "Baz Luhrmann",
+      "actors": [
+        "Ewan McGregor",
+        "Nicole Kidman",
+        "John Leguizamo"
+      ],
+      "genres": "Romance, Music, Drama"
     },
     {
       "rank": 20,
       "title": "Training Day",
-      "url": "https://letterboxd.com/film/training-day/"
+      "url": "https://letterboxd.com/film/training-day/",
+      "director": "Antoine Fuqua",
+      "actors": [
+        "Denzel Washington",
+        "Ethan Hawke",
+        "Scott Glenn"
+      ],
+      "genres": "Crime, Action, Drama"
     },
     {
       "rank": 21,
       "title": "The Others",
-      "url": "https://letterboxd.com/film/the-others/"
+      "url": "https://letterboxd.com/film/the-others/",
+      "director": "Alejandro Amenábar",
+      "actors": [
+        "Nicole Kidman",
+        "Alakina Mann",
+        "James Bentley"
+      ],
+      "genres": "Thriller, Mystery, Horror"
     },
     {
       "rank": 22,
       "title": "Vanilla Sky",
-      "url": "https://letterboxd.com/film/vanilla-sky/"
+      "url": "https://letterboxd.com/film/vanilla-sky/",
+      "director": "Cameron Crowe",
+      "actors": [
+        "Tom Cruise",
+        "Penélope Cruz",
+        "Cameron Diaz"
+      ],
+      "genres": "Romance, Science Fiction, Mystery"
     },
     {
       "rank": 23,
       "title": "A Knight's Tale",
-      "url": "https://letterboxd.com/film/a-knights-tale/"
+      "url": "https://letterboxd.com/film/a-knights-tale/",
+      "director": "Brian Helgeland",
+      "actors": [
+        "Heath Ledger",
+        "Rufus Sewell",
+        "Shannyn Sossamon"
+      ],
+      "genres": "Drama, Romance, Action, Adventure"
     },
     {
       "rank": 24,
       "title": "Jurassic Park III",
-      "url": "https://letterboxd.com/film/jurassic-park-iii/"
+      "url": "https://letterboxd.com/film/jurassic-park-iii/",
+      "director": "Joe Johnston",
+      "actors": [
+        "Sam Neill",
+        "William H. Macy",
+        "Téa Leoni"
+      ],
+      "genres": "Science Fiction, Thriller, Adventure"
     },
     {
       "rank": 25,
       "title": "All About Lily Chou-Chou",
-      "url": "https://letterboxd.com/film/all-about-lily-chou-chou/"
+      "url": "https://letterboxd.com/film/all-about-lily-chou-chou/",
+      "director": "Shunji Iwai",
+      "actors": [
+        "Hayato Ichihara",
+        "Shugo Oshinari",
+        "Yu Aoi"
+      ],
+      "genres": "Drama, Crime"
     },
     {
       "rank": 26,
       "title": "A Beautiful Mind",
-      "url": "https://letterboxd.com/film/a-beautiful-mind/"
+      "url": "https://letterboxd.com/film/a-beautiful-mind/",
+      "director": "Ron Howard",
+      "actors": [
+        "Russell Crowe",
+        "Jennifer Connelly",
+        "Ed Harris"
+      ],
+      "genres": "Romance, Drama"
     },
     {
       "rank": 27,
       "title": "Not Another Teen Movie",
-      "url": "https://letterboxd.com/film/not-another-teen-movie/"
+      "url": "https://letterboxd.com/film/not-another-teen-movie/",
+      "director": "Joel Gallen",
+      "actors": [
+        "Chyler Leigh",
+        "Chris Evans",
+        "Jaime Pressly"
+      ],
+      "genres": "Comedy"
     },
     {
       "rank": 28,
       "title": "Millennium Actress",
-      "url": "https://letterboxd.com/film/millennium-actress/"
+      "url": "https://letterboxd.com/film/millennium-actress/",
+      "director": "Satoshi Kon",
+      "actors": [
+        "Miyoko Shoji",
+        "Mami Koyama",
+        "Fumiko Orikasa"
+      ],
+      "genres": "Drama, Romance, Animation"
     },
     {
       "rank": 29,
-      "title": "The Mummy Returns",
-      "url": "https://letterboxd.com/film/the-mummy-returns/"
+      "title": "Rush Hour 2",
+      "url": "https://letterboxd.com/film/rush-hour-2/",
+      "director": "Brett Ratner",
+      "actors": [
+        "Jackie Chan",
+        "Chris Tucker",
+        "John Lone"
+      ],
+      "genres": "Action, Crime, Comedy"
     },
     {
       "rank": 30,
-      "title": "Rush Hour 2",
-      "url": "https://letterboxd.com/film/rush-hour-2/"
+      "title": "The Mummy Returns",
+      "url": "https://letterboxd.com/film/the-mummy-returns/",
+      "director": "Stephen Sommers",
+      "actors": [
+        "Brendan Fraser",
+        "Rachel Weisz",
+        "John Hannah"
+      ],
+      "genres": "Fantasy, Action, Adventure"
     },
     {
       "rank": 31,
       "title": "Atlantis: The Lost Empire",
-      "url": "https://letterboxd.com/film/atlantis-the-lost-empire/"
+      "url": "https://letterboxd.com/film/atlantis-the-lost-empire/",
+      "director": "Gary Trousdale, Kirk Wise",
+      "actors": [
+        "Michael J. Fox",
+        "Cree Summer",
+        "James Garner"
+      ],
+      "genres": "Family, Science Fiction, Animation, Adventure"
     },
     {
       "rank": 32,
       "title": "Hannibal",
-      "url": "https://letterboxd.com/film/hannibal/"
+      "url": "https://letterboxd.com/film/hannibal/",
+      "director": "Ridley Scott",
+      "actors": [
+        "Anthony Hopkins",
+        "Julianne Moore",
+        "Gary Oldman"
+      ],
+      "genres": "Thriller, Drama, Horror, Crime"
     },
     {
       "rank": 33,
       "title": "Don't Say a Word",
-      "url": "https://letterboxd.com/film/dont-say-a-word/"
+      "url": "https://letterboxd.com/film/dont-say-a-word/",
+      "director": "Gary Fleder",
+      "actors": [
+        "Michael Douglas",
+        "Sean Bean",
+        "Brittany Murphy"
+      ],
+      "genres": "Mystery, Crime, Thriller"
     },
     {
       "rank": 34,
       "title": "Serendipity",
-      "url": "https://letterboxd.com/film/serendipity/"
+      "url": "https://letterboxd.com/film/serendipity/",
+      "director": "Peter Chelsom",
+      "actors": [
+        "John Cusack",
+        "Kate Beckinsale",
+        "Jeremy Piven"
+      ],
+      "genres": "Romance, Comedy"
     },
     {
       "rank": 35,
       "title": "Jeepers Creepers",
-      "url": "https://letterboxd.com/film/jeepers-creepers/"
+      "url": "https://letterboxd.com/film/jeepers-creepers/",
+      "director": "Victor Salva",
+      "actors": [
+        "Gina Philips",
+        "Justin Long",
+        "Jonathan Breck"
+      ],
+      "genres": "Horror"
     },
     {
       "rank": 36,
       "title": "Pulse",
-      "url": "https://letterboxd.com/film/pulse-2001/"
+      "url": "https://letterboxd.com/film/pulse-2001/",
+      "director": "Kiyoshi Kurosawa",
+      "actors": [
+        "Kumiko Aso",
+        "Haruhiko Kato",
+        "Koyuki"
+      ],
+      "genres": "Mystery, Horror, Thriller"
     },
     {
       "rank": 37,
       "title": "Ghost World",
-      "url": "https://letterboxd.com/film/ghost-world/"
+      "url": "https://letterboxd.com/film/ghost-world/",
+      "director": "Terry Zwigoff",
+      "actors": [
+        "Thora Birch",
+        "Scarlett Johansson",
+        "Steve Buscemi"
+      ],
+      "genres": "Comedy, Drama"
     },
     {
       "rank": 38,
       "title": "Black Hawk Down",
-      "url": "https://letterboxd.com/film/black-hawk-down/"
+      "url": "https://letterboxd.com/film/black-hawk-down/",
+      "director": "Ridley Scott",
+      "actors": [
+        "Josh Hartnett",
+        "Eric Bana",
+        "Ewan McGregor"
+      ],
+      "genres": "Action, History, War"
     },
     {
       "rank": 39,
       "title": "A.I. Artificial Intelligence",
-      "url": "https://letterboxd.com/film/ai-artificial-intelligence/"
+      "url": "https://letterboxd.com/film/ai-artificial-intelligence/",
+      "director": "Steven Spielberg",
+      "actors": [
+        "Haley Joel Osment",
+        "Jude Law",
+        "Frances O'Connor"
+      ],
+      "genres": "Drama, Adventure, Science Fiction"
     },
     {
       "rank": 40,
       "title": "Josie and the Pussycats",
-      "url": "https://letterboxd.com/film/josie-and-the-pussycats/"
+      "url": "https://letterboxd.com/film/josie-and-the-pussycats/",
+      "director": "Deborah Kaplan, Harry Elfont",
+      "actors": [
+        "Rachael Leigh Cook",
+        "Rosario Dawson",
+        "Tara Reid"
+      ],
+      "genres": "Music, Comedy"
     },
     {
       "rank": 41,
       "title": "La Ciénaga",
-      "url": "https://letterboxd.com/film/la-cienaga/"
+      "url": "https://letterboxd.com/film/la-cienaga/",
+      "director": "Lucrecia Martel",
+      "actors": [
+        "Mercedes Morán",
+        "Graciela Borges",
+        "Martín Adjemián"
+      ],
+      "genres": "Drama"
     },
     {
       "rank": 42,
       "title": "Pearl Harbor",
-      "url": "https://letterboxd.com/film/pearl-harbor/"
+      "url": "https://letterboxd.com/film/pearl-harbor/",
+      "director": "Michael Bay",
+      "actors": [
+        "Ben Affleck",
+        "Josh Hartnett",
+        "Kate Beckinsale"
+      ],
+      "genres": "Romance, Action, War, History"
     },
     {
       "rank": 43,
       "title": "Spy Kids",
-      "url": "https://letterboxd.com/film/spy-kids/"
+      "url": "https://letterboxd.com/film/spy-kids/",
+      "director": "Robert Rodriguez",
+      "actors": [
+        "Alexa PenaVega",
+        "Daryl Sabara",
+        "Antonio Banderas"
+      ],
+      "genres": "Family, Science Fiction, Adventure, Comedy, Action"
     },
     {
       "rank": 44,
       "title": "Manic",
-      "url": "https://letterboxd.com/film/manic/"
+      "url": "https://letterboxd.com/film/manic/",
+      "director": "Jordan Melamed",
+      "actors": [
+        "Joseph Gordon-Levitt",
+        "Don Cheadle",
+        "Zooey Deschanel"
+      ],
+      "genres": "Drama"
     },
     {
       "rank": 45,
       "title": "Ichi the Killer",
-      "url": "https://letterboxd.com/film/ichi-the-killer/"
+      "url": "https://letterboxd.com/film/ichi-the-killer/",
+      "director": "Takashi Miike",
+      "actors": [
+        "Tadanobu Asano",
+        "Nao Omori",
+        "Shinya Tsukamoto"
+      ],
+      "genres": "Horror, Crime, Action"
     },
     {
       "rank": 46,
       "title": "Millennium Mambo",
-      "url": "https://letterboxd.com/film/millennium-mambo/"
+      "url": "https://letterboxd.com/film/millennium-mambo/",
+      "director": "Hou Hsiao-hsien",
+      "actors": [
+        "Shu Qi",
+        "Jack Kao",
+        "Duan Chun-hao"
+      ],
+      "genres": "Drama"
     },
     {
       "rank": 47,
       "title": "American Pie 2",
-      "url": "https://letterboxd.com/film/american-pie-2/"
+      "url": "https://letterboxd.com/film/american-pie-2/",
+      "director": "J.B. Rogers",
+      "actors": [
+        "Jason Biggs",
+        "Thomas Ian Nicholas",
+        "Chris Klein"
+      ],
+      "genres": "Romance, Comedy"
     },
     {
       "rank": 48,
       "title": "The Wedding Planner",
-      "url": "https://letterboxd.com/film/the-wedding-planner/"
+      "url": "https://letterboxd.com/film/the-wedding-planner/",
+      "director": "Adam Shankman",
+      "actors": [
+        "Jennifer Lopez",
+        "Matthew McConaughey",
+        "Justin Chambers"
+      ],
+      "genres": "Romance, Comedy"
     },
     {
       "rank": 49,
       "title": "Shaolin Soccer",
-      "url": "https://letterboxd.com/film/shaolin-soccer/"
+      "url": "https://letterboxd.com/film/shaolin-soccer/",
+      "director": "Stephen Chow",
+      "actors": [
+        "Stephen Chow",
+        "Richard Ng Man-Tat",
+        "Vicky Zhao"
+      ],
+      "genres": "Action, Comedy"
     },
     {
       "rank": 50,
       "title": "Shallow Hal",
-      "url": "https://letterboxd.com/film/shallow-hal/"
+      "url": "https://letterboxd.com/film/shallow-hal/",
+      "director": "Peter Farrelly, Bobby Farrelly",
+      "actors": [
+        "Jack Black",
+        "Gwyneth Paltrow",
+        "Jason Alexander"
+      ],
+      "genres": "Drama, Romance, Fantasy, Comedy"
     }
   ]
 }

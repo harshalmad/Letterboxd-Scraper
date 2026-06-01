@@ -1,51 +1,51 @@
-rank,title,url
-1,Dune,https://letterboxd.com/film/dune-2021/
-2,The Worst Person in the World,https://letterboxd.com/film/the-worst-person-in-the-world/
-3,Spider-Man: No Way Home,https://letterboxd.com/film/spider-man-no-way-home/
-4,The Black Phone,https://letterboxd.com/film/the-black-phone/
-5,Don't Look Up,https://letterboxd.com/film/dont-look-up-2021/
-6,Cruella,https://letterboxd.com/film/cruella/
-7,Mortal Kombat,https://letterboxd.com/film/mortal-kombat-2021/
-8,Licorice Pizza,https://letterboxd.com/film/licorice-pizza/
-9,Jujutsu Kaisen 0,https://letterboxd.com/film/jujutsu-kaisen-0/
-10,Encanto,https://letterboxd.com/film/encanto/
-11,"The French Dispatch of the Liberty, Kansas Evening Sun",https://letterboxd.com/film/the-french-dispatch-of-the-liberty-kansas/
-12,Luca,https://letterboxd.com/film/luca-2021/
-13,Black Widow,https://letterboxd.com/film/black-widow-2021/
-14,No Time to Die,https://letterboxd.com/film/no-time-to-die-2021/
-15,Fear Street: 1994,https://letterboxd.com/film/fear-street-1994/
-16,The Guilty,https://letterboxd.com/film/the-guilty-2021/
-17,Shang-Chi and the Legend of the Ten Rings,https://letterboxd.com/film/shang-chi-and-the-legend-of-the-ten-rings/
-18,To All the Boys: Always and Forever,https://letterboxd.com/film/to-all-the-boys-always-and-forever/
-19,Fear Street: 1978,https://letterboxd.com/film/fear-street-1978/
-20,"tick, tick... BOOM!",https://letterboxd.com/film/tick-tick-boom-2021/
-21,Free Guy,https://letterboxd.com/film/free-guy/
-22,Nobody,https://letterboxd.com/film/nobody-2021/
-23,Eternals,https://letterboxd.com/film/eternals/
-24,Fear Street: 1666,https://letterboxd.com/film/fear-street-1666/
-25,The Suicide Squad,https://letterboxd.com/film/the-suicide-squad/
-26,The Conjuring: The Devil Made Me Do It,https://letterboxd.com/film/the-conjuring-the-devil-made-me-do-it/
-27,The Green Knight,https://letterboxd.com/film/the-green-knight/
-28,Last Night in Soho,https://letterboxd.com/film/last-night-in-soho/
-29,Titane,https://letterboxd.com/film/titane/
-30,Squid Game,https://letterboxd.com/film/squid-game/
-31,Boiling Point,https://letterboxd.com/film/boiling-point-2021/
-32,The Fallout,https://letterboxd.com/film/the-fallout/
-33,Venom: Let There Be Carnage,https://letterboxd.com/film/venom-let-there-be-carnage/
-34,The Mitchells vs. the Machines,https://letterboxd.com/film/the-mitchells-vs-the-machines/
-35,Drive My Car,https://letterboxd.com/film/drive-my-car/
-36,Red Notice,https://letterboxd.com/film/red-notice/
-37,West Side Story,https://letterboxd.com/film/west-side-story-2021/
-38,CODA,https://letterboxd.com/film/coda-2021/
-39,WandaVision,https://letterboxd.com/film/wandavision/
-40,Loki,https://letterboxd.com/film/loki-2021/
-41,The Hating Game,https://letterboxd.com/film/the-hating-game/
-42,Red Rocket,https://letterboxd.com/film/red-rocket-2021/
-43,Marcel the Shell with Shoes On,https://letterboxd.com/film/marcel-the-shell-with-shoes-on-2021/
-44,Old,https://letterboxd.com/film/old-2021/
-45,Raya and the Last Dragon,https://letterboxd.com/film/raya-and-the-last-dragon/
-46,The Lost Daughter,https://letterboxd.com/film/the-lost-daughter-2021/
-47,The Kissing Booth 3,https://letterboxd.com/film/the-kissing-booth-3/
-48,Godzilla vs. Kong,https://letterboxd.com/film/godzilla-vs-kong/
-49,The Medium,https://letterboxd.com/film/the-medium-2021/
-50,He's All That,https://letterboxd.com/film/hes-all-that/
+rank,title,director,actors,genres,url
+1,Dune,Denis Villeneuve,Timothée Chalamet; Rebecca Ferguson; Oscar Isaac,"Science Fiction, Adventure",https://letterboxd.com/film/dune-2021/
+2,The Worst Person in the World,Joachim Trier,Renate Reinsve; Anders Danielsen Lie; Herbert Nordrum,"Drama, Romance, Comedy",https://letterboxd.com/film/the-worst-person-in-the-world/
+3,Spider-Man: No Way Home,Jon Watts,Tom Holland; Zendaya; Benedict Cumberbatch,"Adventure, Action, Science Fiction",https://letterboxd.com/film/spider-man-no-way-home/
+4,The Black Phone,Scott Derrickson,Mason Thames; Madeleine McGraw; Ethan Hawke,"Thriller, Horror",https://letterboxd.com/film/the-black-phone/
+5,Don't Look Up,Adam McKay,Leonardo DiCaprio; Jennifer Lawrence; Meryl Streep,"Drama, Science Fiction, Comedy",https://letterboxd.com/film/dont-look-up-2021/
+6,Cruella,Craig Gillespie,Emma Stone; Emma Thompson; Joel Fry,"Comedy, Crime, Drama",https://letterboxd.com/film/cruella/
+7,Mortal Kombat,Simon McQuoid,Lewis Tan; Jessica McNamee; Mehcad Brooks,"Action, Adventure, Fantasy",https://letterboxd.com/film/mortal-kombat-2021/
+8,Licorice Pizza,Paul Thomas Anderson,Alana Haim; Cooper Hoffman; Sean Penn,"Drama, Romance, Comedy",https://letterboxd.com/film/licorice-pizza/
+9,Jujutsu Kaisen 0,Sunghoo Park,Megumi Ogata; Kana Hanazawa; Yuichi Nakamura,"Action, Animation, Fantasy",https://letterboxd.com/film/jujutsu-kaisen-0/
+10,Encanto,"Byron Howard, Jared Bush",Stephanie Beatriz; María Cecilia Botero; John Leguizamo,"Comedy, Family, Fantasy, Animation",https://letterboxd.com/film/encanto/
+11,"The French Dispatch of the Liberty, Kansas Evening Sun",Wes Anderson,Benicio del Toro; Adrien Brody; Tilda Swinton,"Drama, Comedy",https://letterboxd.com/film/the-french-dispatch-of-the-liberty-kansas/
+12,Luca,Enrico Casarosa,Jacob Tremblay; Jack Dylan Grazer; Emma Berman,"Fantasy, Comedy, Drama, Family, Animation",https://letterboxd.com/film/luca-2021/
+13,Black Widow,Cate Shortland,Scarlett Johansson; Florence Pugh; Rachel Weisz,"Action, Adventure, Science Fiction",https://letterboxd.com/film/black-widow-2021/
+14,No Time to Die,Cary Joji Fukunaga,Daniel Craig; Léa Seydoux; Rami Malek,"Action, Adventure, Thriller",https://letterboxd.com/film/no-time-to-die-2021/
+15,Fear Street: 1994,Leigh Janiak,Kiana Madeira; Olivia Scott Welch; Benjamin Flores Jr.,"Horror, Mystery, Drama",https://letterboxd.com/film/fear-street-1994/
+16,The Guilty,Antoine Fuqua,Jake Gyllenhaal; Ethan Hawke; Riley Keough,"Drama, Thriller",https://letterboxd.com/film/the-guilty-2021/
+17,Shang-Chi and the Legend of the Ten Rings,Destin Daniel Cretton,Simu Liu; Tony Leung Chiu-wai; Awkwafina,"Adventure, Fantasy, Action",https://letterboxd.com/film/shang-chi-and-the-legend-of-the-ten-rings/
+18,To All the Boys: Always and Forever,Michael Fimognari,Lana Condor; Noah Centineo; Janel Parrish,"Comedy, Romance, Drama",https://letterboxd.com/film/to-all-the-boys-always-and-forever/
+19,Fear Street: 1978,Leigh Janiak,Sadie Sink; Emily Rudd; Ryan Simpkins,"Drama, Horror, Mystery",https://letterboxd.com/film/fear-street-1978/
+20,"tick, tick... BOOM!",Lin-Manuel Miranda,Andrew Garfield; Alexandra Shipp; Robin de Jesús,"Drama, Music",https://letterboxd.com/film/tick-tick-boom-2021/
+21,Free Guy,Shawn Levy,Ryan Reynolds; Jodie Comer; Lil Rel Howery,"Comedy, Adventure, Science Fiction",https://letterboxd.com/film/free-guy/
+22,Nobody,Ilya Naishuller,Bob Odenkirk; Aleksey Serebryakov; Connie Nielsen,"Action, Thriller",https://letterboxd.com/film/nobody-2021/
+23,Eternals,Chloé Zhao,Gemma Chan; Richard Madden; Angelina Jolie,"Action, Science Fiction, Adventure",https://letterboxd.com/film/eternals/
+24,Fear Street: 1666,Leigh Janiak,Kiana Madeira; Benjamin Flores Jr.; Olivia Scott Welch,"Mystery, Horror",https://letterboxd.com/film/fear-street-1666/
+25,The Suicide Squad,James Gunn,Margot Robbie; Idris Elba; John Cena,"Action, Comedy, Adventure",https://letterboxd.com/film/the-suicide-squad/
+26,The Conjuring: The Devil Made Me Do It,Michael Chaves,Vera Farmiga; Patrick Wilson; Sterling Jerins,"Thriller, Horror, Mystery",https://letterboxd.com/film/the-conjuring-the-devil-made-me-do-it/
+27,The Green Knight,David Lowery,Dev Patel; Alicia Vikander; Joel Edgerton,"Adventure, Fantasy, Drama",https://letterboxd.com/film/the-green-knight/
+28,Last Night in Soho,Edgar Wright,Thomasin McKenzie; Anya Taylor-Joy; Matt Smith,"Horror, Mystery",https://letterboxd.com/film/last-night-in-soho/
+29,Titane,Julia Ducournau,Vincent Lindon; Agathe Rousselle; Garance Marillier,"Thriller, Horror, Science Fiction, Drama",https://letterboxd.com/film/titane/
+30,Squid Game,Hwang Dong-hyuk,Lee Jung-jae; Yim Si-wan; Wi Ha-jun,"Drama, Mystery",https://letterboxd.com/film/squid-game/
+31,Boiling Point,Philip Barantini,Stephen Graham; Vinette Robinson; Alice May Feetham,"Drama, Thriller",https://letterboxd.com/film/boiling-point-2021/
+32,The Fallout,Megan Park,Jenna Ortega; Maddie Ziegler; Niles Fitch,Drama,https://letterboxd.com/film/the-fallout/
+33,Venom: Let There Be Carnage,Andy Serkis,Tom Hardy; Woody Harrelson; Michelle Williams,"Science Fiction, Action, Adventure",https://letterboxd.com/film/venom-let-there-be-carnage/
+34,The Mitchells vs. the Machines,Mike Rianda,Abbi Jacobson; Danny McBride; Maya Rudolph,"Animation, Science Fiction, Comedy, Adventure",https://letterboxd.com/film/the-mitchells-vs-the-machines/
+35,Drive My Car,Ryusuke Hamaguchi,Hidetoshi Nishijima; Toko Miura; Masaki Okada,Drama,https://letterboxd.com/film/drive-my-car/
+36,Red Notice,Rawson Marshall Thurber,Dwayne Johnson; Ryan Reynolds; Gal Gadot,"Crime, Comedy, Action",https://letterboxd.com/film/red-notice/
+37,West Side Story,Steven Spielberg,Ansel Elgort; Rachel Zegler; Ariana DeBose,"Romance, Crime, Drama",https://letterboxd.com/film/west-side-story-2021/
+38,CODA,Sian Heder,Emilia Jones; Marlee Matlin; Troy Kotsur,"Drama, Music, Romance",https://letterboxd.com/film/coda-2021/
+39,WandaVision,Matt Shakman,Elizabeth Olsen; Paul Bettany; Kathryn Hahn,"Mystery, Drama",https://letterboxd.com/film/wandavision/
+40,Loki,Kate Herron,Tom Hiddleston; Sophia Di Martino; Wunmi Mosaku,Drama,https://letterboxd.com/film/loki-2021/
+41,The Hating Game,Peter Hutchings,Lucy Hale; Austin Stowell; Corbin Bernsen,"Romance, Drama, Comedy",https://letterboxd.com/film/the-hating-game/
+42,Red Rocket,Sean Baker,Simon Rex; Suzanna Son; Bree Elrod,"Comedy, Drama",https://letterboxd.com/film/red-rocket-2021/
+43,Marcel the Shell with Shoes On,Dean Fleischer Camp,Jenny Slate; Dean Fleischer Camp; Isabella Rossellini,"Animation, Drama, Comedy, Family",https://letterboxd.com/film/marcel-the-shell-with-shoes-on-2021/
+44,Old,M. Night Shyamalan,Gael García Bernal; Vicky Krieps; Rufus Sewell,"Thriller, Mystery, Horror",https://letterboxd.com/film/old-2021/
+45,Raya and the Last Dragon,"Don Hall, Carlos López Estrada",Kelly Marie Tran; Awkwafina; Gemma Chan,"Animation, Adventure, Family, Action, Fantasy",https://letterboxd.com/film/raya-and-the-last-dragon/
+46,The Lost Daughter,Maggie Gyllenhaal,Olivia Colman; Jessie Buckley; Dakota Johnson,Drama,https://letterboxd.com/film/the-lost-daughter-2021/
+47,The Kissing Booth 3,Vince Marcello,Joey King; Joel Courtney; Jacob Elordi,"Romance, Comedy",https://letterboxd.com/film/the-kissing-booth-3/
+48,Godzilla vs. Kong,Adam Wingard,Alexander Skarsgård; Rebecca Hall; Kaylee Hottle,"Science Fiction, Adventure, Action",https://letterboxd.com/film/godzilla-vs-kong/
+49,The Medium,Banjong Pisanthanakun,Narilya Gulmongkolpech; Sawanee Utoomma; Sirani Yankittikan,"Mystery, Horror",https://letterboxd.com/film/the-medium-2021/
+50,He's All That,Mark Waters,Addison Rae; Tanner Buchanan; Madison Pettis,"Comedy, Romance",https://letterboxd.com/film/hes-all-that/

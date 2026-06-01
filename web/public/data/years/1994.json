@@ -5,252 +5,602 @@
     {
       "rank": 1,
       "title": "Pulp Fiction",
-      "url": "https://letterboxd.com/film/pulp-fiction/"
+      "url": "https://letterboxd.com/film/pulp-fiction/",
+      "director": "Quentin Tarantino",
+      "actors": [
+        "John Travolta",
+        "Samuel L. Jackson",
+        "Uma Thurman"
+      ],
+      "genres": "Comedy, Thriller, Crime"
     },
     {
       "rank": 2,
       "title": "The Shawshank Redemption",
-      "url": "https://letterboxd.com/film/the-shawshank-redemption/"
+      "url": "https://letterboxd.com/film/the-shawshank-redemption/",
+      "director": "Frank Darabont",
+      "actors": [
+        "Tim Robbins",
+        "Morgan Freeman",
+        "Bob Gunton"
+      ],
+      "genres": "Crime, Drama"
     },
     {
       "rank": 3,
       "title": "Forrest Gump",
-      "url": "https://letterboxd.com/film/forrest-gump/"
+      "url": "https://letterboxd.com/film/forrest-gump/",
+      "director": "Robert Zemeckis",
+      "actors": [
+        "Tom Hanks",
+        "Robin Wright",
+        "Gary Sinise"
+      ],
+      "genres": "Drama, Romance, Comedy"
     },
     {
       "rank": 4,
       "title": "Chungking Express",
-      "url": "https://letterboxd.com/film/chungking-express/"
+      "url": "https://letterboxd.com/film/chungking-express/",
+      "director": "Wong Kar-Wai",
+      "actors": [
+        "Brigitte Lin",
+        "Takeshi Kaneshiro",
+        "Tony Leung Chiu-wai"
+      ],
+      "genres": "Comedy, Drama, Romance"
     },
     {
       "rank": 5,
       "title": "Léon: The Professional",
-      "url": "https://letterboxd.com/film/leon-the-professional/"
+      "url": "https://letterboxd.com/film/leon-the-professional/",
+      "director": "Luc Besson",
+      "actors": [
+        "Jean Reno",
+        "Natalie Portman",
+        "Gary Oldman"
+      ],
+      "genres": "Crime, Action, Drama"
     },
     {
       "rank": 6,
       "title": "The Lion King",
-      "url": "https://letterboxd.com/film/the-lion-king/"
+      "url": "https://letterboxd.com/film/the-lion-king/",
+      "director": "Roger Allers, Rob Minkoff",
+      "actors": [
+        "Matthew Broderick",
+        "Moira Kelly",
+        "Jeremy Irons"
+      ],
+      "genres": "Animation, Drama, Family"
     },
     {
       "rank": 7,
       "title": "The Mask",
-      "url": "https://letterboxd.com/film/the-mask-1994/"
+      "url": "https://letterboxd.com/film/the-mask-1994/",
+      "director": "Chuck Russell",
+      "actors": [
+        "Jim Carrey",
+        "Peter Riegert",
+        "Peter Greene"
+      ],
+      "genres": "Fantasy, Romance, Crime, Comedy"
     },
     {
       "rank": 8,
       "title": "Four Weddings and a Funeral",
-      "url": "https://letterboxd.com/film/four-weddings-and-a-funeral/"
+      "url": "https://letterboxd.com/film/four-weddings-and-a-funeral/",
+      "director": "Mike Newell",
+      "actors": [
+        "Hugh Grant",
+        "Andie MacDowell",
+        "Kristin Scott Thomas"
+      ],
+      "genres": "Drama, Comedy, Romance"
     },
     {
       "rank": 9,
       "title": "Interview with the Vampire",
-      "url": "https://letterboxd.com/film/interview-with-the-vampire/"
+      "url": "https://letterboxd.com/film/interview-with-the-vampire/",
+      "director": "Neil Jordan",
+      "actors": [
+        "Tom Cruise",
+        "Brad Pitt",
+        "Antonio Banderas"
+      ],
+      "genres": "Horror, Drama, Fantasy"
     },
     {
       "rank": 10,
       "title": "Ace Ventura: Pet Detective",
-      "url": "https://letterboxd.com/film/ace-ventura-pet-detective/"
+      "url": "https://letterboxd.com/film/ace-ventura-pet-detective/",
+      "director": "Tom Shadyac",
+      "actors": [
+        "Jim Carrey",
+        "Courteney Cox",
+        "Sean Young"
+      ],
+      "genres": "Crime, Comedy, Mystery"
     },
     {
       "rank": 11,
       "title": "Speed",
-      "url": "https://letterboxd.com/film/speed/"
+      "url": "https://letterboxd.com/film/speed/",
+      "director": "Jan de Bont",
+      "actors": [
+        "Keanu Reeves",
+        "Dennis Hopper",
+        "Sandra Bullock"
+      ],
+      "genres": "Thriller, Action"
     },
     {
       "rank": 12,
       "title": "Little Women",
-      "url": "https://letterboxd.com/film/little-women-1994/"
+      "url": "https://letterboxd.com/film/little-women-1994/",
+      "director": "Gillian Armstrong",
+      "actors": [
+        "Winona Ryder",
+        "Trini Alvarado",
+        "Samantha Mathis"
+      ],
+      "genres": "Romance, Drama"
     },
     {
       "rank": 13,
       "title": "Dumb and Dumber",
-      "url": "https://letterboxd.com/film/dumb-and-dumber/"
+      "url": "https://letterboxd.com/film/dumb-and-dumber/",
+      "director": "Peter Farrelly",
+      "actors": [
+        "Jim Carrey",
+        "Jeff Daniels",
+        "Lauren Holly"
+      ],
+      "genres": "Comedy"
     },
     {
       "rank": 14,
       "title": "Natural Born Killers",
-      "url": "https://letterboxd.com/film/natural-born-killers/"
+      "url": "https://letterboxd.com/film/natural-born-killers/",
+      "director": "Oliver Stone",
+      "actors": [
+        "Woody Harrelson",
+        "Juliette Lewis",
+        "Robert Downey Jr."
+      ],
+      "genres": "Drama, Thriller, Crime"
     },
     {
       "rank": 15,
       "title": "The Crow",
-      "url": "https://letterboxd.com/film/the-crow/"
+      "url": "https://letterboxd.com/film/the-crow/",
+      "director": "Alex Proyas",
+      "actors": [
+        "Brandon Lee",
+        "Rochelle Davis",
+        "Ernie Hudson"
+      ],
+      "genres": "Action, Thriller, Fantasy"
     },
     {
       "rank": 16,
       "title": "Three Colours: Red",
-      "url": "https://letterboxd.com/film/three-colours-red/"
+      "url": "https://letterboxd.com/film/three-colours-red/",
+      "director": "Krzysztof Kieślowski",
+      "actors": [
+        "Irène Jacob",
+        "Jean-Louis Trintignant",
+        "Frédérique Feder"
+      ],
+      "genres": "Mystery, Drama, Romance"
     },
     {
       "rank": 17,
       "title": "In the Mouth of Madness",
-      "url": "https://letterboxd.com/film/in-the-mouth-of-madness/"
+      "url": "https://letterboxd.com/film/in-the-mouth-of-madness/",
+      "director": "John Carpenter",
+      "actors": [
+        "Sam Neill",
+        "Julie Carmen",
+        "Jürgen Prochnow"
+      ],
+      "genres": "Mystery, Horror"
     },
     {
       "rank": 18,
       "title": "Clerks",
-      "url": "https://letterboxd.com/film/clerks/"
+      "url": "https://letterboxd.com/film/clerks/",
+      "director": "Kevin Smith",
+      "actors": [
+        "Brian O'Halloran",
+        "Jeff Anderson",
+        "Marilyn Ghigliotti"
+      ],
+      "genres": "Comedy"
     },
     {
       "rank": 19,
       "title": "Three Colours: White",
-      "url": "https://letterboxd.com/film/three-colours-white/"
+      "url": "https://letterboxd.com/film/three-colours-white/",
+      "director": "Krzysztof Kieślowski",
+      "actors": [
+        "Zbigniew Zamachowski",
+        "Julie Delpy",
+        "Janusz Gajos"
+      ],
+      "genres": "Drama, Mystery, Comedy"
     },
     {
       "rank": 20,
       "title": "The Adventures of Priscilla, Queen of the Desert",
-      "url": "https://letterboxd.com/film/the-adventures-of-priscilla-queen-of-the-desert/"
+      "url": "https://letterboxd.com/film/the-adventures-of-priscilla-queen-of-the-desert/",
+      "director": "Stephan Elliott",
+      "actors": [
+        "Hugo Weaving",
+        "Guy Pearce",
+        "Terence Stamp"
+      ],
+      "genres": "Drama, Comedy"
     },
     {
       "rank": 21,
       "title": "Serial Mom",
-      "url": "https://letterboxd.com/film/serial-mom/"
+      "url": "https://letterboxd.com/film/serial-mom/",
+      "director": "John Waters",
+      "actors": [
+        "Kathleen Turner",
+        "Sam Waterston",
+        "Ricki Lake"
+      ],
+      "genres": "Crime, Comedy"
     },
     {
       "rank": 22,
       "title": "The Client",
-      "url": "https://letterboxd.com/film/the-client/"
+      "url": "https://letterboxd.com/film/the-client/",
+      "director": "Joel Schumacher",
+      "actors": [
+        "Brad Renfro",
+        "Susan Sarandon",
+        "Tommy Lee Jones"
+      ],
+      "genres": "Drama, Thriller, Mystery, Crime"
     },
     {
       "rank": 23,
       "title": "Only You",
-      "url": "https://letterboxd.com/film/only-you-1994/"
+      "url": "https://letterboxd.com/film/only-you-1994/",
+      "director": "Norman Jewison",
+      "actors": [
+        "Marisa Tomei",
+        "Robert Downey Jr.",
+        "Bonnie Hunt"
+      ],
+      "genres": "Comedy, Romance"
     },
     {
       "rank": 24,
       "title": "Pom Poko",
-      "url": "https://letterboxd.com/film/pom-poko/"
+      "url": "https://letterboxd.com/film/pom-poko/",
+      "director": "Isao Takahata",
+      "actors": [
+        "Makoto Nonomura",
+        "Nijiko Kiyokawa",
+        "Shigeru Izumiya"
+      ],
+      "genres": "Fantasy, Adventure, Animation"
     },
     {
       "rank": 25,
       "title": "The Swan Princess",
-      "url": "https://letterboxd.com/film/the-swan-princess/"
+      "url": "https://letterboxd.com/film/the-swan-princess/",
+      "director": "Richard Rich",
+      "actors": [
+        "Jack Palance",
+        "Howard McGillin",
+        "Michelle Nicastro"
+      ],
+      "genres": "Family, Adventure, Comedy, Fantasy, Animation"
     },
     {
       "rank": 26,
       "title": "Legends of the Fall",
-      "url": "https://letterboxd.com/film/legends-of-the-fall/"
+      "url": "https://letterboxd.com/film/legends-of-the-fall/",
+      "director": "Edward Zwick",
+      "actors": [
+        "Brad Pitt",
+        "Anthony Hopkins",
+        "Aidan Quinn"
+      ],
+      "genres": "Romance, Drama, Western, War"
     },
     {
       "rank": 27,
       "title": "Reality Bites",
-      "url": "https://letterboxd.com/film/reality-bites/"
+      "url": "https://letterboxd.com/film/reality-bites/",
+      "director": "Ben Stiller",
+      "actors": [
+        "Winona Ryder",
+        "Ethan Hawke",
+        "Janeane Garofalo"
+      ],
+      "genres": "Romance, Comedy, Drama"
     },
     {
       "rank": 28,
       "title": "True Lies",
-      "url": "https://letterboxd.com/film/true-lies/"
+      "url": "https://letterboxd.com/film/true-lies/",
+      "director": "James Cameron",
+      "actors": [
+        "Arnold Schwarzenegger",
+        "Jamie Lee Curtis",
+        "Tom Arnold"
+      ],
+      "genres": "Thriller, Action"
     },
     {
       "rank": 29,
       "title": "Muriel's Wedding",
-      "url": "https://letterboxd.com/film/muriels-wedding/"
+      "url": "https://letterboxd.com/film/muriels-wedding/",
+      "director": "P.J. Hogan",
+      "actors": [
+        "Toni Collette",
+        "Bill Hunter",
+        "Rachel Griffiths"
+      ],
+      "genres": "Drama, Comedy, Romance"
     },
     {
       "rank": 30,
       "title": "Fear City: A Family-Style Comedy",
-      "url": "https://letterboxd.com/film/fear-city-a-family-style-comedy/"
+      "url": "https://letterboxd.com/film/fear-city-a-family-style-comedy/",
+      "director": "Alain Berbérian",
+      "actors": [
+        "Chantal Lauby",
+        "Alain Chabat",
+        "Dominique Farrugia"
+      ],
+      "genres": "Comedy"
     },
     {
       "rank": 31,
       "title": "The Little Rascals",
-      "url": "https://letterboxd.com/film/the-little-rascals/"
+      "url": "https://letterboxd.com/film/the-little-rascals/",
+      "director": "Penelope Spheeris",
+      "actors": [
+        "Bug Hall",
+        "Brittany Ashton Holmes",
+        "Travis Tedford"
+      ],
+      "genres": "Romance, Comedy, Family"
     },
     {
       "rank": 32,
       "title": "Ed Wood",
-      "url": "https://letterboxd.com/film/ed-wood/"
+      "url": "https://letterboxd.com/film/ed-wood/",
+      "director": "Tim Burton",
+      "actors": [
+        "Johnny Depp",
+        "Martin Landau",
+        "Sarah Jessica Parker"
+      ],
+      "genres": "Comedy, Drama, History"
     },
     {
       "rank": 33,
-      "title": "Naked Gun 33⅓: The Final Insult",
-      "url": "https://letterboxd.com/film/naked-gun-33-the-final-insult/"
+      "title": "Satantango",
+      "url": "https://letterboxd.com/film/satantango/",
+      "director": "Béla Tarr",
+      "actors": [
+        "Mihály Víg",
+        "Putyi Horváth",
+        "Székely B. Miklós"
+      ],
+      "genres": "Drama"
     },
     {
       "rank": 34,
-      "title": "Satantango",
-      "url": "https://letterboxd.com/film/satantango/"
+      "title": "Naked Gun 33⅓: The Final Insult",
+      "url": "https://letterboxd.com/film/naked-gun-33-the-final-insult/",
+      "director": "Peter Segal",
+      "actors": [
+        "Leslie Nielsen",
+        "Priscilla Presley",
+        "George Kennedy"
+      ],
+      "genres": "Comedy, Crime"
     },
     {
       "rank": 35,
       "title": "Heavenly Creatures",
-      "url": "https://letterboxd.com/film/heavenly-creatures/"
+      "url": "https://letterboxd.com/film/heavenly-creatures/",
+      "director": "Peter Jackson",
+      "actors": [
+        "Melanie Lynskey",
+        "Kate Winslet",
+        "Sarah Peirse"
+      ],
+      "genres": "Drama, Fantasy"
     },
     {
       "rank": 36,
       "title": "Shallow Grave",
-      "url": "https://letterboxd.com/film/shallow-grave/"
+      "url": "https://letterboxd.com/film/shallow-grave/",
+      "director": "Danny Boyle",
+      "actors": [
+        "Ewan McGregor",
+        "Christopher Eccleston",
+        "Kerry Fox"
+      ],
+      "genres": "Thriller, Crime"
     },
     {
       "rank": 37,
       "title": "Stargate",
-      "url": "https://letterboxd.com/film/stargate/"
+      "url": "https://letterboxd.com/film/stargate/",
+      "director": "Roland Emmerich",
+      "actors": [
+        "James Spader",
+        "Kurt Russell",
+        "Jaye Davidson"
+      ],
+      "genres": "Action, Adventure, Science Fiction"
     },
     {
       "rank": 38,
       "title": "It Could Happen to You",
-      "url": "https://letterboxd.com/film/it-could-happen-to-you/"
+      "url": "https://letterboxd.com/film/it-could-happen-to-you/",
+      "director": "Andrew Bergman",
+      "actors": [
+        "Nicolas Cage",
+        "Bridget Fonda",
+        "Rosie Perez"
+      ],
+      "genres": "Comedy, Romance, Drama"
     },
     {
       "rank": 39,
       "title": "The Hudsucker Proxy",
-      "url": "https://letterboxd.com/film/the-hudsucker-proxy/"
+      "url": "https://letterboxd.com/film/the-hudsucker-proxy/",
+      "director": "Joel Coen",
+      "actors": [
+        "Tim Robbins",
+        "Jennifer Jason Leigh",
+        "Paul Newman"
+      ],
+      "genres": "Comedy, Drama, Fantasy"
     },
     {
       "rank": 40,
       "title": "Eat Drink Man Woman",
-      "url": "https://letterboxd.com/film/eat-drink-man-woman/"
+      "url": "https://letterboxd.com/film/eat-drink-man-woman/",
+      "director": "Ang Lee",
+      "actors": [
+        "Lung Sihung",
+        "Yang Kuei-mei",
+        "Jacklyn Wu Chien-Lien"
+      ],
+      "genres": "Romance, Drama, Comedy"
     },
     {
       "rank": 41,
       "title": "Exotica",
-      "url": "https://letterboxd.com/film/exotica/"
+      "url": "https://letterboxd.com/film/exotica/",
+      "director": "Atom Egoyan",
+      "actors": [
+        "Bruce Greenwood",
+        "Mia Kirshner",
+        "Don McKellar"
+      ],
+      "genres": "Drama"
     },
     {
       "rank": 42,
       "title": "Through the Olive Trees",
-      "url": "https://letterboxd.com/film/through-the-olive-trees/"
+      "url": "https://letterboxd.com/film/through-the-olive-trees/",
+      "director": "Abbas Kiarostami",
+      "actors": [
+        "Mohammadali Keshavarz",
+        "Farhad Kheradmand",
+        "Zarifeh Shiva"
+      ],
+      "genres": "Drama, Romance"
     },
     {
       "rank": 43,
       "title": "Quiz Show",
-      "url": "https://letterboxd.com/film/quiz-show/"
+      "url": "https://letterboxd.com/film/quiz-show/",
+      "director": "Robert Redford",
+      "actors": [
+        "John Turturro",
+        "Rob Morrow",
+        "Ralph Fiennes"
+      ],
+      "genres": "Drama, History"
     },
     {
       "rank": 44,
       "title": "Dream Lover",
-      "url": "https://letterboxd.com/film/dream-lover/"
+      "url": "https://letterboxd.com/film/dream-lover/",
+      "director": "Nicholas Kazan",
+      "actors": [
+        "James Spader",
+        "Mädchen Amick",
+        "Fredric Lehne"
+      ],
+      "genres": "Drama, Thriller, Mystery"
     },
     {
       "rank": 45,
       "title": "Wes Craven's New Nightmare",
-      "url": "https://letterboxd.com/film/wes-cravens-new-nightmare/"
+      "url": "https://letterboxd.com/film/wes-cravens-new-nightmare/",
+      "director": "Wes Craven",
+      "actors": [
+        "Heather Langenkamp",
+        "Robert Englund",
+        "Miko Hughes"
+      ],
+      "genres": "Fantasy, Mystery, Horror"
     },
     {
       "rank": 46,
       "title": "Disclosure",
-      "url": "https://letterboxd.com/film/disclosure/"
+      "url": "https://letterboxd.com/film/disclosure/",
+      "director": "Barry Levinson",
+      "actors": [
+        "Michael Douglas",
+        "Demi Moore",
+        "Donald Sutherland"
+      ],
+      "genres": "Crime, Drama, Thriller"
     },
     {
       "rank": 47,
       "title": "Baby's Day Out",
-      "url": "https://letterboxd.com/film/babys-day-out/"
+      "url": "https://letterboxd.com/film/babys-day-out/",
+      "director": "Patrick Read Johnson",
+      "actors": [
+        "Joe Mantegna",
+        "Lara Flynn Boyle",
+        "Joe Pantoliano"
+      ],
+      "genres": "Comedy, Adventure, Family, Crime"
     },
     {
       "rank": 48,
       "title": "D2: The Mighty Ducks",
-      "url": "https://letterboxd.com/film/d2-the-mighty-ducks/"
+      "url": "https://letterboxd.com/film/d2-the-mighty-ducks/",
+      "director": "Sam Weisman",
+      "actors": [
+        "Emilio Estevez",
+        "Kathryn Erbe",
+        "Michael Tucker"
+      ],
+      "genres": "Action, Family, Comedy, Drama"
     },
     {
       "rank": 49,
       "title": "Nadja",
-      "url": "https://letterboxd.com/film/nadja/"
+      "url": "https://letterboxd.com/film/nadja/",
+      "director": "Michael Almereyda",
+      "actors": [
+        "Elina Löwensohn",
+        "Suzy Amis",
+        "Galaxy Craze"
+      ],
+      "genres": "Thriller, Horror"
     },
     {
       "rank": 50,
       "title": "Street Fighter",
-      "url": "https://letterboxd.com/film/street-fighter/"
+      "url": "https://letterboxd.com/film/street-fighter/",
+      "director": "Steven E. de Souza",
+      "actors": [
+        "Jean-Claude Van Damme",
+        "Raúl Juliá",
+        "Kylie Minogue"
+      ],
+      "genres": "Fantasy, Comedy, Action"
     }
   ]
 }

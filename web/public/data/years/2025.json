@@ -5,252 +5,602 @@
     {
       "rank": 1,
       "title": "Marty Supreme",
-      "url": "https://letterboxd.com/film/marty-supreme/"
+      "url": "https://letterboxd.com/film/marty-supreme/",
+      "director": "Josh Safdie",
+      "actors": [
+        "Timothée Chalamet",
+        "Gwyneth Paltrow",
+        "Odessa A'zion"
+      ],
+      "genres": "Thriller, Drama"
     },
     {
       "rank": 2,
       "title": "Hamnet",
-      "url": "https://letterboxd.com/film/hamnet/"
+      "url": "https://letterboxd.com/film/hamnet/",
+      "director": "Chloé Zhao",
+      "actors": [
+        "Jessie Buckley",
+        "Paul Mescal",
+        "Emily Watson"
+      ],
+      "genres": "History, Drama, Romance"
     },
     {
       "rank": 3,
       "title": "The Housemaid",
-      "url": "https://letterboxd.com/film/the-housemaid-2025/"
+      "url": "https://letterboxd.com/film/the-housemaid-2025/",
+      "director": "Paul Feig",
+      "actors": [
+        "Sydney Sweeney",
+        "Amanda Seyfried",
+        "Brandon Sklenar"
+      ],
+      "genres": "Thriller, Mystery"
     },
     {
       "rank": 4,
       "title": "Sinners",
-      "url": "https://letterboxd.com/film/sinners-2025/"
+      "url": "https://letterboxd.com/film/sinners-2025/",
+      "director": "Ryan Coogler",
+      "actors": [
+        "Michael B. Jordan",
+        "Hailee Steinfeld",
+        "Miles Caton"
+      ],
+      "genres": "Thriller, Action, Horror"
     },
     {
       "rank": 5,
-      "title": "Stranger Things 5: The Finale",
-      "url": "https://letterboxd.com/film/stranger-things-5-the-finale/"
+      "title": "Obsession",
+      "url": "https://letterboxd.com/film/obsession-2025-2/",
+      "director": "Curry Barker",
+      "actors": [
+        "Michael Johnston",
+        "Inde Navarrette",
+        "Cooper Tomlinson"
+      ],
+      "genres": "Horror"
     },
     {
       "rank": 6,
-      "title": "Obsession",
-      "url": "https://letterboxd.com/film/obsession-2025-2/"
+      "title": "Stranger Things 5: The Finale",
+      "url": "https://letterboxd.com/film/stranger-things-5-the-finale/",
+      "director": "Matt Duffer, Ross Duffer",
+      "actors": [
+        "Millie Bobby Brown",
+        "Finn Wolfhard",
+        "Gaten Matarazzo"
+      ],
+      "genres": "Action, Fantasy, Mystery"
     },
     {
       "rank": 7,
       "title": "One Battle After Another",
-      "url": "https://letterboxd.com/film/one-battle-after-another/"
+      "url": "https://letterboxd.com/film/one-battle-after-another/",
+      "director": "Paul Thomas Anderson",
+      "actors": [
+        "Leonardo DiCaprio",
+        "Sean Penn",
+        "Chase Infiniti"
+      ],
+      "genres": "Thriller, Comedy, Action, Crime"
     },
     {
       "rank": 8,
       "title": "Bugonia",
-      "url": "https://letterboxd.com/film/bugonia/"
+      "url": "https://letterboxd.com/film/bugonia/",
+      "director": "Yorgos Lanthimos",
+      "actors": [
+        "Emma Stone",
+        "Jesse Plemons",
+        "Aidan Delbis"
+      ],
+      "genres": "Thriller, Science Fiction, Comedy"
     },
     {
       "rank": 9,
       "title": "Zootopia 2",
-      "url": "https://letterboxd.com/film/zootopia-2/"
+      "url": "https://letterboxd.com/film/zootopia-2/",
+      "director": "Jared Bush, Byron Howard",
+      "actors": [
+        "Ginnifer Goodwin",
+        "Jason Bateman",
+        "Ke Huy Quan"
+      ],
+      "genres": "Adventure, Family, Action, Comedy, Animation, Mystery"
     },
     {
       "rank": 10,
       "title": "Sentimental Value",
-      "url": "https://letterboxd.com/film/sentimental-value-2025/"
+      "url": "https://letterboxd.com/film/sentimental-value-2025/",
+      "director": "Joachim Trier",
+      "actors": [
+        "Renate Reinsve",
+        "Stellan Skarsgård",
+        "Inga Ibsdotter Lilleaas"
+      ],
+      "genres": "Drama"
     },
     {
       "rank": 11,
       "title": "No Other Choice",
-      "url": "https://letterboxd.com/film/no-other-choice-2025/"
+      "url": "https://letterboxd.com/film/no-other-choice-2025/",
+      "director": "Park Chan-wook",
+      "actors": [
+        "Lee Byung-hun",
+        "Son Ye-jin",
+        "Park Hee-soon"
+      ],
+      "genres": "Crime, Comedy, Thriller"
     },
     {
       "rank": 12,
       "title": "Wake Up Dead Man",
-      "url": "https://letterboxd.com/film/wake-up-dead-man/"
+      "url": "https://letterboxd.com/film/wake-up-dead-man/",
+      "director": "Rian Johnson",
+      "actors": [
+        "Daniel Craig",
+        "Josh O'Connor",
+        "Glenn Close"
+      ],
+      "genres": "Comedy, Thriller, Mystery"
     },
     {
       "rank": 13,
       "title": "Avatar: Fire and Ash",
-      "url": "https://letterboxd.com/film/avatar-fire-and-ash/"
+      "url": "https://letterboxd.com/film/avatar-fire-and-ash/",
+      "director": "James Cameron",
+      "actors": [
+        "Sam Worthington",
+        "Zoe Saldaña",
+        "Sigourney Weaver"
+      ],
+      "genres": "Adventure, Fantasy, Science Fiction"
     },
     {
       "rank": 14,
       "title": "Frankenstein",
-      "url": "https://letterboxd.com/film/frankenstein-2025/"
+      "url": "https://letterboxd.com/film/frankenstein-2025/",
+      "director": "Guillermo del Toro",
+      "actors": [
+        "Oscar Isaac",
+        "Jacob Elordi",
+        "Christoph Waltz"
+      ],
+      "genres": "Fantasy, Drama, Horror, Science Fiction"
     },
     {
       "rank": 15,
       "title": "The Secret Agent",
-      "url": "https://letterboxd.com/film/the-secret-agent-2025/"
+      "url": "https://letterboxd.com/film/the-secret-agent-2025/",
+      "director": "Kleber Mendonça Filho",
+      "actors": [
+        "Wagner Moura",
+        "Alice Carvalho",
+        "Gabriel Leone"
+      ],
+      "genres": "Crime, Thriller, Drama"
     },
     {
       "rank": 16,
       "title": "Train Dreams",
-      "url": "https://letterboxd.com/film/train-dreams/"
+      "url": "https://letterboxd.com/film/train-dreams/",
+      "director": "Clint Bentley",
+      "actors": [
+        "Joel Edgerton",
+        "Felicity Jones",
+        "Nathaniel Arcand"
+      ],
+      "genres": "Drama"
     },
     {
       "rank": 17,
       "title": "Weapons",
-      "url": "https://letterboxd.com/film/weapons-2025/"
+      "url": "https://letterboxd.com/film/weapons-2025/",
+      "director": "Zach Cregger",
+      "actors": [
+        "Julia Garner",
+        "Josh Brolin",
+        "Alden Ehrenreich"
+      ],
+      "genres": "Horror, Mystery"
     },
     {
       "rank": 18,
       "title": "Eternity",
-      "url": "https://letterboxd.com/film/eternity-2025-1/"
+      "url": "https://letterboxd.com/film/eternity-2025-1/",
+      "director": "David Freyne",
+      "actors": [
+        "Elizabeth Olsen",
+        "Miles Teller",
+        "Callum Turner"
+      ],
+      "genres": "Romance, Drama, Comedy"
     },
     {
       "rank": 19,
       "title": "F1",
-      "url": "https://letterboxd.com/film/f1/"
+      "url": "https://letterboxd.com/film/f1/",
+      "director": "Joseph Kosinski",
+      "actors": [
+        "Brad Pitt",
+        "Damson Idris",
+        "Javier Bardem"
+      ],
+      "genres": "Drama, Action"
     },
     {
       "rank": 20,
       "title": "If I Had Legs I'd Kick You",
-      "url": "https://letterboxd.com/film/if-i-had-legs-id-kick-you/"
+      "url": "https://letterboxd.com/film/if-i-had-legs-id-kick-you/",
+      "director": "Mary Bronstein",
+      "actors": [
+        "Rose Byrne",
+        "Conan O'Brien",
+        "A$AP Rocky"
+      ],
+      "genres": "Drama"
     },
     {
       "rank": 21,
       "title": "Anaconda",
-      "url": "https://letterboxd.com/film/anaconda-2025/"
+      "url": "https://letterboxd.com/film/anaconda-2025/",
+      "director": "Tom Gormican",
+      "actors": [
+        "Jack Black",
+        "Paul Rudd",
+        "Steve Zahn"
+      ],
+      "genres": "Comedy, Horror, Adventure"
     },
     {
       "rank": 22,
       "title": "Rental Family",
-      "url": "https://letterboxd.com/film/rental-family-2025/"
+      "url": "https://letterboxd.com/film/rental-family-2025/",
+      "director": "Hikari",
+      "actors": [
+        "Brendan Fraser",
+        "Takehiro Hira",
+        "Mari Yamamoto"
+      ],
+      "genres": "Drama, Comedy"
     },
     {
       "rank": 23,
       "title": "28 Years Later",
-      "url": "https://letterboxd.com/film/28-years-later/"
+      "url": "https://letterboxd.com/film/28-years-later/",
+      "director": "Danny Boyle",
+      "actors": [
+        "Jodie Comer",
+        "Aaron Taylor-Johnson",
+        "Alfie Williams"
+      ],
+      "genres": "Science Fiction, Thriller, Horror"
     },
     {
       "rank": 24,
       "title": "KPop Demon Hunters",
-      "url": "https://letterboxd.com/film/kpop-demon-hunters/"
+      "url": "https://letterboxd.com/film/kpop-demon-hunters/",
+      "director": "Chris Appelhans, Maggie Kang",
+      "actors": [
+        "Arden Cho",
+        "May Hong",
+        "Ji-young Yoo"
+      ],
+      "genres": "Fantasy, Comedy, Music, Animation"
     },
     {
       "rank": 25,
       "title": "Primate",
-      "url": "https://letterboxd.com/film/primate-2025/"
+      "url": "https://letterboxd.com/film/primate-2025/",
+      "director": "Johannes Roberts",
+      "actors": [
+        "Johnny Sequoyah",
+        "Jessica Alexander",
+        "Troy Kotsur"
+      ],
+      "genres": "Horror, Thriller"
     },
     {
       "rank": 26,
       "title": "undertone",
-      "url": "https://letterboxd.com/film/undertone-2025/"
+      "url": "https://letterboxd.com/film/undertone-2025/",
+      "director": "Ian Tuason",
+      "actors": [
+        "Nina Kiri",
+        "Adam DiMarco",
+        "Michèle Duquet"
+      ],
+      "genres": "Horror, Mystery"
     },
     {
       "rank": 27,
       "title": "I Swear",
-      "url": "https://letterboxd.com/film/i-swear/"
+      "url": "https://letterboxd.com/film/i-swear/",
+      "director": "Kirk Jones",
+      "actors": [
+        "Robert Aramayo",
+        "Maxine Peake",
+        "Peter Mullan"
+      ],
+      "genres": "History, Drama"
     },
     {
       "rank": 28,
       "title": "Die My Love",
-      "url": "https://letterboxd.com/film/die-my-love/"
+      "url": "https://letterboxd.com/film/die-my-love/",
+      "director": "Lynne Ramsay",
+      "actors": [
+        "Jennifer Lawrence",
+        "Robert Pattinson",
+        "Sissy Spacek"
+      ],
+      "genres": "Drama"
     },
     {
       "rank": 29,
       "title": "Pillion",
-      "url": "https://letterboxd.com/film/pillion-2025/"
+      "url": "https://letterboxd.com/film/pillion-2025/",
+      "director": "Harry Lighton",
+      "actors": [
+        "Harry Melling",
+        "Alexander Skarsgård",
+        "Lesley Sharp"
+      ],
+      "genres": "Drama, Romance, Comedy"
     },
     {
       "rank": 30,
       "title": "Superman",
-      "url": "https://letterboxd.com/film/superman-2025/"
+      "url": "https://letterboxd.com/film/superman-2025/",
+      "director": "James Gunn",
+      "actors": [
+        "David Corenswet",
+        "Rachel Brosnahan",
+        "Nicholas Hoult"
+      ],
+      "genres": "Science Fiction, Adventure, Action"
     },
     {
       "rank": 31,
       "title": "Materialists",
-      "url": "https://letterboxd.com/film/materialists/"
+      "url": "https://letterboxd.com/film/materialists/",
+      "director": "Celine Song",
+      "actors": [
+        "Dakota Johnson",
+        "Chris Evans",
+        "Pedro Pascal"
+      ],
+      "genres": "Romance, Drama"
     },
     {
       "rank": 32,
       "title": "Good Luck, Have Fun, Don't Die",
-      "url": "https://letterboxd.com/film/good-luck-have-fun-dont-die/"
+      "url": "https://letterboxd.com/film/good-luck-have-fun-dont-die/",
+      "director": "Gore Verbinski",
+      "actors": [
+        "Sam Rockwell",
+        "Juno Temple",
+        "Haley Lu Richardson"
+      ],
+      "genres": "Action, Science Fiction, Comedy"
     },
     {
       "rank": 33,
       "title": "Nirvanna the Band the Show the Movie",
-      "url": "https://letterboxd.com/film/nirvanna-the-band-the-show-the-movie/"
+      "url": "https://letterboxd.com/film/nirvanna-the-band-the-show-the-movie/",
+      "director": "Matt Johnson",
+      "actors": [
+        "Matt Johnson",
+        "Jay McCarrol",
+        "Ben Petrie"
+      ],
+      "genres": "Comedy, Adventure, Science Fiction"
     },
     {
       "rank": 34,
       "title": "Wicked: For Good",
-      "url": "https://letterboxd.com/film/wicked-for-good/"
+      "url": "https://letterboxd.com/film/wicked-for-good/",
+      "director": "Jon M. Chu",
+      "actors": [
+        "Cynthia Erivo",
+        "Ariana Grande",
+        "Jeff Goldblum"
+      ],
+      "genres": "Adventure, Fantasy, Romance"
     },
     {
       "rank": 35,
       "title": "It Was Just an Accident",
-      "url": "https://letterboxd.com/film/it-was-just-an-accident/"
+      "url": "https://letterboxd.com/film/it-was-just-an-accident/",
+      "director": "Jafar Panahi",
+      "actors": [
+        "Vahid Mobasseri",
+        "Mariam Afshari",
+        "Ebrahim Azizi"
+      ],
+      "genres": "Thriller, Drama, Crime, Mystery"
     },
     {
       "rank": 36,
       "title": "Together",
-      "url": "https://letterboxd.com/film/together-2025/"
+      "url": "https://letterboxd.com/film/together-2025/",
+      "director": "Michael Shanks",
+      "actors": [
+        "Dave Franco",
+        "Alison Brie",
+        "Damon Herriman"
+      ],
+      "genres": "Horror, Romance"
     },
     {
       "rank": 37,
       "title": "Sirāt",
-      "url": "https://letterboxd.com/film/sirat-2025/"
+      "url": "https://letterboxd.com/film/sirat-2025/",
+      "director": "Oliver Laxe",
+      "actors": [
+        "Sergi López",
+        "Bruno Núñez",
+        "Stefania Gadda"
+      ],
+      "genres": "Thriller, Drama"
     },
     {
       "rank": 38,
       "title": "Predator: Badlands",
-      "url": "https://letterboxd.com/film/predator-badlands/"
+      "url": "https://letterboxd.com/film/predator-badlands/",
+      "director": "Dan Trachtenberg",
+      "actors": [
+        "Elle Fanning",
+        "Dimitrius Schuster-Koloamatangi",
+        "Ravi Narayan"
+      ],
+      "genres": "Science Fiction, Action, Adventure"
     },
     {
       "rank": 39,
       "title": "The Long Walk",
-      "url": "https://letterboxd.com/film/the-long-walk-2025/"
+      "url": "https://letterboxd.com/film/the-long-walk-2025/",
+      "director": "Francis Lawrence",
+      "actors": [
+        "Cooper Hoffman",
+        "David Jonsson",
+        "Ben Wang"
+      ],
+      "genres": "Horror, Science Fiction, Thriller"
     },
     {
       "rank": 40,
       "title": "Exit 8",
-      "url": "https://letterboxd.com/film/exit-8/"
+      "url": "https://letterboxd.com/film/exit-8/",
+      "director": "Genki Kawamura",
+      "actors": [
+        "Kazunari Ninomiya",
+        "Yamato Kochi",
+        "Nana Komatsu"
+      ],
+      "genres": "Mystery, Horror"
     },
     {
       "rank": 41,
       "title": "Nuremberg",
-      "url": "https://letterboxd.com/film/nuremberg-2025/"
+      "url": "https://letterboxd.com/film/nuremberg-2025/",
+      "director": "James Vanderbilt",
+      "actors": [
+        "Rami Malek",
+        "Russell Crowe",
+        "Michael Shannon"
+      ],
+      "genres": "History, Drama"
     },
     {
       "rank": 42,
       "title": "The Running Man",
-      "url": "https://letterboxd.com/film/the-running-man-2025/"
+      "url": "https://letterboxd.com/film/the-running-man-2025/",
+      "director": "Edgar Wright",
+      "actors": [
+        "Glen Powell",
+        "William H. Macy",
+        "Lee Pace"
+      ],
+      "genres": "Thriller, Science Fiction, Action"
     },
     {
       "rank": 43,
       "title": "Five Nights at Freddy's 2",
-      "url": "https://letterboxd.com/film/five-nights-at-freddys-2/"
+      "url": "https://letterboxd.com/film/five-nights-at-freddys-2/",
+      "director": "Emma Tammi",
+      "actors": [
+        "Josh Hutcherson",
+        "Piper Rubio",
+        "Elizabeth Lail"
+      ],
+      "genres": "Horror, Thriller"
     },
     {
       "rank": 44,
       "title": "The Ugly Stepsister",
-      "url": "https://letterboxd.com/film/the-ugly-stepsister/"
+      "url": "https://letterboxd.com/film/the-ugly-stepsister/",
+      "director": "Emilie Blichfeldt",
+      "actors": [
+        "Lea Myren",
+        "Ane Dahl Torp",
+        "Thea Sofie Loch Næss"
+      ],
+      "genres": "Drama, Comedy, Horror"
     },
     {
       "rank": 45,
       "title": "Mickey 17",
-      "url": "https://letterboxd.com/film/mickey-17/"
+      "url": "https://letterboxd.com/film/mickey-17/",
+      "director": "Bong Joon Ho",
+      "actors": [
+        "Robert Pattinson",
+        "Naomi Ackie",
+        "Steven Yeun"
+      ],
+      "genres": "Comedy, Adventure, Science Fiction"
     },
     {
       "rank": 46,
       "title": "Bring Her Back",
-      "url": "https://letterboxd.com/film/bring-her-back/"
+      "url": "https://letterboxd.com/film/bring-her-back/",
+      "director": "Michael Philippou, Danny Philippou",
+      "actors": [
+        "Billy Barratt",
+        "Sally Hawkins",
+        "Mischa Heywood"
+      ],
+      "genres": "Horror"
     },
     {
       "rank": 47,
       "title": "Roofman",
-      "url": "https://letterboxd.com/film/roofman/"
+      "url": "https://letterboxd.com/film/roofman/",
+      "director": "Derek Cianfrance",
+      "actors": [
+        "Channing Tatum",
+        "Kirsten Dunst",
+        "Ben Mendelsohn"
+      ],
+      "genres": "Comedy, Crime, Drama"
     },
     {
       "rank": 48,
       "title": "The Fantastic 4: First Steps",
-      "url": "https://letterboxd.com/film/the-fantastic-4-first-steps/"
+      "url": "https://letterboxd.com/film/the-fantastic-4-first-steps/",
+      "director": "Matt Shakman",
+      "actors": [
+        "Pedro Pascal",
+        "Vanessa Kirby",
+        "Ebon Moss-Bachrach"
+      ],
+      "genres": "Action, Science Fiction, Adventure"
     },
     {
       "rank": 49,
       "title": "Sorry, Baby",
-      "url": "https://letterboxd.com/film/sorry-baby-2025/"
+      "url": "https://letterboxd.com/film/sorry-baby-2025/",
+      "director": "Eva Victor",
+      "actors": [
+        "Eva Victor",
+        "Naomi Ackie",
+        "Louis Cancelmi"
+      ],
+      "genres": "Comedy, Drama"
     },
     {
       "rank": 50,
       "title": "Is This Thing On?",
-      "url": "https://letterboxd.com/film/is-this-thing-on-2025/"
+      "url": "https://letterboxd.com/film/is-this-thing-on-2025/",
+      "director": "Bradley Cooper",
+      "actors": [
+        "Will Arnett",
+        "Laura Dern",
+        "Andra Day"
+      ],
+      "genres": "Comedy, Drama, Romance"
     }
   ]
 }

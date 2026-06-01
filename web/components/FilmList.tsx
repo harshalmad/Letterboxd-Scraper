@@ -8,6 +8,13 @@ type FilmListProps = {
   year: number
 }
 
+function formatActors(actors: string[] | undefined) {
+  if (!actors?.length) {
+    return "—"
+  }
+  return actors.join(", ")
+}
+
 export default function FilmList({ films, year }: FilmListProps) {
   const [query, setQuery] = useState("")
 
@@ -16,7 +23,18 @@ export default function FilmList({ films, year }: FilmListProps) {
     if (!normalized) {
       return films
     }
-    return films.filter((film) => film.title.toLowerCase().includes(normalized))
+    return films.filter((film) => {
+      const haystack = [
+        film.title,
+        film.director,
+        film.genres,
+        ...(film.actors ?? []),
+      ]
+        .filter(Boolean)
+        .join(" ")
+        .toLowerCase()
+      return haystack.includes(normalized)
+    })
   }, [films, query])
 
   return (
@@ -28,7 +46,7 @@ export default function FilmList({ films, year }: FilmListProps) {
             type="search"
             value={query}
             onChange={(event) => setQuery(event.target.value)}
-            placeholder={`Filter ${year} titles...`}
+            placeholder={`Filter ${year} by title, director, cast, or genre...`}
             className="rounded-lg border border-[var(--border)] bg-[var(--background)] px-3 py-2 text-[var(--foreground)] placeholder:text-[var(--muted)] focus:border-[var(--accent)] focus:outline-none focus:ring-2 focus:ring-[var(--accent)]/30"
             aria-label={`Search films from ${year}`}
           />
@@ -51,17 +69,26 @@ export default function FilmList({ films, year }: FilmListProps) {
         </div>
       </div>
 
-      <div className="overflow-hidden rounded-xl border border-[var(--border)]">
+      <div className="overflow-x-auto rounded-xl border border-[var(--border)]">
         <table className="min-w-full divide-y divide-[var(--border)]">
           <thead className="bg-[var(--surface)]">
             <tr>
-              <th scope="col" className="w-16 px-4 py-3 text-left text-xs font-medium uppercase tracking-wide text-[var(--muted)]">
+              <th scope="col" className="w-14 px-3 py-3 text-left text-xs font-medium uppercase tracking-wide text-[var(--muted)]">
                 Rank
               </th>
-              <th scope="col" className="px-4 py-3 text-left text-xs font-medium uppercase tracking-wide text-[var(--muted)]">
+              <th scope="col" className="min-w-[10rem] px-3 py-3 text-left text-xs font-medium uppercase tracking-wide text-[var(--muted)]">
                 Title
               </th>
-              <th scope="col" className="w-16 px-4 py-3 text-right text-xs font-medium uppercase tracking-wide text-[var(--muted)]">
+              <th scope="col" className="min-w-[8rem] px-3 py-3 text-left text-xs font-medium uppercase tracking-wide text-[var(--muted)]">
+                Director
+              </th>
+              <th scope="col" className="min-w-[10rem] px-3 py-3 text-left text-xs font-medium uppercase tracking-wide text-[var(--muted)]">
+                Cast
+              </th>
+              <th scope="col" className="min-w-[8rem] px-3 py-3 text-left text-xs font-medium uppercase tracking-wide text-[var(--muted)]">
+                Genre
+              </th>
+              <th scope="col" className="w-14 px-3 py-3 text-right text-xs font-medium uppercase tracking-wide text-[var(--muted)]">
                 Link
               </th>
             </tr>
@@ -69,17 +96,17 @@ export default function FilmList({ films, year }: FilmListProps) {
           <tbody className="divide-y divide-[var(--border)] bg-[var(--background)]">
             {filteredFilms.length === 0 ? (
               <tr>
-                <td colSpan={3} className="px-4 py-8 text-center text-sm text-[var(--muted)]">
+                <td colSpan={6} className="px-4 py-8 text-center text-sm text-[var(--muted)]">
                   No films match your search.
                 </td>
               </tr>
             ) : (
               filteredFilms.map((film) => (
                 <tr key={film.url} className="transition hover:bg-[var(--surface-hover)]">
-                  <td className="px-4 py-3 text-sm font-medium text-[var(--muted)]">
+                  <td className="px-3 py-3 text-sm font-medium text-[var(--muted)]">
                     {film.rank}
                   </td>
-                  <td className="px-4 py-3 text-sm text-[var(--foreground)]">
+                  <td className="px-3 py-3 text-sm text-[var(--foreground)]">
                     <a
                       href={film.url}
                       target="_blank"
@@ -89,7 +116,16 @@ export default function FilmList({ films, year }: FilmListProps) {
                       {film.title}
                     </a>
                   </td>
-                  <td className="px-4 py-3 text-right">
+                  <td className="px-3 py-3 text-sm text-[var(--muted)]">
+                    {film.director || "—"}
+                  </td>
+                  <td className="px-3 py-3 text-sm text-[var(--muted)]">
+                    {formatActors(film.actors)}
+                  </td>
+                  <td className="px-3 py-3 text-sm text-[var(--muted)]">
+                    {film.genres || "—"}
+                  </td>
+                  <td className="px-3 py-3 text-right">
                     <a
                       href={film.url}
                       target="_blank"

@@ -5,6 +5,9 @@ export type Film = {
   rank: number
   title: string
   url: string
+  director?: string
+  actors?: string[]
+  genres?: string
 }
 
 export type YearData = {
