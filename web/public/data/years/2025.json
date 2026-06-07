@@ -28,6 +28,18 @@
     },
     {
       "rank": 3,
+      "title": "Obsession",
+      "url": "https://letterboxd.com/film/obsession-2025-2/",
+      "director": "Curry Barker",
+      "actors": [
+        "Michael Johnston",
+        "Inde Navarrette",
+        "Cooper Tomlinson"
+      ],
+      "genres": "Horror"
+    },
+    {
+      "rank": 4,
       "title": "The Housemaid",
       "url": "https://letterboxd.com/film/the-housemaid-2025/",
       "director": "Paul Feig",
@@ -39,7 +51,7 @@
       "genres": "Thriller, Mystery"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "Sinners",
       "url": "https://letterboxd.com/film/sinners-2025/",
       "director": "Ryan Coogler",
@@ -49,18 +61,6 @@
         "Miles Caton"
       ],
       "genres": "Thriller, Action, Horror"
-    },
-    {
-      "rank": 5,
-      "title": "Obsession",
-      "url": "https://letterboxd.com/film/obsession-2025-2/",
-      "director": "Curry Barker",
-      "actors": [
-        "Michael Johnston",
-        "Inde Navarrette",
-        "Cooper Tomlinson"
-      ],
-      "genres": "Horror"
     },
     {
       "rank": 6,
@@ -108,7 +108,7 @@
         "Jason Bateman",
         "Ke Huy Quan"
       ],
-      "genres": "Adventure, Family, Action, Comedy, Animation, Mystery"
+      "genres": "Adventure, Family, Comedy, Animation, Mystery"
     },
     {
       "rank": 10,
@@ -172,18 +172,6 @@
     },
     {
       "rank": 15,
-      "title": "The Secret Agent",
-      "url": "https://letterboxd.com/film/the-secret-agent-2025/",
-      "director": "Kleber Mendonça Filho",
-      "actors": [
-        "Wagner Moura",
-        "Alice Carvalho",
-        "Gabriel Leone"
-      ],
-      "genres": "Crime, Thriller, Drama"
-    },
-    {
-      "rank": 16,
       "title": "Train Dreams",
       "url": "https://letterboxd.com/film/train-dreams/",
       "director": "Clint Bentley",
@@ -193,6 +181,18 @@
         "Nathaniel Arcand"
       ],
       "genres": "Drama"
+    },
+    {
+      "rank": 16,
+      "title": "The Secret Agent",
+      "url": "https://letterboxd.com/film/the-secret-agent-2025/",
+      "director": "Kleber Mendonça Filho",
+      "actors": [
+        "Wagner Moura",
+        "Alice Carvalho",
+        "Gabriel Leone"
+      ],
+      "genres": "Crime, Thriller, Drama"
     },
     {
       "rank": 17,
@@ -252,7 +252,7 @@
         "Paul Rudd",
         "Steve Zahn"
       ],
-      "genres": "Comedy, Horror, Adventure"
+      "genres": "Comedy, Adventure"
     },
     {
       "rank": 22,
@@ -324,7 +324,7 @@
         "Maxine Peake",
         "Peter Mullan"
       ],
-      "genres": "History, Drama"
+      "genres": "Drama"
     },
     {
       "rank": 28,
@@ -340,18 +340,6 @@
     },
     {
       "rank": 29,
-      "title": "Pillion",
-      "url": "https://letterboxd.com/film/pillion-2025/",
-      "director": "Harry Lighton",
-      "actors": [
-        "Harry Melling",
-        "Alexander Skarsgård",
-        "Lesley Sharp"
-      ],
-      "genres": "Drama, Romance, Comedy"
-    },
-    {
-      "rank": 30,
       "title": "Superman",
       "url": "https://letterboxd.com/film/superman-2025/",
       "director": "James Gunn",
@@ -361,6 +349,18 @@
         "Nicholas Hoult"
       ],
       "genres": "Science Fiction, Adventure, Action"
+    },
+    {
+      "rank": 30,
+      "title": "Pillion",
+      "url": "https://letterboxd.com/film/pillion-2025/",
+      "director": "Harry Lighton",
+      "actors": [
+        "Harry Melling",
+        "Alexander Skarsgård",
+        "Lesley Sharp"
+      ],
+      "genres": "Drama, Romance, Comedy"
     },
     {
       "rank": 31,
@@ -448,18 +448,6 @@
     },
     {
       "rank": 38,
-      "title": "Predator: Badlands",
-      "url": "https://letterboxd.com/film/predator-badlands/",
-      "director": "Dan Trachtenberg",
-      "actors": [
-        "Elle Fanning",
-        "Dimitrius Schuster-Koloamatangi",
-        "Ravi Narayan"
-      ],
-      "genres": "Science Fiction, Action, Adventure"
-    },
-    {
-      "rank": 39,
       "title": "The Long Walk",
       "url": "https://letterboxd.com/film/the-long-walk-2025/",
       "director": "Francis Lawrence",
@@ -469,6 +457,18 @@
         "Ben Wang"
       ],
       "genres": "Horror, Science Fiction, Thriller"
+    },
+    {
+      "rank": 39,
+      "title": "Predator: Badlands",
+      "url": "https://letterboxd.com/film/predator-badlands/",
+      "director": "Dan Trachtenberg",
+      "actors": [
+        "Elle Fanning",
+        "Dimitrius Schuster-Koloamatangi",
+        "Ravi Narayan"
+      ],
+      "genres": "Science Fiction, Action, Adventure"
     },
     {
       "rank": 40,
@@ -580,6 +580,18 @@
     },
     {
       "rank": 49,
+      "title": "Companion",
+      "url": "https://letterboxd.com/film/companion-2025/",
+      "director": "Drew Hancock",
+      "actors": [
+        "Sophie Thatcher",
+        "Jack Quaid",
+        "Lukas Gage"
+      ],
+      "genres": "Thriller, Science Fiction, Horror"
+    },
+    {
+      "rank": 50,
       "title": "Sorry, Baby",
       "url": "https://letterboxd.com/film/sorry-baby-2025/",
       "director": "Eva Victor",
@@ -589,18 +601,6 @@
         "Louis Cancelmi"
       ],
       "genres": "Comedy, Drama"
-    },
-    {
-      "rank": 50,
-      "title": "Is This Thing On?",
-      "url": "https://letterboxd.com/film/is-this-thing-on-2025/",
-      "director": "Bradley Cooper",
-      "actors": [
-        "Will Arnett",
-        "Laura Dern",
-        "Andra Day"
-      ],
-      "genres": "Comedy, Drama, Romance"
     }
   ]
 }

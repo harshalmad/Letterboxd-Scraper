@@ -76,6 +76,18 @@
     },
     {
       "rank": 7,
+      "title": "Backrooms",
+      "url": "https://letterboxd.com/film/backrooms-2026/",
+      "director": "Kane Parsons",
+      "actors": [
+        "Chiwetel Ejiofor",
+        "Renate Reinsve",
+        "Mark Duplass"
+      ],
+      "genres": "Mystery, Science Fiction, Horror"
+    },
+    {
+      "rank": 8,
       "title": "Send Help",
       "url": "https://letterboxd.com/film/send-help/",
       "director": "Sam Raimi",
@@ -87,7 +99,7 @@
       "genres": "Thriller, Horror, Comedy"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "28 Years Later: The Bone Temple",
       "url": "https://letterboxd.com/film/28-years-later-the-bone-temple/",
       "director": "Nia DaCosta",
@@ -99,7 +111,7 @@
       "genres": "Horror, Science Fiction, Thriller"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "The Super Mario Galaxy Movie",
       "url": "https://letterboxd.com/film/the-super-mario-galaxy-movie/",
       "director": "Aaron Horvath, Michael Jelenic",
@@ -111,7 +123,7 @@
       "genres": "Adventure, Fantasy, Family, Animation, Comedy"
     },
     {
-      "rank": 10,
+      "rank": 11,
       "title": "Hoppers",
       "url": "https://letterboxd.com/film/hoppers/",
       "director": "Daniel Chong",
@@ -123,7 +135,7 @@
       "genres": "Science Fiction, Animation, Adventure, Comedy, Family"
     },
     {
-      "rank": 11,
+      "rank": 12,
       "title": "Scream 7",
       "url": "https://letterboxd.com/film/scream-7/",
       "director": "Kevin Williamson",
@@ -133,18 +145,6 @@
         "Isabel May"
       ],
       "genres": "Horror, Crime, Mystery"
-    },
-    {
-      "rank": 12,
-      "title": "Backrooms",
-      "url": "https://letterboxd.com/film/backrooms-2026/",
-      "director": "Kane Parsons",
-      "actors": [
-        "Chiwetel Ejiofor",
-        "Renate Reinsve",
-        "Finn Bennett"
-      ],
-      "genres": "Mystery, Science Fiction, Horror"
     },
     {
       "rank": 13,
@@ -160,18 +160,6 @@
     },
     {
       "rank": 14,
-      "title": "The Rip",
-      "url": "https://letterboxd.com/film/the-rip-2026/",
-      "director": "Joe Carnahan",
-      "actors": [
-        "Matt Damon",
-        "Ben Affleck",
-        "Teyana Taylor"
-      ],
-      "genres": "Action, Crime, Thriller"
-    },
-    {
-      "rank": 15,
       "title": "Star Wars: The Mandalorian and Grogu",
       "url": "https://letterboxd.com/film/star-wars-the-mandalorian-and-grogu/",
       "director": "Jon Favreau",
@@ -183,16 +171,28 @@
       "genres": "Science Fiction, Action, Adventure"
     },
     {
-      "rank": 16,
-      "title": "The Bride!",
-      "url": "https://letterboxd.com/film/the-bride-2026/",
-      "director": "Maggie Gyllenhaal",
+      "rank": 15,
+      "title": "The Rip",
+      "url": "https://letterboxd.com/film/the-rip-2026/",
+      "director": "Joe Carnahan",
       "actors": [
-        "Jessie Buckley",
-        "Christian Bale",
-        "Peter Sarsgaard"
+        "Matt Damon",
+        "Ben Affleck",
+        "Teyana Taylor"
       ],
-      "genres": "Horror, Science Fiction, Fantasy"
+      "genres": "Action, Crime, Thriller"
+    },
+    {
+      "rank": 16,
+      "title": "Hokum",
+      "url": "https://letterboxd.com/film/hokum/",
+      "director": "Damian McCarthy",
+      "actors": [
+        "Adam Scott",
+        "Peter Coonan",
+        "David Wilmot"
+      ],
+      "genres": "Horror"
     },
     {
       "rank": 17,
@@ -208,18 +208,6 @@
     },
     {
       "rank": 18,
-      "title": "Apex",
-      "url": "https://letterboxd.com/film/apex-2026/",
-      "director": "Baltasar Kormákur",
-      "actors": [
-        "Charlize Theron",
-        "Taron Egerton",
-        "Eric Bana"
-      ],
-      "genres": "Action, Thriller"
-    },
-    {
-      "rank": 19,
       "title": "The Sheep Detectives",
       "url": "https://letterboxd.com/film/the-sheep-detectives/",
       "director": "Kyle Balda",
@@ -231,16 +219,28 @@
       "genres": "Mystery, Family, Comedy"
     },
     {
-      "rank": 20,
-      "title": "Hokum",
-      "url": "https://letterboxd.com/film/hokum/",
-      "director": "Damian McCarthy",
+      "rank": 19,
+      "title": "The Bride!",
+      "url": "https://letterboxd.com/film/the-bride-2026/",
+      "director": "Maggie Gyllenhaal",
       "actors": [
-        "Adam Scott",
-        "Peter Coonan",
-        "David Wilmot"
+        "Jessie Buckley",
+        "Christian Bale",
+        "Peter Sarsgaard"
       ],
-      "genres": "Horror"
+      "genres": "Horror, Science Fiction, Fantasy"
+    },
+    {
+      "rank": 20,
+      "title": "Apex",
+      "url": "https://letterboxd.com/film/apex-2026/",
+      "director": "Baltasar Kormákur",
+      "actors": [
+        "Charlize Theron",
+        "Taron Egerton",
+        "Eric Bana"
+      ],
+      "genres": "Action, Thriller"
     },
     {
       "rank": 21,
@@ -280,18 +280,6 @@
     },
     {
       "rank": 24,
-      "title": "Louis Theroux: Inside the Manosphere",
-      "url": "https://letterboxd.com/film/louis-theroux-inside-the-manosphere/",
-      "director": "Adrian Choa",
-      "actors": [
-        "Louis Theroux",
-        "HSTikkyTokky",
-        "Myron Gaines"
-      ],
-      "genres": "Documentary"
-    },
-    {
-      "rank": 25,
       "title": "GOAT",
       "url": "https://letterboxd.com/film/goat-2026/",
       "director": "Tyree Dillihay",
@@ -303,7 +291,7 @@
       "genres": "Family, Animation, Comedy"
     },
     {
-      "rank": 26,
+      "rank": 25,
       "title": "Lee Cronin's The Mummy",
       "url": "https://letterboxd.com/film/lee-cronins-the-mummy/",
       "director": "Lee Cronin",
@@ -313,6 +301,18 @@
         "May Calamawy"
       ],
       "genres": "Horror, Mystery"
+    },
+    {
+      "rank": 26,
+      "title": "Louis Theroux: Inside the Manosphere",
+      "url": "https://letterboxd.com/film/louis-theroux-inside-the-manosphere/",
+      "director": "Adrian Choa",
+      "actors": [
+        "Louis Theroux",
+        "HSTikkyTokky",
+        "Myron Gaines"
+      ],
+      "genres": "Documentary"
     },
     {
       "rank": 27,
@@ -340,30 +340,6 @@
     },
     {
       "rank": 29,
-      "title": "Thrash",
-      "url": "https://letterboxd.com/film/thrash-2026/",
-      "director": "Tommy Wirkola",
-      "actors": [
-        "Phoebe Dynevor",
-        "Whitney Peak",
-        "Djimon Hounsou"
-      ],
-      "genres": "Horror, Thriller"
-    },
-    {
-      "rank": 30,
-      "title": "War Machine",
-      "url": "https://letterboxd.com/film/war-machine-2026/",
-      "director": "Patrick Hughes",
-      "actors": [
-        "Alan Ritchson",
-        "Dennis Quaid",
-        "Stephan James"
-      ],
-      "genres": "Action, Science Fiction, Thriller"
-    },
-    {
-      "rank": 31,
       "title": "Mortal Kombat II",
       "url": "https://letterboxd.com/film/mortal-kombat-ii/",
       "director": "Simon McQuoid",
@@ -375,7 +351,19 @@
       "genres": "Adventure, Fantasy, Action"
     },
     {
-      "rank": 32,
+      "rank": 30,
+      "title": "Thrash",
+      "url": "https://letterboxd.com/film/thrash-2026/",
+      "director": "Tommy Wirkola",
+      "actors": [
+        "Phoebe Dynevor",
+        "Whitney Peak",
+        "Djimon Hounsou"
+      ],
+      "genres": "Horror, Thriller"
+    },
+    {
+      "rank": 31,
       "title": "Swapped",
       "url": "https://letterboxd.com/film/swapped-2026/",
       "director": "Nathan Greno",
@@ -385,6 +373,18 @@
         "Tracy Morgan"
       ],
       "genres": "Family, Adventure, Fantasy, Animation"
+    },
+    {
+      "rank": 32,
+      "title": "War Machine",
+      "url": "https://letterboxd.com/film/war-machine-2026/",
+      "director": "Patrick Hughes",
+      "actors": [
+        "Alan Ritchson",
+        "Dennis Quaid",
+        "Stephan James"
+      ],
+      "genres": "Action, Science Fiction, Thriller"
     },
     {
       "rank": 33,
@@ -424,18 +424,6 @@
     },
     {
       "rank": 36,
-      "title": "Pretty Lethal",
-      "url": "https://letterboxd.com/film/pretty-lethal/",
-      "director": "Vicky Jewson",
-      "actors": [
-        "Maddie Ziegler",
-        "Lana Condor",
-        "Iris Apatow"
-      ],
-      "genres": "Horror, Music, Action, Thriller"
-    },
-    {
-      "rank": 37,
       "title": "Remarkably Bright Creatures",
       "url": "https://letterboxd.com/film/remarkably-bright-creatures/",
       "director": "Olivia Newman",
@@ -447,19 +435,19 @@
       "genres": "Mystery, Drama"
     },
     {
-      "rank": 38,
-      "title": "Return to Silent Hill",
-      "url": "https://letterboxd.com/film/return-to-silent-hill/",
-      "director": "Christophe Gans",
+      "rank": 37,
+      "title": "Pretty Lethal",
+      "url": "https://letterboxd.com/film/pretty-lethal/",
+      "director": "Vicky Jewson",
       "actors": [
-        "Jeremy Irvine",
-        "Hannah Emily Anderson",
-        "Evie Templeton"
+        "Maddie Ziegler",
+        "Lana Condor",
+        "Iris Apatow"
       ],
-      "genres": "Mystery, Horror, Drama"
+      "genres": "Horror, Music, Action, Thriller"
     },
     {
-      "rank": 39,
+      "rank": 38,
       "title": "Forbidden Fruits",
       "url": "https://letterboxd.com/film/forbidden-fruits-2026/",
       "director": "Meredith Alloway",
@@ -471,31 +459,7 @@
       "genres": "Comedy, Horror"
     },
     {
-      "rank": 40,
-      "title": "Something Very Bad Is Going to Happen",
-      "url": "https://letterboxd.com/film/something-very-bad-is-going-to-happen/",
-      "director": "Weronika Tofilska, Axelle Carolyn, Lisa Brühlmann",
-      "actors": [
-        "Camila Morrone",
-        "Adam DiMarco",
-        "Gus Birney"
-      ],
-      "genres": "Drama, Mystery"
-    },
-    {
-      "rank": 41,
-      "title": "Reminders of Him",
-      "url": "https://letterboxd.com/film/reminders-of-him/",
-      "director": "Vanessa Caswill",
-      "actors": [
-        "Maika Monroe",
-        "Tyriq Withers",
-        "Rudy Pankow"
-      ],
-      "genres": "Drama, Romance"
-    },
-    {
-      "rank": 42,
+      "rank": 39,
       "title": "I Love Boosters",
       "url": "https://letterboxd.com/film/i-love-boosters/",
       "director": "Boots Riley",
@@ -507,7 +471,55 @@
       "genres": "Crime, Science Fiction, Comedy"
     },
     {
+      "rank": 40,
+      "title": "Return to Silent Hill",
+      "url": "https://letterboxd.com/film/return-to-silent-hill/",
+      "director": "Christophe Gans",
+      "actors": [
+        "Jeremy Irvine",
+        "Hannah Emily Anderson",
+        "Evie Templeton"
+      ],
+      "genres": "Mystery, Horror, Drama"
+    },
+    {
+      "rank": 41,
+      "title": "Something Very Bad Is Going to Happen",
+      "url": "https://letterboxd.com/film/something-very-bad-is-going-to-happen/",
+      "director": "Weronika Tofilska, Axelle Carolyn, Lisa Brühlmann",
+      "actors": [
+        "Camila Morrone",
+        "Adam DiMarco",
+        "Gus Birney"
+      ],
+      "genres": "Drama, Mystery"
+    },
+    {
+      "rank": 42,
+      "title": "The Crash",
+      "url": "https://letterboxd.com/film/the-crash-2026/",
+      "director": "Gareth Johnson",
+      "actors": [
+        "Mackenzie Shirilla",
+        "Tim Troup",
+        "Rosie Graham"
+      ],
+      "genres": "Documentary, Crime"
+    },
+    {
       "rank": 43,
+      "title": "Reminders of Him",
+      "url": "https://letterboxd.com/film/reminders-of-him/",
+      "director": "Vanessa Caswill",
+      "actors": [
+        "Maika Monroe",
+        "Tyriq Withers",
+        "Rudy Pankow"
+      ],
+      "genres": "Drama, Romance"
+    },
+    {
+      "rank": 44,
       "title": "Mother Mary",
       "url": "https://letterboxd.com/film/mother-mary-2026/",
       "director": "David Lowery",
@@ -517,18 +529,6 @@
         "Hunter Schafer"
       ],
       "genres": "Thriller, Music, Drama"
-    },
-    {
-      "rank": 44,
-      "title": "HIS & HERS",
-      "url": "https://letterboxd.com/film/his-hers-2026/",
-      "director": "William Oldroyd, Anja Marquardt",
-      "actors": [
-        "Tessa Thompson",
-        "Jon Bernthal",
-        "Pablo Schreiber"
-      ],
-      "genres": "Crime, Drama, Mystery"
     },
     {
       "rank": 45,
@@ -544,6 +544,18 @@
     },
     {
       "rank": 46,
+      "title": "HIS & HERS",
+      "url": "https://letterboxd.com/film/his-hers-2026/",
+      "director": "William Oldroyd, Anja Marquardt",
+      "actors": [
+        "Tessa Thompson",
+        "Jon Bernthal",
+        "Pablo Schreiber"
+      ],
+      "genres": "Crime, Drama, Mystery"
+    },
+    {
+      "rank": 47,
       "title": "Cold Storage",
       "url": "https://letterboxd.com/film/cold-storage-2026/",
       "director": "Jonny Campbell",
@@ -555,19 +567,19 @@
       "genres": "Science Fiction, Horror, Comedy"
     },
     {
-      "rank": 47,
-      "title": "The Crash",
-      "url": "https://letterboxd.com/film/the-crash-2026/",
-      "director": "Gareth Johnson",
+      "rank": 48,
+      "title": "Ladies First",
+      "url": "https://letterboxd.com/film/ladies-first-2026/",
+      "director": "Thea Sharrock",
       "actors": [
-        "Mackenzie Shirilla",
-        "Dominic Russo",
-        "Davion Flanagan"
+        "Sacha Baron Cohen",
+        "Rosamund Pike",
+        "Tom Davis"
       ],
-      "genres": "Documentary, Crime"
+      "genres": "Fantasy, Comedy"
     },
     {
-      "rank": 48,
+      "rank": 49,
       "title": "The Muppet Show",
       "url": "https://letterboxd.com/film/the-muppet-show/",
       "director": "Alex Timbers",
@@ -579,7 +591,7 @@
       "genres": "TV Movie, Music, Family, Comedy"
     },
     {
-      "rank": 49,
+      "rank": 50,
       "title": "Love Me Love Me",
       "url": "https://letterboxd.com/film/love-me-love-me/",
       "director": "Roger Kumble",
@@ -589,18 +601,6 @@
         "Luca Melucci"
       ],
       "genres": "Romance, Drama"
-    },
-    {
-      "rank": 50,
-      "title": "Hannah Montana 20th Anniversary Special",
-      "url": "https://letterboxd.com/film/hannah-montana-20th-anniversary-special/",
-      "director": "Sam Wrench",
-      "actors": [
-        "Miley Cyrus",
-        "Alex Cooper",
-        "Tish Cyrus-Purcell"
-      ],
-      "genres": "Music, Documentary"
     }
   ]
 }

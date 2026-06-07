@@ -28,18 +28,6 @@
     },
     {
       "rank": 3,
-      "title": "The King of Comedy",
-      "url": "https://letterboxd.com/film/the-king-of-comedy/",
-      "director": "Martin Scorsese",
-      "actors": [
-        "Robert De Niro",
-        "Jerry Lewis",
-        "Diahnne Abbott"
-      ],
-      "genres": "Comedy, Drama"
-    },
-    {
-      "rank": 4,
       "title": "E.T. the Extra-Terrestrial",
       "url": "https://letterboxd.com/film/et-the-extra-terrestrial/",
       "director": "Steven Spielberg",
@@ -49,6 +37,18 @@
         "Robert MacNaughton"
       ],
       "genres": "Science Fiction, Family, Adventure"
+    },
+    {
+      "rank": 4,
+      "title": "The King of Comedy",
+      "url": "https://letterboxd.com/film/the-king-of-comedy/",
+      "director": "Martin Scorsese",
+      "actors": [
+        "Robert De Niro",
+        "Jerry Lewis",
+        "Diahnne Abbott"
+      ],
+      "genres": "Comedy, Drama"
     },
     {
       "rank": 5,
@@ -124,18 +124,6 @@
     },
     {
       "rank": 11,
-      "title": "Friday the 13th Part III",
-      "url": "https://letterboxd.com/film/friday-the-13th-part-iii/",
-      "director": "Steve Miner",
-      "actors": [
-        "Richard Brooker",
-        "Dana Kimmell",
-        "Catherine Parks"
-      ],
-      "genres": "Thriller, Horror"
-    },
-    {
-      "rank": 12,
       "title": "Tootsie",
       "url": "https://letterboxd.com/film/tootsie/",
       "director": "Sydney Pollack",
@@ -147,7 +135,7 @@
       "genres": "Comedy, Romance"
     },
     {
-      "rank": 13,
+      "rank": 12,
       "title": "Poltergeist",
       "url": "https://letterboxd.com/film/poltergeist/",
       "director": "Tobe Hooper",
@@ -159,13 +147,25 @@
       "genres": "Horror"
     },
     {
+      "rank": 13,
+      "title": "Friday the 13th Part III",
+      "url": "https://letterboxd.com/film/friday-the-13th-part-iii/",
+      "director": "Steve Miner",
+      "actors": [
+        "Richard Brooker",
+        "Dana Kimmell",
+        "Catherine Parks"
+      ],
+      "genres": "Thriller, Horror"
+    },
+    {
       "rank": 14,
       "title": "Fitzcarraldo",
       "url": "https://letterboxd.com/film/fitzcarraldo/",
       "director": "Werner Herzog",
       "actors": [
         "Klaus Kinski",
-        "Claude Cardinale",
+        "Claudia Cardinale",
         "José Lewgoy"
       ],
       "genres": "Adventure, Drama"
@@ -250,7 +250,7 @@
         "Derek Jacobi",
         "Arthur Malet"
       ],
-      "genres": "Animation, Fantasy, Adventure, Family, Science Fiction"
+      "genres": "Mystery, Drama, Animation, Fantasy, Adventure, Family, Science Fiction"
     },
     {
       "rank": 22,
@@ -386,18 +386,6 @@
     },
     {
       "rank": 33,
-      "title": "Evil Under the Sun",
-      "url": "https://letterboxd.com/film/evil-under-the-sun/",
-      "director": "Guy Hamilton",
-      "actors": [
-        "Peter Ustinov",
-        "James Mason",
-        "Sylvia Miles"
-      ],
-      "genres": "Drama, Crime, Thriller, Mystery"
-    },
-    {
-      "rank": 34,
       "title": "Smithereens",
       "url": "https://letterboxd.com/film/smithereens/",
       "director": "Susan Seidelman",
@@ -407,6 +395,18 @@
         "Richard Hell"
       ],
       "genres": "Romance, Drama, Music"
+    },
+    {
+      "rank": 34,
+      "title": "Evil Under the Sun",
+      "url": "https://letterboxd.com/film/evil-under-the-sun/",
+      "director": "Guy Hamilton",
+      "actors": [
+        "Peter Ustinov",
+        "James Mason",
+        "Sylvia Miles"
+      ],
+      "genres": "Drama, Crime, Thriller, Mystery"
     },
     {
       "rank": 35,
@@ -434,6 +434,18 @@
     },
     {
       "rank": 37,
+      "title": "Querelle",
+      "url": "https://letterboxd.com/film/querelle/",
+      "director": "Rainer Werner Fassbinder",
+      "actors": [
+        "Brad Davis",
+        "Franco Nero",
+        "Jeanne Moreau"
+      ],
+      "genres": "Crime, Drama"
+    },
+    {
+      "rank": 38,
       "title": "Burden of Dreams",
       "url": "https://letterboxd.com/film/burden-of-dreams/",
       "director": "Les Blank",
@@ -445,7 +457,7 @@
       "genres": "Documentary"
     },
     {
-      "rank": 38,
+      "rank": 39,
       "title": "Cat People",
       "url": "https://letterboxd.com/film/cat-people-1982/",
       "director": "Paul Schrader",
@@ -455,18 +467,6 @@
         "John Heard"
       ],
       "genres": "Fantasy, Horror"
-    },
-    {
-      "rank": 39,
-      "title": "Querelle",
-      "url": "https://letterboxd.com/film/querelle/",
-      "director": "Rainer Werner Fassbinder",
-      "actors": [
-        "Brad Davis",
-        "Franco Nero",
-        "Jeanne Moreau"
-      ],
-      "genres": "Crime, Drama"
     },
     {
       "rank": 40,
@@ -482,18 +482,6 @@
     },
     {
       "rank": 41,
-      "title": "The Last Horror Film",
-      "url": "https://letterboxd.com/film/the-last-horror-film/",
-      "director": "David Winters",
-      "actors": [
-        "Caroline Munro",
-        "Joe Spinell",
-        "Judd Hamilton"
-      ],
-      "genres": "Comedy, Horror"
-    },
-    {
-      "rank": 42,
       "title": "The Plague Dogs",
       "url": "https://letterboxd.com/film/the-plague-dogs/",
       "director": "Martin Rosen",
@@ -503,6 +491,18 @@
         "James Bolam"
       ],
       "genres": "Drama, Adventure, Animation"
+    },
+    {
+      "rank": 42,
+      "title": "The Last Horror Film",
+      "url": "https://letterboxd.com/film/the-last-horror-film/",
+      "director": "David Winters",
+      "actors": [
+        "Caroline Munro",
+        "Joe Spinell",
+        "Judd Hamilton"
+      ],
+      "genres": "Comedy, Horror"
     },
     {
       "rank": 43,

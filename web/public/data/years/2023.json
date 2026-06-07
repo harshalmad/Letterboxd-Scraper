@@ -340,18 +340,6 @@
     },
     {
       "rank": 29,
-      "title": "BEEF",
-      "url": "https://letterboxd.com/film/beef-2023/",
-      "director": "Hikari, Jake Schreier, Lee Sung Jin",
-      "actors": [
-        "Oscar Isaac",
-        "Carey Mulligan",
-        "Cailee Spaeny"
-      ],
-      "genres": "Comedy, Drama"
-    },
-    {
-      "rank": 30,
       "title": "Evil Dead Rise",
       "url": "https://letterboxd.com/film/evil-dead-rise/",
       "director": "Lee Cronin",
@@ -361,6 +349,18 @@
         "Morgan Davies"
       ],
       "genres": "Horror, Thriller"
+    },
+    {
+      "rank": 30,
+      "title": "BEEF",
+      "url": "https://letterboxd.com/film/beef-2023/",
+      "director": "Hikari, Jake Schreier, Lee Sung Jin",
+      "actors": [
+        "Oscar Isaac",
+        "Carey Mulligan",
+        "Cailee Spaeny"
+      ],
+      "genres": "Comedy, Drama"
     },
     {
       "rank": 31,
@@ -388,18 +388,6 @@
     },
     {
       "rank": 33,
-      "title": "Late Night with the Devil",
-      "url": "https://letterboxd.com/film/late-night-with-the-devil/",
-      "director": "Cameron Cairnes, Colin Cairnes",
-      "actors": [
-        "David Dastmalchian",
-        "Laura Gordon",
-        "Ian Bliss"
-      ],
-      "genres": "Horror"
-    },
-    {
-      "rank": 34,
       "title": "All of Us Strangers",
       "url": "https://letterboxd.com/film/all-of-us-strangers/",
       "director": "Andrew Haigh",
@@ -409,6 +397,18 @@
         "Carter John Grout"
       ],
       "genres": "Drama, Romance, Fantasy"
+    },
+    {
+      "rank": 34,
+      "title": "Late Night with the Devil",
+      "url": "https://letterboxd.com/film/late-night-with-the-devil/",
+      "director": "Cameron Cairnes, Colin Cairnes",
+      "actors": [
+        "David Dastmalchian",
+        "Laura Gordon",
+        "Ian Bliss"
+      ],
+      "genres": "Horror"
     },
     {
       "rank": 35,
@@ -484,18 +484,6 @@
     },
     {
       "rank": 41,
-      "title": "Sing Sing",
-      "url": "https://letterboxd.com/film/sing-sing-2023/",
-      "director": "Greg Kwedar",
-      "actors": [
-        "Colman Domingo",
-        "Clarence Maclin",
-        "Sean San Jose"
-      ],
-      "genres": "Drama"
-    },
-    {
-      "rank": 42,
       "title": "Leave the World Behind",
       "url": "https://letterboxd.com/film/leave-the-world-behind-2023/",
       "director": "Sam Esmail",
@@ -505,6 +493,18 @@
         "Mahershala Ali"
       ],
       "genres": "Drama, Mystery, Thriller"
+    },
+    {
+      "rank": 42,
+      "title": "Sing Sing",
+      "url": "https://letterboxd.com/film/sing-sing-2023/",
+      "director": "Greg Kwedar",
+      "actors": [
+        "Colman Domingo",
+        "Clarence Maclin",
+        "Sean San Jose"
+      ],
+      "genres": "Drama"
     },
     {
       "rank": 43,

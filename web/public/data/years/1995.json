@@ -244,18 +244,6 @@
     },
     {
       "rank": 21,
-      "title": "Braveheart",
-      "url": "https://letterboxd.com/film/braveheart/",
-      "director": "Mel Gibson",
-      "actors": [
-        "Mel Gibson",
-        "Catherine McCormack",
-        "Sophie Marceau"
-      ],
-      "genres": "Action, History, Drama, War"
-    },
-    {
-      "rank": 22,
       "title": "Copycat",
       "url": "https://letterboxd.com/film/copycat/",
       "director": "Jon Amiel",
@@ -265,6 +253,18 @@
         "Dermot Mulroney"
       ],
       "genres": "Mystery, Thriller, Crime"
+    },
+    {
+      "rank": 22,
+      "title": "Braveheart",
+      "url": "https://letterboxd.com/film/braveheart/",
+      "director": "Mel Gibson",
+      "actors": [
+        "Mel Gibson",
+        "Catherine McCormack",
+        "Sophie Marceau"
+      ],
+      "genres": "Action, History, Drama, War"
     },
     {
       "rank": 23,
@@ -280,6 +280,18 @@
     },
     {
       "rank": 24,
+      "title": "To Wong Foo, Thanks for Everything! Julie Newmar",
+      "url": "https://letterboxd.com/film/to-wong-foo-thanks-for-everything-julie-newmar/",
+      "director": "Beeban Kidron",
+      "actors": [
+        "Patrick Swayze",
+        "Wesley Snipes",
+        "John Leguizamo"
+      ],
+      "genres": "Drama, Comedy"
+    },
+    {
+      "rank": 25,
       "title": "Pocahontas",
       "url": "https://letterboxd.com/film/pocahontas/",
       "director": "Mike Gabriel, Eric Goldberg",
@@ -291,7 +303,7 @@
       "genres": "Romance, Animation, Family, Adventure"
     },
     {
-      "rank": 25,
+      "rank": 26,
       "title": "Kids",
       "url": "https://letterboxd.com/film/kids/",
       "director": "Larry Clark",
@@ -303,7 +315,7 @@
       "genres": "Crime, Drama"
     },
     {
-      "rank": 26,
+      "rank": 27,
       "title": "The Doom Generation",
       "url": "https://letterboxd.com/film/the-doom-generation/",
       "director": "Gregg Araki",
@@ -313,18 +325,6 @@
         "Johnathon Schaech"
       ],
       "genres": "Drama, Comedy, Crime"
-    },
-    {
-      "rank": 27,
-      "title": "To Wong Foo, Thanks for Everything! Julie Newmar",
-      "url": "https://letterboxd.com/film/to-wong-foo-thanks-for-everything-julie-newmar/",
-      "director": "Beeban Kidron",
-      "actors": [
-        "Patrick Swayze",
-        "Wesley Snipes",
-        "John Leguizamo"
-      ],
-      "genres": "Drama, Comedy"
     },
     {
       "rank": 28,
@@ -340,18 +340,6 @@
     },
     {
       "rank": 29,
-      "title": "Welcome to the Dollhouse",
-      "url": "https://letterboxd.com/film/welcome-to-the-dollhouse/",
-      "director": "Todd Solondz",
-      "actors": [
-        "Heather Matarazzo",
-        "Brendan Sexton III",
-        "Eric Mabius"
-      ],
-      "genres": "Comedy, Drama"
-    },
-    {
-      "rank": 30,
       "title": "Batman Forever",
       "url": "https://letterboxd.com/film/batman-forever/",
       "director": "Joel Schumacher",
@@ -361,6 +349,18 @@
         "Jim Carrey"
       ],
       "genres": "Fantasy, Action, Crime"
+    },
+    {
+      "rank": 30,
+      "title": "Welcome to the Dollhouse",
+      "url": "https://letterboxd.com/film/welcome-to-the-dollhouse/",
+      "director": "Todd Solondz",
+      "actors": [
+        "Heather Matarazzo",
+        "Brendan Sexton III",
+        "Eric Mabius"
+      ],
+      "genres": "Comedy, Drama"
     },
     {
       "rank": 31,
@@ -448,18 +448,6 @@
     },
     {
       "rank": 38,
-      "title": "The American President",
-      "url": "https://letterboxd.com/film/the-american-president/",
-      "director": "Rob Reiner",
-      "actors": [
-        "Michael Douglas",
-        "Annette Bening",
-        "Martin Sheen"
-      ],
-      "genres": "Romance, Drama"
-    },
-    {
-      "rank": 39,
       "title": "Safe",
       "url": "https://letterboxd.com/film/safe/",
       "director": "Todd Haynes",
@@ -469,6 +457,18 @@
         "Peter Friedman"
       ],
       "genres": "Drama"
+    },
+    {
+      "rank": 39,
+      "title": "The American President",
+      "url": "https://letterboxd.com/film/the-american-president/",
+      "director": "Rob Reiner",
+      "actors": [
+        "Michael Douglas",
+        "Annette Bening",
+        "Martin Sheen"
+      ],
+      "genres": "Romance, Drama"
     },
     {
       "rank": 40,
@@ -496,18 +496,6 @@
     },
     {
       "rank": 42,
-      "title": "Ace Ventura: When Nature Calls",
-      "url": "https://letterboxd.com/film/ace-ventura-when-nature-calls/",
-      "director": "Steve Oedekerk",
-      "actors": [
-        "Jim Carrey",
-        "Ian McNeice",
-        "Simon Callow"
-      ],
-      "genres": "Comedy, Adventure, Crime"
-    },
-    {
-      "rank": 43,
       "title": "It Takes Two",
       "url": "https://letterboxd.com/film/it-takes-two/",
       "director": "Andy Tennant",
@@ -517,6 +505,18 @@
         "Ashley Olsen"
       ],
       "genres": "Family, Romance, Comedy"
+    },
+    {
+      "rank": 43,
+      "title": "Ace Ventura: When Nature Calls",
+      "url": "https://letterboxd.com/film/ace-ventura-when-nature-calls/",
+      "director": "Steve Oedekerk",
+      "actors": [
+        "Jim Carrey",
+        "Ian McNeice",
+        "Simon Callow"
+      ],
+      "genres": "Comedy, Adventure, Crime"
     },
     {
       "rank": 44,
@@ -544,18 +544,6 @@
     },
     {
       "rank": 46,
-      "title": "Die Hard With a Vengeance",
-      "url": "https://letterboxd.com/film/die-hard-with-a-vengeance/",
-      "director": "John McTiernan",
-      "actors": [
-        "Bruce Willis",
-        "Jeremy Irons",
-        "Samuel L. Jackson"
-      ],
-      "genres": "Thriller, Action"
-    },
-    {
-      "rank": 47,
       "title": "Love Letter",
       "url": "https://letterboxd.com/film/love-letter/",
       "director": "Shunji Iwai",
@@ -567,7 +555,31 @@
       "genres": "Romance, Drama"
     },
     {
+      "rank": 47,
+      "title": "Die Hard With a Vengeance",
+      "url": "https://letterboxd.com/film/die-hard-with-a-vengeance/",
+      "director": "John McTiernan",
+      "actors": [
+        "Bruce Willis",
+        "Jeremy Irons",
+        "Samuel L. Jackson"
+      ],
+      "genres": "Thriller, Action"
+    },
+    {
       "rank": 48,
+      "title": "Waiting to Exhale",
+      "url": "https://letterboxd.com/film/waiting-to-exhale/",
+      "director": "Forest Whitaker",
+      "actors": [
+        "Whitney Houston",
+        "Angela Bassett",
+        "Loretta Devine"
+      ],
+      "genres": "Comedy, Drama, Romance"
+    },
+    {
+      "rank": 49,
       "title": "Mallrats",
       "url": "https://letterboxd.com/film/mallrats/",
       "director": "Kevin Smith",
@@ -579,7 +591,7 @@
       "genres": "Romance, Comedy"
     },
     {
-      "rank": 49,
+      "rank": 50,
       "title": "Leaving Las Vegas",
       "url": "https://letterboxd.com/film/leaving-las-vegas/",
       "director": "Mike Figgis",
@@ -589,18 +601,6 @@
         "Julian Sands"
       ],
       "genres": "Drama, Romance"
-    },
-    {
-      "rank": 50,
-      "title": "Strange Days",
-      "url": "https://letterboxd.com/film/strange-days/",
-      "director": "Kathryn Bigelow",
-      "actors": [
-        "Ralph Fiennes",
-        "Angela Bassett",
-        "Juliette Lewis"
-      ],
-      "genres": "Crime, Science Fiction, Drama, Thriller"
     }
   ]
 }

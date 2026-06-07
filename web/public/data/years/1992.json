@@ -136,18 +136,6 @@
     },
     {
       "rank": 12,
-      "title": "Malcolm X",
-      "url": "https://letterboxd.com/film/malcolm-x-1992/",
-      "director": "Spike Lee",
-      "actors": [
-        "Denzel Washington",
-        "Angela Bassett",
-        "Albert Hall"
-      ],
-      "genres": "History, Drama"
-    },
-    {
-      "rank": 13,
       "title": "Unforgiven",
       "url": "https://letterboxd.com/film/unforgiven/",
       "director": "Clint Eastwood",
@@ -157,6 +145,18 @@
         "Morgan Freeman"
       ],
       "genres": "Western"
+    },
+    {
+      "rank": 13,
+      "title": "Malcolm X",
+      "url": "https://letterboxd.com/film/malcolm-x-1992/",
+      "director": "Spike Lee",
+      "actors": [
+        "Denzel Washington",
+        "Angela Bassett",
+        "Albert Hall"
+      ],
+      "genres": "History, Drama"
     },
     {
       "rank": 14,
@@ -362,18 +362,6 @@
     },
     {
       "rank": 31,
-      "title": "Cronos",
-      "url": "https://letterboxd.com/film/cronos/",
-      "director": "Guillermo del Toro",
-      "actors": [
-        "Federico Luppi",
-        "Ron Perlman",
-        "Claudio Brook"
-      ],
-      "genres": "Horror, Thriller, Drama"
-    },
-    {
-      "rank": 32,
       "title": "The Cutting Edge",
       "url": "https://letterboxd.com/film/the-cutting-edge/",
       "director": "Paul Michael Glaser",
@@ -383,6 +371,18 @@
         "Roy Dotrice"
       ],
       "genres": "Comedy, Romance, Drama"
+    },
+    {
+      "rank": 32,
+      "title": "Cronos",
+      "url": "https://letterboxd.com/film/cronos/",
+      "director": "Guillermo del Toro",
+      "actors": [
+        "Federico Luppi",
+        "Ron Perlman",
+        "Claudio Brook"
+      ],
+      "genres": "Horror, Thriller, Drama"
     },
     {
       "rank": 33,
@@ -470,18 +470,6 @@
     },
     {
       "rank": 40,
-      "title": "Singles",
-      "url": "https://letterboxd.com/film/singles/",
-      "director": "Cameron Crowe",
-      "actors": [
-        "Bridget Fonda",
-        "Campbell Scott",
-        "Kyra Sedgwick"
-      ],
-      "genres": "Comedy, Drama, Romance"
-    },
-    {
-      "rank": 41,
       "title": "Sneakers",
       "url": "https://letterboxd.com/film/sneakers/",
       "director": "Phil Alden Robinson",
@@ -491,6 +479,18 @@
         "David Strathairn"
       ],
       "genres": "Crime, Comedy, Drama"
+    },
+    {
+      "rank": 41,
+      "title": "Singles",
+      "url": "https://letterboxd.com/film/singles/",
+      "director": "Cameron Crowe",
+      "actors": [
+        "Bridget Fonda",
+        "Campbell Scott",
+        "Kyra Sedgwick"
+      ],
+      "genres": "Comedy, Drama, Romance"
     },
     {
       "rank": 42,
@@ -530,18 +530,6 @@
     },
     {
       "rank": 45,
-      "title": "Juice",
-      "url": "https://letterboxd.com/film/juice/",
-      "director": "Ernest R. Dickerson",
-      "actors": [
-        "Omar Epps",
-        "Tupac Shakur",
-        "Khalil Kain"
-      ],
-      "genres": "Thriller, Drama, Crime"
-    },
-    {
-      "rank": 46,
       "title": "Of Mice and Men",
       "url": "https://letterboxd.com/film/of-mice-and-men-1992/",
       "director": "Gary Sinise",
@@ -551,6 +539,18 @@
         "Ray Walston"
       ],
       "genres": "Drama"
+    },
+    {
+      "rank": 46,
+      "title": "Juice",
+      "url": "https://letterboxd.com/film/juice/",
+      "director": "Ernest R. Dickerson",
+      "actors": [
+        "Omar Epps",
+        "Tupac Shakur",
+        "Khalil Kain"
+      ],
+      "genres": "Thriller, Drama, Crime"
     },
     {
       "rank": 47,

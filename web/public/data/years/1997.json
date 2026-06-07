@@ -136,18 +136,6 @@
     },
     {
       "rank": 12,
-      "title": "Life Is Beautiful",
-      "url": "https://letterboxd.com/film/life-is-beautiful/",
-      "director": "Roberto Benigni",
-      "actors": [
-        "Roberto Benigni",
-        "Nicoletta Braschi",
-        "Giorgio Cantarini"
-      ],
-      "genres": "Comedy, Drama"
-    },
-    {
-      "rank": 13,
       "title": "The Fifth Element",
       "url": "https://letterboxd.com/film/the-fifth-element/",
       "director": "Luc Besson",
@@ -157,6 +145,18 @@
         "Gary Oldman"
       ],
       "genres": "Adventure, Action, Science Fiction"
+    },
+    {
+      "rank": 13,
+      "title": "Life Is Beautiful",
+      "url": "https://letterboxd.com/film/life-is-beautiful/",
+      "director": "Roberto Benigni",
+      "actors": [
+        "Roberto Benigni",
+        "Nicoletta Braschi",
+        "Giorgio Cantarini"
+      ],
+      "genres": "Comedy, Drama"
     },
     {
       "rank": 14,
@@ -220,18 +220,6 @@
     },
     {
       "rank": 19,
-      "title": "L.A. Confidential",
-      "url": "https://letterboxd.com/film/la-confidential/",
-      "director": "Curtis Hanson",
-      "actors": [
-        "Kevin Spacey",
-        "Russell Crowe",
-        "Guy Pearce"
-      ],
-      "genres": "Mystery, Crime, Thriller"
-    },
-    {
-      "rank": 20,
       "title": "My Best Friend's Wedding",
       "url": "https://letterboxd.com/film/my-best-friends-wedding/",
       "director": "P.J. Hogan",
@@ -241,6 +229,18 @@
         "Cameron Diaz"
       ],
       "genres": "Comedy, Romance"
+    },
+    {
+      "rank": 20,
+      "title": "L.A. Confidential",
+      "url": "https://letterboxd.com/film/la-confidential/",
+      "director": "Curtis Hanson",
+      "actors": [
+        "Kevin Spacey",
+        "Russell Crowe",
+        "Guy Pearce"
+      ],
+      "genres": "Mystery, Crime, Thriller"
     },
     {
       "rank": 21,
@@ -288,7 +288,7 @@
         "Uma Thurman",
         "Jude Law"
       ],
-      "genres": "Drama, Thriller, Science Fiction"
+      "genres": "Drama, Science Fiction"
     },
     {
       "rank": 25,
@@ -388,18 +388,6 @@
     },
     {
       "rank": 33,
-      "title": "Liar Liar",
-      "url": "https://letterboxd.com/film/liar-liar/",
-      "director": "Tom Shadyac",
-      "actors": [
-        "Jim Carrey",
-        "Maura Tierney",
-        "Justin Cooper"
-      ],
-      "genres": "Comedy, Fantasy"
-    },
-    {
-      "rank": 34,
       "title": "Starship Troopers",
       "url": "https://letterboxd.com/film/starship-troopers/",
       "director": "Paul Verhoeven",
@@ -409,6 +397,18 @@
         "Denise Richards"
       ],
       "genres": "Adventure, Thriller, Action, Science Fiction"
+    },
+    {
+      "rank": 34,
+      "title": "Liar Liar",
+      "url": "https://letterboxd.com/film/liar-liar/",
+      "director": "Tom Shadyac",
+      "actors": [
+        "Jim Carrey",
+        "Maura Tierney",
+        "Justin Cooper"
+      ],
+      "genres": "Comedy, Fantasy"
     },
     {
       "rank": 35,
@@ -496,18 +496,6 @@
     },
     {
       "rank": 42,
-      "title": "Tomorrow Never Dies",
-      "url": "https://letterboxd.com/film/tomorrow-never-dies/",
-      "director": "Roger Spottiswoode",
-      "actors": [
-        "Pierce Brosnan",
-        "Jonathan Pryce",
-        "Michelle Yeoh"
-      ],
-      "genres": "Action, Thriller, Adventure"
-    },
-    {
-      "rank": 43,
       "title": "Cube",
       "url": "https://letterboxd.com/film/cube/",
       "director": "Vincenzo Natali",
@@ -519,19 +507,19 @@
       "genres": "Science Fiction, Horror, Thriller, Mystery"
     },
     {
-      "rank": 44,
-      "title": "Fireworks",
-      "url": "https://letterboxd.com/film/fireworks-1997/",
-      "director": "Takeshi Kitano",
+      "rank": 43,
+      "title": "Tomorrow Never Dies",
+      "url": "https://letterboxd.com/film/tomorrow-never-dies/",
+      "director": "Roger Spottiswoode",
       "actors": [
-        "Takeshi Kitano",
-        "Kayoko Kishimoto",
-        "Ren Osugi"
+        "Pierce Brosnan",
+        "Jonathan Pryce",
+        "Michelle Yeoh"
       ],
-      "genres": "Drama, Crime"
+      "genres": "Action, Thriller, Adventure"
     },
     {
-      "rank": 45,
+      "rank": 44,
       "title": "Con Air",
       "url": "https://letterboxd.com/film/con-air/",
       "director": "Simon West",
@@ -543,19 +531,19 @@
       "genres": "Action, Crime, Thriller"
     },
     {
-      "rank": 46,
-      "title": "The Rainmaker",
-      "url": "https://letterboxd.com/film/the-rainmaker-1997/",
-      "director": "Francis Ford Coppola",
+      "rank": 45,
+      "title": "Fireworks",
+      "url": "https://letterboxd.com/film/fireworks-1997/",
+      "director": "Takeshi Kitano",
       "actors": [
-        "Matt Damon",
-        "Claire Danes",
-        "Danny DeVito"
+        "Takeshi Kitano",
+        "Kayoko Kishimoto",
+        "Ren Osugi"
       ],
-      "genres": "Drama, Thriller, Crime"
+      "genres": "Drama, Crime"
     },
     {
-      "rank": 47,
+      "rank": 46,
       "title": "Clockwatchers",
       "url": "https://letterboxd.com/film/clockwatchers/",
       "director": "Jill Sprecher",
@@ -565,6 +553,18 @@
         "Lisa Kudrow"
       ],
       "genres": "Drama, Comedy"
+    },
+    {
+      "rank": 47,
+      "title": "The Rainmaker",
+      "url": "https://letterboxd.com/film/the-rainmaker-1997/",
+      "director": "Francis Ford Coppola",
+      "actors": [
+        "Matt Damon",
+        "Claire Danes",
+        "Danny DeVito"
+      ],
+      "genres": "Drama, Thriller, Crime"
     },
     {
       "rank": 48,
@@ -580,18 +580,6 @@
     },
     {
       "rank": 49,
-      "title": "Mortal Kombat: Annihilation",
-      "url": "https://letterboxd.com/film/mortal-kombat-annihilation/",
-      "director": "John R. Leonetti",
-      "actors": [
-        "Robin Shou",
-        "Talisa Soto",
-        "James Remar"
-      ],
-      "genres": "Fantasy, Action, Science Fiction"
-    },
-    {
-      "rank": 50,
       "title": "Berserk",
       "url": "https://letterboxd.com/film/berserk-1997/",
       "director": "Kazuya Tsurumaki, Masakazu Amiya, Kazuhisa Ono, Yasuhiro Geshi, Mihiro Yamaguchi, Yasuhiro Matsumura, Koji Yoshikawa, Yukina Hiiro, Yukio Okazaki, Koji Fukasawa, Naohito Takahashi",
@@ -601,6 +589,18 @@
         "Yuko Miyamura"
       ],
       "genres": "Animation"
+    },
+    {
+      "rank": 50,
+      "title": "Mortal Kombat: Annihilation",
+      "url": "https://letterboxd.com/film/mortal-kombat-annihilation/",
+      "director": "John R. Leonetti",
+      "actors": [
+        "Robin Shou",
+        "Talisa Soto",
+        "James Remar"
+      ],
+      "genres": "Fantasy, Action, Science Fiction"
     }
   ]
 }

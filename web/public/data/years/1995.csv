@@ -19,16 +19,16 @@ rank,title,director,actors,genres,url
 18,Sense and Sensibility,Ang Lee,Emma Thompson; Kate Winslet; Alan Rickman,"Drama, Romance",https://letterboxd.com/film/sense-and-sensibility/
 19,Showgirls,Paul Verhoeven,Elizabeth Berkley; Kyle MacLachlan; Gina Gershon,Drama,https://letterboxd.com/film/showgirls/
 20,To Die For,Gus Van Sant,Nicole Kidman; Matt Dillon; Joaquin Phoenix,"Comedy, Drama, Crime",https://letterboxd.com/film/to-die-for/
-21,Braveheart,Mel Gibson,Mel Gibson; Catherine McCormack; Sophie Marceau,"Action, History, Drama, War",https://letterboxd.com/film/braveheart/
-22,Copycat,Jon Amiel,Sigourney Weaver; Holly Hunter; Dermot Mulroney,"Mystery, Thriller, Crime",https://letterboxd.com/film/copycat/
+21,Copycat,Jon Amiel,Sigourney Weaver; Holly Hunter; Dermot Mulroney,"Mystery, Thriller, Crime",https://letterboxd.com/film/copycat/
+22,Braveheart,Mel Gibson,Mel Gibson; Catherine McCormack; Sophie Marceau,"Action, History, Drama, War",https://letterboxd.com/film/braveheart/
 23,GoldenEye,Martin Campbell,Pierce Brosnan; Sean Bean; Izabella Scorupco,"Action, Adventure, Thriller",https://letterboxd.com/film/goldeneye/
-24,Pocahontas,"Mike Gabriel, Eric Goldberg",Irene Bedard; Mel Gibson; David Ogden Stiers,"Romance, Animation, Family, Adventure",https://letterboxd.com/film/pocahontas/
-25,Kids,Larry Clark,Leo Fitzpatrick; Justin Pierce; Chloë Sevigny,"Crime, Drama",https://letterboxd.com/film/kids/
-26,The Doom Generation,Gregg Araki,Rose McGowan; James Duval; Johnathon Schaech,"Drama, Comedy, Crime",https://letterboxd.com/film/the-doom-generation/
-27,"To Wong Foo, Thanks for Everything! Julie Newmar",Beeban Kidron,Patrick Swayze; Wesley Snipes; John Leguizamo,"Drama, Comedy",https://letterboxd.com/film/to-wong-foo-thanks-for-everything-julie-newmar/
+24,"To Wong Foo, Thanks for Everything! Julie Newmar",Beeban Kidron,Patrick Swayze; Wesley Snipes; John Leguizamo,"Drama, Comedy",https://letterboxd.com/film/to-wong-foo-thanks-for-everything-julie-newmar/
+25,Pocahontas,"Mike Gabriel, Eric Goldberg",Irene Bedard; Mel Gibson; David Ogden Stiers,"Romance, Animation, Family, Adventure",https://letterboxd.com/film/pocahontas/
+26,Kids,Larry Clark,Leo Fitzpatrick; Justin Pierce; Chloë Sevigny,"Crime, Drama",https://letterboxd.com/film/kids/
+27,The Doom Generation,Gregg Araki,Rose McGowan; James Duval; Johnathon Schaech,"Drama, Comedy, Crime",https://letterboxd.com/film/the-doom-generation/
 28,Neon Genesis Evangelion,"Kazuya Tsurumaki, Hiroyuki Ishido, Tsuyoshi Kaga, Keiichi Sugiyama, Seiji Mizushima, Tetsuya Watanabe, Tensai Okamura, Masahiko Otsuka, Ken Ando, Naoyasu Habu, Minoru Ohara, Masayuki, Akira Takamura, Hideaki Anno, Shoichi Masuo",Megumi Ogata; Kotono Mitsuishi; Megumi Hayashibara,"Animation, Drama",https://letterboxd.com/film/neon-genesis-evangelion/
-29,Welcome to the Dollhouse,Todd Solondz,Heather Matarazzo; Brendan Sexton III; Eric Mabius,"Comedy, Drama",https://letterboxd.com/film/welcome-to-the-dollhouse/
-30,Batman Forever,Joel Schumacher,Val Kilmer; Tommy Lee Jones; Jim Carrey,"Fantasy, Action, Crime",https://letterboxd.com/film/batman-forever/
+29,Batman Forever,Joel Schumacher,Val Kilmer; Tommy Lee Jones; Jim Carrey,"Fantasy, Action, Crime",https://letterboxd.com/film/batman-forever/
+30,Welcome to the Dollhouse,Todd Solondz,Heather Matarazzo; Brendan Sexton III; Eric Mabius,"Comedy, Drama",https://letterboxd.com/film/welcome-to-the-dollhouse/
 31,Friday,F. Gary Gray,Ice Cube; Chris Tucker; Nia Long,"Drama, Comedy",https://letterboxd.com/film/friday/
 32,Mortal Kombat,Paul W. S. Anderson,Robin Shou; Cary-Hiroyuki Tagawa; Linden Ashby,"Fantasy, Action",https://letterboxd.com/film/mortal-kombat/
 33,Party Girl,Daisy von Scherler Mayer,Parker Posey; Anthony DeSando; Guillermo Díaz,"Drama, Romance, Comedy",https://letterboxd.com/film/party-girl-1995/
@@ -36,16 +36,16 @@ rank,title,director,actors,genres,url
 35,Bad Boys,Michael Bay,Will Smith; Martin Lawrence; Téa Leoni,"Comedy, Thriller, Action, Crime",https://letterboxd.com/film/bad-boys-1995/
 36,The Bridges of Madison County,Clint Eastwood,Meryl Streep; Clint Eastwood; Annie Corley,"Drama, Romance",https://letterboxd.com/film/the-bridges-of-madison-county/
 37,A Goofy Movie,Kevin Lima,Bill Farmer; Jason Marsden; Rob Paulsen,"Family, Adventure, Animation, Comedy, Romance",https://letterboxd.com/film/a-goofy-movie/
-38,The American President,Rob Reiner,Michael Douglas; Annette Bening; Martin Sheen,"Romance, Drama",https://letterboxd.com/film/the-american-president/
-39,Safe,Todd Haynes,Julianne Moore; Xander Berkeley; Peter Friedman,Drama,https://letterboxd.com/film/safe/
+38,Safe,Todd Haynes,Julianne Moore; Xander Berkeley; Peter Friedman,Drama,https://letterboxd.com/film/safe/
+39,The American President,Rob Reiner,Michael Douglas; Annette Bening; Martin Sheen,"Romance, Drama",https://letterboxd.com/film/the-american-president/
 40,The Quick and the Dead,Sam Raimi,Sharon Stone; Gene Hackman; Russell Crowe,"Thriller, Romance, Drama, Western, Action",https://letterboxd.com/film/the-quick-and-the-dead-1995/
 41,Pride and Prejudice,Simon Langton,Jennifer Ehle; Colin Firth; Susannah Harker,Drama,https://letterboxd.com/film/pride-and-prejudice-1995/
-42,Ace Ventura: When Nature Calls,Steve Oedekerk,Jim Carrey; Ian McNeice; Simon Callow,"Comedy, Adventure, Crime",https://letterboxd.com/film/ace-ventura-when-nature-calls/
-43,It Takes Two,Andy Tennant,Kirstie Alley; Steve Guttenberg; Ashley Olsen,"Family, Romance, Comedy",https://letterboxd.com/film/it-takes-two/
+42,It Takes Two,Andy Tennant,Kirstie Alley; Steve Guttenberg; Ashley Olsen,"Family, Romance, Comedy",https://letterboxd.com/film/it-takes-two/
+43,Ace Ventura: When Nature Calls,Steve Oedekerk,Jim Carrey; Ian McNeice; Simon Callow,"Comedy, Adventure, Crime",https://letterboxd.com/film/ace-ventura-when-nature-calls/
 44,Dead Man,Jim Jarmusch,Johnny Depp; Gary Farmer; Crispin Glover,"Fantasy, Western, Drama",https://letterboxd.com/film/dead-man/
 45,Memories,"Katsuhiro Otomo, Koji Morimoto, Tensai Okamura",Tsutomu Isobe; Koichi Yamadera; Shozo Iizuka,"Animation, Fantasy, Science Fiction",https://letterboxd.com/film/memories/
-46,Die Hard With a Vengeance,John McTiernan,Bruce Willis; Jeremy Irons; Samuel L. Jackson,"Thriller, Action",https://letterboxd.com/film/die-hard-with-a-vengeance/
-47,Love Letter,Shunji Iwai,Miho Nakayama; Etsushi Toyokawa; Miki Sakai,"Romance, Drama",https://letterboxd.com/film/love-letter/
-48,Mallrats,Kevin Smith,Jason Lee; Jeremy London; Shannen Doherty,"Romance, Comedy",https://letterboxd.com/film/mallrats/
-49,Leaving Las Vegas,Mike Figgis,Nicolas Cage; Elisabeth Shue; Julian Sands,"Drama, Romance",https://letterboxd.com/film/leaving-las-vegas/
-50,Strange Days,Kathryn Bigelow,Ralph Fiennes; Angela Bassett; Juliette Lewis,"Crime, Science Fiction, Drama, Thriller",https://letterboxd.com/film/strange-days/
+46,Love Letter,Shunji Iwai,Miho Nakayama; Etsushi Toyokawa; Miki Sakai,"Romance, Drama",https://letterboxd.com/film/love-letter/
+47,Die Hard With a Vengeance,John McTiernan,Bruce Willis; Jeremy Irons; Samuel L. Jackson,"Thriller, Action",https://letterboxd.com/film/die-hard-with-a-vengeance/
+48,Waiting to Exhale,Forest Whitaker,Whitney Houston; Angela Bassett; Loretta Devine,"Comedy, Drama, Romance",https://letterboxd.com/film/waiting-to-exhale/
+49,Mallrats,Kevin Smith,Jason Lee; Jeremy London; Shannen Doherty,"Romance, Comedy",https://letterboxd.com/film/mallrats/
+50,Leaving Las Vegas,Mike Figgis,Nicolas Cage; Elisabeth Shue; Julian Sands,"Drama, Romance",https://letterboxd.com/film/leaving-las-vegas/

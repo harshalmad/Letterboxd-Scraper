@@ -5,7 +5,7 @@ rank,title,director,actors,genres,url
 4,The Elephant Man,David Lynch,Anthony Hopkins; John Hurt; Anne Bancroft,"History, Drama",https://letterboxd.com/film/the-elephant-man/
 5,Airplane!,"Jerry Zucker, David Zucker, Jim Abrahams",Robert Hays; Julie Hagerty; Leslie Nielsen,Comedy,https://letterboxd.com/film/airplane/
 6,Friday the 13th,Sean S. Cunningham,Adrienne King; Betsy Palmer; Kevin Bacon,Horror,https://letterboxd.com/film/friday-the-13th/
-7,The Blues Brothers,John Landis,John Belushi; Dan Aykroyd; James Brown,"Music, Comedy, Crime",https://letterboxd.com/film/the-blues-brothers/
+7,The Blues Brothers,John Landis,John Belushi; Dan Aykroyd; James Brown,"Music, Action, Comedy, Crime",https://letterboxd.com/film/the-blues-brothers/
 8,Cruising,William Friedkin,Al Pacino; Paul Sorvino; Karen Allen,"Thriller, Crime, Mystery",https://letterboxd.com/film/cruising/
 9,Dressed to Kill,Brian De Palma,Michael Caine; Nancy Allen; Angie Dickinson,"Horror, Mystery, Thriller",https://letterboxd.com/film/dressed-to-kill-1980/
 10,Altered States,Ken Russell,William Hurt; Blair Brown; Bob Balaban,"Thriller, Horror, Science Fiction",https://letterboxd.com/film/altered-states/
@@ -21,9 +21,9 @@ rank,title,director,actors,genres,url
 20,Inferno,Dario Argento,Leigh McCloskey; Irene Miracle; Eleonora Giorgi,"Horror, Thriller",https://letterboxd.com/film/inferno-1980/
 21,Talking Heads,Krzysztof Kieślowski,,Documentary,https://letterboxd.com/film/talking-heads/
 22,Night of the Juggler,Robert Butler,James Brolin; Cliff Gorman; Richard S. Castellano,"Action, Crime, Thriller",https://letterboxd.com/film/night-of-the-juggler/
-23,Kagemusha,Akira Kurosawa,Tatsuya Nakadai; Tsutomu Yamazaki; Kenichi Hagiwara,"Action, Drama, War, History",https://letterboxd.com/film/kagemusha/
+23,Maniac,William Lustig,Joe Spinell; Caroline Munro; Abigail Clayton,Horror,https://letterboxd.com/film/maniac-1980/
 24,The King and the Mockingbird,Paul Grimault,Jean Martin; Renaud Marx; Agnès Viala,"Fantasy, Animation, Family",https://letterboxd.com/film/the-king-and-the-mockingbird/
-25,Maniac,William Lustig,Joe Spinell; Caroline Munro; Abigail Clayton,Horror,https://letterboxd.com/film/maniac-1980/
+25,Kagemusha,Akira Kurosawa,Tatsuya Nakadai; Tsutomu Yamazaki; Kenichi Hagiwara,"Action, Drama, War, History",https://letterboxd.com/film/kagemusha/
 26,Superman II,Richard Lester,Christopher Reeve; Margot Kidder; Terence Stamp,"Action, Adventure, Science Fiction",https://letterboxd.com/film/superman-ii/
 27,"Pepi, Luci, Bom",Pedro Almodóvar,Carmen Maura; Eva Siva; Alaska,"Drama, Comedy",https://letterboxd.com/film/pepi-luci-bom/
 28,American Gigolo,Paul Schrader,Richard Gere; Lauren Hutton; Héctor Elizondo,"Mystery, Crime, Drama",https://letterboxd.com/film/american-gigolo/
@@ -37,15 +37,15 @@ rank,title,director,actors,genres,url
 36,City of the Living Dead,Lucio Fulci,Christopher George; Catriona MacColl; Carlo De Mejo,"Mystery, Horror, Fantasy",https://letterboxd.com/film/city-of-the-living-dead/
 37,Permanent Vacation,Jim Jarmusch,Chris Parker; Leila Gastil; John Lurie,Drama,https://letterboxd.com/film/permanent-vacation/
 38,Bubble Bath,György Kovásznai,Albert Antalffy; Katalin Bontovics; Katalin Dobos,"Drama, Comedy, Animation, Music",https://letterboxd.com/film/bubble-bath/
-39,The Stunt Man,Richard Rush,Peter O'Toole; Steve Railsback; Barbara Hershey,"Action, Thriller, Romance, Comedy, Drama",https://letterboxd.com/film/the-stunt-man/
-40,Alligator,Lewis Teague,Robert Forster; Robin Riker; Michael V. Gazzo,"Thriller, Horror, Science Fiction",https://letterboxd.com/film/alligator/
-41,Bye Bye Brazil,Carlos Diegues,José Wilker; Betty Faria; Fábio Júnior,Drama,https://letterboxd.com/film/bye-bye-brazil/
+39,Bye Bye Brazil,Carlos Diegues,José Wilker; Betty Faria; Fábio Júnior,Drama,https://letterboxd.com/film/bye-bye-brazil/
+40,The Stunt Man,Richard Rush,Peter O'Toole; Steve Railsback; Barbara Hershey,"Action, Thriller, Romance, Comedy, Drama",https://letterboxd.com/film/the-stunt-man/
+41,Alligator,Lewis Teague,Robert Forster; Robin Riker; Michael V. Gazzo,"Thriller, Horror, Science Fiction",https://letterboxd.com/film/alligator/
 42,Gloria,John Cassavetes,Gena Rowlands; Buck Henry; Julie Carmen,"Thriller, Drama, Crime",https://letterboxd.com/film/gloria/
 43,Moscow Does Not Believe in Tears,Vladimir Menshov,Vera Alentova; Aleksey Batalov; Irina Muravyova,"Romance, Comedy, Drama",https://letterboxd.com/film/moscow-does-not-believe-in-tears/
 44,The Gods Must Be Crazy,Jamie Uys,Marius Weyers; Sandra Prinsloo; N!xau,"Action, Comedy",https://letterboxd.com/film/the-gods-must-be-crazy/
 45,The Ninth Configuration,William Peter Blatty,Stacy Keach; Scott Wilson; Jason Miller,"Mystery, Thriller, Horror, Drama, Comedy",https://letterboxd.com/film/the-ninth-configuration/
 46,Motel Hell,Kevin Connor,Rory Calhoun; Paul Linke; Nancy Parsons,"Horror, Comedy",https://letterboxd.com/film/motel-hell/
 47,Fame,Alan Parker,Irene Cara; Barry Miller; Maureen Teefy,"Drama, Music",https://letterboxd.com/film/fame/
-48,Werner Herzog Eats His Shoe,Les Blank,Werner Herzog; Errol Morris; Tom Luddy,"Documentary, Comedy",https://letterboxd.com/film/werner-herzog-eats-his-shoe/
-49,Forbidden Zone,Richard Elfman,Hervé Villechaize; Susan Tyrrell; Matthew Bright,"Comedy, Fantasy, Music",https://letterboxd.com/film/forbidden-zone/
+48,Heaven's Gate,Michael Cimino,Kris Kristofferson; Christopher Walken; John Hurt,"Drama, Western, History",https://letterboxd.com/film/heavens-gate/
+49,Werner Herzog Eats His Shoe,Les Blank,Werner Herzog; Errol Morris; Tom Luddy,"Documentary, Comedy",https://letterboxd.com/film/werner-herzog-eats-his-shoe/
 50,Urban Cowboy,James Bridges,John Travolta; Debra Winger; Scott Glenn,"Romance, Drama, Western",https://letterboxd.com/film/urban-cowboy/

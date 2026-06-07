@@ -88,18 +88,6 @@
     },
     {
       "rank": 8,
-      "title": "Four Weddings and a Funeral",
-      "url": "https://letterboxd.com/film/four-weddings-and-a-funeral/",
-      "director": "Mike Newell",
-      "actors": [
-        "Hugh Grant",
-        "Andie MacDowell",
-        "Kristin Scott Thomas"
-      ],
-      "genres": "Drama, Comedy, Romance"
-    },
-    {
-      "rank": 9,
       "title": "Interview with the Vampire",
       "url": "https://letterboxd.com/film/interview-with-the-vampire/",
       "director": "Neil Jordan",
@@ -109,6 +97,18 @@
         "Antonio Banderas"
       ],
       "genres": "Horror, Drama, Fantasy"
+    },
+    {
+      "rank": 9,
+      "title": "Four Weddings and a Funeral",
+      "url": "https://letterboxd.com/film/four-weddings-and-a-funeral/",
+      "director": "Mike Newell",
+      "actors": [
+        "Hugh Grant",
+        "Andie MacDowell",
+        "Kristin Scott Thomas"
+      ],
+      "genres": "Drama, Comedy, Romance"
     },
     {
       "rank": 10,
@@ -352,18 +352,6 @@
     },
     {
       "rank": 30,
-      "title": "Fear City: A Family-Style Comedy",
-      "url": "https://letterboxd.com/film/fear-city-a-family-style-comedy/",
-      "director": "Alain Berbérian",
-      "actors": [
-        "Chantal Lauby",
-        "Alain Chabat",
-        "Dominique Farrugia"
-      ],
-      "genres": "Comedy"
-    },
-    {
-      "rank": 31,
       "title": "The Little Rascals",
       "url": "https://letterboxd.com/film/the-little-rascals/",
       "director": "Penelope Spheeris",
@@ -373,6 +361,18 @@
         "Travis Tedford"
       ],
       "genres": "Romance, Comedy, Family"
+    },
+    {
+      "rank": 31,
+      "title": "Fear City: A Family-Style Comedy",
+      "url": "https://letterboxd.com/film/fear-city-a-family-style-comedy/",
+      "director": "Alain Berbérian",
+      "actors": [
+        "Chantal Lauby",
+        "Alain Chabat",
+        "Dominique Farrugia"
+      ],
+      "genres": "Comedy"
     },
     {
       "rank": 32,
@@ -400,18 +400,6 @@
     },
     {
       "rank": 34,
-      "title": "Naked Gun 33⅓: The Final Insult",
-      "url": "https://letterboxd.com/film/naked-gun-33-the-final-insult/",
-      "director": "Peter Segal",
-      "actors": [
-        "Leslie Nielsen",
-        "Priscilla Presley",
-        "George Kennedy"
-      ],
-      "genres": "Comedy, Crime"
-    },
-    {
-      "rank": 35,
       "title": "Heavenly Creatures",
       "url": "https://letterboxd.com/film/heavenly-creatures/",
       "director": "Peter Jackson",
@@ -423,19 +411,19 @@
       "genres": "Drama, Fantasy"
     },
     {
-      "rank": 36,
-      "title": "Shallow Grave",
-      "url": "https://letterboxd.com/film/shallow-grave/",
-      "director": "Danny Boyle",
+      "rank": 35,
+      "title": "Naked Gun 33⅓: The Final Insult",
+      "url": "https://letterboxd.com/film/naked-gun-33-the-final-insult/",
+      "director": "Peter Segal",
       "actors": [
-        "Ewan McGregor",
-        "Christopher Eccleston",
-        "Kerry Fox"
+        "Leslie Nielsen",
+        "Priscilla Presley",
+        "George Kennedy"
       ],
-      "genres": "Thriller, Crime"
+      "genres": "Comedy, Crime"
     },
     {
-      "rank": 37,
+      "rank": 36,
       "title": "Stargate",
       "url": "https://letterboxd.com/film/stargate/",
       "director": "Roland Emmerich",
@@ -445,6 +433,18 @@
         "Jaye Davidson"
       ],
       "genres": "Action, Adventure, Science Fiction"
+    },
+    {
+      "rank": 37,
+      "title": "Shallow Grave",
+      "url": "https://letterboxd.com/film/shallow-grave/",
+      "director": "Danny Boyle",
+      "actors": [
+        "Ewan McGregor",
+        "Christopher Eccleston",
+        "Kerry Fox"
+      ],
+      "genres": "Thriller, Crime"
     },
     {
       "rank": 38,
@@ -460,18 +460,6 @@
     },
     {
       "rank": 39,
-      "title": "The Hudsucker Proxy",
-      "url": "https://letterboxd.com/film/the-hudsucker-proxy/",
-      "director": "Joel Coen",
-      "actors": [
-        "Tim Robbins",
-        "Jennifer Jason Leigh",
-        "Paul Newman"
-      ],
-      "genres": "Comedy, Drama, Fantasy"
-    },
-    {
-      "rank": 40,
       "title": "Eat Drink Man Woman",
       "url": "https://letterboxd.com/film/eat-drink-man-woman/",
       "director": "Ang Lee",
@@ -481,6 +469,18 @@
         "Jacklyn Wu Chien-Lien"
       ],
       "genres": "Romance, Drama, Comedy"
+    },
+    {
+      "rank": 40,
+      "title": "The Hudsucker Proxy",
+      "url": "https://letterboxd.com/film/the-hudsucker-proxy/",
+      "director": "Joel Coen",
+      "actors": [
+        "Tim Robbins",
+        "Jennifer Jason Leigh",
+        "Paul Newman"
+      ],
+      "genres": "Comedy, Drama, Fantasy"
     },
     {
       "rank": 41,

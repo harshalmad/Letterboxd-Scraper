@@ -19,23 +19,23 @@ rank,title,director,actors,genres,url
 18,Shrek the Third,Chris Miller,Mike Myers; Eddie Murphy; Cameron Diaz,"Adventure, Comedy, Fantasy, Family, Animation",https://letterboxd.com/film/shrek-the-third/
 19,Surf's Up,"Ash Brannon, Chris Buck",Shia LaBeouf; Jeff Bridges; Zooey Deschanel,"Comedy, Animation, Family",https://letterboxd.com/film/surfs-up/
 20,[REC],"Jaume Balagueró, Paco Plaza",Manuela Velasco; Pablo Rosso; Javier Coromina,"Mystery, Horror",https://letterboxd.com/film/rec/
-21,High School Musical 2,Kenny Ortega,Zac Efron; Vanessa Hudgens; Ashley French,"TV Movie, Family, Comedy",https://letterboxd.com/film/high-school-musical-2/
-22,I Am Legend,Francis Lawrence,Will Smith; Alice Braga; Charlie Tahan,"Drama, Thriller, Science Fiction",https://letterboxd.com/film/i-am-legend/
+21,I Am Legend,Francis Lawrence,Will Smith; Alice Braga; Charlie Tahan,"Drama, Thriller, Science Fiction",https://letterboxd.com/film/i-am-legend/
+22,High School Musical 2,Kenny Ortega,Zac Efron; Vanessa Hudgens; Ashley French,"TV Movie, Family, Comedy",https://letterboxd.com/film/high-school-musical-2/
 23,Enchanted,Kevin Lima,Amy Adams; Patrick Dempsey; James Marsden,"Family, Fantasy, Comedy, Romance",https://letterboxd.com/film/enchanted/
-24,Into the Wild,Sean Penn,Emile Hirsch; Marcia Gay Harden; William Hurt,"Drama, Adventure",https://letterboxd.com/film/into-the-wild/
-25,American Gangster,Ridley Scott,Denzel Washington; Russell Crowe; Josh Brolin,"Crime, Drama",https://letterboxd.com/film/american-gangster/
-26,Hairspray,Adam Shankman,Nikki Blonsky; John Travolta; Michelle Pfeiffer,"Comedy, Romance, Drama",https://letterboxd.com/film/hairspray-2007/
-27,Watching the Detectives,Paul Soter,Cillian Murphy; Lucy Liu; Jason Sudeikis,"Romance, Comedy",https://letterboxd.com/film/watching-the-detectives/
+24,American Gangster,Ridley Scott,Denzel Washington; Russell Crowe; Josh Brolin,"Crime, Drama",https://letterboxd.com/film/american-gangster/
+25,Watching the Detectives,Paul Soter,Cillian Murphy; Lucy Liu; Jason Sudeikis,"Romance, Comedy",https://letterboxd.com/film/watching-the-detectives/
+26,Into the Wild,Sean Penn,Emile Hirsch; Marcia Gay Harden; William Hurt,"Drama, Adventure",https://letterboxd.com/film/into-the-wild/
+27,Hairspray,Adam Shankman,Nikki Blonsky; John Travolta; Michelle Pfeiffer,"Comedy, Romance, Drama",https://letterboxd.com/film/hairspray-2007/
 28,Meet the Robinsons,Stephen J. Anderson,Daniel Hansen; Jordan Fry; Wesley Singerman,"Animation, Family, Comedy, Science Fiction, Adventure",https://letterboxd.com/film/meet-the-robinsons/
 29,Sunshine,Danny Boyle,Cillian Murphy; Rose Byrne; Chris Evans,"Science Fiction, Thriller",https://letterboxd.com/film/sunshine-2007/
 30,Death Proof,Quentin Tarantino,Kurt Russell; Zoë Bell; Rosario Dawson,"Thriller, Action",https://letterboxd.com/film/death-proof/
 31,Awake,Joby Harold,Hayden Christensen; Jessica Alba; Terrence Howard,"Mystery, Crime, Thriller",https://letterboxd.com/film/awake/
-32,Blades of Glory,"Will Speck, Josh Gordon",Will Ferrell; Jon Heder; Will Arnett,Comedy,https://letterboxd.com/film/blades-of-glory/
-33,Norbit,Brian Robbins,Eddie Murphy; Thandiwe Newton; Terry Crews,Comedy,https://letterboxd.com/film/norbit/
+32,Norbit,Brian Robbins,Eddie Murphy; Thandiwe Newton; Terry Crews,Comedy,https://letterboxd.com/film/norbit/
+33,Persepolis,"Marjane Satrapi, Vincent Paronnaud",Chiara Mastroianni; Danielle Darrieux; Catherine Deneuve,"Animation, Drama",https://letterboxd.com/film/persepolis/
 34,Alvin and the Chipmunks,Tim Hill,Jason Lee; David Cross; Cameron Richardson,"Fantasy, Animation, Family, Comedy",https://letterboxd.com/film/alvin-and-the-chipmunks/
-35,"Basic Sanitation, the Movie",Jorge Furtado,Fernanda Torres; Wagner Moura; Camila Pitanga,Comedy,https://letterboxd.com/film/basic-sanitation-the-movie/
-36,Knocked Up,Judd Apatow,Seth Rogen; Katherine Heigl; Paul Rudd,"Drama, Romance, Comedy",https://letterboxd.com/film/knocked-up/
-37,Persepolis,"Marjane Satrapi, Vincent Paronnaud",Chiara Mastroianni; Danielle Darrieux; Catherine Deneuve,"Animation, Drama",https://letterboxd.com/film/persepolis/
+35,Blades of Glory,"Will Speck, Josh Gordon",Will Ferrell; Jon Heder; Will Arnett,Comedy,https://letterboxd.com/film/blades-of-glory/
+36,"Basic Sanitation, the Movie",Jorge Furtado,Fernanda Torres; Wagner Moura; Camila Pitanga,Comedy,https://letterboxd.com/film/basic-sanitation-the-movie/
+37,Knocked Up,Judd Apatow,Seth Rogen; Katherine Heigl; Paul Rudd,"Drama, Romance, Comedy",https://letterboxd.com/film/knocked-up/
 38,Ocean's Thirteen,Steven Soderbergh,George Clooney; Brad Pitt; Al Pacino,"Crime, Thriller",https://letterboxd.com/film/oceans-thirteen/
 39,The Mist,Frank Darabont,Thomas Jane; Laurie Holden; Toby Jones,"Thriller, Science Fiction, Horror",https://letterboxd.com/film/the-mist/
 40,Sweeney Todd: The Demon Barber of Fleet Street,Tim Burton,Johnny Depp; Helena Bonham Carter; Alan Rickman,"Drama, Horror",https://letterboxd.com/film/sweeney-todd-the-demon-barber-of-fleet-street-2007/
@@ -48,4 +48,4 @@ rank,title,director,actors,genres,url
 47,Before the Devil Knows You're Dead,Sidney Lumet,Philip Seymour Hoffman; Ethan Hawke; Albert Finney,"Drama, Crime, Thriller",https://letterboxd.com/film/before-the-devil-knows-youre-dead/
 48,Hot Rod,Akiva Schaffer,Andy Samberg; Jorma Taccone; Bill Hader,"Action, Comedy",https://letterboxd.com/film/hot-rod/
 49,Fracture,Gregory Hoblit,Anthony Hopkins; Ryan Gosling; David Strathairn,Thriller,https://letterboxd.com/film/fracture/
-50,Michael Clayton,Tony Gilroy,George Clooney; Tom Wilkinson; Tilda Swinton,"Crime, Drama, Thriller",https://letterboxd.com/film/michael-clayton/
+50,Paranormal Activity,Oren Peli,Katie Featherston; Micah Sloat; Mark Fredrichs,"Horror, Mystery",https://letterboxd.com/film/paranormal-activity/

@@ -172,18 +172,6 @@
     },
     {
       "rank": 15,
-      "title": "It Chapter Two",
-      "url": "https://letterboxd.com/film/it-chapter-two/",
-      "director": "Andy Muschietti",
-      "actors": [
-        "Jessica Chastain",
-        "James McAvoy",
-        "Bill Hader"
-      ],
-      "genres": "Drama, Thriller, Horror"
-    },
-    {
-      "rank": 16,
       "title": "The Lighthouse",
       "url": "https://letterboxd.com/film/the-lighthouse-2019/",
       "director": "Robert Eggers",
@@ -193,6 +181,18 @@
         "Valeriia Karaman"
       ],
       "genres": "Thriller, Fantasy, Horror, Drama"
+    },
+    {
+      "rank": 16,
+      "title": "It Chapter Two",
+      "url": "https://letterboxd.com/film/it-chapter-two/",
+      "director": "Andy Muschietti",
+      "actors": [
+        "Jessica Chastain",
+        "James McAvoy",
+        "Bill Hader"
+      ],
+      "genres": "Drama, Thriller, Horror"
     },
     {
       "rank": 17,
@@ -304,15 +304,15 @@
     },
     {
       "rank": 26,
-      "title": "Frozen II",
-      "url": "https://letterboxd.com/film/frozen-2/",
-      "director": "Jennifer Lee, Chris Buck",
+      "title": "Toy Story 4",
+      "url": "https://letterboxd.com/film/toy-story-4/",
+      "director": "Josh Cooley",
       "actors": [
-        "Idina Menzel",
-        "Kristen Bell",
-        "Josh Gad"
+        "Tom Hanks",
+        "Tim Allen",
+        "Annie Potts"
       ],
-      "genres": "Comedy, Animation, Adventure, Fantasy, Family"
+      "genres": "Adventure, Animation, Comedy, Family"
     },
     {
       "rank": 27,
@@ -328,6 +328,18 @@
     },
     {
       "rank": 28,
+      "title": "Frozen II",
+      "url": "https://letterboxd.com/film/frozen-2/",
+      "director": "Jennifer Lee, Chris Buck",
+      "actors": [
+        "Idina Menzel",
+        "Kristen Bell",
+        "Josh Gad"
+      ],
+      "genres": "Comedy, Animation, Adventure, Fantasy, Family"
+    },
+    {
+      "rank": 29,
       "title": "Booksmart",
       "url": "https://letterboxd.com/film/booksmart/",
       "director": "Olivia Wilde",
@@ -337,18 +349,6 @@
         "Jessica Williams"
       ],
       "genres": "Comedy"
-    },
-    {
-      "rank": 29,
-      "title": "Toy Story 4",
-      "url": "https://letterboxd.com/film/toy-story-4/",
-      "director": "Josh Cooley",
-      "actors": [
-        "Tom Hanks",
-        "Tim Allen",
-        "Annie Potts"
-      ],
-      "genres": "Adventure, Animation, Comedy, Family"
     },
     {
       "rank": 30,
@@ -364,15 +364,15 @@
     },
     {
       "rank": 31,
-      "title": "The Irishman",
-      "url": "https://letterboxd.com/film/the-irishman-2019/",
-      "director": "Martin Scorsese",
+      "title": "Vivarium",
+      "url": "https://letterboxd.com/film/vivarium/",
+      "director": "Lorcan Finnegan",
       "actors": [
-        "Robert De Niro",
-        "Al Pacino",
-        "Joe Pesci"
+        "Imogen Poots",
+        "Jesse Eisenberg",
+        "Senan Jennings"
       ],
-      "genres": "History, Drama, Crime"
+      "genres": "Mystery, Horror, Science Fiction"
     },
     {
       "rank": 32,
@@ -388,6 +388,18 @@
     },
     {
       "rank": 33,
+      "title": "The Irishman",
+      "url": "https://letterboxd.com/film/the-irishman-2019/",
+      "director": "Martin Scorsese",
+      "actors": [
+        "Robert De Niro",
+        "Al Pacino",
+        "Joe Pesci"
+      ],
+      "genres": "History, Drama, Crime"
+    },
+    {
+      "rank": 34,
       "title": "John Wick: Chapter 3 – Parabellum",
       "url": "https://letterboxd.com/film/john-wick-chapter-3-parabellum/",
       "director": "Chad Stahelski",
@@ -397,18 +409,6 @@
         "Ian McShane"
       ],
       "genres": "Action, Crime, Thriller"
-    },
-    {
-      "rank": 34,
-      "title": "Vivarium",
-      "url": "https://letterboxd.com/film/vivarium/",
-      "director": "Lorcan Finnegan",
-      "actors": [
-        "Imogen Poots",
-        "Jesse Eisenberg",
-        "Senan Jennings"
-      ],
-      "genres": "Mystery, Horror, Science Fiction"
     },
     {
       "rank": 35,
@@ -460,18 +460,6 @@
     },
     {
       "rank": 39,
-      "title": "Ad Astra",
-      "url": "https://letterboxd.com/film/ad-astra-2019/",
-      "director": "James Gray",
-      "actors": [
-        "Brad Pitt",
-        "Tommy Lee Jones",
-        "Liv Tyler"
-      ],
-      "genres": "Science Fiction, Drama"
-    },
-    {
-      "rank": 40,
       "title": "Aladdin",
       "url": "https://letterboxd.com/film/aladdin-2019/",
       "director": "Guy Ritchie",
@@ -481,6 +469,18 @@
         "Naomi Scott"
       ],
       "genres": "Fantasy, Romance, Family, Adventure"
+    },
+    {
+      "rank": 40,
+      "title": "Ad Astra",
+      "url": "https://letterboxd.com/film/ad-astra-2019/",
+      "director": "James Gray",
+      "actors": [
+        "Brad Pitt",
+        "Tommy Lee Jones",
+        "Liv Tyler"
+      ],
+      "genres": "Science Fiction, Drama"
     },
     {
       "rank": 41,
@@ -532,18 +532,6 @@
     },
     {
       "rank": 45,
-      "title": "Klaus",
-      "url": "https://letterboxd.com/film/klaus/",
-      "director": "Sergio Pablos",
-      "actors": [
-        "Jason Schwartzman",
-        "J.K. Simmons",
-        "Rashida Jones"
-      ],
-      "genres": "Animation, Family, Comedy"
-    },
-    {
-      "rank": 46,
       "title": "The Goldfinch",
       "url": "https://letterboxd.com/film/the-goldfinch/",
       "director": "John Crowley",
@@ -553,6 +541,18 @@
         "Nicole Kidman"
       ],
       "genres": "Drama"
+    },
+    {
+      "rank": 46,
+      "title": "Klaus",
+      "url": "https://letterboxd.com/film/klaus/",
+      "director": "Sergio Pablos",
+      "actors": [
+        "Jason Schwartzman",
+        "J.K. Simmons",
+        "Rashida Jones"
+      ],
+      "genres": "Animation, Family, Comedy"
     },
     {
       "rank": 47,

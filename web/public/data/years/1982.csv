@@ -1,25 +1,25 @@
 rank,title,director,actors,genres,url
 1,The Thing,John Carpenter,Kurt Russell; Wilford Brimley; T.K. Carter,"Mystery, Science Fiction, Horror",https://letterboxd.com/film/the-thing/
 2,Blade Runner,Ridley Scott,Harrison Ford; Rutger Hauer; Sean Young,"Thriller, Drama, Science Fiction",https://letterboxd.com/film/blade-runner/
-3,The King of Comedy,Martin Scorsese,Robert De Niro; Jerry Lewis; Diahnne Abbott,"Comedy, Drama",https://letterboxd.com/film/the-king-of-comedy/
-4,E.T. the Extra-Terrestrial,Steven Spielberg,Henry Thomas; Drew Barrymore; Robert MacNaughton,"Science Fiction, Family, Adventure",https://letterboxd.com/film/et-the-extra-terrestrial/
+3,E.T. the Extra-Terrestrial,Steven Spielberg,Henry Thomas; Drew Barrymore; Robert MacNaughton,"Science Fiction, Family, Adventure",https://letterboxd.com/film/et-the-extra-terrestrial/
+4,The King of Comedy,Martin Scorsese,Robert De Niro; Jerry Lewis; Diahnne Abbott,"Comedy, Drama",https://letterboxd.com/film/the-king-of-comedy/
 5,First Blood,Ted Kotcheff,Sylvester Stallone; Richard Crenna; Brian Dennehy,"Adventure, War, Action, Thriller",https://letterboxd.com/film/first-blood/
 6,The Last Unicorn,"Jules Bass, Arthur Rankin, Jr.",Mia Farrow; Alan Arkin; Tammy Grimes,"Family, Adventure, Fantasy, Animation",https://letterboxd.com/film/the-last-unicorn/
 7,Rocky III,Sylvester Stallone,Sylvester Stallone; Talia Shire; Burt Young,Drama,https://letterboxd.com/film/rocky-iii/
 8,The Dark Crystal,"Jim Henson, Frank Oz",Jim Henson; Kathryn Mullen; Frank Oz,"Fantasy, Adventure, Family",https://letterboxd.com/film/the-dark-crystal/
 9,Tron,Steven Lisberger,Jeff Bridges; Bruce Boxleitner; David Warner,"Adventure, Action, Science Fiction",https://letterboxd.com/film/tron/
 10,Fast Times at Ridgemont High,Amy Heckerling,Sean Penn; Jennifer Jason Leigh; Judge Reinhold,"Drama, Romance, Comedy",https://letterboxd.com/film/fast-times-at-ridgemont-high/
-11,Friday the 13th Part III,Steve Miner,Richard Brooker; Dana Kimmell; Catherine Parks,"Thriller, Horror",https://letterboxd.com/film/friday-the-13th-part-iii/
-12,Tootsie,Sydney Pollack,Dustin Hoffman; Jessica Lange; Teri Garr,"Comedy, Romance",https://letterboxd.com/film/tootsie/
-13,Poltergeist,Tobe Hooper,JoBeth Williams; Craig T. Nelson; Beatrice Straight,Horror,https://letterboxd.com/film/poltergeist/
-14,Fitzcarraldo,Werner Herzog,Klaus Kinski; Claude Cardinale; José Lewgoy,"Adventure, Drama",https://letterboxd.com/film/fitzcarraldo/
+11,Tootsie,Sydney Pollack,Dustin Hoffman; Jessica Lange; Teri Garr,"Comedy, Romance",https://letterboxd.com/film/tootsie/
+12,Poltergeist,Tobe Hooper,JoBeth Williams; Craig T. Nelson; Beatrice Straight,Horror,https://letterboxd.com/film/poltergeist/
+13,Friday the 13th Part III,Steve Miner,Richard Brooker; Dana Kimmell; Catherine Parks,"Thriller, Horror",https://letterboxd.com/film/friday-the-13th-part-iii/
+14,Fitzcarraldo,Werner Herzog,Klaus Kinski; Claudia Cardinale; José Lewgoy,"Adventure, Drama",https://letterboxd.com/film/fitzcarraldo/
 15,Pink Floyd: The Wall,Alan Parker,Bob Geldof; Christine Hargreaves; James Laurenson,"Music, Drama",https://letterboxd.com/film/pink-floyd-the-wall/
 16,Koyaanisqatsi,Godfrey Reggio,Ed Asner; Pat Benatar; Johnny Carson,"Documentary, Music",https://letterboxd.com/film/koyaanisqatsi/
 17,Conan the Barbarian,John Milius,Arnold Schwarzenegger; James Earl Jones; Max von Sydow,"Fantasy, Action, Adventure",https://letterboxd.com/film/conan-the-barbarian/
 18,Vincent,Tim Burton,Vincent Price,"Fantasy, Animation",https://letterboxd.com/film/vincent/
 19,Tenebre,Dario Argento,Anthony Franciosa; John Saxon; Daria Nicolodi,"Thriller, Horror, Mystery",https://letterboxd.com/film/tenebre/
 20,The Year of Living Dangerously,Peter Weir,Mel Gibson; Sigourney Weaver; Linda Hunt,"Romance, Drama",https://letterboxd.com/film/the-year-of-living-dangerously/
-21,The Secret of NIMH,Don Bluth,Elizabeth Hartman; Derek Jacobi; Arthur Malet,"Animation, Fantasy, Adventure, Family, Science Fiction",https://letterboxd.com/film/the-secret-of-nimh/
+21,The Secret of NIMH,Don Bluth,Elizabeth Hartman; Derek Jacobi; Arthur Malet,"Mystery, Drama, Animation, Fantasy, Adventure, Family, Science Fiction",https://letterboxd.com/film/the-secret-of-nimh/
 22,Star Trek II: The Wrath of Khan,Nicholas Meyer,William Shatner; Leonard Nimoy; Ricardo Montalban,"Action, Thriller, Science Fiction, Adventure",https://letterboxd.com/film/star-trek-ii-the-wrath-of-khan/
 23,48 Hrs.,Walter Hill,Nick Nolte; Eddie Murphy; Annette O'Toole,"Action, Crime, Comedy",https://letterboxd.com/film/48-hrs/
 24,The Verdict,Sidney Lumet,Paul Newman; Charlotte Rampling; Jack Warden,Drama,https://letterboxd.com/film/the-verdict-1982/
@@ -31,16 +31,16 @@ rank,title,director,actors,genres,url
 30,Grease 2,Patricia Birch,Maxwell Caulfield; Michelle Pfeiffer; Lorna Luft,"Romance, Music, Comedy",https://letterboxd.com/film/grease-2/
 31,One from the Heart,Francis Ford Coppola,Teri Garr; Frederic Forrest; Raúl Juliá,"Drama, Romance",https://letterboxd.com/film/one-from-the-heart/
 32,Basket Case,Frank Henenlotter,Kevin Van Hentenryck; Terri Susan Smith; Beverly Bonner,"Comedy, Horror",https://letterboxd.com/film/basket-case/
-33,Evil Under the Sun,Guy Hamilton,Peter Ustinov; James Mason; Sylvia Miles,"Drama, Crime, Thriller, Mystery",https://letterboxd.com/film/evil-under-the-sun/
-34,Smithereens,Susan Seidelman,Susan Berman; Brad Rijn; Richard Hell,"Romance, Drama, Music",https://letterboxd.com/film/smithereens/
+33,Smithereens,Susan Seidelman,Susan Berman; Brad Rijn; Richard Hell,"Romance, Drama, Music",https://letterboxd.com/film/smithereens/
+34,Evil Under the Sun,Guy Hamilton,Peter Ustinov; James Mason; Sylvia Miles,"Drama, Crime, Thriller, Mystery",https://letterboxd.com/film/evil-under-the-sun/
 35,The Party 2,Claude Pinoteau,Claude Brasseur; Brigitte Fossey; Sophie Marceau,"Comedy, Drama, Romance",https://letterboxd.com/film/the-party-2/
 36,Creepshow,George A. Romero,Hal Holbrook; Adrienne Barbeau; Fritz Weaver,"Comedy, Horror",https://letterboxd.com/film/creepshow/
-37,Burden of Dreams,Les Blank,Candace Laughlin; Werner Herzog; Klaus Kinski,Documentary,https://letterboxd.com/film/burden-of-dreams/
-38,Cat People,Paul Schrader,Nastassja Kinski; Malcolm McDowell; John Heard,"Fantasy, Horror",https://letterboxd.com/film/cat-people-1982/
-39,Querelle,Rainer Werner Fassbinder,Brad Davis; Franco Nero; Jeanne Moreau,"Crime, Drama",https://letterboxd.com/film/querelle/
+37,Querelle,Rainer Werner Fassbinder,Brad Davis; Franco Nero; Jeanne Moreau,"Crime, Drama",https://letterboxd.com/film/querelle/
+38,Burden of Dreams,Les Blank,Candace Laughlin; Werner Herzog; Klaus Kinski,Documentary,https://letterboxd.com/film/burden-of-dreams/
+39,Cat People,Paul Schrader,Nastassja Kinski; Malcolm McDowell; John Heard,"Fantasy, Horror",https://letterboxd.com/film/cat-people-1982/
 40,Time Masters,René Laloux,Jean Valmont; Michel Elias; Frédéric Legros,"Animation, Science Fiction, Adventure",https://letterboxd.com/film/time-masters/
-41,The Last Horror Film,David Winters,Caroline Munro; Joe Spinell; Judd Hamilton,"Comedy, Horror",https://letterboxd.com/film/the-last-horror-film/
-42,The Plague Dogs,Martin Rosen,John Hurt; Christopher Benjamin; James Bolam,"Drama, Adventure, Animation",https://letterboxd.com/film/the-plague-dogs/
+41,The Plague Dogs,Martin Rosen,John Hurt; Christopher Benjamin; James Bolam,"Drama, Adventure, Animation",https://letterboxd.com/film/the-plague-dogs/
+42,The Last Horror Film,David Winters,Caroline Munro; Joe Spinell; Judd Hamilton,"Comedy, Horror",https://letterboxd.com/film/the-last-horror-film/
 43,An Officer and a Gentleman,Taylor Hackford,Richard Gere; Debra Winger; Louis Gossett Jr.,"Drama, Romance",https://letterboxd.com/film/an-officer-and-a-gentleman/
 44,Gandhi,Richard Attenborough,Ben Kingsley; Candice Bergen; Edward Fox,"Drama, History",https://letterboxd.com/film/gandhi/
 45,Victor/Victoria,Blake Edwards,Julie Andrews; James Garner; Robert Preston,"Comedy, Romance, Music",https://letterboxd.com/film/victor-victoria/

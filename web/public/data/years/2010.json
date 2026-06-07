@@ -124,18 +124,6 @@
     },
     {
       "rank": 11,
-      "title": "Easy A",
-      "url": "https://letterboxd.com/film/easy-a/",
-      "director": "Will Gluck",
-      "actors": [
-        "Emma Stone",
-        "Penn Badgley",
-        "Amanda Bynes"
-      ],
-      "genres": "Comedy"
-    },
-    {
-      "rank": 12,
       "title": "Letters to Juliet",
       "url": "https://letterboxd.com/film/letters-to-juliet/",
       "director": "Gary Winick",
@@ -145,6 +133,18 @@
         "Gael García Bernal"
       ],
       "genres": "Comedy, Romance, Drama"
+    },
+    {
+      "rank": 12,
+      "title": "Easy A",
+      "url": "https://letterboxd.com/film/easy-a/",
+      "director": "Will Gluck",
+      "actors": [
+        "Emma Stone",
+        "Penn Badgley",
+        "Amanda Bynes"
+      ],
+      "genres": "Comedy"
     },
     {
       "rank": 13,
@@ -316,18 +316,6 @@
     },
     {
       "rank": 27,
-      "title": "Shrek Forever After",
-      "url": "https://letterboxd.com/film/shrek-forever-after/",
-      "director": "Mike Mitchell",
-      "actors": [
-        "Mike Myers",
-        "Eddie Murphy",
-        "Cameron Diaz"
-      ],
-      "genres": "Adventure, Family, Animation, Fantasy, Comedy"
-    },
-    {
-      "rank": 28,
       "title": "Insidious",
       "url": "https://letterboxd.com/film/insidious/",
       "director": "James Wan",
@@ -337,6 +325,18 @@
         "Lin Shaye"
       ],
       "genres": "Horror, Thriller"
+    },
+    {
+      "rank": 28,
+      "title": "Shrek Forever After",
+      "url": "https://letterboxd.com/film/shrek-forever-after/",
+      "director": "Mike Mitchell",
+      "actors": [
+        "Mike Myers",
+        "Eddie Murphy",
+        "Cameron Diaz"
+      ],
+      "genres": "Adventure, Family, Animation, Fantasy, Comedy"
     },
     {
       "rank": 29,
@@ -364,18 +364,6 @@
     },
     {
       "rank": 31,
-      "title": "The Karate Kid",
-      "url": "https://letterboxd.com/film/the-karate-kid-2010/",
-      "director": "Harald Zwart",
-      "actors": [
-        "Jaden Smith",
-        "Jackie Chan",
-        "Taraji P. Henson"
-      ],
-      "genres": "Drama, Action, Family, Adventure"
-    },
-    {
-      "rank": 32,
       "title": "I Saw the Devil",
       "url": "https://letterboxd.com/film/i-saw-the-devil/",
       "director": "Kim Jee-woon",
@@ -385,6 +373,18 @@
         "Jeon Kuk-hwan"
       ],
       "genres": "Thriller, Horror"
+    },
+    {
+      "rank": 32,
+      "title": "The Karate Kid",
+      "url": "https://letterboxd.com/film/the-karate-kid-2010/",
+      "director": "Harald Zwart",
+      "actors": [
+        "Jaden Smith",
+        "Jackie Chan",
+        "Taraji P. Henson"
+      ],
+      "genres": "Drama, Action, Family, Adventure"
     },
     {
       "rank": 33,
@@ -484,18 +484,6 @@
     },
     {
       "rank": 41,
-      "title": "The Chronicles of Narnia: The Voyage of the Dawn Treader",
-      "url": "https://letterboxd.com/film/the-chronicles-of-narnia-the-voyage-of-the-dawn-treader/",
-      "director": "Michael Apted",
-      "actors": [
-        "Georgie Henley",
-        "Skandar Keynes",
-        "Ben Barnes"
-      ],
-      "genres": "Adventure, Family, Fantasy"
-    },
-    {
-      "rank": 42,
       "title": "Sex and the City 2",
       "url": "https://letterboxd.com/film/sex-and-the-city-2/",
       "director": "Michael Patrick King",
@@ -507,7 +495,7 @@
       "genres": "Drama, Comedy, Romance"
     },
     {
-      "rank": 43,
+      "rank": 42,
       "title": "Leap Year",
       "url": "https://letterboxd.com/film/leap-year/",
       "director": "Anand Tucker",
@@ -517,6 +505,18 @@
         "Adam Scott"
       ],
       "genres": "Comedy, Romance"
+    },
+    {
+      "rank": 43,
+      "title": "The Chronicles of Narnia: The Voyage of the Dawn Treader",
+      "url": "https://letterboxd.com/film/the-chronicles-of-narnia-the-voyage-of-the-dawn-treader/",
+      "director": "Michael Apted",
+      "actors": [
+        "Georgie Henley",
+        "Skandar Keynes",
+        "Ben Barnes"
+      ],
+      "genres": "Adventure, Family, Fantasy"
     },
     {
       "rank": 44,

@@ -268,18 +268,6 @@
     },
     {
       "rank": 23,
-      "title": "The Man in the Moon",
-      "url": "https://letterboxd.com/film/the-man-in-the-moon/",
-      "director": "Robert Mulligan",
-      "actors": [
-        "Reese Witherspoon",
-        "Jason London",
-        "Emily Warfield"
-      ],
-      "genres": "Drama, Romance"
-    },
-    {
-      "rank": 24,
       "title": "The Fisher King",
       "url": "https://letterboxd.com/film/the-fisher-king/",
       "director": "Terry Gilliam",
@@ -291,19 +279,19 @@
       "genres": "Drama, Comedy"
     },
     {
-      "rank": 25,
-      "title": "Sleeping with the Enemy",
-      "url": "https://letterboxd.com/film/sleeping-with-the-enemy/",
-      "director": "Joseph Ruben",
+      "rank": 24,
+      "title": "The Man in the Moon",
+      "url": "https://letterboxd.com/film/the-man-in-the-moon/",
+      "director": "Robert Mulligan",
       "actors": [
-        "Julia Roberts",
-        "Patrick Bergin",
-        "Kevin Anderson"
+        "Reese Witherspoon",
+        "Jason London",
+        "Emily Warfield"
       ],
-      "genres": "Thriller, Drama"
+      "genres": "Drama, Romance"
     },
     {
-      "rank": 26,
+      "rank": 25,
       "title": "Naked Lunch",
       "url": "https://letterboxd.com/film/naked-lunch/",
       "director": "David Cronenberg",
@@ -313,6 +301,18 @@
         "Ian Holm"
       ],
       "genres": "Crime, Drama"
+    },
+    {
+      "rank": 26,
+      "title": "Sleeping with the Enemy",
+      "url": "https://letterboxd.com/film/sleeping-with-the-enemy/",
+      "director": "Joseph Ruben",
+      "actors": [
+        "Julia Roberts",
+        "Patrick Bergin",
+        "Kevin Anderson"
+      ],
+      "genres": "Thriller, Drama"
     },
     {
       "rank": 27,
@@ -384,7 +384,7 @@
         "Meg Ryan",
         "Kyle MacLachlan"
       ],
-      "genres": "Drama, Music, History"
+      "genres": "Drama, Music"
     },
     {
       "rank": 33,
@@ -424,18 +424,6 @@
     },
     {
       "rank": 36,
-      "title": "Not Without My Daughter",
-      "url": "https://letterboxd.com/film/not-without-my-daughter/",
-      "director": "Brian Gilbert",
-      "actors": [
-        "Sally Field",
-        "Alfred Molina",
-        "Sheila Rosenthal"
-      ],
-      "genres": "Thriller, Drama"
-    },
-    {
-      "rank": 37,
       "title": "Child's Play 3",
       "url": "https://letterboxd.com/film/childs-play-3/",
       "director": "Jack Bender",
@@ -445,6 +433,18 @@
         "Perrey Reeves"
       ],
       "genres": "Horror, Thriller"
+    },
+    {
+      "rank": 37,
+      "title": "Not Without My Daughter",
+      "url": "https://letterboxd.com/film/not-without-my-daughter/",
+      "director": "Brian Gilbert",
+      "actors": [
+        "Sally Field",
+        "Alfred Molina",
+        "Sheila Rosenthal"
+      ],
+      "genres": "Thriller, Drama"
     },
     {
       "rank": 38,
@@ -504,22 +504,10 @@
         "Fan Mei-Sheng",
         "William Ho"
       ],
-      "genres": "Comedy, Crime, Action, Thriller"
+      "genres": "Comedy, Crime, Action, Science Fiction, Thriller"
     },
     {
       "rank": 43,
-      "title": "A Scene at the Sea",
-      "url": "https://letterboxd.com/film/a-scene-at-the-sea/",
-      "director": "Takeshi Kitano",
-      "actors": [
-        "Claude Maki",
-        "Hiroko Oshima",
-        "Sabu Kawahara"
-      ],
-      "genres": "Romance, Comedy, Drama"
-    },
-    {
-      "rank": 44,
       "title": "What About Bob?",
       "url": "https://letterboxd.com/film/what-about-bob/",
       "director": "Frank Oz",
@@ -529,6 +517,18 @@
         "Julie Hagerty"
       ],
       "genres": "Comedy"
+    },
+    {
+      "rank": 44,
+      "title": "A Scene at the Sea",
+      "url": "https://letterboxd.com/film/a-scene-at-the-sea/",
+      "director": "Takeshi Kitano",
+      "actors": [
+        "Claude Maki",
+        "Hiroko Oshima",
+        "Sabu Kawahara"
+      ],
+      "genres": "Romance, Comedy, Drama"
     },
     {
       "rank": 45,
@@ -556,6 +556,18 @@
     },
     {
       "rank": 47,
+      "title": "Defending Your Life",
+      "url": "https://letterboxd.com/film/defending-your-life/",
+      "director": "Albert Brooks",
+      "actors": [
+        "Albert Brooks",
+        "Meryl Streep",
+        "Rip Torn"
+      ],
+      "genres": "Comedy, Romance, Drama, Fantasy"
+    },
+    {
+      "rank": 48,
       "title": "Daughters of the Dust",
       "url": "https://letterboxd.com/film/daughters-of-the-dust/",
       "director": "Julie Dash",
@@ -567,7 +579,7 @@
       "genres": "Drama, Romance"
     },
     {
-      "rank": 48,
+      "rank": 49,
       "title": "The People Under the Stairs",
       "url": "https://letterboxd.com/film/the-people-under-the-stairs/",
       "director": "Wes Craven",
@@ -577,18 +589,6 @@
         "Wendy Robie"
       ],
       "genres": "Comedy, Thriller, Horror"
-    },
-    {
-      "rank": 49,
-      "title": "Defending Your Life",
-      "url": "https://letterboxd.com/film/defending-your-life/",
-      "director": "Albert Brooks",
-      "actors": [
-        "Albert Brooks",
-        "Meryl Streep",
-        "Rip Torn"
-      ],
-      "genres": "Comedy, Romance, Drama, Fantasy"
     },
     {
       "rank": 50,

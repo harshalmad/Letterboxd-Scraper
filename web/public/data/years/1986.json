@@ -202,7 +202,7 @@
       "actors": [
         "Dennis Hopper",
         "Caroline Williams",
-        "Bill Johnson"
+        "Jim Siedow"
       ],
       "genres": "Comedy, Horror"
     },
@@ -220,18 +220,6 @@
     },
     {
       "rank": 19,
-      "title": "The Sacrifice",
-      "url": "https://letterboxd.com/film/the-sacrifice/",
-      "director": "Andrei Tarkovsky",
-      "actors": [
-        "Erland Josephson",
-        "Susan Fleetwood",
-        "Allan Edwall"
-      ],
-      "genres": "Drama"
-    },
-    {
-      "rank": 20,
       "title": "Jason Lives - Friday the 13th Part VI",
       "url": "https://letterboxd.com/film/jason-lives-friday-the-13th-part-vi/",
       "director": "Tom McLoughlin",
@@ -241,6 +229,18 @@
         "David Kagen"
       ],
       "genres": "Thriller, Horror"
+    },
+    {
+      "rank": 20,
+      "title": "The Sacrifice",
+      "url": "https://letterboxd.com/film/the-sacrifice/",
+      "director": "Andrei Tarkovsky",
+      "actors": [
+        "Erland Josephson",
+        "Susan Fleetwood",
+        "Allan Edwall"
+      ],
+      "genres": "Drama"
     },
     {
       "rank": 21,
@@ -364,18 +364,6 @@
     },
     {
       "rank": 31,
-      "title": "¡Three Amigos!",
-      "url": "https://letterboxd.com/film/three-amigos/",
-      "director": "John Landis",
-      "actors": [
-        "Chevy Chase",
-        "Steve Martin",
-        "Martin Short"
-      ],
-      "genres": "Western, Comedy, Action"
-    },
-    {
-      "rank": 32,
       "title": "True Stories",
       "url": "https://letterboxd.com/film/true-stories/",
       "director": "David Byrne",
@@ -387,7 +375,31 @@
       "genres": "Comedy, Music"
     },
     {
+      "rank": 32,
+      "title": "¡Three Amigos!",
+      "url": "https://letterboxd.com/film/three-amigos/",
+      "director": "John Landis",
+      "actors": [
+        "Chevy Chase",
+        "Steve Martin",
+        "Martin Short"
+      ],
+      "genres": "Western, Comedy, Action"
+    },
+    {
       "rank": 33,
+      "title": "Crocodile Dundee",
+      "url": "https://letterboxd.com/film/crocodile-dundee/",
+      "director": "Peter Faiman",
+      "actors": [
+        "Paul Hogan",
+        "Linda Kozlowski",
+        "Mark Blum"
+      ],
+      "genres": "Comedy, Adventure"
+    },
+    {
+      "rank": 34,
       "title": "Heartburn",
       "url": "https://letterboxd.com/film/heartburn/",
       "director": "Mike Nichols",
@@ -399,7 +411,7 @@
       "genres": "Comedy, Drama, Romance"
     },
     {
-      "rank": 34,
+      "rank": 35,
       "title": "His Motorbike, Her Island",
       "url": "https://letterboxd.com/film/his-motorbike-her-island/",
       "director": "Nobuhiko Obayashi",
@@ -409,18 +421,6 @@
         "Noriko Watanabe"
       ],
       "genres": "Drama, Romance"
-    },
-    {
-      "rank": 35,
-      "title": "Crocodile Dundee",
-      "url": "https://letterboxd.com/film/crocodile-dundee/",
-      "director": "Peter Faiman",
-      "actors": [
-        "Paul Hogan",
-        "Linda Kozlowski",
-        "Mark Blum"
-      ],
-      "genres": "Comedy, Adventure"
     },
     {
       "rank": 36,
@@ -544,6 +544,18 @@
     },
     {
       "rank": 46,
+      "title": "Caravaggio",
+      "url": "https://letterboxd.com/film/caravaggio/",
+      "director": "Derek Jarman",
+      "actors": [
+        "Nigel Terry",
+        "Sean Bean",
+        "Garry Cooper"
+      ],
+      "genres": "History, Romance, Drama"
+    },
+    {
+      "rank": 47,
       "title": "Hoosiers",
       "url": "https://letterboxd.com/film/hoosiers/",
       "director": "David Anspaugh",
@@ -553,18 +565,6 @@
         "Dennis Hopper"
       ],
       "genres": "Family, Drama"
-    },
-    {
-      "rank": 47,
-      "title": "Peggy Sue Got Married",
-      "url": "https://letterboxd.com/film/peggy-sue-got-married/",
-      "director": "Francis Ford Coppola",
-      "actors": [
-        "Kathleen Turner",
-        "Nicolas Cage",
-        "Barry Miller"
-      ],
-      "genres": "Comedy, Fantasy, Drama"
     },
     {
       "rank": 48,
@@ -580,15 +580,15 @@
     },
     {
       "rank": 49,
-      "title": "Caravaggio",
-      "url": "https://letterboxd.com/film/caravaggio/",
-      "director": "Derek Jarman",
+      "title": "Peggy Sue Got Married",
+      "url": "https://letterboxd.com/film/peggy-sue-got-married/",
+      "director": "Francis Ford Coppola",
       "actors": [
-        "Nigel Terry",
-        "Sean Bean",
-        "Garry Cooper"
+        "Kathleen Turner",
+        "Nicolas Cage",
+        "Barry Miller"
       ],
-      "genres": "History, Romance, Drama"
+      "genres": "Comedy, Fantasy, Drama"
     },
     {
       "rank": 50,

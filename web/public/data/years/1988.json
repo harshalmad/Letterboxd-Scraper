@@ -88,18 +88,6 @@
     },
     {
       "rank": 8,
-      "title": "The Naked Gun: From the Files of Police Squad!",
-      "url": "https://letterboxd.com/film/the-naked-gun-from-the-files-of-police-squad/",
-      "director": "David Zucker",
-      "actors": [
-        "Leslie Nielsen",
-        "Priscilla Presley",
-        "Ricardo Montalban"
-      ],
-      "genres": "Crime, Comedy"
-    },
-    {
-      "rank": 9,
       "title": "They Live",
       "url": "https://letterboxd.com/film/they-live/",
       "director": "John Carpenter",
@@ -109,6 +97,18 @@
         "Meg Foster"
       ],
       "genres": "Thriller, Action, Science Fiction"
+    },
+    {
+      "rank": 9,
+      "title": "The Naked Gun: From the Files of Police Squad!",
+      "url": "https://letterboxd.com/film/the-naked-gun-from-the-files-of-police-squad/",
+      "director": "David Zucker",
+      "actors": [
+        "Leslie Nielsen",
+        "Priscilla Presley",
+        "Ricardo Montalban"
+      ],
+      "genres": "Crime, Comedy"
     },
     {
       "rank": 10,
@@ -148,18 +148,6 @@
     },
     {
       "rank": 13,
-      "title": "Child's Play",
-      "url": "https://letterboxd.com/film/childs-play/",
-      "director": "Tom Holland",
-      "actors": [
-        "Catherine Hicks",
-        "Chris Sarandon",
-        "Alex Vincent"
-      ],
-      "genres": "Horror"
-    },
-    {
-      "rank": 14,
       "title": "Who Framed Roger Rabbit",
       "url": "https://letterboxd.com/film/who-framed-roger-rabbit/",
       "director": "Robert Zemeckis",
@@ -169,6 +157,18 @@
         "Joanna Cassidy"
       ],
       "genres": "Fantasy, Animation, Crime, Comedy"
+    },
+    {
+      "rank": 14,
+      "title": "Child's Play",
+      "url": "https://letterboxd.com/film/childs-play/",
+      "director": "Tom Holland",
+      "actors": [
+        "Catherine Hicks",
+        "Chris Sarandon",
+        "Alex Vincent"
+      ],
+      "genres": "Horror"
     },
     {
       "rank": 15,
@@ -304,18 +304,6 @@
     },
     {
       "rank": 26,
-      "title": "Mystic Pizza",
-      "url": "https://letterboxd.com/film/mystic-pizza/",
-      "director": "Donald Petrie",
-      "actors": [
-        "Julia Roberts",
-        "Annabeth Gish",
-        "Lili Taylor"
-      ],
-      "genres": "Drama, Comedy, Romance"
-    },
-    {
-      "rank": 27,
       "title": "Bloodsport",
       "url": "https://letterboxd.com/film/bloodsport/",
       "director": "Newt Arnold",
@@ -325,6 +313,18 @@
         "Leah Ayres"
       ],
       "genres": "Drama, Action, Thriller"
+    },
+    {
+      "rank": 27,
+      "title": "Mystic Pizza",
+      "url": "https://letterboxd.com/film/mystic-pizza/",
+      "director": "Donald Petrie",
+      "actors": [
+        "Julia Roberts",
+        "Annabeth Gish",
+        "Lili Taylor"
+      ],
+      "genres": "Drama, Comedy, Romance"
     },
     {
       "rank": 28,
@@ -400,18 +400,6 @@
     },
     {
       "rank": 34,
-      "title": "Friday the 13th Part VII - The New Blood",
-      "url": "https://letterboxd.com/film/friday-the-13th-part-vii-the-new-blood/",
-      "director": "John Carl Buechler",
-      "actors": [
-        "Lar Park Lincoln",
-        "Kane Hodder",
-        "Terry Kiser"
-      ],
-      "genres": "Horror, Thriller"
-    },
-    {
-      "rank": 35,
       "title": "The Land Before Time",
       "url": "https://letterboxd.com/film/the-land-before-time/",
       "director": "Don Bluth",
@@ -421,6 +409,18 @@
         "Will Ryan"
       ],
       "genres": "Adventure, Family, Animation"
+    },
+    {
+      "rank": 35,
+      "title": "Friday the 13th Part VII - The New Blood",
+      "url": "https://letterboxd.com/film/friday-the-13th-part-vii-the-new-blood/",
+      "director": "John Carl Buechler",
+      "actors": [
+        "Lar Park Lincoln",
+        "Kane Hodder",
+        "Terry Kiser"
+      ],
+      "genres": "Horror, Thriller"
     },
     {
       "rank": 36,
@@ -470,30 +470,6 @@
     },
     {
       "rank": 40,
-      "title": "Working Girl",
-      "url": "https://letterboxd.com/film/working-girl/",
-      "director": "Mike Nichols",
-      "actors": [
-        "Melanie Griffith",
-        "Harrison Ford",
-        "Sigourney Weaver"
-      ],
-      "genres": "Comedy, Drama, Romance"
-    },
-    {
-      "rank": 41,
-      "title": "Willow",
-      "url": "https://letterboxd.com/film/willow/",
-      "director": "Ron Howard",
-      "actors": [
-        "Warwick Davis",
-        "Val Kilmer",
-        "Joanne Whalley"
-      ],
-      "genres": "Adventure, Action, Fantasy"
-    },
-    {
-      "rank": 42,
       "title": "As Tears Go By",
       "url": "https://letterboxd.com/film/as-tears-go-by/",
       "director": "Wong Kar-Wai",
@@ -503,6 +479,30 @@
         "Jacky Cheung Hok-Yau"
       ],
       "genres": "Drama, Crime, Romance"
+    },
+    {
+      "rank": 41,
+      "title": "Working Girl",
+      "url": "https://letterboxd.com/film/working-girl/",
+      "director": "Mike Nichols",
+      "actors": [
+        "Melanie Griffith",
+        "Harrison Ford",
+        "Sigourney Weaver"
+      ],
+      "genres": "Comedy, Romance"
+    },
+    {
+      "rank": 42,
+      "title": "Willow",
+      "url": "https://letterboxd.com/film/willow/",
+      "director": "Ron Howard",
+      "actors": [
+        "Warwick Davis",
+        "Val Kilmer",
+        "Joanne Whalley"
+      ],
+      "genres": "Adventure, Action, Fantasy"
     },
     {
       "rank": 43,

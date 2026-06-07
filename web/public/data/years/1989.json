@@ -172,18 +172,6 @@
     },
     {
       "rank": 15,
-      "title": "The 'Burbs",
-      "url": "https://letterboxd.com/film/the-burbs/",
-      "director": "Joe Dante",
-      "actors": [
-        "Tom Hanks",
-        "Bruce Dern",
-        "Carrie Fisher"
-      ],
-      "genres": "Comedy, Thriller, Horror"
-    },
-    {
-      "rank": 16,
       "title": "Bill & Ted's Excellent Adventure",
       "url": "https://letterboxd.com/film/bill-teds-excellent-adventure/",
       "director": "Stephen Herek",
@@ -193,6 +181,18 @@
         "George Carlin"
       ],
       "genres": "Science Fiction, Adventure, Comedy"
+    },
+    {
+      "rank": 16,
+      "title": "The 'Burbs",
+      "url": "https://letterboxd.com/film/the-burbs/",
+      "director": "Joe Dante",
+      "actors": [
+        "Tom Hanks",
+        "Bruce Dern",
+        "Carrie Fisher"
+      ],
+      "genres": "Comedy, Thriller, Horror"
     },
     {
       "rank": 17,
@@ -232,18 +232,6 @@
     },
     {
       "rank": 20,
-      "title": "Glory",
-      "url": "https://letterboxd.com/film/glory/",
-      "director": "Edward Zwick",
-      "actors": [
-        "Matthew Broderick",
-        "Denzel Washington",
-        "Cary Elwes"
-      ],
-      "genres": "History, War, Drama"
-    },
-    {
-      "rank": 21,
       "title": "Field of Dreams",
       "url": "https://letterboxd.com/film/field-of-dreams/",
       "director": "Phil Alden Robinson",
@@ -253,6 +241,18 @@
         "Gaby Hoffmann"
       ],
       "genres": "Drama, Fantasy"
+    },
+    {
+      "rank": 21,
+      "title": "Glory",
+      "url": "https://letterboxd.com/film/glory/",
+      "director": "Edward Zwick",
+      "actors": [
+        "Matthew Broderick",
+        "Denzel Washington",
+        "Cary Elwes"
+      ],
+      "genres": "History, War, Drama"
     },
     {
       "rank": 22,
@@ -364,18 +364,6 @@
     },
     {
       "rank": 31,
-      "title": "Honey, I Shrunk the Kids",
-      "url": "https://letterboxd.com/film/honey-i-shrunk-the-kids/",
-      "director": "Joe Johnston",
-      "actors": [
-        "Rick Moranis",
-        "Matt Frewer",
-        "Marcia Strassman"
-      ],
-      "genres": "Science Fiction, Adventure, Comedy, Family"
-    },
-    {
-      "rank": 32,
       "title": "Pet Sematary",
       "url": "https://letterboxd.com/film/pet-sematary/",
       "director": "Mary Lambert",
@@ -385,6 +373,18 @@
         "Denise Crosby"
       ],
       "genres": "Horror"
+    },
+    {
+      "rank": 32,
+      "title": "Honey, I Shrunk the Kids",
+      "url": "https://letterboxd.com/film/honey-i-shrunk-the-kids/",
+      "director": "Joe Johnston",
+      "actors": [
+        "Rick Moranis",
+        "Matt Frewer",
+        "Marcia Strassman"
+      ],
+      "genres": "Science Fiction, Adventure, Comedy, Family"
     },
     {
       "rank": 33,
@@ -446,18 +446,6 @@
     },
     {
       "rank": 38,
-      "title": "Major League",
-      "url": "https://letterboxd.com/film/major-league/",
-      "director": "David S. Ward",
-      "actors": [
-        "Tom Berenger",
-        "Charlie Sheen",
-        "Corbin Bernsen"
-      ],
-      "genres": "Comedy"
-    },
-    {
-      "rank": 39,
       "title": "Isle of Flowers",
       "url": "https://letterboxd.com/film/isle-of-flowers/",
       "director": "Jorge Furtado",
@@ -467,6 +455,18 @@
         "Luciane Azevedo"
       ],
       "genres": "Documentary"
+    },
+    {
+      "rank": 39,
+      "title": "Major League",
+      "url": "https://letterboxd.com/film/major-league/",
+      "director": "David S. Ward",
+      "actors": [
+        "Tom Berenger",
+        "Charlie Sheen",
+        "Corbin Bernsen"
+      ],
+      "genres": "Comedy"
     },
     {
       "rank": 40,
@@ -518,18 +518,6 @@
     },
     {
       "rank": 44,
-      "title": "The Seventh Continent",
-      "url": "https://letterboxd.com/film/the-seventh-continent/",
-      "director": "Michael Haneke",
-      "actors": [
-        "Birgit Doll",
-        "Dieter Berner",
-        "Leni Tanzer"
-      ],
-      "genres": "Drama"
-    },
-    {
-      "rank": 45,
       "title": "UHF",
       "url": "https://letterboxd.com/film/uhf/",
       "director": "Jay Levey",
@@ -539,6 +527,18 @@
         "Michael Richards"
       ],
       "genres": "Comedy"
+    },
+    {
+      "rank": 45,
+      "title": "The Seventh Continent",
+      "url": "https://letterboxd.com/film/the-seventh-continent/",
+      "director": "Michael Haneke",
+      "actors": [
+        "Birgit Doll",
+        "Dieter Berner",
+        "Leni Tanzer"
+      ],
+      "genres": "Drama"
     },
     {
       "rank": 46,
@@ -566,18 +566,6 @@
     },
     {
       "rank": 48,
-      "title": "Weekend at Bernie's",
-      "url": "https://letterboxd.com/film/weekend-at-bernies/",
-      "director": "Ted Kotcheff",
-      "actors": [
-        "Andrew McCarthy",
-        "Jonathan Silverman",
-        "Catherine Mary Stewart"
-      ],
-      "genres": "Crime, Comedy"
-    },
-    {
-      "rank": 49,
       "title": "A Nightmare on Elm Street: The Dream Child",
       "url": "https://letterboxd.com/film/a-nightmare-on-elm-street-the-dream-child/",
       "director": "Stephen Hopkins",
@@ -587,6 +575,18 @@
         "Erika Anderson"
       ],
       "genres": "Thriller, Horror"
+    },
+    {
+      "rank": 49,
+      "title": "Weekend at Bernie's",
+      "url": "https://letterboxd.com/film/weekend-at-bernies/",
+      "director": "Ted Kotcheff",
+      "actors": [
+        "Andrew McCarthy",
+        "Jonathan Silverman",
+        "Catherine Mary Stewart"
+      ],
+      "genres": "Crime, Comedy"
     },
     {
       "rank": 50,

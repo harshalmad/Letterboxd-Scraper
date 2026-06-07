@@ -220,18 +220,6 @@
     },
     {
       "rank": 19,
-      "title": "Sinister",
-      "url": "https://letterboxd.com/film/sinister/",
-      "director": "Scott Derrickson",
-      "actors": [
-        "Ethan Hawke",
-        "Juliet Rylance",
-        "Vincent D'Onofrio"
-      ],
-      "genres": "Thriller, Horror, Mystery"
-    },
-    {
-      "rank": 20,
       "title": "The Lorax",
       "url": "https://letterboxd.com/film/the-lorax-2012/",
       "director": "Chris Renaud",
@@ -241,6 +229,18 @@
         "Zac Efron"
       ],
       "genres": "Animation, Family"
+    },
+    {
+      "rank": 20,
+      "title": "Sinister",
+      "url": "https://letterboxd.com/film/sinister/",
+      "director": "Scott Derrickson",
+      "actors": [
+        "Ethan Hawke",
+        "Juliet Rylance",
+        "Vincent D'Onofrio"
+      ],
+      "genres": "Thriller, Horror, Mystery"
     },
     {
       "rank": 21,
@@ -352,18 +352,6 @@
     },
     {
       "rank": 30,
-      "title": "Chronicle",
-      "url": "https://letterboxd.com/film/chronicle/",
-      "director": "Josh Trank",
-      "actors": [
-        "Dane DeHaan",
-        "Alex Russell",
-        "Michael B. Jordan"
-      ],
-      "genres": "Thriller, Science Fiction, Drama"
-    },
-    {
-      "rank": 31,
       "title": "Hotel Transylvania",
       "url": "https://letterboxd.com/film/hotel-transylvania/",
       "director": "Genndy Tartakovsky",
@@ -373,6 +361,18 @@
         "Selena Gomez"
       ],
       "genres": "Comedy, Animation, Fantasy, Family"
+    },
+    {
+      "rank": 31,
+      "title": "Chronicle",
+      "url": "https://letterboxd.com/film/chronicle/",
+      "director": "Josh Trank",
+      "actors": [
+        "Dane DeHaan",
+        "Alex Russell",
+        "Michael B. Jordan"
+      ],
+      "genres": "Thriller, Science Fiction, Drama"
     },
     {
       "rank": 32,
@@ -484,15 +484,15 @@
     },
     {
       "rank": 41,
-      "title": "Anna Karenina",
-      "url": "https://letterboxd.com/film/anna-karenina-2012/",
-      "director": "Joe Wright",
+      "title": "Seven Psychopaths",
+      "url": "https://letterboxd.com/film/seven-psychopaths/",
+      "director": "Martin McDonagh",
       "actors": [
-        "Keira Knightley",
-        "Jude Law",
-        "Aaron Taylor-Johnson"
+        "Colin Farrell",
+        "Sam Rockwell",
+        "Woody Harrelson"
       ],
-      "genres": "Romance, History, Drama"
+      "genres": "Comedy, Crime"
     },
     {
       "rank": 42,
@@ -508,6 +508,18 @@
     },
     {
       "rank": 43,
+      "title": "Anna Karenina",
+      "url": "https://letterboxd.com/film/anna-karenina-2012/",
+      "director": "Joe Wright",
+      "actors": [
+        "Keira Knightley",
+        "Jude Law",
+        "Aaron Taylor-Johnson"
+      ],
+      "genres": "Romance, History, Drama"
+    },
+    {
+      "rank": 44,
       "title": "Rise of the Guardians",
       "url": "https://letterboxd.com/film/rise-of-the-guardians/",
       "director": "Peter Ramsey",
@@ -517,18 +529,6 @@
         "Jude Law"
       ],
       "genres": "Fantasy, Family, Adventure, Action, Animation"
-    },
-    {
-      "rank": 44,
-      "title": "Seven Psychopaths",
-      "url": "https://letterboxd.com/film/seven-psychopaths/",
-      "director": "Martin McDonagh",
-      "actors": [
-        "Colin Farrell",
-        "Sam Rockwell",
-        "Woody Harrelson"
-      ],
-      "genres": "Comedy, Crime"
     },
     {
       "rank": 45,
@@ -556,18 +556,6 @@
     },
     {
       "rank": 47,
-      "title": "Silent Hill: Revelation 3D",
-      "url": "https://letterboxd.com/film/silent-hill-revelation-3d/",
-      "director": "MJ Bassett",
-      "actors": [
-        "Adelaide Clemens",
-        "Sean Bean",
-        "Radha Mitchell"
-      ],
-      "genres": "Mystery, Thriller, Horror"
-    },
-    {
-      "rank": 48,
       "title": "Ice Age: Continental Drift",
       "url": "https://letterboxd.com/film/ice-age-continental-drift/",
       "director": "Mike Thurmeier, Steve Martino",
@@ -577,6 +565,18 @@
         "Denis Leary"
       ],
       "genres": "Family, Adventure, Comedy, Animation"
+    },
+    {
+      "rank": 48,
+      "title": "Silent Hill: Revelation 3D",
+      "url": "https://letterboxd.com/film/silent-hill-revelation-3d/",
+      "director": "MJ Bassett",
+      "actors": [
+        "Adelaide Clemens",
+        "Sean Bean",
+        "Radha Mitchell"
+      ],
+      "genres": "Mystery, Thriller, Horror"
     },
     {
       "rank": 49,

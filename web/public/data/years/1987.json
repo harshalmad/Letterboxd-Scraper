@@ -12,22 +12,10 @@
         "Robin Wright",
         "Mandy Patinkin"
       ],
-      "genres": "Adventure, Fantasy, Comedy, Family, Romance"
+      "genres": "Adventure, Fantasy, Family, Romance"
     },
     {
       "rank": 2,
-      "title": "Full Metal Jacket",
-      "url": "https://letterboxd.com/film/full-metal-jacket/",
-      "director": "Stanley Kubrick",
-      "actors": [
-        "Matthew Modine",
-        "Adam Baldwin",
-        "Vincent D'Onofrio"
-      ],
-      "genres": "Drama, War"
-    },
-    {
-      "rank": 3,
       "title": "Dirty Dancing",
       "url": "https://letterboxd.com/film/dirty-dancing/",
       "director": "Emile Ardolino",
@@ -37,6 +25,18 @@
         "Cynthia Rhodes"
       ],
       "genres": "Music, Drama, Romance"
+    },
+    {
+      "rank": 3,
+      "title": "Full Metal Jacket",
+      "url": "https://letterboxd.com/film/full-metal-jacket/",
+      "director": "Stanley Kubrick",
+      "actors": [
+        "Matthew Modine",
+        "Adam Baldwin",
+        "Vincent D'Onofrio"
+      ],
+      "genres": "Drama, War"
     },
     {
       "rank": 4,
@@ -172,18 +172,6 @@
     },
     {
       "rank": 15,
-      "title": "The Running Man",
-      "url": "https://letterboxd.com/film/the-running-man/",
-      "director": "Paul Michael Glaser",
-      "actors": [
-        "Arnold Schwarzenegger",
-        "Richard Dawson",
-        "María Conchita Alonso"
-      ],
-      "genres": "Action, Thriller, Science Fiction"
-    },
-    {
-      "rank": 16,
       "title": "Maurice",
       "url": "https://letterboxd.com/film/maurice/",
       "director": "James Ivory",
@@ -193,6 +181,18 @@
         "Rupert Graves"
       ],
       "genres": "Drama, Romance"
+    },
+    {
+      "rank": 16,
+      "title": "The Running Man",
+      "url": "https://letterboxd.com/film/the-running-man/",
+      "director": "Paul Michael Glaser",
+      "actors": [
+        "Arnold Schwarzenegger",
+        "Richard Dawson",
+        "María Conchita Alonso"
+      ],
+      "genres": "Action, Thriller, Science Fiction"
     },
     {
       "rank": 17,
@@ -280,6 +280,18 @@
     },
     {
       "rank": 24,
+      "title": "Empire of the Sun",
+      "url": "https://letterboxd.com/film/empire-of-the-sun/",
+      "director": "Steven Spielberg",
+      "actors": [
+        "Christian Bale",
+        "John Malkovich",
+        "Miranda Richardson"
+      ],
+      "genres": "History, War, Drama"
+    },
+    {
+      "rank": 25,
       "title": "The Living Daylights",
       "url": "https://letterboxd.com/film/the-living-daylights/",
       "director": "John Glen",
@@ -291,7 +303,7 @@
       "genres": "Action, Thriller, Adventure"
     },
     {
-      "rank": 25,
+      "rank": 26,
       "title": "City on Fire",
       "url": "https://letterboxd.com/film/city-on-fire/",
       "director": "Ringo Lam Ling-Tung",
@@ -301,18 +313,6 @@
         "Danny Lee Sau-Yin"
       ],
       "genres": "Action, Thriller, Crime"
-    },
-    {
-      "rank": 26,
-      "title": "Empire of the Sun",
-      "url": "https://letterboxd.com/film/empire-of-the-sun/",
-      "director": "Steven Spielberg",
-      "actors": [
-        "Christian Bale",
-        "John Malkovich",
-        "Miranda Richardson"
-      ],
-      "genres": "History, War, Drama"
     },
     {
       "rank": 27,
@@ -364,6 +364,18 @@
     },
     {
       "rank": 31,
+      "title": "Masters of the Universe",
+      "url": "https://letterboxd.com/film/masters-of-the-universe/",
+      "director": "Gary Goddard",
+      "actors": [
+        "Dolph Lundgren",
+        "Frank Langella",
+        "Meg Foster"
+      ],
+      "genres": "Thriller, Adventure, Action, Science Fiction, Fantasy"
+    },
+    {
+      "rank": 32,
       "title": "The Last Emperor",
       "url": "https://letterboxd.com/film/the-last-emperor/",
       "director": "Bernardo Bertolucci",
@@ -375,7 +387,7 @@
       "genres": "Drama, History"
     },
     {
-      "rank": 32,
+      "rank": 33,
       "title": "Angel Heart",
       "url": "https://letterboxd.com/film/angel-heart/",
       "director": "Alan Parker",
@@ -387,7 +399,7 @@
       "genres": "Horror, Mystery"
     },
     {
-      "rank": 33,
+      "rank": 34,
       "title": "La Bamba",
       "url": "https://letterboxd.com/film/la-bamba/",
       "director": "Luis Valdez",
@@ -397,18 +409,6 @@
         "Elizabeth Peña"
       ],
       "genres": "Music, Drama"
-    },
-    {
-      "rank": 34,
-      "title": "Prince of Darkness",
-      "url": "https://letterboxd.com/film/prince-of-darkness/",
-      "director": "John Carpenter",
-      "actors": [
-        "Donald Pleasence",
-        "Lisa Blount",
-        "Victor Wong"
-      ],
-      "genres": "Horror"
     },
     {
       "rank": 35,
@@ -424,6 +424,18 @@
     },
     {
       "rank": 36,
+      "title": "Prince of Darkness",
+      "url": "https://letterboxd.com/film/prince-of-darkness/",
+      "director": "John Carpenter",
+      "actors": [
+        "Donald Pleasence",
+        "Lisa Blount",
+        "Victor Wong"
+      ],
+      "genres": "Horror"
+    },
+    {
+      "rank": 37,
       "title": "Au Revoir les Enfants",
       "url": "https://letterboxd.com/film/au-revoir-les-enfants/",
       "director": "Louis Malle",
@@ -433,18 +445,6 @@
         "Francine Racette"
       ],
       "genres": "Drama, War"
-    },
-    {
-      "rank": 37,
-      "title": "Near Dark",
-      "url": "https://letterboxd.com/film/near-dark/",
-      "director": "Kathryn Bigelow",
-      "actors": [
-        "Adrian Pasdar",
-        "Jenny Wright",
-        "Lance Henriksen"
-      ],
-      "genres": "Horror"
     },
     {
       "rank": 38,
@@ -460,6 +460,18 @@
     },
     {
       "rank": 39,
+      "title": "Near Dark",
+      "url": "https://letterboxd.com/film/near-dark/",
+      "director": "Kathryn Bigelow",
+      "actors": [
+        "Adrian Pasdar",
+        "Jenny Wright",
+        "Lance Henriksen"
+      ],
+      "genres": "Horror"
+    },
+    {
+      "rank": 40,
       "title": "A Chinese Ghost Story",
       "url": "https://letterboxd.com/film/a-chinese-ghost-story/",
       "director": "Tony Ching Siu-Tung",
@@ -469,18 +481,6 @@
         "Wu Ma"
       ],
       "genres": "Fantasy, Action, Horror"
-    },
-    {
-      "rank": 40,
-      "title": "Masters of the Universe",
-      "url": "https://letterboxd.com/film/masters-of-the-universe/",
-      "director": "Gary Goddard",
-      "actors": [
-        "Dolph Lundgren",
-        "Frank Langella",
-        "Meg Foster"
-      ],
-      "genres": "Thriller, Adventure, Action, Science Fiction, Fantasy"
     },
     {
       "rank": 41,
@@ -520,18 +520,6 @@
     },
     {
       "rank": 44,
-      "title": "Throw Momma from the Train",
-      "url": "https://letterboxd.com/film/throw-momma-from-the-train/",
-      "director": "Danny DeVito",
-      "actors": [
-        "Danny DeVito",
-        "Billy Crystal",
-        "Kim Greist"
-      ],
-      "genres": "Comedy, Thriller, Crime"
-    },
-    {
-      "rank": 45,
       "title": "Law of Desire",
       "url": "https://letterboxd.com/film/law-of-desire/",
       "director": "Pedro Almodóvar",
@@ -543,19 +531,19 @@
       "genres": "Comedy, Thriller, Romance, Drama"
     },
     {
-      "rank": 46,
-      "title": "Baby Boom",
-      "url": "https://letterboxd.com/film/baby-boom/",
-      "director": "Charles Shyer",
+      "rank": 45,
+      "title": "Throw Momma from the Train",
+      "url": "https://letterboxd.com/film/throw-momma-from-the-train/",
+      "director": "Danny DeVito",
       "actors": [
-        "Diane Keaton",
-        "Sam Shepard",
-        "Harold Ramis"
+        "Danny DeVito",
+        "Billy Crystal",
+        "Kim Greist"
       ],
-      "genres": "Drama, Comedy, Romance"
+      "genres": "Comedy, Thriller, Crime"
     },
     {
-      "rank": 47,
+      "rank": 46,
       "title": "Innerspace",
       "url": "https://letterboxd.com/film/innerspace/",
       "director": "Joe Dante",
@@ -567,19 +555,19 @@
       "genres": "Action, Science Fiction, Comedy"
     },
     {
-      "rank": 48,
-      "title": "The Dead",
-      "url": "https://letterboxd.com/film/the-dead/",
-      "director": "John Huston",
+      "rank": 47,
+      "title": "Baby Boom",
+      "url": "https://letterboxd.com/film/baby-boom/",
+      "director": "Charles Shyer",
       "actors": [
-        "Anjelica Huston",
-        "Donal McCann",
-        "Dan O'Herlihy"
+        "Diane Keaton",
+        "Sam Shepard",
+        "Harold Ramis"
       ],
-      "genres": "Drama"
+      "genres": "Drama, Comedy, Romance"
     },
     {
-      "rank": 49,
+      "rank": 48,
       "title": "No Way Out",
       "url": "https://letterboxd.com/film/no-way-out-1987/",
       "director": "Roger Donaldson",
@@ -589,6 +577,18 @@
         "Sean Young"
       ],
       "genres": "Thriller, Drama"
+    },
+    {
+      "rank": 49,
+      "title": "The Dead",
+      "url": "https://letterboxd.com/film/the-dead/",
+      "director": "John Huston",
+      "actors": [
+        "Anjelica Huston",
+        "Donal McCann",
+        "Dan O'Herlihy"
+      ],
+      "genres": "Drama"
     },
     {
       "rank": 50,

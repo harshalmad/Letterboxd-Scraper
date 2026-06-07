@@ -9,10 +9,10 @@ rank,title,director,actors,genres,url
 8,Friday the 13th Part 2,Steve Miner,Russell Todd; Amy Steel; John Furey,"Thriller, Horror",https://letterboxd.com/film/friday-the-13th-part-2/
 9,An American Werewolf in London,John Landis,David Naughton; Jenny Agutter; Griffin Dunne,"Horror, Comedy",https://letterboxd.com/film/an-american-werewolf-in-london/
 10,Excalibur,John Boorman,Nigel Terry; Nicol Williamson; Helen Mirren,"Fantasy, Adventure",https://letterboxd.com/film/excalibur/
-11,Ms .45,Abel Ferrara,Zoë Lund; Albert Sinkys; Darlene Stuto,"Thriller, Crime, Action",https://letterboxd.com/film/ms-45/
-12,My Dinner with Andre,Louis Malle,Andre Gregory; Wallace Shawn; Jean Lenauer,"Drama, Comedy",https://letterboxd.com/film/my-dinner-with-andre/
-13,My Bloody Valentine,George Mihalka,Paul Kelman; Lori Hallier; Neil Affleck,"Thriller, Horror",https://letterboxd.com/film/my-bloody-valentine/
-14,Mad Max 2,George Miller,Mel Gibson; Bruce Spence; Michael Preston,"Thriller, Action, Science Fiction",https://letterboxd.com/film/mad-max-2/
+11,My Dinner with Andre,Louis Malle,Andre Gregory; Wallace Shawn; Jean Lenauer,"Drama, Comedy",https://letterboxd.com/film/my-dinner-with-andre/
+12,Ms .45,Abel Ferrara,Zoë Lund; Albert Sinkys; Darlene Stuto,"Thriller, Crime, Action",https://letterboxd.com/film/ms-45/
+13,Mad Max 2,George Miller,Mel Gibson; Bruce Spence; Michael Preston,"Thriller, Action, Science Fiction",https://letterboxd.com/film/mad-max-2/
+14,My Bloody Valentine,George Mihalka,Paul Kelman; Lori Hallier; Neil Affleck,"Thriller, Horror",https://letterboxd.com/film/my-bloody-valentine/
 15,The Fox and the Hound,"Richard Rich, Art Stevens, Ted Berman",Mickey Rooney; Kurt Russell; Pearl Bailey,"Animation, Adventure, Drama, Family",https://letterboxd.com/film/the-fox-and-the-hound/
 16,Scanners,David Cronenberg,Stephen Lack; Jennifer O'Neill; Michael Ironside,"Horror, Science Fiction",https://letterboxd.com/film/scanners/
 17,The Great Muppet Caper,Jim Henson,Jim Henson; Frank Oz; Dave Goelz,"Romance, Family, Mystery, Comedy, Crime",https://letterboxd.com/film/the-great-muppet-caper/
@@ -20,8 +20,8 @@ rank,title,director,actors,genres,url
 19,Gallipoli,Peter Weir,Mel Gibson; Mark Lee; Bill Kerr,"Drama, History, War",https://letterboxd.com/film/gallipoli/
 20,Das Boot,Wolfgang Petersen,Jürgen Prochnow; Herbert Grönemeyer; Klaus Wennemann,"Drama, War, History",https://letterboxd.com/film/das-boot/
 21,History of the World: Part I,Mel Brooks,Mel Brooks; Dom DeLuise; Madeline Kahn,Comedy,https://letterboxd.com/film/history-of-the-world-part-i/
-22,Son of the White Mare,Marcell Jankovics,György Cserhalmi; Pap Vera; Gyula Szabó,"Adventure, Animation, Fantasy",https://letterboxd.com/film/son-of-the-white-mare/
-23,Polyester,John Waters,Divine; Tab Hunter; Edith Massey,Comedy,https://letterboxd.com/film/polyester/
+22,Polyester,John Waters,Divine; Tab Hunter; Edith Massey,Comedy,https://letterboxd.com/film/polyester/
+23,Son of the White Mare,Marcell Jankovics,György Cserhalmi; Pap Vera; Gyula Szabó,"Adventure, Animation, Fantasy",https://letterboxd.com/film/son-of-the-white-mare/
 24,Halloween II,Rick Rosenthal,Jamie Lee Curtis; Donald Pleasence; Charles Cyphers,Horror,https://letterboxd.com/film/halloween-ii-1981/
 25,Heavy Metal,"Gerald Potterton, John Bruno, John Halas, Julian Harris, Jimmy T. Murakami, Barrie Nelson, Paul Sabella, Jack Stokes, Pino Van Lamsweerde, Harold Whitaker",Rodger Bumpass; John Candy; Jackie Burroughs,"Animation, Science Fiction, Music, Fantasy, Adventure",https://letterboxd.com/film/heavy-metal/
 26,Time Bandits,Terry Gilliam,Craig Warnock; David Rappaport; Kenny Baker,"Family, Science Fiction, Fantasy, Comedy, Adventure",https://letterboxd.com/film/time-bandits/
@@ -35,17 +35,17 @@ rank,title,director,actors,genres,url
 34,The Kiss,Bruno Barreto,Ney Latorraca; Tarcísio Meira; Christiane Torloni,"Thriller, Crime, Drama",https://letterboxd.com/film/the-kiss-1981/
 35,Reds,Warren Beatty,Warren Beatty; Diane Keaton; Edward Herrmann,"Drama, History, Romance",https://letterboxd.com/film/reds/
 36,The Inquisitor,Claude Miller,Lino Ventura; Michel Serrault; Romy Schneider,"Crime, Drama, Thriller",https://letterboxd.com/film/the-inquisitor/
-37,Kisapmata,Mike de Leon,Charo Santos; Jay Ilagan; Vic Silayan,"Crime, Thriller, Drama",https://letterboxd.com/film/kisapmata/
-38,Chariots of Fire,Hugh Hudson,Ben Cross; Ian Charleson; Cheryl Campbell,"History, Drama",https://letterboxd.com/film/chariots-of-fire/
-39,The Burning,Tony Maylam,Brian Matthews; Leah Ayres; Brian Backer,Horror,https://letterboxd.com/film/the-burning-1981/
+37,The Burning,Tony Maylam,Brian Matthews; Leah Ayres; Brian Backer,Horror,https://letterboxd.com/film/the-burning-1981/
+38,Kisapmata,Mike de Leon,Charo Santos; Jay Ilagan; Vic Silayan,"Crime, Thriller, Drama",https://letterboxd.com/film/kisapmata/
+39,Chariots of Fire,Hugh Hudson,Ben Cross; Ian Charleson; Cheryl Campbell,"History, Drama",https://letterboxd.com/film/chariots-of-fire/
 40,They Don't Wear Black Tie,Leon Hirszman,Carlos Alberto Riccelli; Bete Mendes; Fernanda Montenegro,Drama,https://letterboxd.com/film/they-dont-wear-black-tie/
 41,Southern Comfort,Walter Hill,Keith Carradine; Powers Boothe; Fred Ward,"Thriller, Action",https://letterboxd.com/film/southern-comfort/
 42,The Decline of Western Civilization,Penelope Spheeris,Eugene Tatu; Alice Bag; Claude Bessy,"Documentary, Music",https://letterboxd.com/film/the-decline-of-western-civilization/
 43,Nightshift,Robina Rose,Pamela Rooke; Anna Rees-Mogg; Mitch Davies,Drama,https://letterboxd.com/film/nightshift-1981/
 44,Dragonslayer,Matthew Robbins,Peter MacNicol; Caitlin Clarke; Ralph Richardson,"Fantasy, Adventure",https://letterboxd.com/film/dragonslayer/
-45,Don't Go in the Woods,James Bryan,Jack McClelland; Mary Gail Artz; James P. Hayden,Horror,https://letterboxd.com/film/dont-go-in-the-woods/
+45,Clash of the Titans,Desmond Davis,Harry Hamlin; Judi Bowker; Burgess Meredith,"Fantasy, Action, Adventure",https://letterboxd.com/film/clash-of-the-titans/
 46,The Cabbage Soup,Jean Girault,Louis de Funès; Jean Carmet; Jacques Villeret,"Comedy, Science Fiction",https://letterboxd.com/film/the-cabbage-soup/
-47,Clash of the Titans,Desmond Davis,Harry Hamlin; Judi Bowker; Burgess Meredith,"Fantasy, Action, Adventure",https://letterboxd.com/film/clash-of-the-titans/
+47,The Prowler,Joseph Zito,Vicky Dawson; Christopher Goutman; Lawrence Tierney,"Thriller, Mystery, Horror",https://letterboxd.com/film/the-prowler-1981/
 48,Modern Romance,Albert Brooks,Albert Brooks; Kathryn Harrold; Bruno Kirby,"Comedy, Romance, Drama",https://letterboxd.com/film/modern-romance/
-49,The Prowler,Joseph Zito,Vicky Dawson; Christopher Goutman; Lawrence Tierney,"Thriller, Mystery, Horror",https://letterboxd.com/film/the-prowler-1981/
+49,Don't Go in the Woods,James Bryan,Jack McClelland; Mary Gail Artz; James P. Hayden,Horror,https://letterboxd.com/film/dont-go-in-the-woods/
 50,The Funhouse,Tobe Hooper,Elizabeth Berridge; Cooper Huckabee; Kevin Conway,Horror,https://letterboxd.com/film/the-funhouse/

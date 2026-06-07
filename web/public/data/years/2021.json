@@ -208,18 +208,6 @@
     },
     {
       "rank": 18,
-      "title": "To All the Boys: Always and Forever",
-      "url": "https://letterboxd.com/film/to-all-the-boys-always-and-forever/",
-      "director": "Michael Fimognari",
-      "actors": [
-        "Lana Condor",
-        "Noah Centineo",
-        "Janel Parrish"
-      ],
-      "genres": "Comedy, Romance, Drama"
-    },
-    {
-      "rank": 19,
       "title": "Fear Street: 1978",
       "url": "https://letterboxd.com/film/fear-street-1978/",
       "director": "Leigh Janiak",
@@ -229,6 +217,18 @@
         "Ryan Simpkins"
       ],
       "genres": "Drama, Horror, Mystery"
+    },
+    {
+      "rank": 19,
+      "title": "To All the Boys: Always and Forever",
+      "url": "https://letterboxd.com/film/to-all-the-boys-always-and-forever/",
+      "director": "Michael Fimognari",
+      "actors": [
+        "Lana Condor",
+        "Noah Centineo",
+        "Janel Parrish"
+      ],
+      "genres": "Comedy, Romance, Drama"
     },
     {
       "rank": 20,
@@ -412,6 +412,18 @@
     },
     {
       "rank": 35,
+      "title": "West Side Story",
+      "url": "https://letterboxd.com/film/west-side-story-2021/",
+      "director": "Steven Spielberg",
+      "actors": [
+        "Ansel Elgort",
+        "Rachel Zegler",
+        "Ariana DeBose"
+      ],
+      "genres": "Romance, Crime, Drama"
+    },
+    {
+      "rank": 36,
       "title": "Drive My Car",
       "url": "https://letterboxd.com/film/drive-my-car/",
       "director": "Ryusuke Hamaguchi",
@@ -423,7 +435,7 @@
       "genres": "Drama"
     },
     {
-      "rank": 36,
+      "rank": 37,
       "title": "Red Notice",
       "url": "https://letterboxd.com/film/red-notice/",
       "director": "Rawson Marshall Thurber",
@@ -433,18 +445,6 @@
         "Gal Gadot"
       ],
       "genres": "Crime, Comedy, Action"
-    },
-    {
-      "rank": 37,
-      "title": "West Side Story",
-      "url": "https://letterboxd.com/film/west-side-story-2021/",
-      "director": "Steven Spielberg",
-      "actors": [
-        "Ansel Elgort",
-        "Rachel Zegler",
-        "Ariana DeBose"
-      ],
-      "genres": "Romance, Crime, Drama"
     },
     {
       "rank": 38,
@@ -508,18 +508,6 @@
     },
     {
       "rank": 43,
-      "title": "Marcel the Shell with Shoes On",
-      "url": "https://letterboxd.com/film/marcel-the-shell-with-shoes-on-2021/",
-      "director": "Dean Fleischer Camp",
-      "actors": [
-        "Jenny Slate",
-        "Dean Fleischer Camp",
-        "Isabella Rossellini"
-      ],
-      "genres": "Animation, Drama, Comedy, Family"
-    },
-    {
-      "rank": 44,
       "title": "Old",
       "url": "https://letterboxd.com/film/old-2021/",
       "director": "M. Night Shyamalan",
@@ -531,7 +519,7 @@
       "genres": "Thriller, Mystery, Horror"
     },
     {
-      "rank": 45,
+      "rank": 44,
       "title": "Raya and the Last Dragon",
       "url": "https://letterboxd.com/film/raya-and-the-last-dragon/",
       "director": "Don Hall, Carlos López Estrada",
@@ -541,6 +529,18 @@
         "Gemma Chan"
       ],
       "genres": "Animation, Adventure, Family, Action, Fantasy"
+    },
+    {
+      "rank": 45,
+      "title": "Marcel the Shell with Shoes On",
+      "url": "https://letterboxd.com/film/marcel-the-shell-with-shoes-on-2021/",
+      "director": "Dean Fleischer Camp",
+      "actors": [
+        "Jenny Slate",
+        "Dean Fleischer Camp",
+        "Isabella Rossellini"
+      ],
+      "genres": "Animation, Drama, Comedy, Family"
     },
     {
       "rank": 46,

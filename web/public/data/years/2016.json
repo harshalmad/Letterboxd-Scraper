@@ -28,18 +28,6 @@
     },
     {
       "rank": 3,
-      "title": "Zootopia",
-      "url": "https://letterboxd.com/film/zootopia/",
-      "director": "Byron Howard, Rich Moore",
-      "actors": [
-        "Ginnifer Goodwin",
-        "Jason Bateman",
-        "Idris Elba"
-      ],
-      "genres": "Animation, Family, Comedy, Adventure"
-    },
-    {
-      "rank": 4,
       "title": "Arrival",
       "url": "https://letterboxd.com/film/arrival-2016/",
       "director": "Denis Villeneuve",
@@ -49,6 +37,18 @@
         "Forest Whitaker"
       ],
       "genres": "Mystery, Science Fiction, Drama"
+    },
+    {
+      "rank": 4,
+      "title": "Zootopia",
+      "url": "https://letterboxd.com/film/zootopia/",
+      "director": "Byron Howard, Rich Moore",
+      "actors": [
+        "Ginnifer Goodwin",
+        "Jason Bateman",
+        "Idris Elba"
+      ],
+      "genres": "Animation, Family, Comedy, Adventure"
     },
     {
       "rank": 5,
@@ -240,7 +240,7 @@
         "Asa Butterfield",
         "Samuel L. Jackson"
       ],
-      "genres": "Family, Drama, Thriller, Fantasy, Adventure"
+      "genres": "Fantasy, Adventure"
     },
     {
       "rank": 21,
@@ -280,6 +280,18 @@
     },
     {
       "rank": 24,
+      "title": "Passengers",
+      "url": "https://letterboxd.com/film/passengers-2016/",
+      "director": "Morten Tyldum",
+      "actors": [
+        "Jennifer Lawrence",
+        "Chris Pratt",
+        "Michael Sheen"
+      ],
+      "genres": "Drama, Science Fiction, Romance"
+    },
+    {
+      "rank": 25,
       "title": "Hidden Figures",
       "url": "https://letterboxd.com/film/hidden-figures/",
       "director": "Theodore Melfi",
@@ -291,7 +303,7 @@
       "genres": "Drama, History"
     },
     {
-      "rank": 25,
+      "rank": 26,
       "title": "Suicide Squad",
       "url": "https://letterboxd.com/film/suicide-squad-2016/",
       "director": "David Ayer",
@@ -303,7 +315,7 @@
       "genres": "Action, Adventure, Fantasy"
     },
     {
-      "rank": 26,
+      "rank": 27,
       "title": "The Autopsy of Jane Doe",
       "url": "https://letterboxd.com/film/the-autopsy-of-jane-doe/",
       "director": "André Øvredal",
@@ -313,18 +325,6 @@
         "Ophelia Lovibond"
       ],
       "genres": "Horror, Mystery"
-    },
-    {
-      "rank": 27,
-      "title": "Passengers",
-      "url": "https://letterboxd.com/film/passengers-2016/",
-      "director": "Morten Tyldum",
-      "actors": [
-        "Jennifer Lawrence",
-        "Chris Pratt",
-        "Michael Sheen"
-      ],
-      "genres": "Drama, Science Fiction, Romance"
     },
     {
       "rank": 28,
@@ -424,18 +424,6 @@
     },
     {
       "rank": 36,
-      "title": "Nocturnal Animals",
-      "url": "https://letterboxd.com/film/nocturnal-animals/",
-      "director": "Tom Ford",
-      "actors": [
-        "Amy Adams",
-        "Jake Gyllenhaal",
-        "Michael Shannon"
-      ],
-      "genres": "Drama, Thriller"
-    },
-    {
-      "rank": 37,
       "title": "X-Men: Apocalypse",
       "url": "https://letterboxd.com/film/x-men-apocalypse/",
       "director": "Bryan Singer",
@@ -445,6 +433,18 @@
         "Jennifer Lawrence"
       ],
       "genres": "Science Fiction, Action, Fantasy"
+    },
+    {
+      "rank": 37,
+      "title": "Nocturnal Animals",
+      "url": "https://letterboxd.com/film/nocturnal-animals/",
+      "director": "Tom Ford",
+      "actors": [
+        "Amy Adams",
+        "Jake Gyllenhaal",
+        "Michael Shannon"
+      ],
+      "genres": "Drama, Thriller"
     },
     {
       "rank": 38,
@@ -544,30 +544,6 @@
     },
     {
       "rank": 46,
-      "title": "Central Intelligence",
-      "url": "https://letterboxd.com/film/central-intelligence/",
-      "director": "Rawson Marshall Thurber",
-      "actors": [
-        "Dwayne Johnson",
-        "Kevin Hart",
-        "Amy Ryan"
-      ],
-      "genres": "Comedy, Action"
-    },
-    {
-      "rank": 47,
-      "title": "Trolls",
-      "url": "https://letterboxd.com/film/trolls/",
-      "director": "Mike Mitchell",
-      "actors": [
-        "Anna Kendrick",
-        "Justin Timberlake",
-        "Zooey Deschanel"
-      ],
-      "genres": "Fantasy, Animation, Comedy, Family, Adventure, Music"
-    },
-    {
-      "rank": 48,
       "title": "10 Cloverfield Lane",
       "url": "https://letterboxd.com/film/10-cloverfield-lane/",
       "director": "Dan Trachtenberg",
@@ -579,7 +555,19 @@
       "genres": "Science Fiction, Thriller, Horror, Drama"
     },
     {
-      "rank": 49,
+      "rank": 47,
+      "title": "Central Intelligence",
+      "url": "https://letterboxd.com/film/central-intelligence/",
+      "director": "Rawson Marshall Thurber",
+      "actors": [
+        "Dwayne Johnson",
+        "Kevin Hart",
+        "Amy Ryan"
+      ],
+      "genres": "Comedy, Action"
+    },
+    {
+      "rank": 48,
       "title": "Raw",
       "url": "https://letterboxd.com/film/raw-2016/",
       "director": "Julia Ducournau",
@@ -589,6 +577,18 @@
         "Rabah Nait Oufella"
       ],
       "genres": "Drama, Horror"
+    },
+    {
+      "rank": 49,
+      "title": "Trolls",
+      "url": "https://letterboxd.com/film/trolls/",
+      "director": "Mike Mitchell",
+      "actors": [
+        "Anna Kendrick",
+        "Justin Timberlake",
+        "Zooey Deschanel"
+      ],
+      "genres": "Fantasy, Animation, Comedy, Family, Adventure, Music"
     },
     {
       "rank": 50,

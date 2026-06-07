@@ -8,8 +8,8 @@ rank,title,director,actors,genres,url
 7,Ghostbusters,Ivan Reitman,Bill Murray; Dan Aykroyd; Sigourney Weaver,"Comedy, Fantasy",https://letterboxd.com/film/ghostbusters/
 8,A Nightmare on Elm Street,Wes Craven,John Saxon; Ronee Blakley; Heather Langenkamp,Horror,https://letterboxd.com/film/a-nightmare-on-elm-street/
 9,The Karate Kid,John G. Avildsen,Ralph Macchio; Pat Morita; Elisabeth Shue,"Action, Drama, Family",https://letterboxd.com/film/the-karate-kid/
-10,Dune,David Lynch,Kyle MacLachlan; Francesca Annis; Patrick Stewart,"Adventure, Science Fiction, Action",https://letterboxd.com/film/dune/
-11,Once Upon a Time in America,Sergio Leone,Robert De Niro; James Woods; Elizabeth McGovern,"Crime, Drama",https://letterboxd.com/film/once-upon-a-time-in-america/
+10,Once Upon a Time in America,Sergio Leone,Robert De Niro; James Woods; Elizabeth McGovern,"Crime, Drama",https://letterboxd.com/film/once-upon-a-time-in-america/
+11,Dune,David Lynch,Kyle MacLachlan; Francesca Annis; Patrick Stewart,"Adventure, Science Fiction, Action",https://letterboxd.com/film/dune/
 12,Gremlins,Joe Dante,Zach Galligan; Phoebe Cates; Hoyt Axton,"Fantasy, Comedy, Horror",https://letterboxd.com/film/gremlins/
 13,Stop Making Sense,Jonathan Demme,David Byrne; Chris Frantz; Jerry Harrison,"Music, Documentary",https://letterboxd.com/film/stop-making-sense/
 14,The NeverEnding Story,Wolfgang Petersen,Noah Hathaway; Barret Oliver; Tami Stronach,"Fantasy, Family, Adventure",https://letterboxd.com/film/the-neverending-story/
@@ -33,8 +33,8 @@ rank,title,director,actors,genres,url
 32,The Toxic Avenger,"Lloyd Kaufman, Michael Herz",Andree Maranda; Mitch Cohen; Jennifer Prichard,"Comedy, Science Fiction, Action, Horror",https://letterboxd.com/film/the-toxic-avenger/
 33,Police Academy,Hugh Wilson,Steve Guttenberg; Kim Cattrall; G.W. Bailey,"Crime, Comedy",https://letterboxd.com/film/police-academy/
 34,Romancing the Stone,Robert Zemeckis,Michael Douglas; Kathleen Turner; Danny DeVito,"Action, Comedy, Romance, Adventure",https://letterboxd.com/film/romancing-the-stone/
-35,Twenty Years Later,Eduardo Coutinho,Eduardo Coutinho; Elizabeth Teixeira; Ferreira Gullar,"History, Documentary",https://letterboxd.com/film/twenty-years-later/
-36,Streetwise,Martin Bell,Erin Blackwell; Dewayne Pomeroy; Roberta Joseph Hayes,Documentary,https://letterboxd.com/film/streetwise/
+35,Streetwise,Martin Bell,Erin Blackwell; Dewayne Pomeroy; Roberta Joseph Hayes,Documentary,https://letterboxd.com/film/streetwise/
+36,Twenty Years Later,Eduardo Coutinho,Eduardo Coutinho; Elizabeth Teixeira; Ferreira Gullar,"History, Documentary",https://letterboxd.com/film/twenty-years-later/
 37,Star Trek III: The Search for Spock,Leonard Nimoy,William Shatner; DeForest Kelley; James Doohan,"Science Fiction, Action, Thriller, Adventure",https://letterboxd.com/film/star-trek-iii-the-search-for-spock/
 38,The Company of Wolves,Neil Jordan,Sarah Patterson; Angela Lansbury; David Warner,"Horror, Fantasy",https://letterboxd.com/film/the-company-of-wolves/
 39,Love Streams,John Cassavetes,Gena Rowlands; John Cassavetes; Diahnne Abbott,Drama,https://letterboxd.com/film/love-streams/
@@ -43,9 +43,9 @@ rank,title,director,actors,genres,url
 42,The Natural,Barry Levinson,Robert Redford; Robert Duvall; Glenn Close,Drama,https://letterboxd.com/film/the-natural/
 43,The Hit,Stephen Frears,John Hurt; Terence Stamp; Tim Roth,"Drama, Crime, Thriller",https://letterboxd.com/film/the-hit-1984/
 44,Shanghai Blues,Tsui Hark,Kenny Bee; Sylvia Chang; Sally Yip Sin-Man,"Romance, Comedy",https://letterboxd.com/film/shanghai-blues/
-45,The Adventures of Buckaroo Banzai Across the 8th Dimension,W.D. Richter,Peter Weller; John Lithgow; Ellen Barkin,"Comedy, Science Fiction, Romance, Adventure",https://letterboxd.com/film/the-adventures-of-buckaroo-banzai-across-the-8th-dimension/
-46,Night of the Comet,Thom Eberhardt,Catherine Mary Stewart; Robert Beltran; Kelli Maroney,"Science Fiction, Comedy, Horror",https://letterboxd.com/film/night-of-the-comet/
-47,Crimes of Passion,Ken Russell,Kathleen Turner; Anthony Perkins; John Laughlin,"Thriller, Crime, Drama",https://letterboxd.com/film/crimes-of-passion/
+45,Night of the Comet,Thom Eberhardt,Catherine Mary Stewart; Robert Beltran; Kelli Maroney,"Science Fiction, Comedy, Horror",https://letterboxd.com/film/night-of-the-comet/
+46,Crimes of Passion,Ken Russell,Kathleen Turner; Anthony Perkins; John Laughlin,"Thriller, Crime, Drama",https://letterboxd.com/film/crimes-of-passion/
+47,The Adventures of Buckaroo Banzai Across the 8th Dimension,W.D. Richter,Peter Weller; John Lithgow; Ellen Barkin,"Comedy, Science Fiction, Romance, Adventure",https://letterboxd.com/film/the-adventures-of-buckaroo-banzai-across-the-8th-dimension/
 48,What Have I Done to Deserve This?,Pedro Almodóvar,Carmen Maura; Luis Hostalot; Ryo Hiruma,"Comedy, Drama",https://letterboxd.com/film/what-have-i-done-to-deserve-this/
 49,The Return of Godzilla,Koji Hashimoto,Keiju Kobayashi; Ken Tanaka; Yasuko Sawaguchi,"Action, Horror, Science Fiction",https://letterboxd.com/film/the-return-of-godzilla/
 50,Another Country,Marek Kanievska,Rupert Everett; Colin Firth; Michael Jenn,"Drama, Romance",https://letterboxd.com/film/another-country/

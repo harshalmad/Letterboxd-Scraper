@@ -10,8 +10,8 @@ rank,title,director,actors,genres,url
 9,My Cousin Vinny,Jonathan Lynn,Joe Pesci; Marisa Tomei; Ralph Macchio,"Drama, Comedy",https://letterboxd.com/film/my-cousin-vinny/
 10,A Few Good Men,Rob Reiner,Tom Cruise; Jack Nicholson; Demi Moore,Drama,https://letterboxd.com/film/a-few-good-men/
 11,Home Alone 2: Lost in New York,Chris Columbus,Macaulay Culkin; Joe Pesci; Daniel Stern,"Family, Comedy, Adventure",https://letterboxd.com/film/home-alone-2-lost-in-new-york/
-12,Malcolm X,Spike Lee,Denzel Washington; Angela Bassett; Albert Hall,"History, Drama",https://letterboxd.com/film/malcolm-x-1992/
-13,Unforgiven,Clint Eastwood,Clint Eastwood; Gene Hackman; Morgan Freeman,Western,https://letterboxd.com/film/unforgiven/
+12,Unforgiven,Clint Eastwood,Clint Eastwood; Gene Hackman; Morgan Freeman,Western,https://letterboxd.com/film/unforgiven/
+13,Malcolm X,Spike Lee,Denzel Washington; Angela Bassett; Albert Hall,"History, Drama",https://letterboxd.com/film/malcolm-x-1992/
 14,Army of Darkness,Sam Raimi,Bruce Campbell; Embeth Davidtz; Marcus Gilbert,"Comedy, Fantasy, Horror",https://letterboxd.com/film/army-of-darkness/
 15,Batman Returns,Tim Burton,Michael Keaton; Danny DeVito; Michelle Pfeiffer,"Fantasy, Action",https://letterboxd.com/film/batman-returns/
 16,Basic Instinct,Paul Verhoeven,Michael Douglas; Sharon Stone; George Dzundza,"Thriller, Mystery",https://letterboxd.com/film/basic-instinct/
@@ -29,8 +29,8 @@ rank,title,director,actors,genres,url
 28,Wuthering Heights,Peter Kosminsky,Juliette Binoche; Ralph Fiennes; Janet McTeer,"Romance, Drama",https://letterboxd.com/film/wuthering-heights-1992/
 29,Braindead,Peter Jackson,Timothy Balme; Diana Peñalver; Elizabeth Moody,"Comedy, Horror",https://letterboxd.com/film/braindead-1992/
 30,Orlando,Sally Potter,Tilda Swinton; Billy Zane; Lothaire Bluteau,"Drama, Fantasy",https://letterboxd.com/film/orlando/
-31,Cronos,Guillermo del Toro,Federico Luppi; Ron Perlman; Claudio Brook,"Horror, Thriller, Drama",https://letterboxd.com/film/cronos/
-32,The Cutting Edge,Paul Michael Glaser,D. B. Sweeney; Moira Kelly; Roy Dotrice,"Comedy, Romance, Drama",https://letterboxd.com/film/the-cutting-edge/
+31,The Cutting Edge,Paul Michael Glaser,D. B. Sweeney; Moira Kelly; Roy Dotrice,"Comedy, Romance, Drama",https://letterboxd.com/film/the-cutting-edge/
+32,Cronos,Guillermo del Toro,Federico Luppi; Ron Perlman; Claudio Brook,"Horror, Thriller, Drama",https://letterboxd.com/film/cronos/
 33,The Mighty Ducks,Stephen Herek,Emilio Estevez; Joss Ackland; Lane Smith,"Family, Comedy, Drama",https://letterboxd.com/film/the-mighty-ducks/
 34,Bad Lieutenant,Abel Ferrara,Harvey Keitel; Peggy Gormley; Stella Keitel,"Drama, Crime",https://letterboxd.com/film/bad-lieutenant/
 35,Jamon Jamon,Bigas Luna,Stefania Sandrelli; Anna Galiena; Juan Diego,"Romance, Drama, Comedy",https://letterboxd.com/film/jamon-jamon/
@@ -38,13 +38,13 @@ rank,title,director,actors,genres,url
 37,The Hand That Rocks the Cradle,Curtis Hanson,Annabella Sciorra; Rebecca De Mornay; Matt McCoy,"Thriller, Drama",https://letterboxd.com/film/the-hand-that-rocks-the-cradle/
 38,Single White Female,Barbet Schroeder,Bridget Fonda; Jennifer Jason Leigh; Steven Weber,"Horror, Thriller",https://letterboxd.com/film/single-white-female/
 39,The Muppet Christmas Carol,Brian Henson,Michael Caine; Dave Goelz; Steve Whitmire,"Drama, Family, Comedy, Music, Fantasy",https://letterboxd.com/film/the-muppet-christmas-carol/
-40,Singles,Cameron Crowe,Bridget Fonda; Campbell Scott; Kyra Sedgwick,"Comedy, Drama, Romance",https://letterboxd.com/film/singles/
-41,Sneakers,Phil Alden Robinson,Robert Redford; Sidney Poitier; David Strathairn,"Crime, Comedy, Drama",https://letterboxd.com/film/sneakers/
+40,Sneakers,Phil Alden Robinson,Robert Redford; Sidney Poitier; David Strathairn,"Crime, Comedy, Drama",https://letterboxd.com/film/sneakers/
+41,Singles,Cameron Crowe,Bridget Fonda; Campbell Scott; Kyra Sedgwick,"Comedy, Drama, Romance",https://letterboxd.com/film/singles/
 42,Midori,Hiroshi Harada,Minako Naka; Norihiko Morishita; Keinosuke Okamoto,"Horror, Drama, Animation",https://letterboxd.com/film/midori-1992/
 43,"Life, and Nothing More…",Abbas Kiarostami,Farhad Kheradmand; Buba Bayour; Hossein Rezai,"Drama, Adventure",https://letterboxd.com/film/life-and-nothing-more/
 44,FernGully: The Last Rainforest,Bill Kroyer,Samantha Mathis; Jonathan Ward; Christian Slater,"Animation, Family, Adventure, Fantasy",https://letterboxd.com/film/ferngully-the-last-rainforest/
-45,Juice,Ernest R. Dickerson,Omar Epps; Tupac Shakur; Khalil Kain,"Thriller, Drama, Crime",https://letterboxd.com/film/juice/
-46,Of Mice and Men,Gary Sinise,John Malkovich; Gary Sinise; Ray Walston,Drama,https://letterboxd.com/film/of-mice-and-men-1992/
+45,Of Mice and Men,Gary Sinise,John Malkovich; Gary Sinise; Ray Walston,Drama,https://letterboxd.com/film/of-mice-and-men-1992/
+46,Juice,Ernest R. Dickerson,Omar Epps; Tupac Shakur; Khalil Kain,"Thriller, Drama, Crime",https://letterboxd.com/film/juice/
 47,Under Siege,Andrew Davis,Steven Seagal; Tommy Lee Jones; Gary Busey,"Thriller, Action",https://letterboxd.com/film/under-siege/
 48,Sleepwalkers,Mick Garris,Brian Krause; Mädchen Amick; Alice Krige,"Fantasy, Thriller, Horror",https://letterboxd.com/film/sleepwalkers/
 49,Man Bites Dog,"Rémy Belvaux, André Bonzel, Benoît Poelvoorde",Benoît Poelvoorde; Rémy Belvaux; André Bonzel,"Comedy, Crime",https://letterboxd.com/film/man-bites-dog/

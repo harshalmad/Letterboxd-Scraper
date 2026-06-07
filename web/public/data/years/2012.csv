@@ -17,8 +17,8 @@ rank,title,director,actors,genres,url
 16,Frances Ha,Noah Baumbach,Greta Gerwig; Mickey Sumner; Michael Zegen,"Comedy, Drama",https://letterboxd.com/film/frances-ha/
 17,Brave,"Mark Andrews, Brenda Chapman",Kelly Macdonald; Emma Thompson; Billy Connolly,"Animation, Family, Fantasy, Adventure",https://letterboxd.com/film/brave-2012/
 18,The Dictator,Larry Charles,Sacha Baron Cohen; Ben Kingsley; Anna Faris,Comedy,https://letterboxd.com/film/the-dictator-2012/
-19,Sinister,Scott Derrickson,Ethan Hawke; Juliet Rylance; Vincent D'Onofrio,"Thriller, Horror, Mystery",https://letterboxd.com/film/sinister/
-20,The Lorax,Chris Renaud,Danny DeVito; Ed Helms; Zac Efron,"Animation, Family",https://letterboxd.com/film/the-lorax-2012/
+19,The Lorax,Chris Renaud,Danny DeVito; Ed Helms; Zac Efron,"Animation, Family",https://letterboxd.com/film/the-lorax-2012/
+20,Sinister,Scott Derrickson,Ethan Hawke; Juliet Rylance; Vincent D'Onofrio,"Thriller, Horror, Mystery",https://letterboxd.com/film/sinister/
 21,Prometheus,Ridley Scott,Noomi Rapace; Michael Fassbender; Charlize Theron,"Adventure, Science Fiction, Horror, Mystery",https://letterboxd.com/film/prometheus/
 22,Silver Linings Playbook,David O. Russell,Bradley Cooper; Jennifer Lawrence; Robert De Niro,"Romance, Drama, Comedy",https://letterboxd.com/film/silver-linings-playbook/
 23,Wreck-It Ralph,Rich Moore,John C. Reilly; Sarah Silverman; Jack McBrayer,"Adventure, Comedy, Family, Animation",https://letterboxd.com/film/wreck-it-ralph/
@@ -28,8 +28,8 @@ rank,title,director,actors,genres,url
 27,Diary of a Wimpy Kid: Dog Days,David Bowers,Zachary Gordon; Robert Capron; Devon Bostick,"Comedy, Family",https://letterboxd.com/film/diary-of-a-wimpy-kid-dog-days/
 28,Argo,Ben Affleck,Ben Affleck; Bryan Cranston; Alan Arkin,"Thriller, Drama",https://letterboxd.com/film/argo/
 29,Life of Pi,Ang Lee,Suraj Sharma; Irrfan Khan; Ayush Tandon,"Drama, Adventure",https://letterboxd.com/film/life-of-pi/
-30,Chronicle,Josh Trank,Dane DeHaan; Alex Russell; Michael B. Jordan,"Thriller, Science Fiction, Drama",https://letterboxd.com/film/chronicle/
-31,Hotel Transylvania,Genndy Tartakovsky,Adam Sandler; Andy Samberg; Selena Gomez,"Comedy, Animation, Fantasy, Family",https://letterboxd.com/film/hotel-transylvania/
+30,Hotel Transylvania,Genndy Tartakovsky,Adam Sandler; Andy Samberg; Selena Gomez,"Comedy, Animation, Fantasy, Family",https://letterboxd.com/film/hotel-transylvania/
+31,Chronicle,Josh Trank,Dane DeHaan; Alex Russell; Michael B. Jordan,"Thriller, Science Fiction, Drama",https://letterboxd.com/film/chronicle/
 32,End of Watch,David Ayer,Jake Gyllenhaal; Michael Peña; Natalie Martinez,"Drama, Thriller, Crime",https://letterboxd.com/film/end-of-watch/
 33,Madagascar 3: Europe's Most Wanted,"Eric Darnell, Tom McGrath, Conrad Vernon",Ben Stiller; Chris Rock; David Schwimmer,"Comedy, Family, Adventure, Animation",https://letterboxd.com/film/madagascar-3-europes-most-wanted/
 34,Les Misérables,Tom Hooper,Hugh Jackman; Russell Crowe; Amanda Seyfried,"Drama, History",https://letterboxd.com/film/les-miserables-2012/
@@ -39,13 +39,13 @@ rank,title,director,actors,genres,url
 38,Zero Dark Thirty,Kathryn Bigelow,Jessica Chastain; Jason Clarke; Kyle Chandler,"Drama, Thriller",https://letterboxd.com/film/zero-dark-thirty/
 39,The Vow,Michael Sucsy,Rachel McAdams; Channing Tatum; Sam Neill,"Romance, Drama",https://letterboxd.com/film/the-vow/
 40,Secret of the Wings,Peggy Holmes,Mae Whitman; Lucy Hale; Timothy Dalton,"Family, Animation, Fantasy, Adventure",https://letterboxd.com/film/secret-of-the-wings/
-41,Anna Karenina,Joe Wright,Keira Knightley; Jude Law; Aaron Taylor-Johnson,"Romance, History, Drama",https://letterboxd.com/film/anna-karenina-2012/
+41,Seven Psychopaths,Martin McDonagh,Colin Farrell; Sam Rockwell; Woody Harrelson,"Comedy, Crime",https://letterboxd.com/film/seven-psychopaths/
 42,ParaNorman,"Sam Fell, Chris Butler",Kodi Smit-McPhee; Tucker Albrizzi; Anna Kendrick,"Adventure, Comedy, Animation, Family",https://letterboxd.com/film/paranorman/
-43,Rise of the Guardians,Peter Ramsey,Chris Pine; Alec Baldwin; Jude Law,"Fantasy, Family, Adventure, Action, Animation",https://letterboxd.com/film/rise-of-the-guardians/
-44,Seven Psychopaths,Martin McDonagh,Colin Farrell; Sam Rockwell; Woody Harrelson,"Comedy, Crime",https://letterboxd.com/film/seven-psychopaths/
+43,Anna Karenina,Joe Wright,Keira Knightley; Jude Law; Aaron Taylor-Johnson,"Romance, History, Drama",https://letterboxd.com/film/anna-karenina-2012/
+44,Rise of the Guardians,Peter Ramsey,Chris Pine; Alec Baldwin; Jude Law,"Fantasy, Family, Adventure, Action, Animation",https://letterboxd.com/film/rise-of-the-guardians/
 45,Frankenweenie,Tim Burton,Catherine O'Hara; Martin Short; Martin Landau,"Comedy, Family, Animation",https://letterboxd.com/film/frankenweenie-2012/
 46,Men in Black 3,Barry Sonnenfeld,Will Smith; Tommy Lee Jones; Josh Brolin,"Comedy, Action, Science Fiction",https://letterboxd.com/film/men-in-black-3/
-47,Silent Hill: Revelation 3D,MJ Bassett,Adelaide Clemens; Sean Bean; Radha Mitchell,"Mystery, Thriller, Horror",https://letterboxd.com/film/silent-hill-revelation-3d/
-48,Ice Age: Continental Drift,"Mike Thurmeier, Steve Martino",Ray Romano; John Leguizamo; Denis Leary,"Family, Adventure, Comedy, Animation",https://letterboxd.com/film/ice-age-continental-drift/
+47,Ice Age: Continental Drift,"Mike Thurmeier, Steve Martino",Ray Romano; John Leguizamo; Denis Leary,"Family, Adventure, Comedy, Animation",https://letterboxd.com/film/ice-age-continental-drift/
+48,Silent Hill: Revelation 3D,MJ Bassett,Adelaide Clemens; Sean Bean; Radha Mitchell,"Mystery, Thriller, Horror",https://letterboxd.com/film/silent-hill-revelation-3d/
 49,Monster High: Why Do Ghouls Fall in Love?,"Steve Sacks, Dustin McKenzie",Debi Derryberry; Ogie Banks; Jonathan Lipow,"Animation, Fantasy",https://letterboxd.com/film/monster-high-why-do-ghouls-fall-in-love/
 50,Magic Mike,Steven Soderbergh,Channing Tatum; Matthew McConaughey; Alex Pettyfer,"Comedy, Drama",https://letterboxd.com/film/magic-mike/

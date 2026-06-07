@@ -124,18 +124,6 @@
     },
     {
       "rank": 11,
-      "title": "Ms .45",
-      "url": "https://letterboxd.com/film/ms-45/",
-      "director": "Abel Ferrara",
-      "actors": [
-        "Zoë Lund",
-        "Albert Sinkys",
-        "Darlene Stuto"
-      ],
-      "genres": "Thriller, Crime, Action"
-    },
-    {
-      "rank": 12,
       "title": "My Dinner with Andre",
       "url": "https://letterboxd.com/film/my-dinner-with-andre/",
       "director": "Louis Malle",
@@ -147,19 +135,19 @@
       "genres": "Drama, Comedy"
     },
     {
-      "rank": 13,
-      "title": "My Bloody Valentine",
-      "url": "https://letterboxd.com/film/my-bloody-valentine/",
-      "director": "George Mihalka",
+      "rank": 12,
+      "title": "Ms .45",
+      "url": "https://letterboxd.com/film/ms-45/",
+      "director": "Abel Ferrara",
       "actors": [
-        "Paul Kelman",
-        "Lori Hallier",
-        "Neil Affleck"
+        "Zoë Lund",
+        "Albert Sinkys",
+        "Darlene Stuto"
       ],
-      "genres": "Thriller, Horror"
+      "genres": "Thriller, Crime, Action"
     },
     {
-      "rank": 14,
+      "rank": 13,
       "title": "Mad Max 2",
       "url": "https://letterboxd.com/film/mad-max-2/",
       "director": "George Miller",
@@ -169,6 +157,18 @@
         "Michael Preston"
       ],
       "genres": "Thriller, Action, Science Fiction"
+    },
+    {
+      "rank": 14,
+      "title": "My Bloody Valentine",
+      "url": "https://letterboxd.com/film/my-bloody-valentine/",
+      "director": "George Mihalka",
+      "actors": [
+        "Paul Kelman",
+        "Lori Hallier",
+        "Neil Affleck"
+      ],
+      "genres": "Thriller, Horror"
     },
     {
       "rank": 15,
@@ -256,18 +256,6 @@
     },
     {
       "rank": 22,
-      "title": "Son of the White Mare",
-      "url": "https://letterboxd.com/film/son-of-the-white-mare/",
-      "director": "Marcell Jankovics",
-      "actors": [
-        "György Cserhalmi",
-        "Pap Vera",
-        "Gyula Szabó"
-      ],
-      "genres": "Adventure, Animation, Fantasy"
-    },
-    {
-      "rank": 23,
       "title": "Polyester",
       "url": "https://letterboxd.com/film/polyester/",
       "director": "John Waters",
@@ -277,6 +265,18 @@
         "Edith Massey"
       ],
       "genres": "Comedy"
+    },
+    {
+      "rank": 23,
+      "title": "Son of the White Mare",
+      "url": "https://letterboxd.com/film/son-of-the-white-mare/",
+      "director": "Marcell Jankovics",
+      "actors": [
+        "György Cserhalmi",
+        "Pap Vera",
+        "Gyula Szabó"
+      ],
+      "genres": "Adventure, Animation, Fantasy"
     },
     {
       "rank": 24,
@@ -436,6 +436,18 @@
     },
     {
       "rank": 37,
+      "title": "The Burning",
+      "url": "https://letterboxd.com/film/the-burning-1981/",
+      "director": "Tony Maylam",
+      "actors": [
+        "Brian Matthews",
+        "Leah Ayres",
+        "Brian Backer"
+      ],
+      "genres": "Horror"
+    },
+    {
+      "rank": 38,
       "title": "Kisapmata",
       "url": "https://letterboxd.com/film/kisapmata/",
       "director": "Mike de Leon",
@@ -447,7 +459,7 @@
       "genres": "Crime, Thriller, Drama"
     },
     {
-      "rank": 38,
+      "rank": 39,
       "title": "Chariots of Fire",
       "url": "https://letterboxd.com/film/chariots-of-fire/",
       "director": "Hugh Hudson",
@@ -457,18 +469,6 @@
         "Cheryl Campbell"
       ],
       "genres": "History, Drama"
-    },
-    {
-      "rank": 39,
-      "title": "The Burning",
-      "url": "https://letterboxd.com/film/the-burning-1981/",
-      "director": "Tony Maylam",
-      "actors": [
-        "Brian Matthews",
-        "Leah Ayres",
-        "Brian Backer"
-      ],
-      "genres": "Horror"
     },
     {
       "rank": 40,
@@ -532,15 +532,15 @@
     },
     {
       "rank": 45,
-      "title": "Don't Go in the Woods",
-      "url": "https://letterboxd.com/film/dont-go-in-the-woods/",
-      "director": "James Bryan",
+      "title": "Clash of the Titans",
+      "url": "https://letterboxd.com/film/clash-of-the-titans/",
+      "director": "Desmond Davis",
       "actors": [
-        "Jack McClelland",
-        "Mary Gail Artz",
-        "James P. Hayden"
+        "Harry Hamlin",
+        "Judi Bowker",
+        "Burgess Meredith"
       ],
-      "genres": "Horror"
+      "genres": "Fantasy, Action, Adventure"
     },
     {
       "rank": 46,
@@ -556,15 +556,15 @@
     },
     {
       "rank": 47,
-      "title": "Clash of the Titans",
-      "url": "https://letterboxd.com/film/clash-of-the-titans/",
-      "director": "Desmond Davis",
+      "title": "The Prowler",
+      "url": "https://letterboxd.com/film/the-prowler-1981/",
+      "director": "Joseph Zito",
       "actors": [
-        "Harry Hamlin",
-        "Judi Bowker",
-        "Burgess Meredith"
+        "Vicky Dawson",
+        "Christopher Goutman",
+        "Lawrence Tierney"
       ],
-      "genres": "Fantasy, Action, Adventure"
+      "genres": "Thriller, Mystery, Horror"
     },
     {
       "rank": 48,
@@ -580,15 +580,15 @@
     },
     {
       "rank": 49,
-      "title": "The Prowler",
-      "url": "https://letterboxd.com/film/the-prowler-1981/",
-      "director": "Joseph Zito",
+      "title": "Don't Go in the Woods",
+      "url": "https://letterboxd.com/film/dont-go-in-the-woods/",
+      "director": "James Bryan",
       "actors": [
-        "Vicky Dawson",
-        "Christopher Goutman",
-        "Lawrence Tierney"
+        "Jack McClelland",
+        "Mary Gail Artz",
+        "James P. Hayden"
       ],
-      "genres": "Thriller, Mystery, Horror"
+      "genres": "Horror"
     },
     {
       "rank": 50,

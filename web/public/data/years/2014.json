@@ -148,18 +148,6 @@
     },
     {
       "rank": 13,
-      "title": "22 Jump Street",
-      "url": "https://letterboxd.com/film/22-jump-street/",
-      "director": "Phil Lord, Christopher Miller",
-      "actors": [
-        "Jonah Hill",
-        "Channing Tatum",
-        "Peter Stormare"
-      ],
-      "genres": "Action, Crime, Comedy"
-    },
-    {
-      "rank": 14,
       "title": "Creep",
       "url": "https://letterboxd.com/film/creep-2014/",
       "director": "Patrick Brice",
@@ -169,6 +157,18 @@
         "Katie Aselton"
       ],
       "genres": "Horror, Thriller"
+    },
+    {
+      "rank": 14,
+      "title": "22 Jump Street",
+      "url": "https://letterboxd.com/film/22-jump-street/",
+      "director": "Phil Lord, Christopher Miller",
+      "actors": [
+        "Jonah Hill",
+        "Channing Tatum",
+        "Peter Stormare"
+      ],
+      "genres": "Action, Crime, Comedy"
     },
     {
       "rank": 15,
@@ -244,18 +244,6 @@
     },
     {
       "rank": 21,
-      "title": "Fury",
-      "url": "https://letterboxd.com/film/fury-2014/",
-      "director": "David Ayer",
-      "actors": [
-        "Brad Pitt",
-        "Shia LaBeouf",
-        "Logan Lerman"
-      ],
-      "genres": "War, Drama, Action"
-    },
-    {
-      "rank": 22,
       "title": "As Above, So Below",
       "url": "https://letterboxd.com/film/as-above-so-below-2014/",
       "director": "John Erick Dowdle",
@@ -265,6 +253,18 @@
         "Edwin Hodge"
       ],
       "genres": "Horror, Thriller"
+    },
+    {
+      "rank": 22,
+      "title": "Fury",
+      "url": "https://letterboxd.com/film/fury-2014/",
+      "director": "David Ayer",
+      "actors": [
+        "Brad Pitt",
+        "Shia LaBeouf",
+        "Logan Lerman"
+      ],
+      "genres": "War, Drama, Action"
     },
     {
       "rank": 23,
@@ -364,18 +364,6 @@
     },
     {
       "rank": 31,
-      "title": "Lucy",
-      "url": "https://letterboxd.com/film/lucy-2014/",
-      "director": "Luc Besson",
-      "actors": [
-        "Scarlett Johansson",
-        "Morgan Freeman",
-        "Choi Min-sik"
-      ],
-      "genres": "Action, Science Fiction"
-    },
-    {
-      "rank": 32,
       "title": "Edge of Tomorrow",
       "url": "https://letterboxd.com/film/edge-of-tomorrow/",
       "director": "Doug Liman",
@@ -385,6 +373,18 @@
         "Brendan Gleeson"
       ],
       "genres": "Science Fiction, Action"
+    },
+    {
+      "rank": 32,
+      "title": "Lucy",
+      "url": "https://letterboxd.com/film/lucy-2014/",
+      "director": "Luc Besson",
+      "actors": [
+        "Scarlett Johansson",
+        "Morgan Freeman",
+        "Choi Min-sik"
+      ],
+      "genres": "Action, Science Fiction"
     },
     {
       "rank": 33,

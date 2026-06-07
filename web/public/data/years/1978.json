@@ -148,18 +148,6 @@
     },
     {
       "rank": 13,
-      "title": "Faces of Death",
-      "url": "https://letterboxd.com/film/faces-of-death/",
-      "director": "John Alan Schwartz",
-      "actors": [
-        "Michael Carr",
-        "Samuel Berkowitz",
-        "Mary Ellen Brighton"
-      ],
-      "genres": "Documentary, Horror"
-    },
-    {
-      "rank": 14,
       "title": "Animal House",
       "url": "https://letterboxd.com/film/animal-house/",
       "director": "John Landis",
@@ -169,6 +157,18 @@
         "Tom Hulce"
       ],
       "genres": "Comedy"
+    },
+    {
+      "rank": 14,
+      "title": "Faces of Death",
+      "url": "https://letterboxd.com/film/faces-of-death/",
+      "director": "John Alan Schwartz",
+      "actors": [
+        "Michael Carr",
+        "Samuel Berkowitz",
+        "Mary Ellen Brighton"
+      ],
+      "genres": "Documentary, Horror"
     },
     {
       "rank": 15,
@@ -220,18 +220,6 @@
     },
     {
       "rank": 19,
-      "title": "The Lord of the Rings",
-      "url": "https://letterboxd.com/film/the-lord-of-the-rings/",
-      "director": "Ralph Bakshi",
-      "actors": [
-        "Christopher Guard",
-        "William Squire",
-        "Michael Scholes"
-      ],
-      "genres": "Fantasy, Adventure, Animation"
-    },
-    {
-      "rank": 20,
       "title": "Jaws 2",
       "url": "https://letterboxd.com/film/jaws-2/",
       "director": "Jeannot Szwarc",
@@ -241,6 +229,18 @@
         "Murray Hamilton"
       ],
       "genres": "Thriller, Horror"
+    },
+    {
+      "rank": 20,
+      "title": "The Lord of the Rings",
+      "url": "https://letterboxd.com/film/the-lord-of-the-rings/",
+      "director": "Ralph Bakshi",
+      "actors": [
+        "Christopher Guard",
+        "William Squire",
+        "Michael Scholes"
+      ],
+      "genres": "Fantasy, Adventure, Animation"
     },
     {
       "rank": 21,
@@ -400,6 +400,18 @@
     },
     {
       "rank": 34,
+      "title": "Interiors",
+      "url": "https://letterboxd.com/film/interiors/",
+      "director": "Woody Allen",
+      "actors": [
+        "Geraldine Page",
+        "Kristin Griffith",
+        "Mary Beth Hurt"
+      ],
+      "genres": "Drama"
+    },
+    {
+      "rank": 35,
       "title": "The Star Wars Holiday Special",
       "url": "https://letterboxd.com/film/the-star-wars-holiday-special/",
       "director": "Steve Binder",
@@ -411,7 +423,7 @@
       "genres": "Science Fiction, Family, TV Movie, Adventure"
     },
     {
-      "rank": 35,
+      "rank": 36,
       "title": "An Unmarried Woman",
       "url": "https://letterboxd.com/film/an-unmarried-woman/",
       "director": "Paul Mazursky",
@@ -423,7 +435,7 @@
       "genres": "Comedy, Drama, Romance"
     },
     {
-      "rank": 36,
+      "rank": 37,
       "title": "Pretty Baby",
       "url": "https://letterboxd.com/film/pretty-baby/",
       "director": "Louis Malle",
@@ -431,18 +443,6 @@
         "Brooke Shields",
         "Keith Carradine",
         "Susan Sarandon"
-      ],
-      "genres": "Drama"
-    },
-    {
-      "rank": 37,
-      "title": "Interiors",
-      "url": "https://letterboxd.com/film/interiors/",
-      "director": "Woody Allen",
-      "actors": [
-        "Geraldine Page",
-        "Kristin Griffith",
-        "Mary Beth Hurt"
       ],
       "genres": "Drama"
     },
@@ -484,18 +484,6 @@
     },
     {
       "rank": 41,
-      "title": "Heaven Can Wait",
-      "url": "https://letterboxd.com/film/heaven-can-wait-1978/",
-      "director": "Buck Henry, Warren Beatty",
-      "actors": [
-        "Warren Beatty",
-        "Julie Christie",
-        "James Mason"
-      ],
-      "genres": "Comedy, Fantasy, Romance"
-    },
-    {
-      "rank": 42,
       "title": "The Grapes of Death",
       "url": "https://letterboxd.com/film/the-grapes-of-death/",
       "director": "Jean Rollin",
@@ -507,19 +495,19 @@
       "genres": "Horror"
     },
     {
-      "rank": 43,
-      "title": "Eyes of Laura Mars",
-      "url": "https://letterboxd.com/film/eyes-of-laura-mars/",
-      "director": "Irvin Kershner",
+      "rank": 42,
+      "title": "Heaven Can Wait",
+      "url": "https://letterboxd.com/film/heaven-can-wait-1978/",
+      "director": "Buck Henry, Warren Beatty",
       "actors": [
-        "Faye Dunaway",
-        "Tommy Lee Jones",
-        "Brad Dourif"
+        "Warren Beatty",
+        "Julie Christie",
+        "James Mason"
       ],
-      "genres": "Horror, Thriller, Mystery"
+      "genres": "Comedy, Fantasy, Romance"
     },
     {
-      "rank": 44,
+      "rank": 43,
       "title": "I Wanna Hold Your Hand",
       "url": "https://letterboxd.com/film/i-wanna-hold-your-hand/",
       "director": "Robert Zemeckis",
@@ -529,6 +517,18 @@
         "Marc McClure"
       ],
       "genres": "Comedy, Music"
+    },
+    {
+      "rank": 44,
+      "title": "Eyes of Laura Mars",
+      "url": "https://letterboxd.com/film/eyes-of-laura-mars/",
+      "director": "Irvin Kershner",
+      "actors": [
+        "Faye Dunaway",
+        "Tommy Lee Jones",
+        "Brad Dourif"
+      ],
+      "genres": "Horror, Thriller, Mystery"
     },
     {
       "rank": 45,

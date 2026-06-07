@@ -64,18 +64,6 @@
     },
     {
       "rank": 6,
-      "title": "Back to the Future Part III",
-      "url": "https://letterboxd.com/film/back-to-the-future-part-iii/",
-      "director": "Robert Zemeckis",
-      "actors": [
-        "Michael J. Fox",
-        "Christopher Lloyd",
-        "Mary Steenburgen"
-      ],
-      "genres": "Comedy, Adventure, Science Fiction, Western"
-    },
-    {
-      "rank": 7,
       "title": "Wild at Heart",
       "url": "https://letterboxd.com/film/wild-at-heart/",
       "director": "David Lynch",
@@ -85,6 +73,18 @@
         "Willem Dafoe"
       ],
       "genres": "Crime, Thriller, Romance"
+    },
+    {
+      "rank": 7,
+      "title": "Back to the Future Part III",
+      "url": "https://letterboxd.com/film/back-to-the-future-part-iii/",
+      "director": "Robert Zemeckis",
+      "actors": [
+        "Michael J. Fox",
+        "Christopher Lloyd",
+        "Mary Steenburgen"
+      ],
+      "genres": "Comedy, Adventure, Science Fiction, Western"
     },
     {
       "rank": 8,
@@ -268,18 +268,6 @@
     },
     {
       "rank": 23,
-      "title": "Kindergarten Cop",
-      "url": "https://letterboxd.com/film/kindergarten-cop/",
-      "director": "Ivan Reitman",
-      "actors": [
-        "Arnold Schwarzenegger",
-        "Penelope Ann Miller",
-        "Pamela Reed"
-      ],
-      "genres": "Comedy"
-    },
-    {
-      "rank": 24,
       "title": "Cry-Baby",
       "url": "https://letterboxd.com/film/cry-baby/",
       "director": "John Waters",
@@ -291,7 +279,31 @@
       "genres": "Comedy, Romance"
     },
     {
+      "rank": 24,
+      "title": "Kindergarten Cop",
+      "url": "https://letterboxd.com/film/kindergarten-cop/",
+      "director": "Ivan Reitman",
+      "actors": [
+        "Arnold Schwarzenegger",
+        "Penelope Ann Miller",
+        "Pamela Reed"
+      ],
+      "genres": "Comedy"
+    },
+    {
       "rank": 25,
+      "title": "Tremors",
+      "url": "https://letterboxd.com/film/tremors/",
+      "director": "Ron Underwood",
+      "actors": [
+        "Kevin Bacon",
+        "Fred Ward",
+        "Finn Carter"
+      ],
+      "genres": "Horror, Science Fiction, Comedy"
+    },
+    {
+      "rank": 26,
       "title": "Dances with Wolves",
       "url": "https://letterboxd.com/film/dances-with-wolves/",
       "director": "Kevin Costner",
@@ -301,18 +313,6 @@
         "Graham Greene"
       ],
       "genres": "Western, Drama, Adventure"
-    },
-    {
-      "rank": 26,
-      "title": "Tremors",
-      "url": "https://letterboxd.com/film/tremors/",
-      "director": "Ron Underwood",
-      "actors": [
-        "Kevin Bacon",
-        "Fred Ward",
-        "Finn Carter"
-      ],
-      "genres": "Horror, Action, Science Fiction, Comedy"
     },
     {
       "rank": 27,
@@ -352,30 +352,6 @@
     },
     {
       "rank": 30,
-      "title": "Die Hard 2",
-      "url": "https://letterboxd.com/film/die-hard-2/",
-      "director": "Renny Harlin",
-      "actors": [
-        "Bruce Willis",
-        "Bonnie Bedelia",
-        "William Sadler"
-      ],
-      "genres": "Action, Thriller"
-    },
-    {
-      "rank": 31,
-      "title": "Gremlins 2: The New Batch",
-      "url": "https://letterboxd.com/film/gremlins-2-the-new-batch/",
-      "director": "Joe Dante",
-      "actors": [
-        "Zach Galligan",
-        "Phoebe Cates",
-        "John Glover"
-      ],
-      "genres": "Comedy, Fantasy, Horror"
-    },
-    {
-      "rank": 32,
       "title": "Rocky V",
       "url": "https://letterboxd.com/film/rocky-v/",
       "director": "John G. Avildsen",
@@ -387,19 +363,19 @@
       "genres": "Drama"
     },
     {
-      "rank": 33,
-      "title": "Child's Play 2",
-      "url": "https://letterboxd.com/film/childs-play-2/",
-      "director": "John Lafia",
+      "rank": 31,
+      "title": "Die Hard 2",
+      "url": "https://letterboxd.com/film/die-hard-2/",
+      "director": "Renny Harlin",
       "actors": [
-        "Alex Vincent",
-        "Brad Dourif",
-        "Christine Elise"
+        "Bruce Willis",
+        "Bonnie Bedelia",
+        "William Sadler"
       ],
-      "genres": "Horror"
+      "genres": "Action, Thriller"
     },
     {
-      "rank": 34,
+      "rank": 32,
       "title": "Bullet in the Head",
       "url": "https://letterboxd.com/film/bullet-in-the-head/",
       "director": "John Woo",
@@ -409,6 +385,30 @@
         "Waise Lee Chi-Hung"
       ],
       "genres": "Crime, War, Thriller, Action"
+    },
+    {
+      "rank": 33,
+      "title": "Gremlins 2: The New Batch",
+      "url": "https://letterboxd.com/film/gremlins-2-the-new-batch/",
+      "director": "Joe Dante",
+      "actors": [
+        "Zach Galligan",
+        "Phoebe Cates",
+        "John Glover"
+      ],
+      "genres": "Comedy, Fantasy, Horror"
+    },
+    {
+      "rank": 34,
+      "title": "Child's Play 2",
+      "url": "https://letterboxd.com/film/childs-play-2/",
+      "director": "John Lafia",
+      "actors": [
+        "Alex Vincent",
+        "Brad Dourif",
+        "Christine Elise"
+      ],
+      "genres": "Horror"
     },
     {
       "rank": 35,
@@ -532,18 +532,6 @@
     },
     {
       "rank": 45,
-      "title": "State of Grace",
-      "url": "https://letterboxd.com/film/state-of-grace/",
-      "director": "Phil Joanou",
-      "actors": [
-        "Sean Penn",
-        "Ed Harris",
-        "Gary Oldman"
-      ],
-      "genres": "Thriller, Drama, Crime"
-    },
-    {
-      "rank": 46,
       "title": "Bad Influence",
       "url": "https://letterboxd.com/film/bad-influence/",
       "director": "Curtis Hanson",
@@ -553,6 +541,18 @@
         "Lisa Zane"
       ],
       "genres": "Thriller"
+    },
+    {
+      "rank": 46,
+      "title": "State of Grace",
+      "url": "https://letterboxd.com/film/state-of-grace/",
+      "director": "Phil Joanou",
+      "actors": [
+        "Sean Penn",
+        "Ed Harris",
+        "Gary Oldman"
+      ],
+      "genres": "Thriller, Drama, Crime"
     },
     {
       "rank": 47,

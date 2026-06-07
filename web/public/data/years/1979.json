@@ -64,6 +64,18 @@
     },
     {
       "rank": 6,
+      "title": "Rocky II",
+      "url": "https://letterboxd.com/film/rocky-ii/",
+      "director": "Sylvester Stallone",
+      "actors": [
+        "Sylvester Stallone",
+        "Talia Shire",
+        "Burt Young"
+      ],
+      "genres": "Drama"
+    },
+    {
+      "rank": 7,
       "title": "Kramer vs. Kramer",
       "url": "https://letterboxd.com/film/kramer-vs-kramer/",
       "director": "Robert Benton",
@@ -75,7 +87,7 @@
       "genres": "Drama"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "The Muppet Movie",
       "url": "https://letterboxd.com/film/the-muppet-movie/",
       "director": "James Frawley",
@@ -85,18 +97,6 @@
         "Jerry Nelson"
       ],
       "genres": "Comedy, Family, Adventure"
-    },
-    {
-      "rank": 8,
-      "title": "Rocky II",
-      "url": "https://letterboxd.com/film/rocky-ii/",
-      "director": "Sylvester Stallone",
-      "actors": [
-        "Sylvester Stallone",
-        "Talia Shire",
-        "Burt Young"
-      ],
-      "genres": "Drama"
     },
     {
       "rank": 9,
@@ -160,15 +160,15 @@
     },
     {
       "rank": 14,
-      "title": "Nosferatu the Vampyre",
-      "url": "https://letterboxd.com/film/nosferatu-the-vampyre/",
-      "director": "Werner Herzog",
+      "title": "Manhattan",
+      "url": "https://letterboxd.com/film/manhattan/",
+      "director": "Woody Allen",
       "actors": [
-        "Klaus Kinski",
-        "Isabelle Adjani",
-        "Bruno Ganz"
+        "Woody Allen",
+        "Diane Keaton",
+        "Michael Murphy"
       ],
-      "genres": "Drama, Horror"
+      "genres": "Comedy, Drama, Romance"
     },
     {
       "rank": 15,
@@ -184,15 +184,15 @@
     },
     {
       "rank": 16,
-      "title": "Manhattan",
-      "url": "https://letterboxd.com/film/manhattan/",
-      "director": "Woody Allen",
+      "title": "Nosferatu the Vampyre",
+      "url": "https://letterboxd.com/film/nosferatu-the-vampyre/",
+      "director": "Werner Herzog",
       "actors": [
-        "Woody Allen",
-        "Diane Keaton",
-        "Michael Murphy"
+        "Klaus Kinski",
+        "Isabelle Adjani",
+        "Bruno Ganz"
       ],
-      "genres": "Comedy, Drama, Romance"
+      "genres": "Drama, Horror"
     },
     {
       "rank": 17,
@@ -256,18 +256,6 @@
     },
     {
       "rank": 22,
-      "title": "Phantasm",
-      "url": "https://letterboxd.com/film/phantasm/",
-      "director": "Don Coscarelli",
-      "actors": [
-        "A. Michael Baldwin",
-        "Bill Thornbury",
-        "Reggie Bannister"
-      ],
-      "genres": "Science Fiction, Horror"
-    },
-    {
-      "rank": 23,
       "title": "The Jerk",
       "url": "https://letterboxd.com/film/the-jerk/",
       "director": "Carl Reiner",
@@ -279,19 +267,19 @@
       "genres": "Comedy"
     },
     {
-      "rank": 24,
-      "title": "French Fried Vacation 2",
-      "url": "https://letterboxd.com/film/french-fried-vacation-2/",
-      "director": "Patrice Leconte",
+      "rank": 23,
+      "title": "Phantasm",
+      "url": "https://letterboxd.com/film/phantasm/",
+      "director": "Don Coscarelli",
       "actors": [
-        "Thierry Lhermitte",
-        "Michel Blanc",
-        "Christian Clavier"
+        "A. Michael Baldwin",
+        "Bill Thornbury",
+        "Reggie Bannister"
       ],
-      "genres": "Comedy"
+      "genres": "Science Fiction, Horror"
     },
     {
-      "rank": 25,
+      "rank": 24,
       "title": "Quadrophenia",
       "url": "https://letterboxd.com/film/quadrophenia/",
       "director": "Franc Roddam",
@@ -301,6 +289,18 @@
         "Phil Davis"
       ],
       "genres": "Drama, Music"
+    },
+    {
+      "rank": 25,
+      "title": "French Fried Vacation 2",
+      "url": "https://letterboxd.com/film/french-fried-vacation-2/",
+      "director": "Patrice Leconte",
+      "actors": [
+        "Thierry Lhermitte",
+        "Michel Blanc",
+        "Christian Clavier"
+      ],
+      "genres": "Comedy"
     },
     {
       "rank": 26,
@@ -348,6 +348,17 @@
     },
     {
       "rank": 30,
+      "title": "The Wizard of Speed and Time",
+      "url": "https://letterboxd.com/film/the-wizard-of-speed-and-time-1979/",
+      "director": "Mike Jittlov",
+      "actors": [
+        "Mike Jittlov",
+        "Toni Handcock"
+      ],
+      "genres": "Fantasy, Animation, Music, Comedy"
+    },
+    {
+      "rank": 31,
       "title": "Salem's Lot",
       "url": "https://letterboxd.com/film/salems-lot/",
       "director": "Tobe Hooper",
@@ -359,7 +370,7 @@
       "genres": "Horror, Mystery"
     },
     {
-      "rank": 31,
+      "rank": 32,
       "title": "Fascination",
       "url": "https://letterboxd.com/film/fascination-1979/",
       "director": "Jean Rollin",
@@ -369,17 +380,6 @@
         "Brigitte Lahaie"
       ],
       "genres": "Horror"
-    },
-    {
-      "rank": 32,
-      "title": "The Wizard of Speed and Time",
-      "url": "https://letterboxd.com/film/the-wizard-of-speed-and-time-1979/",
-      "director": "Mike Jittlov",
-      "actors": [
-        "Mike Jittlov",
-        "Toni Handcock"
-      ],
-      "genres": "Fantasy, Animation, Music, Comedy"
     },
     {
       "rank": 33,
@@ -407,18 +407,6 @@
     },
     {
       "rank": 35,
-      "title": "The Driller Killer",
-      "url": "https://letterboxd.com/film/the-driller-killer/",
-      "director": "Abel Ferrara",
-      "actors": [
-        "Abel Ferrara",
-        "Carolyn Marz",
-        "Baybi Day"
-      ],
-      "genres": "Horror"
-    },
-    {
-      "rank": 36,
       "title": "Tourist Trap",
       "url": "https://letterboxd.com/film/tourist-trap/",
       "director": "David Schmoeller",
@@ -428,6 +416,18 @@
         "Jon Van Ness"
       ],
       "genres": "Fantasy, Horror"
+    },
+    {
+      "rank": 36,
+      "title": "The Driller Killer",
+      "url": "https://letterboxd.com/film/the-driller-killer/",
+      "director": "Abel Ferrara",
+      "actors": [
+        "Abel Ferrara",
+        "Carolyn Marz",
+        "Baybi Day"
+      ],
+      "genres": "Horror"
     },
     {
       "rank": 37,
@@ -455,18 +455,6 @@
     },
     {
       "rank": 39,
-      "title": "Camera Buff",
-      "url": "https://letterboxd.com/film/camera-buff/",
-      "director": "Krzysztof Kieślowski",
-      "actors": [
-        "Jerzy Stuhr",
-        "Małgorzata Ząbkowska",
-        "Ewa Pokas"
-      ],
-      "genres": "Drama"
-    },
-    {
-      "rank": 40,
       "title": "Scum",
       "url": "https://letterboxd.com/film/scum/",
       "director": "Alan Clarke",
@@ -478,43 +466,19 @@
       "genres": "Crime, Drama"
     },
     {
-      "rank": 41,
-      "title": "The Marriage of Maria Braun",
-      "url": "https://letterboxd.com/film/the-marriage-of-maria-braun/",
-      "director": "Rainer Werner Fassbinder",
+      "rank": 40,
+      "title": "Camera Buff",
+      "url": "https://letterboxd.com/film/camera-buff/",
+      "director": "Krzysztof Kieślowski",
       "actors": [
-        "Hanna Schygulla",
-        "Klaus Löwitsch",
-        "Ivan Desny"
+        "Jerzy Stuhr",
+        "Małgorzata Ząbkowska",
+        "Ewa Pokas"
       ],
       "genres": "Drama"
     },
     {
-      "rank": 42,
-      "title": "Chilly Scenes of Winter",
-      "url": "https://letterboxd.com/film/chilly-scenes-of-winter/",
-      "director": "Joan Micklin Silver",
-      "actors": [
-        "John Heard",
-        "Mary Beth Hurt",
-        "Peter Riegert"
-      ],
-      "genres": "Romance, Comedy, Drama"
-    },
-    {
-      "rank": 43,
-      "title": "Dead Mountaineer's Hotel",
-      "url": "https://letterboxd.com/film/dead-mountaineers-hotel/",
-      "director": "Grigori Kromanov",
-      "actors": [
-        "Uldis Pūcītis",
-        "Jüri Järvet",
-        "Lembit Peterson"
-      ],
-      "genres": "Horror, Drama, Science Fiction, Crime"
-    },
-    {
-      "rank": 44,
+      "rank": 41,
       "title": "1941",
       "url": "https://letterboxd.com/film/1941/",
       "director": "Steven Spielberg",
@@ -526,19 +490,31 @@
       "genres": "War, Comedy, Action"
     },
     {
-      "rank": 45,
-      "title": "When a Stranger Calls",
-      "url": "https://letterboxd.com/film/when-a-stranger-calls/",
-      "director": "Fred Walton",
+      "rank": 42,
+      "title": "The Marriage of Maria Braun",
+      "url": "https://letterboxd.com/film/the-marriage-of-maria-braun/",
+      "director": "Rainer Werner Fassbinder",
       "actors": [
-        "Carol Kane",
-        "Charles Durning",
-        "Colleen Dewhurst"
+        "Hanna Schygulla",
+        "Klaus Löwitsch",
+        "Ivan Desny"
       ],
-      "genres": "Thriller, Horror"
+      "genres": "Drama"
     },
     {
-      "rank": 46,
+      "rank": 43,
+      "title": "Chilly Scenes of Winter",
+      "url": "https://letterboxd.com/film/chilly-scenes-of-winter/",
+      "director": "Joan Micklin Silver",
+      "actors": [
+        "John Heard",
+        "Mary Beth Hurt",
+        "Peter Riegert"
+      ],
+      "genres": "Romance, Comedy, Drama"
+    },
+    {
+      "rank": 44,
       "title": "Rapture",
       "url": "https://letterboxd.com/film/rapture-1979/",
       "director": "Iván Zulueta",
@@ -548,6 +524,30 @@
         "Will More"
       ],
       "genres": "Horror, Drama, Fantasy"
+    },
+    {
+      "rank": 45,
+      "title": "Dead Mountaineer's Hotel",
+      "url": "https://letterboxd.com/film/dead-mountaineers-hotel/",
+      "director": "Grigori Kromanov",
+      "actors": [
+        "Uldis Pūcītis",
+        "Jüri Järvet",
+        "Lembit Peterson"
+      ],
+      "genres": "Horror, Drama, Science Fiction, Crime"
+    },
+    {
+      "rank": 46,
+      "title": "When a Stranger Calls",
+      "url": "https://letterboxd.com/film/when-a-stranger-calls/",
+      "director": "Fred Walton",
+      "actors": [
+        "Carol Kane",
+        "Charles Durning",
+        "Colleen Dewhurst"
+      ],
+      "genres": "Thriller, Horror"
     },
     {
       "rank": 47,
@@ -583,7 +583,7 @@
         "Bunta Sugawara",
         "Kimiko Ikegami"
       ],
-      "genres": "Action, Thriller, Crime"
+      "genres": "Drama, Thriller, Crime"
     },
     {
       "rank": 50,

@@ -84,7 +84,7 @@
         "Dan Aykroyd",
         "James Brown"
       ],
-      "genres": "Music, Comedy, Crime"
+      "genres": "Music, Action, Comedy, Crime"
     },
     {
       "rank": 8,
@@ -264,15 +264,15 @@
     },
     {
       "rank": 23,
-      "title": "Kagemusha",
-      "url": "https://letterboxd.com/film/kagemusha/",
-      "director": "Akira Kurosawa",
+      "title": "Maniac",
+      "url": "https://letterboxd.com/film/maniac-1980/",
+      "director": "William Lustig",
       "actors": [
-        "Tatsuya Nakadai",
-        "Tsutomu Yamazaki",
-        "Kenichi Hagiwara"
+        "Joe Spinell",
+        "Caroline Munro",
+        "Abigail Clayton"
       ],
-      "genres": "Action, Drama, War, History"
+      "genres": "Horror"
     },
     {
       "rank": 24,
@@ -288,15 +288,15 @@
     },
     {
       "rank": 25,
-      "title": "Maniac",
-      "url": "https://letterboxd.com/film/maniac-1980/",
-      "director": "William Lustig",
+      "title": "Kagemusha",
+      "url": "https://letterboxd.com/film/kagemusha/",
+      "director": "Akira Kurosawa",
       "actors": [
-        "Joe Spinell",
-        "Caroline Munro",
-        "Abigail Clayton"
+        "Tatsuya Nakadai",
+        "Tsutomu Yamazaki",
+        "Kenichi Hagiwara"
       ],
-      "genres": "Horror"
+      "genres": "Action, Drama, War, History"
     },
     {
       "rank": 26,
@@ -456,6 +456,18 @@
     },
     {
       "rank": 39,
+      "title": "Bye Bye Brazil",
+      "url": "https://letterboxd.com/film/bye-bye-brazil/",
+      "director": "Carlos Diegues",
+      "actors": [
+        "José Wilker",
+        "Betty Faria",
+        "Fábio Júnior"
+      ],
+      "genres": "Drama"
+    },
+    {
+      "rank": 40,
       "title": "The Stunt Man",
       "url": "https://letterboxd.com/film/the-stunt-man/",
       "director": "Richard Rush",
@@ -467,7 +479,7 @@
       "genres": "Action, Thriller, Romance, Comedy, Drama"
     },
     {
-      "rank": 40,
+      "rank": 41,
       "title": "Alligator",
       "url": "https://letterboxd.com/film/alligator/",
       "director": "Lewis Teague",
@@ -477,18 +489,6 @@
         "Michael V. Gazzo"
       ],
       "genres": "Thriller, Horror, Science Fiction"
-    },
-    {
-      "rank": 41,
-      "title": "Bye Bye Brazil",
-      "url": "https://letterboxd.com/film/bye-bye-brazil/",
-      "director": "Carlos Diegues",
-      "actors": [
-        "José Wilker",
-        "Betty Faria",
-        "Fábio Júnior"
-      ],
-      "genres": "Drama"
     },
     {
       "rank": 42,
@@ -564,6 +564,18 @@
     },
     {
       "rank": 48,
+      "title": "Heaven's Gate",
+      "url": "https://letterboxd.com/film/heavens-gate/",
+      "director": "Michael Cimino",
+      "actors": [
+        "Kris Kristofferson",
+        "Christopher Walken",
+        "John Hurt"
+      ],
+      "genres": "Drama, Western, History"
+    },
+    {
+      "rank": 49,
       "title": "Werner Herzog Eats His Shoe",
       "url": "https://letterboxd.com/film/werner-herzog-eats-his-shoe/",
       "director": "Les Blank",
@@ -573,18 +585,6 @@
         "Tom Luddy"
       ],
       "genres": "Documentary, Comedy"
-    },
-    {
-      "rank": 49,
-      "title": "Forbidden Zone",
-      "url": "https://letterboxd.com/film/forbidden-zone/",
-      "director": "Richard Elfman",
-      "actors": [
-        "Hervé Villechaize",
-        "Susan Tyrrell",
-        "Matthew Bright"
-      ],
-      "genres": "Comedy, Fantasy, Music"
     },
     {
       "rank": 50,

@@ -112,18 +112,6 @@
     },
     {
       "rank": 10,
-      "title": "Dune",
-      "url": "https://letterboxd.com/film/dune/",
-      "director": "David Lynch",
-      "actors": [
-        "Kyle MacLachlan",
-        "Francesca Annis",
-        "Patrick Stewart"
-      ],
-      "genres": "Adventure, Science Fiction, Action"
-    },
-    {
-      "rank": 11,
       "title": "Once Upon a Time in America",
       "url": "https://letterboxd.com/film/once-upon-a-time-in-america/",
       "director": "Sergio Leone",
@@ -133,6 +121,18 @@
         "Elizabeth McGovern"
       ],
       "genres": "Crime, Drama"
+    },
+    {
+      "rank": 11,
+      "title": "Dune",
+      "url": "https://letterboxd.com/film/dune/",
+      "director": "David Lynch",
+      "actors": [
+        "Kyle MacLachlan",
+        "Francesca Annis",
+        "Patrick Stewart"
+      ],
+      "genres": "Adventure, Science Fiction, Action"
     },
     {
       "rank": 12,
@@ -412,18 +412,6 @@
     },
     {
       "rank": 35,
-      "title": "Twenty Years Later",
-      "url": "https://letterboxd.com/film/twenty-years-later/",
-      "director": "Eduardo Coutinho",
-      "actors": [
-        "Eduardo Coutinho",
-        "Elizabeth Teixeira",
-        "Ferreira Gullar"
-      ],
-      "genres": "History, Documentary"
-    },
-    {
-      "rank": 36,
       "title": "Streetwise",
       "url": "https://letterboxd.com/film/streetwise/",
       "director": "Martin Bell",
@@ -433,6 +421,18 @@
         "Roberta Joseph Hayes"
       ],
       "genres": "Documentary"
+    },
+    {
+      "rank": 36,
+      "title": "Twenty Years Later",
+      "url": "https://letterboxd.com/film/twenty-years-later/",
+      "director": "Eduardo Coutinho",
+      "actors": [
+        "Eduardo Coutinho",
+        "Elizabeth Teixeira",
+        "Ferreira Gullar"
+      ],
+      "genres": "History, Documentary"
     },
     {
       "rank": 37,
@@ -532,18 +532,6 @@
     },
     {
       "rank": 45,
-      "title": "The Adventures of Buckaroo Banzai Across the 8th Dimension",
-      "url": "https://letterboxd.com/film/the-adventures-of-buckaroo-banzai-across-the-8th-dimension/",
-      "director": "W.D. Richter",
-      "actors": [
-        "Peter Weller",
-        "John Lithgow",
-        "Ellen Barkin"
-      ],
-      "genres": "Comedy, Science Fiction, Romance, Adventure"
-    },
-    {
-      "rank": 46,
       "title": "Night of the Comet",
       "url": "https://letterboxd.com/film/night-of-the-comet/",
       "director": "Thom Eberhardt",
@@ -555,7 +543,7 @@
       "genres": "Science Fiction, Comedy, Horror"
     },
     {
-      "rank": 47,
+      "rank": 46,
       "title": "Crimes of Passion",
       "url": "https://letterboxd.com/film/crimes-of-passion/",
       "director": "Ken Russell",
@@ -565,6 +553,18 @@
         "John Laughlin"
       ],
       "genres": "Thriller, Crime, Drama"
+    },
+    {
+      "rank": 47,
+      "title": "The Adventures of Buckaroo Banzai Across the 8th Dimension",
+      "url": "https://letterboxd.com/film/the-adventures-of-buckaroo-banzai-across-the-8th-dimension/",
+      "director": "W.D. Richter",
+      "actors": [
+        "Peter Weller",
+        "John Lithgow",
+        "Ellen Barkin"
+      ],
+      "genres": "Comedy, Science Fiction, Romance, Adventure"
     },
     {
       "rank": 48,

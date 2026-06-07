@@ -15,10 +15,10 @@ rank,title,director,actors,genres,url
 14,Manhunter,Michael Mann,William L. Petersen; Tom Noonan; Dennis Farina,"Horror, Thriller, Crime",https://letterboxd.com/film/manhunter/
 15,The Color of Money,Martin Scorsese,Paul Newman; Tom Cruise; Mary Elizabeth Mastrantonio,Drama,https://letterboxd.com/film/the-color-of-money/
 16,Highlander,Russell Mulcahy,Christopher Lambert; Roxanne Hart; Clancy Brown,"Action, Adventure, Fantasy",https://letterboxd.com/film/highlander/
-17,The Texas Chainsaw Massacre 2,Tobe Hooper,Dennis Hopper; Caroline Williams; Bill Johnson,"Comedy, Horror",https://letterboxd.com/film/the-texas-chainsaw-massacre-2/
+17,The Texas Chainsaw Massacre 2,Tobe Hooper,Dennis Hopper; Caroline Williams; Jim Siedow,"Comedy, Horror",https://letterboxd.com/film/the-texas-chainsaw-massacre-2/
 18,The Name of the Rose,Jean-Jacques Annaud,Sean Connery; Christian Slater; Helmut Qualtinger,"Drama, Mystery, Thriller",https://letterboxd.com/film/the-name-of-the-rose/
-19,The Sacrifice,Andrei Tarkovsky,Erland Josephson; Susan Fleetwood; Allan Edwall,Drama,https://letterboxd.com/film/the-sacrifice/
-20,Jason Lives - Friday the 13th Part VI,Tom McLoughlin,Thom Mathews; Jennifer Cooke; David Kagen,"Thriller, Horror",https://letterboxd.com/film/jason-lives-friday-the-13th-part-vi/
+19,Jason Lives - Friday the 13th Part VI,Tom McLoughlin,Thom Mathews; Jennifer Cooke; David Kagen,"Thriller, Horror",https://letterboxd.com/film/jason-lives-friday-the-13th-part-vi/
+20,The Sacrifice,Andrei Tarkovsky,Erland Josephson; Susan Fleetwood; Allan Edwall,Drama,https://letterboxd.com/film/the-sacrifice/
 21,A Room with a View,James Ivory,Helena Bonham Carter; Julian Sands; Maggie Smith,"Romance, Drama",https://letterboxd.com/film/a-room-with-a-view/
 22,The Karate Kid Part II,John G. Avildsen,Ralph Macchio; Pat Morita; Danny Kamekona,"Action, Family, Romance, Drama, Adventure",https://letterboxd.com/film/the-karate-kid-part-ii/
 23,Something Wild,Jonathan Demme,Jeff Daniels; Melanie Griffith; Ray Liotta,"Romance, Crime, Comedy",https://letterboxd.com/film/something-wild/
@@ -29,11 +29,11 @@ rank,title,director,actors,genres,url
 28,The Hitcher,Robert Harmon,Rutger Hauer; C. Thomas Howell; Jennifer Jason Leigh,"Horror, Thriller, Action",https://letterboxd.com/film/the-hitcher/
 29,She's Gotta Have It,Spike Lee,Tracy Camilla Johns; Tommy Redmond Hicks; John Canada Terrell,"Comedy, Romance",https://letterboxd.com/film/shes-gotta-have-it/
 30,Down by Law,Jim Jarmusch,Tom Waits; John Lurie; Roberto Benigni,"Comedy, Drama, Crime",https://letterboxd.com/film/down-by-law/
-31,¡Three Amigos!,John Landis,Chevy Chase; Steve Martin; Martin Short,"Western, Comedy, Action",https://letterboxd.com/film/three-amigos/
-32,True Stories,David Byrne,David Byrne; John Goodman; Annie McEnroe,"Comedy, Music",https://letterboxd.com/film/true-stories/
-33,Heartburn,Mike Nichols,Meryl Streep; Jack Nicholson; Jeff Daniels,"Comedy, Drama, Romance",https://letterboxd.com/film/heartburn/
-34,"His Motorbike, Her Island",Nobuhiko Obayashi,Riki Takeuchi; Kiwako Harada; Noriko Watanabe,"Drama, Romance",https://letterboxd.com/film/his-motorbike-her-island/
-35,Crocodile Dundee,Peter Faiman,Paul Hogan; Linda Kozlowski; Mark Blum,"Comedy, Adventure",https://letterboxd.com/film/crocodile-dundee/
+31,True Stories,David Byrne,David Byrne; John Goodman; Annie McEnroe,"Comedy, Music",https://letterboxd.com/film/true-stories/
+32,¡Three Amigos!,John Landis,Chevy Chase; Steve Martin; Martin Short,"Western, Comedy, Action",https://letterboxd.com/film/three-amigos/
+33,Crocodile Dundee,Peter Faiman,Paul Hogan; Linda Kozlowski; Mark Blum,"Comedy, Adventure",https://letterboxd.com/film/crocodile-dundee/
+34,Heartburn,Mike Nichols,Meryl Streep; Jack Nicholson; Jeff Daniels,"Comedy, Drama, Romance",https://letterboxd.com/film/heartburn/
+35,"His Motorbike, Her Island",Nobuhiko Obayashi,Riki Takeuchi; Kiwako Harada; Noriko Watanabe,"Drama, Romance",https://letterboxd.com/film/his-motorbike-her-island/
 36,Hannah and Her Sisters,Woody Allen,Mia Farrow; Barbara Hershey; Dianne Wiest,"Comedy, Drama",https://letterboxd.com/film/hannah-and-her-sisters/
 37,Betty Blue,Jean-Jacques Beineix,Jean-Hugues Anglade; Béatrice Dalle; Gérard Darmon,"Romance, Drama",https://letterboxd.com/film/betty-blue/
 38,When the Wind Blows,Jimmy T. Murakami,John Mills; Peggy Ashcroft; Robin Houston,"War, Animation, Drama",https://letterboxd.com/film/when-the-wind-blows/
@@ -44,8 +44,8 @@ rank,title,director,actors,genres,url
 43,Cobra,George P. Cosmatos,Sylvester Stallone; Brigitte Nielsen; Reni Santoni,"Action, Thriller, Crime",https://letterboxd.com/film/cobra-1986/
 44,Star Trek IV: The Voyage Home,Leonard Nimoy,William Shatner; Leonard Nimoy; DeForest Kelley,"Science Fiction, Adventure",https://letterboxd.com/film/star-trek-iv-the-voyage-home/
 45,Peking Opera Blues,Tsui Hark,Brigitte Lin; Sally Yip Sin-Man; Cherie Chung Cho-Hung,"Comedy, Drama, Action",https://letterboxd.com/film/peking-opera-blues/
-46,Hoosiers,David Anspaugh,Gene Hackman; Barbara Hershey; Dennis Hopper,"Family, Drama",https://letterboxd.com/film/hoosiers/
-47,Peggy Sue Got Married,Francis Ford Coppola,Kathleen Turner; Nicolas Cage; Barry Miller,"Comedy, Fantasy, Drama",https://letterboxd.com/film/peggy-sue-got-married/
+46,Caravaggio,Derek Jarman,Nigel Terry; Sean Bean; Garry Cooper,"History, Romance, Drama",https://letterboxd.com/film/caravaggio/
+47,Hoosiers,David Anspaugh,Gene Hackman; Barbara Hershey; Dennis Hopper,"Family, Drama",https://letterboxd.com/film/hoosiers/
 48,The Mission,Roland Joffé,Robert De Niro; Jeremy Irons; Ray McAnally,"Drama, Adventure, Action, History",https://letterboxd.com/film/the-mission/
-49,Caravaggio,Derek Jarman,Nigel Terry; Sean Bean; Garry Cooper,"History, Romance, Drama",https://letterboxd.com/film/caravaggio/
+49,Peggy Sue Got Married,Francis Ford Coppola,Kathleen Turner; Nicolas Cage; Barry Miller,"Comedy, Fantasy, Drama",https://letterboxd.com/film/peggy-sue-got-married/
 50,The Transformers: The Movie,Nelson Shin,Judd Nelson; Peter Cullen; Frank Welker,"Adventure, Science Fiction, Action, Animation, Family",https://letterboxd.com/film/the-transformers-the-movie/

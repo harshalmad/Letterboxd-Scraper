@@ -1,7 +1,7 @@
 rank,title,director,actors,genres,url
-1,The Princess Bride,Rob Reiner,Cary Elwes; Robin Wright; Mandy Patinkin,"Adventure, Fantasy, Comedy, Family, Romance",https://letterboxd.com/film/the-princess-bride/
-2,Full Metal Jacket,Stanley Kubrick,Matthew Modine; Adam Baldwin; Vincent D'Onofrio,"Drama, War",https://letterboxd.com/film/full-metal-jacket/
-3,Dirty Dancing,Emile Ardolino,Jennifer Grey; Patrick Swayze; Cynthia Rhodes,"Music, Drama, Romance",https://letterboxd.com/film/dirty-dancing/
+1,The Princess Bride,Rob Reiner,Cary Elwes; Robin Wright; Mandy Patinkin,"Adventure, Fantasy, Family, Romance",https://letterboxd.com/film/the-princess-bride/
+2,Dirty Dancing,Emile Ardolino,Jennifer Grey; Patrick Swayze; Cynthia Rhodes,"Music, Drama, Romance",https://letterboxd.com/film/dirty-dancing/
+3,Full Metal Jacket,Stanley Kubrick,Matthew Modine; Adam Baldwin; Vincent D'Onofrio,"Drama, War",https://letterboxd.com/film/full-metal-jacket/
 4,Moonstruck,Norman Jewison,Cher; Nicolas Cage; Vincent Gardenia,"Romance, Comedy, Drama",https://letterboxd.com/film/moonstruck/
 5,Predator,John McTiernan,Arnold Schwarzenegger; Carl Weathers; Kevin Peter Hall,"Thriller, Adventure, Science Fiction, Action",https://letterboxd.com/film/predator/
 6,RoboCop,Paul Verhoeven,Peter Weller; Nancy Allen; Dan O'Herlihy,"Action, Thriller, Science Fiction",https://letterboxd.com/film/robocop/
@@ -13,8 +13,8 @@ rank,title,director,actors,genres,url
 12,The Untouchables,Brian De Palma,Kevin Costner; Sean Connery; Robert De Niro,"History, Thriller, Crime",https://letterboxd.com/film/the-untouchables/
 13,Wings of Desire,Wim Wenders,Bruno Ganz; Solveig Dommartin; Otto Sander,"Drama, Fantasy, Romance",https://letterboxd.com/film/wings-of-desire/
 14,Where Is the Friend's House?,Abbas Kiarostami,Babek Ahmadpour; Ahmed Ahmadpour; Kheda Barech Defai,"Drama, Adventure",https://letterboxd.com/film/where-is-the-friends-house/
-15,The Running Man,Paul Michael Glaser,Arnold Schwarzenegger; Richard Dawson; María Conchita Alonso,"Action, Thriller, Science Fiction",https://letterboxd.com/film/the-running-man/
-16,Maurice,James Ivory,James Wilby; Hugh Grant; Rupert Graves,"Drama, Romance",https://letterboxd.com/film/maurice/
+15,Maurice,James Ivory,James Wilby; Hugh Grant; Rupert Graves,"Drama, Romance",https://letterboxd.com/film/maurice/
+16,The Running Man,Paul Michael Glaser,Arnold Schwarzenegger; Richard Dawson; María Conchita Alonso,"Action, Thriller, Science Fiction",https://letterboxd.com/film/the-running-man/
 17,Withnail & I,Bruce Robinson,Richard E. Grant; Paul McGann; Richard Griffiths,"Comedy, Drama",https://letterboxd.com/film/withnail-i/
 18,Overboard,Garry Marshall,Goldie Hawn; Kurt Russell; Edward Herrmann,"Romance, Comedy",https://letterboxd.com/film/overboard/
 19,Wall Street,Oliver Stone,Michael Douglas; Charlie Sheen; Martin Sheen,"Crime, Drama",https://letterboxd.com/film/wall-street/
@@ -22,30 +22,30 @@ rank,title,director,actors,genres,url
 21,"Good Morning, Vietnam",Barry Levinson,Robin Williams; Forest Whitaker; Tom T. Tran,"Comedy, Drama, War",https://letterboxd.com/film/good-morning-vietnam/
 22,Can't Buy Me Love,Steve Rash,Patrick Dempsey; Amanda Peterson; Courtney Gains,"Comedy, Romance",https://letterboxd.com/film/cant-buy-me-love/
 23,Fatal Attraction,Adrian Lyne,Michael Douglas; Glenn Close; Anne Archer,"Romance, Thriller, Drama",https://letterboxd.com/film/fatal-attraction/
-24,The Living Daylights,John Glen,Timothy Dalton; Maryam D'Abo; Joe Don Baker,"Action, Thriller, Adventure",https://letterboxd.com/film/the-living-daylights/
-25,City on Fire,Ringo Lam Ling-Tung,Chow Yun-Fat; Sun Yueh; Danny Lee Sau-Yin,"Action, Thriller, Crime",https://letterboxd.com/film/city-on-fire/
-26,Empire of the Sun,Steven Spielberg,Christian Bale; John Malkovich; Miranda Richardson,"History, War, Drama",https://letterboxd.com/film/empire-of-the-sun/
+24,Empire of the Sun,Steven Spielberg,Christian Bale; John Malkovich; Miranda Richardson,"History, War, Drama",https://letterboxd.com/film/empire-of-the-sun/
+25,The Living Daylights,John Glen,Timothy Dalton; Maryam D'Abo; Joe Don Baker,"Action, Thriller, Adventure",https://letterboxd.com/film/the-living-daylights/
+26,City on Fire,Ringo Lam Ling-Tung,Chow Yun-Fat; Sun Yueh; Danny Lee Sau-Yin,"Action, Thriller, Crime",https://letterboxd.com/film/city-on-fire/
 27,Michael Jackson: Bad,Martin Scorsese,Michael Jackson; Wesley Snipes; Jaime Perry,Music,https://letterboxd.com/film/bad-1987-1/
 28,"Planes, Trains and Automobiles",John Hughes,Steve Martin; John Candy; Laila Robins,Comedy,https://letterboxd.com/film/planes-trains-and-automobiles/
 29,A Nightmare on Elm Street 3: Dream Warriors,Chuck Russell,Heather Langenkamp; Patricia Arquette; Craig Wasson,"Thriller, Fantasy, Horror",https://letterboxd.com/film/a-nightmare-on-elm-street-3-dream-warriors/
 30,Broadcast News,James L. Brooks,Holly Hunter; William Hurt; Albert Brooks,"Comedy, Romance",https://letterboxd.com/film/broadcast-news/
-31,The Last Emperor,Bernardo Bertolucci,John Lone; Joan Chen; Peter O'Toole,"Drama, History",https://letterboxd.com/film/the-last-emperor/
-32,Angel Heart,Alan Parker,Mickey Rourke; Robert De Niro; Lisa Bonet,"Horror, Mystery",https://letterboxd.com/film/angel-heart/
-33,La Bamba,Luis Valdez,Lou Diamond Phillips; Danielle von Zerneck; Elizabeth Peña,"Music, Drama",https://letterboxd.com/film/la-bamba/
-34,Prince of Darkness,John Carpenter,Donald Pleasence; Lisa Blount; Victor Wong,Horror,https://letterboxd.com/film/prince-of-darkness/
+31,Masters of the Universe,Gary Goddard,Dolph Lundgren; Frank Langella; Meg Foster,"Thriller, Adventure, Action, Science Fiction, Fantasy",https://letterboxd.com/film/masters-of-the-universe/
+32,The Last Emperor,Bernardo Bertolucci,John Lone; Joan Chen; Peter O'Toole,"Drama, History",https://letterboxd.com/film/the-last-emperor/
+33,Angel Heart,Alan Parker,Mickey Rourke; Robert De Niro; Lisa Bonet,"Horror, Mystery",https://letterboxd.com/film/angel-heart/
+34,La Bamba,Luis Valdez,Lou Diamond Phillips; Danielle von Zerneck; Elizabeth Peña,"Music, Drama",https://letterboxd.com/film/la-bamba/
 35,The Witches of Eastwick,George Miller,Jack Nicholson; Cher; Susan Sarandon,"Fantasy, Horror, Comedy",https://letterboxd.com/film/the-witches-of-eastwick/
-36,Au Revoir les Enfants,Louis Malle,Gaspard Manesse; Raphael Fejtö; Francine Racette,"Drama, War",https://letterboxd.com/film/au-revoir-les-enfants/
-37,Near Dark,Kathryn Bigelow,Adrian Pasdar; Jenny Wright; Lance Henriksen,Horror,https://letterboxd.com/film/near-dark/
+36,Prince of Darkness,John Carpenter,Donald Pleasence; Lisa Blount; Victor Wong,Horror,https://letterboxd.com/film/prince-of-darkness/
+37,Au Revoir les Enfants,Louis Malle,Gaspard Manesse; Raphael Fejtö; Francine Racette,"Drama, War",https://letterboxd.com/film/au-revoir-les-enfants/
 38,Opera,Dario Argento,Cristina Marsillach; Ian Charleson; Urbano Barberini,"Thriller, Horror, Mystery",https://letterboxd.com/film/opera/
-39,A Chinese Ghost Story,Tony Ching Siu-Tung,Leslie Cheung; Joey Wong Cho-Yin; Wu Ma,"Fantasy, Action, Horror",https://letterboxd.com/film/a-chinese-ghost-story/
-40,Masters of the Universe,Gary Goddard,Dolph Lundgren; Frank Langella; Meg Foster,"Thriller, Adventure, Action, Science Fiction, Fantasy",https://letterboxd.com/film/masters-of-the-universe/
+39,Near Dark,Kathryn Bigelow,Adrian Pasdar; Jenny Wright; Lance Henriksen,Horror,https://letterboxd.com/film/near-dark/
+40,A Chinese Ghost Story,Tony Ching Siu-Tung,Leslie Cheung; Joey Wong Cho-Yin; Wu Ma,"Fantasy, Action, Horror",https://letterboxd.com/film/a-chinese-ghost-story/
 41,Adventures in Babysitting,Chris Columbus,Elisabeth Shue; Maia Brewton; Keith Coogan,Comedy,https://letterboxd.com/film/adventures-in-babysitting/
 42,A Better Tomorrow II,John Woo,Ti Lung; Leslie Cheung; Dean Shek Tin,"Crime, Thriller, Action",https://letterboxd.com/film/a-better-tomorrow-ii/
 43,Beverly Hills Cop II,Tony Scott,Eddie Murphy; Judge Reinhold; John Ashton,"Action, Crime, Comedy",https://letterboxd.com/film/beverly-hills-cop-ii/
-44,Throw Momma from the Train,Danny DeVito,Danny DeVito; Billy Crystal; Kim Greist,"Comedy, Thriller, Crime",https://letterboxd.com/film/throw-momma-from-the-train/
-45,Law of Desire,Pedro Almodóvar,Eusebio Poncela; Carmen Maura; Antonio Banderas,"Comedy, Thriller, Romance, Drama",https://letterboxd.com/film/law-of-desire/
-46,Baby Boom,Charles Shyer,Diane Keaton; Sam Shepard; Harold Ramis,"Drama, Comedy, Romance",https://letterboxd.com/film/baby-boom/
-47,Innerspace,Joe Dante,Dennis Quaid; Martin Short; Meg Ryan,"Action, Science Fiction, Comedy",https://letterboxd.com/film/innerspace/
-48,The Dead,John Huston,Anjelica Huston; Donal McCann; Dan O'Herlihy,Drama,https://letterboxd.com/film/the-dead/
-49,No Way Out,Roger Donaldson,Kevin Costner; Gene Hackman; Sean Young,"Thriller, Drama",https://letterboxd.com/film/no-way-out-1987/
+44,Law of Desire,Pedro Almodóvar,Eusebio Poncela; Carmen Maura; Antonio Banderas,"Comedy, Thriller, Romance, Drama",https://letterboxd.com/film/law-of-desire/
+45,Throw Momma from the Train,Danny DeVito,Danny DeVito; Billy Crystal; Kim Greist,"Comedy, Thriller, Crime",https://letterboxd.com/film/throw-momma-from-the-train/
+46,Innerspace,Joe Dante,Dennis Quaid; Martin Short; Meg Ryan,"Action, Science Fiction, Comedy",https://letterboxd.com/film/innerspace/
+47,Baby Boom,Charles Shyer,Diane Keaton; Sam Shepard; Harold Ramis,"Drama, Comedy, Romance",https://letterboxd.com/film/baby-boom/
+48,No Way Out,Roger Donaldson,Kevin Costner; Gene Hackman; Sean Young,"Thriller, Drama",https://letterboxd.com/film/no-way-out-1987/
+49,The Dead,John Huston,Anjelica Huston; Donal McCann; Dan O'Herlihy,Drama,https://letterboxd.com/film/the-dead/
 50,3 Men and a Baby,Leonard Nimoy,Tom Selleck; Steve Guttenberg; Ted Danson,Comedy,https://letterboxd.com/film/3-men-and-a-baby/

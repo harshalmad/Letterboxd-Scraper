@@ -88,18 +88,6 @@
     },
     {
       "rank": 8,
-      "title": "The Life of Chuck",
-      "url": "https://letterboxd.com/film/the-life-of-chuck/",
-      "director": "Mike Flanagan",
-      "actors": [
-        "Tom Hiddleston",
-        "Benjamin Pajak",
-        "Nick Offerman"
-      ],
-      "genres": "Drama, Fantasy"
-    },
-    {
-      "rank": 9,
       "title": "Heretic",
       "url": "https://letterboxd.com/film/heretic-2024/",
       "director": "Scott Beck, Bryan Woods",
@@ -109,6 +97,18 @@
         "Chloe East"
       ],
       "genres": "Thriller, Horror"
+    },
+    {
+      "rank": 9,
+      "title": "The Life of Chuck",
+      "url": "https://letterboxd.com/film/the-life-of-chuck/",
+      "director": "Mike Flanagan",
+      "actors": [
+        "Tom Hiddleston",
+        "Benjamin Pajak",
+        "Nick Offerman"
+      ],
+      "genres": "Drama, Fantasy"
     },
     {
       "rank": 10,
@@ -172,18 +172,6 @@
     },
     {
       "rank": 15,
-      "title": "Inside Out 2",
-      "url": "https://letterboxd.com/film/inside-out-2-2024/",
-      "director": "Kelsey Mann",
-      "actors": [
-        "Amy Poehler",
-        "Maya Hawke",
-        "Kensington Tallman"
-      ],
-      "genres": "Comedy, Family, Adventure, Animation"
-    },
-    {
-      "rank": 16,
       "title": "Smile 2",
       "url": "https://letterboxd.com/film/smile-2-2024/",
       "director": "Parker Finn",
@@ -193,6 +181,18 @@
         "Lukas Gage"
       ],
       "genres": "Mystery, Horror, Thriller, Music"
+    },
+    {
+      "rank": 16,
+      "title": "Inside Out 2",
+      "url": "https://letterboxd.com/film/inside-out-2-2024/",
+      "director": "Kelsey Mann",
+      "actors": [
+        "Amy Poehler",
+        "Maya Hawke",
+        "Kensington Tallman"
+      ],
+      "genres": "Comedy, Family, Adventure, Animation"
     },
     {
       "rank": 17,
@@ -216,18 +216,6 @@
     },
     {
       "rank": 19,
-      "title": "Blink Twice",
-      "url": "https://letterboxd.com/film/blink-twice/",
-      "director": "Zoë Kravitz",
-      "actors": [
-        "Naomi Ackie",
-        "Channing Tatum",
-        "Alia Shawkat"
-      ],
-      "genres": "Mystery, Horror, Thriller"
-    },
-    {
-      "rank": 20,
       "title": "Look Back",
       "url": "https://letterboxd.com/film/look-back-2024/",
       "director": "Kiyotaka Oshiyama",
@@ -237,6 +225,18 @@
         "Yoichiro Saito"
       ],
       "genres": "Animation, Drama"
+    },
+    {
+      "rank": 20,
+      "title": "Blink Twice",
+      "url": "https://letterboxd.com/film/blink-twice/",
+      "director": "Zoë Kravitz",
+      "actors": [
+        "Naomi Ackie",
+        "Channing Tatum",
+        "Alia Shawkat"
+      ],
+      "genres": "Mystery, Horror, Thriller"
     },
     {
       "rank": 21,
@@ -252,18 +252,6 @@
     },
     {
       "rank": 22,
-      "title": "Two People Exchanging Saliva",
-      "url": "https://letterboxd.com/film/two-people-exchanging-saliva/",
-      "director": "Alexandre Singh, Natalie Musteata",
-      "actors": [
-        "Zar Amir Ebrahimi",
-        "Luàna Bajrami",
-        "Aurélie Boquien"
-      ],
-      "genres": "Science Fiction, Fantasy, Drama"
-    },
-    {
-      "rank": 23,
       "title": "Abigail",
       "url": "https://letterboxd.com/film/abigail-2024/",
       "director": "Tyler Gillett, Matt Bettinelli-Olpin",
@@ -273,6 +261,18 @@
         "Alisha Weir"
       ],
       "genres": "Horror, Thriller"
+    },
+    {
+      "rank": 23,
+      "title": "Two People Exchanging Saliva",
+      "url": "https://letterboxd.com/film/two-people-exchanging-saliva/",
+      "director": "Alexandre Singh, Natalie Musteata",
+      "actors": [
+        "Zar Amir Ebrahimi",
+        "Luàna Bajrami",
+        "Aurélie Boquien"
+      ],
+      "genres": "Science Fiction, Fantasy, Drama"
     },
     {
       "rank": 24,
@@ -312,6 +312,18 @@
     },
     {
       "rank": 27,
+      "title": "Speak No Evil",
+      "url": "https://letterboxd.com/film/speak-no-evil-2024/",
+      "director": "James Watkins",
+      "actors": [
+        "James McAvoy",
+        "Mackenzie Davis",
+        "Scoot McNairy"
+      ],
+      "genres": "Thriller, Horror"
+    },
+    {
+      "rank": 28,
       "title": "Friendship",
       "url": "https://letterboxd.com/film/friendship-2024/",
       "director": "Andrew DeYoung",
@@ -323,7 +335,7 @@
       "genres": "Comedy, Drama"
     },
     {
-      "rank": 28,
+      "rank": 29,
       "title": "A Complete Unknown",
       "url": "https://letterboxd.com/film/a-complete-unknown/",
       "director": "James Mangold",
@@ -333,18 +345,6 @@
         "Elle Fanning"
       ],
       "genres": "Drama, Music"
-    },
-    {
-      "rank": 29,
-      "title": "Speak No Evil",
-      "url": "https://letterboxd.com/film/speak-no-evil-2024/",
-      "director": "James Watkins",
-      "actors": [
-        "James McAvoy",
-        "Mackenzie Davis",
-        "Scoot McNairy"
-      ],
-      "genres": "Thriller, Horror"
     },
     {
       "rank": 30,
@@ -372,18 +372,6 @@
     },
     {
       "rank": 32,
-      "title": "Alien: Romulus",
-      "url": "https://letterboxd.com/film/alien-romulus/",
-      "director": "Fede Álvarez",
-      "actors": [
-        "Cailee Spaeny",
-        "David Jonsson",
-        "Archie Renaux"
-      ],
-      "genres": "Science Fiction, Horror"
-    },
-    {
-      "rank": 33,
       "title": "It Ends with Us",
       "url": "https://letterboxd.com/film/it-ends-with-us/",
       "director": "Justin Baldoni",
@@ -393,6 +381,18 @@
         "Jenny Slate"
       ],
       "genres": "Drama, Romance"
+    },
+    {
+      "rank": 33,
+      "title": "Alien: Romulus",
+      "url": "https://letterboxd.com/film/alien-romulus/",
+      "director": "Fede Álvarez",
+      "actors": [
+        "Cailee Spaeny",
+        "David Jonsson",
+        "Archie Renaux"
+      ],
+      "genres": "Science Fiction, Horror"
     },
     {
       "rank": 34,
@@ -408,18 +408,6 @@
     },
     {
       "rank": 35,
-      "title": "A Real Pain",
-      "url": "https://letterboxd.com/film/a-real-pain/",
-      "director": "Jesse Eisenberg",
-      "actors": [
-        "Jesse Eisenberg",
-        "Kieran Culkin",
-        "Will Sharpe"
-      ],
-      "genres": "Comedy, Drama"
-    },
-    {
-      "rank": 36,
       "title": "A Quiet Place: Day One",
       "url": "https://letterboxd.com/film/a-quiet-place-day-one/",
       "director": "Michael Sarnoski",
@@ -429,6 +417,18 @@
         "Alex Wolff"
       ],
       "genres": "Horror, Thriller, Science Fiction"
+    },
+    {
+      "rank": 36,
+      "title": "A Real Pain",
+      "url": "https://letterboxd.com/film/a-real-pain/",
+      "director": "Jesse Eisenberg",
+      "actors": [
+        "Jesse Eisenberg",
+        "Kieran Culkin",
+        "Will Sharpe"
+      ],
+      "genres": "Comedy, Drama"
     },
     {
       "rank": 37,
@@ -490,15 +490,15 @@
     },
     {
       "rank": 42,
-      "title": "Tarot",
-      "url": "https://letterboxd.com/film/tarot-2024/",
-      "director": "Spenser Cohen, Anna Halberg",
+      "title": "Despicable Me 4",
+      "url": "https://letterboxd.com/film/despicable-me-4/",
+      "director": "Chris Renaud",
       "actors": [
-        "Harriet Slater",
-        "Wolfgang Novogratz",
-        "Adain Bradley"
+        "Steve Carell",
+        "Kristen Wiig",
+        "Will Ferrell"
       ],
-      "genres": "Horror"
+      "genres": "Family, Action, Animation, Comedy, Science Fiction"
     },
     {
       "rank": 43,
@@ -514,6 +514,18 @@
     },
     {
       "rank": 44,
+      "title": "Tarot",
+      "url": "https://letterboxd.com/film/tarot-2024/",
+      "director": "Spenser Cohen, Anna Halberg",
+      "actors": [
+        "Harriet Slater",
+        "Wolfgang Novogratz",
+        "Adain Bradley"
+      ],
+      "genres": "Horror"
+    },
+    {
+      "rank": 45,
       "title": "Shelby Oaks",
       "url": "https://letterboxd.com/film/shelby-oaks/",
       "director": "Chris Stuckmann",
@@ -525,7 +537,7 @@
       "genres": "Horror, Mystery"
     },
     {
-      "rank": 45,
+      "rank": 46,
       "title": "Jane Austen's Period Drama",
       "url": "https://letterboxd.com/film/jane-austens-period-drama/",
       "director": "Julia Aks, Steve Pinder",
@@ -535,18 +547,6 @@
         "Samantha Smart"
       ],
       "genres": "Romance, Comedy, History"
-    },
-    {
-      "rank": 46,
-      "title": "Despicable Me 4",
-      "url": "https://letterboxd.com/film/despicable-me-4/",
-      "director": "Chris Renaud",
-      "actors": [
-        "Steve Carell",
-        "Kristen Wiig",
-        "Will Ferrell"
-      ],
-      "genres": "Family, Action, Animation, Comedy, Science Fiction"
     },
     {
       "rank": 47,
