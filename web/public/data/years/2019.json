@@ -136,18 +136,6 @@
     },
     {
       "rank": 12,
-      "title": "Joker",
-      "url": "https://letterboxd.com/film/joker-2019/",
-      "director": "Todd Phillips",
-      "actors": [
-        "Joaquin Phoenix",
-        "Robert De Niro",
-        "Zazie Beetz"
-      ],
-      "genres": "Drama, Thriller, Crime"
-    },
-    {
-      "rank": 13,
       "title": "Waves",
       "url": "https://letterboxd.com/film/waves-2019/",
       "director": "Trey Edward Shults",
@@ -157,6 +145,18 @@
         "Renée Elise Goldsberry"
       ],
       "genres": "Romance, Drama"
+    },
+    {
+      "rank": 13,
+      "title": "Joker",
+      "url": "https://letterboxd.com/film/joker-2019/",
+      "director": "Todd Phillips",
+      "actors": [
+        "Joaquin Phoenix",
+        "Robert De Niro",
+        "Zazie Beetz"
+      ],
+      "genres": "Drama, Thriller, Crime"
     },
     {
       "rank": 14,
@@ -196,6 +196,18 @@
     },
     {
       "rank": 17,
+      "title": "Toy Story 4",
+      "url": "https://letterboxd.com/film/toy-story-4/",
+      "director": "Josh Cooley",
+      "actors": [
+        "Tom Hanks",
+        "Tim Allen",
+        "Annie Potts"
+      ],
+      "genres": "Adventure, Animation, Comedy, Family"
+    },
+    {
+      "rank": 18,
       "title": "Sound of Metal",
       "url": "https://letterboxd.com/film/sound-of-metal/",
       "director": "Darius Marder",
@@ -207,7 +219,7 @@
       "genres": "Drama, Music"
     },
     {
-      "rank": 18,
+      "rank": 19,
       "title": "Ford v Ferrari",
       "url": "https://letterboxd.com/film/ford-v-ferrari/",
       "director": "James Mangold",
@@ -216,10 +228,10 @@
         "Christian Bale",
         "Jon Bernthal"
       ],
-      "genres": "Drama, Action, History"
+      "genres": "Drama, History"
     },
     {
-      "rank": 19,
+      "rank": 20,
       "title": "Marriage Story",
       "url": "https://letterboxd.com/film/marriage-story-2019/",
       "director": "Noah Baumbach",
@@ -231,7 +243,7 @@
       "genres": "Drama"
     },
     {
-      "rank": 20,
+      "rank": 21,
       "title": "1917",
       "url": "https://letterboxd.com/film/1917/",
       "director": "Sam Mendes",
@@ -243,7 +255,7 @@
       "genres": "Drama, War, History"
     },
     {
-      "rank": 21,
+      "rank": 22,
       "title": "Captain Marvel",
       "url": "https://letterboxd.com/film/captain-marvel/",
       "director": "Ryan Fleck, Anna Boden",
@@ -253,18 +265,6 @@
         "Ben Mendelsohn"
       ],
       "genres": "Science Fiction, Action, Adventure"
-    },
-    {
-      "rank": 22,
-      "title": "The King",
-      "url": "https://letterboxd.com/film/the-king-2019/",
-      "director": "David Michôd",
-      "actors": [
-        "Timothée Chalamet",
-        "Joel Edgerton",
-        "Sean Harris"
-      ],
-      "genres": "War, Drama, History"
     },
     {
       "rank": 23,
@@ -280,6 +280,30 @@
     },
     {
       "rank": 24,
+      "title": "The King",
+      "url": "https://letterboxd.com/film/the-king-2019/",
+      "director": "David Michôd",
+      "actors": [
+        "Timothée Chalamet",
+        "Joel Edgerton",
+        "Sean Harris"
+      ],
+      "genres": "War, Drama, History"
+    },
+    {
+      "rank": 25,
+      "title": "Vivarium",
+      "url": "https://letterboxd.com/film/vivarium/",
+      "director": "Lorcan Finnegan",
+      "actors": [
+        "Imogen Poots",
+        "Jesse Eisenberg",
+        "Senan Jennings"
+      ],
+      "genres": "Mystery, Horror, Science Fiction"
+    },
+    {
+      "rank": 26,
       "title": "How to Train Your Dragon: The Hidden World",
       "url": "https://letterboxd.com/film/how-to-train-your-dragon-the-hidden-world/",
       "director": "Dean DeBlois",
@@ -291,7 +315,7 @@
       "genres": "Animation, Adventure, Family"
     },
     {
-      "rank": 25,
+      "rank": 27,
       "title": "El Camino: A Breaking Bad Movie",
       "url": "https://letterboxd.com/film/el-camino-a-breaking-bad-movie/",
       "director": "Vince Gilligan",
@@ -301,30 +325,6 @@
         "Charles Baker"
       ],
       "genres": "Crime, Drama, Thriller"
-    },
-    {
-      "rank": 26,
-      "title": "Toy Story 4",
-      "url": "https://letterboxd.com/film/toy-story-4/",
-      "director": "Josh Cooley",
-      "actors": [
-        "Tom Hanks",
-        "Tim Allen",
-        "Annie Potts"
-      ],
-      "genres": "Adventure, Animation, Comedy, Family"
-    },
-    {
-      "rank": 27,
-      "title": "Chernobyl",
-      "url": "https://letterboxd.com/film/chernobyl/",
-      "director": "Johan Renck",
-      "actors": [
-        "Jared Harris",
-        "Stellan Skarsgård",
-        "Emily Watson"
-      ],
-      "genres": "Drama"
     },
     {
       "rank": 28,
@@ -340,6 +340,18 @@
     },
     {
       "rank": 29,
+      "title": "Chernobyl",
+      "url": "https://letterboxd.com/film/chernobyl/",
+      "director": "Johan Renck",
+      "actors": [
+        "Jared Harris",
+        "Stellan Skarsgård",
+        "Emily Watson"
+      ],
+      "genres": "Drama"
+    },
+    {
+      "rank": 30,
       "title": "Booksmart",
       "url": "https://letterboxd.com/film/booksmart/",
       "director": "Olivia Wilde",
@@ -351,7 +363,7 @@
       "genres": "Comedy"
     },
     {
-      "rank": 30,
+      "rank": 31,
       "title": "Five Feet Apart",
       "url": "https://letterboxd.com/film/five-feet-apart/",
       "director": "Justin Baldoni",
@@ -361,18 +373,6 @@
         "Moisés Arias"
       ],
       "genres": "Romance, Drama"
-    },
-    {
-      "rank": 31,
-      "title": "Vivarium",
-      "url": "https://letterboxd.com/film/vivarium/",
-      "director": "Lorcan Finnegan",
-      "actors": [
-        "Imogen Poots",
-        "Jesse Eisenberg",
-        "Senan Jennings"
-      ],
-      "genres": "Mystery, Horror, Science Fiction"
     },
     {
       "rank": 32,
@@ -472,18 +472,6 @@
     },
     {
       "rank": 40,
-      "title": "Ad Astra",
-      "url": "https://letterboxd.com/film/ad-astra-2019/",
-      "director": "James Gray",
-      "actors": [
-        "Brad Pitt",
-        "Tommy Lee Jones",
-        "Liv Tyler"
-      ],
-      "genres": "Science Fiction, Drama"
-    },
-    {
-      "rank": 41,
       "title": "Jumanji: The Next Level",
       "url": "https://letterboxd.com/film/jumanji-the-next-level/",
       "director": "Jake Kasdan",
@@ -493,6 +481,18 @@
         "Jack Black"
       ],
       "genres": "Comedy, Adventure, Fantasy"
+    },
+    {
+      "rank": 41,
+      "title": "Ad Astra",
+      "url": "https://letterboxd.com/film/ad-astra-2019/",
+      "director": "James Gray",
+      "actors": [
+        "Brad Pitt",
+        "Tommy Lee Jones",
+        "Liv Tyler"
+      ],
+      "genres": "Science Fiction, Drama"
     },
     {
       "rank": 42,

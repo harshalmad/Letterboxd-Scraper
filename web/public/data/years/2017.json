@@ -244,15 +244,15 @@
     },
     {
       "rank": 21,
-      "title": "The Shape of Water",
-      "url": "https://letterboxd.com/film/the-shape-of-water/",
-      "director": "Guillermo del Toro",
+      "title": "The Ritual",
+      "url": "https://letterboxd.com/film/the-ritual-2017/",
+      "director": "David Bruckner",
       "actors": [
-        "Sally Hawkins",
-        "Michael Shannon",
-        "Richard Jenkins"
+        "Rafe Spall",
+        "Arsher Ali",
+        "Robert James-Collier"
       ],
-      "genres": "Fantasy, Drama, Romance"
+      "genres": "Horror, Mystery"
     },
     {
       "rank": 22,
@@ -268,15 +268,15 @@
     },
     {
       "rank": 23,
-      "title": "The Ritual",
-      "url": "https://letterboxd.com/film/the-ritual-2017/",
-      "director": "David Bruckner",
+      "title": "The Shape of Water",
+      "url": "https://letterboxd.com/film/the-shape-of-water/",
+      "director": "Guillermo del Toro",
       "actors": [
-        "Rafe Spall",
-        "Arsher Ali",
-        "Robert James-Collier"
+        "Sally Hawkins",
+        "Michael Shannon",
+        "Richard Jenkins"
       ],
-      "genres": "Horror, Mystery"
+      "genres": "Fantasy, Drama, Romance"
     },
     {
       "rank": 24,
@@ -316,6 +316,18 @@
     },
     {
       "rank": 27,
+      "title": "Creep 2",
+      "url": "https://letterboxd.com/film/creep-2/",
+      "director": "Patrick Brice",
+      "actors": [
+        "Mark Duplass",
+        "Desiree Akhavan",
+        "Karan Soni"
+      ],
+      "genres": "Thriller, Horror"
+    },
+    {
+      "rank": 28,
       "title": "mother!",
       "url": "https://letterboxd.com/film/mother-2017/",
       "director": "Darren Aronofsky",
@@ -327,7 +339,7 @@
       "genres": "Drama, Horror"
     },
     {
-      "rank": 28,
+      "rank": 29,
       "title": "Paddington 2",
       "url": "https://letterboxd.com/film/paddington-2/",
       "director": "Paul King",
@@ -339,7 +351,7 @@
       "genres": "Comedy, Family, Adventure"
     },
     {
-      "rank": 29,
+      "rank": 30,
       "title": "Logan",
       "url": "https://letterboxd.com/film/logan-2017/",
       "director": "James Mangold",
@@ -349,18 +361,6 @@
         "Patrick Stewart"
       ],
       "genres": "Drama, Science Fiction, Action"
-    },
-    {
-      "rank": 30,
-      "title": "Pitch Perfect 3",
-      "url": "https://letterboxd.com/film/pitch-perfect-3/",
-      "director": "Trish Sie",
-      "actors": [
-        "Anna Kendrick",
-        "Rebel Wilson",
-        "Brittany Snow"
-      ],
-      "genres": "Music, Comedy"
     },
     {
       "rank": 31,
@@ -376,15 +376,15 @@
     },
     {
       "rank": 32,
-      "title": "Creep 2",
-      "url": "https://letterboxd.com/film/creep-2/",
-      "director": "Patrick Brice",
+      "title": "Pitch Perfect 3",
+      "url": "https://letterboxd.com/film/pitch-perfect-3/",
+      "director": "Trish Sie",
       "actors": [
-        "Mark Duplass",
-        "Desiree Akhavan",
-        "Karan Soni"
+        "Anna Kendrick",
+        "Rebel Wilson",
+        "Brittany Snow"
       ],
-      "genres": "Thriller, Horror"
+      "genres": "Music, Comedy"
     },
     {
       "rank": 33,
@@ -424,18 +424,6 @@
     },
     {
       "rank": 36,
-      "title": "Despicable Me 3",
-      "url": "https://letterboxd.com/film/despicable-me-3/",
-      "director": "Kyle Balda, Pierre Coffin",
-      "actors": [
-        "Steve Carell",
-        "Kristen Wiig",
-        "Trey Parker"
-      ],
-      "genres": "Action, Animation, Adventure, Comedy, Family"
-    },
-    {
-      "rank": 37,
       "title": "Forgotten",
       "url": "https://letterboxd.com/film/forgotten-2017/",
       "director": "Chang Hang-jun",
@@ -445,6 +433,18 @@
         "Moon Sung-keun"
       ],
       "genres": "Thriller, Crime, Mystery"
+    },
+    {
+      "rank": 37,
+      "title": "Despicable Me 3",
+      "url": "https://letterboxd.com/film/despicable-me-3/",
+      "director": "Kyle Balda, Pierre Coffin",
+      "actors": [
+        "Steve Carell",
+        "Kristen Wiig",
+        "Trey Parker"
+      ],
+      "genres": "Action, Animation, Adventure, Comedy, Family"
     },
     {
       "rank": 38,
@@ -496,30 +496,6 @@
     },
     {
       "rank": 42,
-      "title": "Alien: Covenant",
-      "url": "https://letterboxd.com/film/alien-covenant/",
-      "director": "Ridley Scott",
-      "actors": [
-        "Michael Fassbender",
-        "Katherine Waterston",
-        "Billy Crudup"
-      ],
-      "genres": "Horror, Science Fiction"
-    },
-    {
-      "rank": 43,
-      "title": "Descendants 2",
-      "url": "https://letterboxd.com/film/descendants-2/",
-      "director": "Kenny Ortega",
-      "actors": [
-        "Dove Cameron",
-        "Sofia Carson",
-        "Cameron Boyce"
-      ],
-      "genres": "Music, Fantasy, Adventure, Family, TV Movie"
-    },
-    {
-      "rank": 44,
       "title": "God's Own Country",
       "url": "https://letterboxd.com/film/gods-own-country-2017/",
       "director": "Francis Lee",
@@ -531,7 +507,43 @@
       "genres": "Romance, Drama"
     },
     {
+      "rank": 43,
+      "title": "Hot Summer Nights",
+      "url": "https://letterboxd.com/film/hot-summer-nights/",
+      "director": "Elijah Bynum",
+      "actors": [
+        "Timothée Chalamet",
+        "Maika Monroe",
+        "Alex Roe"
+      ],
+      "genres": "Drama, Crime"
+    },
+    {
+      "rank": 44,
+      "title": "Descendants 2",
+      "url": "https://letterboxd.com/film/descendants-2/",
+      "director": "Kenny Ortega",
+      "actors": [
+        "Dove Cameron",
+        "Sofia Carson",
+        "Cameron Boyce"
+      ],
+      "genres": "Music, Fantasy, Adventure, Family, TV Movie"
+    },
+    {
       "rank": 45,
+      "title": "Alien: Covenant",
+      "url": "https://letterboxd.com/film/alien-covenant/",
+      "director": "Ridley Scott",
+      "actors": [
+        "Michael Fassbender",
+        "Katherine Waterston",
+        "Billy Crudup"
+      ],
+      "genres": "Horror, Science Fiction"
+    },
+    {
+      "rank": 46,
       "title": "War for the Planet of the Apes",
       "url": "https://letterboxd.com/film/war-for-the-planet-of-the-apes/",
       "director": "Matt Reeves",
@@ -543,7 +555,7 @@
       "genres": "War, Drama, Science Fiction"
     },
     {
-      "rank": 46,
+      "rank": 47,
       "title": "The Babysitter",
       "url": "https://letterboxd.com/film/the-babysitter-2017/",
       "director": "McG",
@@ -555,31 +567,7 @@
       "genres": "Horror, Comedy"
     },
     {
-      "rank": 47,
-      "title": "Gifted",
-      "url": "https://letterboxd.com/film/gifted-2017/",
-      "director": "Marc Webb",
-      "actors": [
-        "Chris Evans",
-        "Mckenna Grace",
-        "Lindsay Duncan"
-      ],
-      "genres": "Comedy, Drama"
-    },
-    {
       "rank": 48,
-      "title": "Fifty Shades Darker",
-      "url": "https://letterboxd.com/film/fifty-shades-darker/",
-      "director": "James Foley",
-      "actors": [
-        "Dakota Johnson",
-        "Jamie Dornan",
-        "Eric Johnson"
-      ],
-      "genres": "Drama, Romance"
-    },
-    {
-      "rank": 49,
       "title": "The Emoji Movie",
       "url": "https://letterboxd.com/film/the-emoji-movie/",
       "director": "Tony Leondis",
@@ -589,6 +577,18 @@
         "Anna Faris"
       ],
       "genres": "Animation, Family, Comedy"
+    },
+    {
+      "rank": 49,
+      "title": "Gifted",
+      "url": "https://letterboxd.com/film/gifted-2017/",
+      "director": "Marc Webb",
+      "actors": [
+        "Chris Evans",
+        "Mckenna Grace",
+        "Lindsay Duncan"
+      ],
+      "genres": "Comedy, Drama"
     },
     {
       "rank": 50,

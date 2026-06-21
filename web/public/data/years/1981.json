@@ -28,6 +28,18 @@
     },
     {
       "rank": 3,
+      "title": "The Evil Dead",
+      "url": "https://letterboxd.com/film/the-evil-dead/",
+      "director": "Sam Raimi",
+      "actors": [
+        "Bruce Campbell",
+        "Ellen Sandweiss",
+        "Richard DeManincor"
+      ],
+      "genres": "Horror"
+    },
+    {
+      "rank": 4,
       "title": "Blow Out",
       "url": "https://letterboxd.com/film/blow-out/",
       "director": "Brian De Palma",
@@ -39,7 +51,7 @@
       "genres": "Thriller, Mystery, Crime"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "Thief",
       "url": "https://letterboxd.com/film/thief/",
       "director": "Michael Mann",
@@ -49,18 +61,6 @@
         "Robert Prosky"
       ],
       "genres": "Thriller, Crime, Drama"
-    },
-    {
-      "rank": 5,
-      "title": "The Evil Dead",
-      "url": "https://letterboxd.com/film/the-evil-dead/",
-      "director": "Sam Raimi",
-      "actors": [
-        "Bruce Campbell",
-        "Ellen Sandweiss",
-        "Richard DeManincor"
-      ],
-      "genres": "Horror"
     },
     {
       "rank": 6,
@@ -108,7 +108,7 @@
         "Jenny Agutter",
         "Griffin Dunne"
       ],
-      "genres": "Horror, Comedy"
+      "genres": "Horror, Fantasy, Comedy"
     },
     {
       "rank": 10,
@@ -160,18 +160,6 @@
     },
     {
       "rank": 14,
-      "title": "My Bloody Valentine",
-      "url": "https://letterboxd.com/film/my-bloody-valentine/",
-      "director": "George Mihalka",
-      "actors": [
-        "Paul Kelman",
-        "Lori Hallier",
-        "Neil Affleck"
-      ],
-      "genres": "Thriller, Horror"
-    },
-    {
-      "rank": 15,
       "title": "The Fox and the Hound",
       "url": "https://letterboxd.com/film/the-fox-and-the-hound/",
       "director": "Richard Rich, Art Stevens, Ted Berman",
@@ -181,6 +169,18 @@
         "Pearl Bailey"
       ],
       "genres": "Animation, Adventure, Drama, Family"
+    },
+    {
+      "rank": 15,
+      "title": "My Bloody Valentine",
+      "url": "https://letterboxd.com/film/my-bloody-valentine/",
+      "director": "George Mihalka",
+      "actors": [
+        "Paul Kelman",
+        "Lori Hallier",
+        "Neil Affleck"
+      ],
+      "genres": "Thriller, Horror"
     },
     {
       "rank": 16,
@@ -244,18 +244,6 @@
     },
     {
       "rank": 21,
-      "title": "History of the World: Part I",
-      "url": "https://letterboxd.com/film/history-of-the-world-part-i/",
-      "director": "Mel Brooks",
-      "actors": [
-        "Mel Brooks",
-        "Dom DeLuise",
-        "Madeline Kahn"
-      ],
-      "genres": "Comedy"
-    },
-    {
-      "rank": 22,
       "title": "Polyester",
       "url": "https://letterboxd.com/film/polyester/",
       "director": "John Waters",
@@ -267,7 +255,7 @@
       "genres": "Comedy"
     },
     {
-      "rank": 23,
+      "rank": 22,
       "title": "Son of the White Mare",
       "url": "https://letterboxd.com/film/son-of-the-white-mare/",
       "director": "Marcell Jankovics",
@@ -279,7 +267,7 @@
       "genres": "Adventure, Animation, Fantasy"
     },
     {
-      "rank": 24,
+      "rank": 23,
       "title": "Halloween II",
       "url": "https://letterboxd.com/film/halloween-ii-1981/",
       "director": "Rick Rosenthal",
@@ -289,6 +277,18 @@
         "Charles Cyphers"
       ],
       "genres": "Horror"
+    },
+    {
+      "rank": 24,
+      "title": "History of the World: Part I",
+      "url": "https://letterboxd.com/film/history-of-the-world-part-i/",
+      "director": "Mel Brooks",
+      "actors": [
+        "Mel Brooks",
+        "Dom DeLuise",
+        "Madeline Kahn"
+      ],
+      "genres": "Comedy"
     },
     {
       "rank": 25,
@@ -328,18 +328,6 @@
     },
     {
       "rank": 28,
-      "title": "Stripes",
-      "url": "https://letterboxd.com/film/stripes/",
-      "director": "Ivan Reitman",
-      "actors": [
-        "Bill Murray",
-        "Harold Ramis",
-        "Warren Oates"
-      ],
-      "genres": "Action, Comedy"
-    },
-    {
-      "rank": 29,
       "title": "Body Heat",
       "url": "https://letterboxd.com/film/body-heat/",
       "director": "Lawrence Kasdan",
@@ -349,6 +337,18 @@
         "Richard Crenna"
       ],
       "genres": "Crime, Thriller"
+    },
+    {
+      "rank": 29,
+      "title": "Stripes",
+      "url": "https://letterboxd.com/film/stripes/",
+      "director": "Ivan Reitman",
+      "actors": [
+        "Bill Murray",
+        "Harold Ramis",
+        "Warren Oates"
+      ],
+      "genres": "Action, Comedy"
     },
     {
       "rank": 30,
@@ -388,18 +388,6 @@
     },
     {
       "rank": 33,
-      "title": "Outland",
-      "url": "https://letterboxd.com/film/outland/",
-      "director": "Peter Hyams",
-      "actors": [
-        "Sean Connery",
-        "Peter Boyle",
-        "Frances Sternhagen"
-      ],
-      "genres": "Science Fiction, Crime, Thriller, Action, Western"
-    },
-    {
-      "rank": 34,
       "title": "The Kiss",
       "url": "https://letterboxd.com/film/the-kiss-1981/",
       "director": "Bruno Barreto",
@@ -411,7 +399,31 @@
       "genres": "Thriller, Crime, Drama"
     },
     {
+      "rank": 34,
+      "title": "Outland",
+      "url": "https://letterboxd.com/film/outland/",
+      "director": "Peter Hyams",
+      "actors": [
+        "Sean Connery",
+        "Peter Boyle",
+        "Frances Sternhagen"
+      ],
+      "genres": "Science Fiction, Crime, Thriller, Action, Western"
+    },
+    {
       "rank": 35,
+      "title": "The Burning",
+      "url": "https://letterboxd.com/film/the-burning-1981/",
+      "director": "Tony Maylam",
+      "actors": [
+        "Brian Matthews",
+        "Leah Ayres",
+        "Brian Backer"
+      ],
+      "genres": "Horror"
+    },
+    {
+      "rank": 36,
       "title": "Reds",
       "url": "https://letterboxd.com/film/reds/",
       "director": "Warren Beatty",
@@ -423,7 +435,7 @@
       "genres": "Drama, History, Romance"
     },
     {
-      "rank": 36,
+      "rank": 37,
       "title": "The Inquisitor",
       "url": "https://letterboxd.com/film/the-inquisitor/",
       "director": "Claude Miller",
@@ -433,18 +445,6 @@
         "Romy Schneider"
       ],
       "genres": "Crime, Drama, Thriller"
-    },
-    {
-      "rank": 37,
-      "title": "The Burning",
-      "url": "https://letterboxd.com/film/the-burning-1981/",
-      "director": "Tony Maylam",
-      "actors": [
-        "Brian Matthews",
-        "Leah Ayres",
-        "Brian Backer"
-      ],
-      "genres": "Horror"
     },
     {
       "rank": 38,
@@ -460,18 +460,6 @@
     },
     {
       "rank": 39,
-      "title": "Chariots of Fire",
-      "url": "https://letterboxd.com/film/chariots-of-fire/",
-      "director": "Hugh Hudson",
-      "actors": [
-        "Ben Cross",
-        "Ian Charleson",
-        "Cheryl Campbell"
-      ],
-      "genres": "History, Drama"
-    },
-    {
-      "rank": 40,
       "title": "They Don't Wear Black Tie",
       "url": "https://letterboxd.com/film/they-dont-wear-black-tie/",
       "director": "Leon Hirszman",
@@ -483,6 +471,18 @@
       "genres": "Drama"
     },
     {
+      "rank": 40,
+      "title": "Chariots of Fire",
+      "url": "https://letterboxd.com/film/chariots-of-fire/",
+      "director": "Hugh Hudson",
+      "actors": [
+        "Ben Cross",
+        "Ian Charleson",
+        "Cheryl Campbell"
+      ],
+      "genres": "History, Drama"
+    },
+    {
       "rank": 41,
       "title": "Southern Comfort",
       "url": "https://letterboxd.com/film/southern-comfort/",
@@ -492,7 +492,7 @@
         "Powers Boothe",
         "Fred Ward"
       ],
-      "genres": "Thriller, Action"
+      "genres": "Thriller, War"
     },
     {
       "rank": 42,
@@ -508,30 +508,6 @@
     },
     {
       "rank": 43,
-      "title": "Nightshift",
-      "url": "https://letterboxd.com/film/nightshift-1981/",
-      "director": "Robina Rose",
-      "actors": [
-        "Pamela Rooke",
-        "Anna Rees-Mogg",
-        "Mitch Davies"
-      ],
-      "genres": "Drama"
-    },
-    {
-      "rank": 44,
-      "title": "Dragonslayer",
-      "url": "https://letterboxd.com/film/dragonslayer/",
-      "director": "Matthew Robbins",
-      "actors": [
-        "Peter MacNicol",
-        "Caitlin Clarke",
-        "Ralph Richardson"
-      ],
-      "genres": "Fantasy, Adventure"
-    },
-    {
-      "rank": 45,
       "title": "Clash of the Titans",
       "url": "https://letterboxd.com/film/clash-of-the-titans/",
       "director": "Desmond Davis",
@@ -543,7 +519,19 @@
       "genres": "Fantasy, Action, Adventure"
     },
     {
-      "rank": 46,
+      "rank": 44,
+      "title": "The Prowler",
+      "url": "https://letterboxd.com/film/the-prowler-1981/",
+      "director": "Joseph Zito",
+      "actors": [
+        "Vicky Dawson",
+        "Christopher Goutman",
+        "Lawrence Tierney"
+      ],
+      "genres": "Thriller, Mystery, Horror"
+    },
+    {
+      "rank": 45,
       "title": "The Cabbage Soup",
       "url": "https://letterboxd.com/film/the-cabbage-soup/",
       "director": "Jean Girault",
@@ -555,16 +543,28 @@
       "genres": "Comedy, Science Fiction"
     },
     {
-      "rank": 47,
-      "title": "The Prowler",
-      "url": "https://letterboxd.com/film/the-prowler-1981/",
-      "director": "Joseph Zito",
+      "rank": 46,
+      "title": "Dragonslayer",
+      "url": "https://letterboxd.com/film/dragonslayer/",
+      "director": "Matthew Robbins",
       "actors": [
-        "Vicky Dawson",
-        "Christopher Goutman",
-        "Lawrence Tierney"
+        "Peter MacNicol",
+        "Caitlin Clarke",
+        "Ralph Richardson"
       ],
-      "genres": "Thriller, Mystery, Horror"
+      "genres": "Fantasy, Adventure"
+    },
+    {
+      "rank": 47,
+      "title": "Nightshift",
+      "url": "https://letterboxd.com/film/nightshift-1981/",
+      "director": "Robina Rose",
+      "actors": [
+        "Pamela Rooke",
+        "Anna Rees-Mogg",
+        "Mitch Davies"
+      ],
+      "genres": "Drama"
     },
     {
       "rank": 48,

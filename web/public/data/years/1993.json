@@ -220,18 +220,6 @@
     },
     {
       "rank": 19,
-      "title": "Falling Down",
-      "url": "https://letterboxd.com/film/falling-down/",
-      "director": "Joel Schumacher",
-      "actors": [
-        "Michael Douglas",
-        "Robert Duvall",
-        "Barbara Hershey"
-      ],
-      "genres": "Thriller, Drama, Crime"
-    },
-    {
-      "rank": 20,
       "title": "Batman: Mask of the Phantasm",
       "url": "https://letterboxd.com/film/batman-mask-of-the-phantasm/",
       "director": "Bruce Timm, Eric Radomski",
@@ -241,6 +229,18 @@
         "Hart Bochner"
       ],
       "genres": "Mystery, Animation, Crime"
+    },
+    {
+      "rank": 20,
+      "title": "Falling Down",
+      "url": "https://letterboxd.com/film/falling-down/",
+      "director": "Joel Schumacher",
+      "actors": [
+        "Michael Douglas",
+        "Robert Duvall",
+        "Barbara Hershey"
+      ],
+      "genres": "Thriller, Drama, Crime"
     },
     {
       "rank": 21,
@@ -376,18 +376,6 @@
     },
     {
       "rank": 32,
-      "title": "Sonatine",
-      "url": "https://letterboxd.com/film/sonatine/",
-      "director": "Takeshi Kitano",
-      "actors": [
-        "Takeshi Kitano",
-        "Aya Kokumai",
-        "Tetsu Watanabe"
-      ],
-      "genres": "Action, Thriller, Crime"
-    },
-    {
-      "rank": 33,
       "title": "The Crush",
       "url": "https://letterboxd.com/film/the-crush/",
       "director": "Alan Shapiro",
@@ -397,6 +385,18 @@
         "Jennifer Rubin"
       ],
       "genres": "Thriller, Drama"
+    },
+    {
+      "rank": 33,
+      "title": "Sonatine",
+      "url": "https://letterboxd.com/film/sonatine/",
+      "director": "Takeshi Kitano",
+      "actors": [
+        "Takeshi Kitano",
+        "Aya Kokumai",
+        "Tetsu Watanabe"
+      ],
+      "genres": "Action, Thriller, Crime"
     },
     {
       "rank": 34,
@@ -424,18 +424,6 @@
     },
     {
       "rank": 36,
-      "title": "Much Ado About Nothing",
-      "url": "https://letterboxd.com/film/much-ado-about-nothing/",
-      "director": "Kenneth Branagh",
-      "actors": [
-        "Emma Thompson",
-        "Kenneth Branagh",
-        "Kate Beckinsale"
-      ],
-      "genres": "Drama, Romance, Comedy"
-    },
-    {
-      "rank": 37,
       "title": "Demolition Man",
       "url": "https://letterboxd.com/film/demolition-man/",
       "director": "Marco Brambilla",
@@ -445,6 +433,18 @@
         "Sandra Bullock"
       ],
       "genres": "Science Fiction, Action, Crime"
+    },
+    {
+      "rank": 37,
+      "title": "Much Ado About Nothing",
+      "url": "https://letterboxd.com/film/much-ado-about-nothing/",
+      "director": "Kenneth Branagh",
+      "actors": [
+        "Emma Thompson",
+        "Kenneth Branagh",
+        "Kate Beckinsale"
+      ],
+      "genres": "Drama, Romance, Comedy"
     },
     {
       "rank": 38,
@@ -470,18 +470,6 @@
     },
     {
       "rank": 40,
-      "title": "Super Mario Bros.",
-      "url": "https://letterboxd.com/film/super-mario-bros/",
-      "director": "Annabel Jankel, Rocky Morton",
-      "actors": [
-        "Bob Hoskins",
-        "John Leguizamo",
-        "Dennis Hopper"
-      ],
-      "genres": "Fantasy, Family, Adventure, Comedy"
-    },
-    {
-      "rank": 41,
       "title": "The Secret Garden",
       "url": "https://letterboxd.com/film/the-secret-garden-1993/",
       "director": "Agnieszka Holland",
@@ -493,7 +481,7 @@
       "genres": "Drama, Fantasy, Family"
     },
     {
-      "rank": 42,
+      "rank": 41,
       "title": "Robin Hood: Men in Tights",
       "url": "https://letterboxd.com/film/robin-hood-men-in-tights/",
       "director": "Mel Brooks",
@@ -503,6 +491,18 @@
         "Roger Rees"
       ],
       "genres": "Comedy"
+    },
+    {
+      "rank": 42,
+      "title": "Super Mario Bros.",
+      "url": "https://letterboxd.com/film/super-mario-bros/",
+      "director": "Annabel Jankel, Rocky Morton",
+      "actors": [
+        "Bob Hoskins",
+        "John Leguizamo",
+        "Dennis Hopper"
+      ],
+      "genres": "Fantasy, Family, Adventure, Comedy"
     },
     {
       "rank": 43,
@@ -518,18 +518,6 @@
     },
     {
       "rank": 44,
-      "title": "This Boy's Life",
-      "url": "https://letterboxd.com/film/this-boys-life/",
-      "director": "Michael Caton-Jones",
-      "actors": [
-        "Robert De Niro",
-        "Ellen Barkin",
-        "Leonardo DiCaprio"
-      ],
-      "genres": "Drama"
-    },
-    {
-      "rank": 45,
       "title": "The Pelican Brief",
       "url": "https://letterboxd.com/film/the-pelican-brief/",
       "director": "Alan J. Pakula",
@@ -539,6 +527,18 @@
         "Sam Shepard"
       ],
       "genres": "Thriller, Crime, Drama"
+    },
+    {
+      "rank": 45,
+      "title": "This Boy's Life",
+      "url": "https://letterboxd.com/film/this-boys-life/",
+      "director": "Michael Caton-Jones",
+      "actors": [
+        "Robert De Niro",
+        "Ellen Barkin",
+        "Leonardo DiCaprio"
+      ],
+      "genres": "Drama"
     },
     {
       "rank": 46,
@@ -566,15 +566,15 @@
     },
     {
       "rank": 48,
-      "title": "Fearless",
-      "url": "https://letterboxd.com/film/fearless/",
-      "director": "Peter Weir",
+      "title": "The Good Son",
+      "url": "https://letterboxd.com/film/the-good-son/",
+      "director": "Joseph Ruben",
       "actors": [
-        "Jeff Bridges",
-        "Isabella Rossellini",
-        "Rosie Perez"
+        "Macaulay Culkin",
+        "Elijah Wood",
+        "Wendy Crewson"
       ],
-      "genres": "Drama"
+      "genres": "Horror, Thriller, Drama"
     },
     {
       "rank": 49,
@@ -590,15 +590,15 @@
     },
     {
       "rank": 50,
-      "title": "Jason Goes to Hell: The Final Friday",
-      "url": "https://letterboxd.com/film/jason-goes-to-hell-the-final-friday/",
-      "director": "Adam Marcus",
+      "title": "Fearless",
+      "url": "https://letterboxd.com/film/fearless/",
+      "director": "Peter Weir",
       "actors": [
-        "Kane Hodder",
-        "John D. LeMay",
-        "Kari Keegan"
+        "Jeff Bridges",
+        "Isabella Rossellini",
+        "Rosie Perez"
       ],
-      "genres": "Horror, Thriller"
+      "genres": "Drama"
     }
   ]
 }

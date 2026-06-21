@@ -112,18 +112,6 @@
     },
     {
       "rank": 10,
-      "title": "Ace Ventura: Pet Detective",
-      "url": "https://letterboxd.com/film/ace-ventura-pet-detective/",
-      "director": "Tom Shadyac",
-      "actors": [
-        "Jim Carrey",
-        "Courteney Cox",
-        "Sean Young"
-      ],
-      "genres": "Crime, Comedy, Mystery"
-    },
-    {
-      "rank": 11,
       "title": "Speed",
       "url": "https://letterboxd.com/film/speed/",
       "director": "Jan de Bont",
@@ -133,6 +121,18 @@
         "Sandra Bullock"
       ],
       "genres": "Thriller, Action"
+    },
+    {
+      "rank": 11,
+      "title": "Ace Ventura: Pet Detective",
+      "url": "https://letterboxd.com/film/ace-ventura-pet-detective/",
+      "director": "Tom Shadyac",
+      "actors": [
+        "Jim Carrey",
+        "Courteney Cox",
+        "Sean Young"
+      ],
+      "genres": "Crime, Comedy, Mystery"
     },
     {
       "rank": 12,
@@ -196,6 +196,18 @@
     },
     {
       "rank": 17,
+      "title": "The Adventures of Priscilla, Queen of the Desert",
+      "url": "https://letterboxd.com/film/the-adventures-of-priscilla-queen-of-the-desert/",
+      "director": "Stephan Elliott",
+      "actors": [
+        "Hugo Weaving",
+        "Guy Pearce",
+        "Terence Stamp"
+      ],
+      "genres": "Drama, Comedy"
+    },
+    {
+      "rank": 18,
       "title": "In the Mouth of Madness",
       "url": "https://letterboxd.com/film/in-the-mouth-of-madness/",
       "director": "John Carpenter",
@@ -207,7 +219,7 @@
       "genres": "Mystery, Horror"
     },
     {
-      "rank": 18,
+      "rank": 19,
       "title": "Clerks",
       "url": "https://letterboxd.com/film/clerks/",
       "director": "Kevin Smith",
@@ -219,7 +231,7 @@
       "genres": "Comedy"
     },
     {
-      "rank": 19,
+      "rank": 20,
       "title": "Three Colours: White",
       "url": "https://letterboxd.com/film/three-colours-white/",
       "director": "Krzysztof Kieślowski",
@@ -229,18 +241,6 @@
         "Janusz Gajos"
       ],
       "genres": "Drama, Mystery, Comedy"
-    },
-    {
-      "rank": 20,
-      "title": "The Adventures of Priscilla, Queen of the Desert",
-      "url": "https://letterboxd.com/film/the-adventures-of-priscilla-queen-of-the-desert/",
-      "director": "Stephan Elliott",
-      "actors": [
-        "Hugo Weaving",
-        "Guy Pearce",
-        "Terence Stamp"
-      ],
-      "genres": "Drama, Comedy"
     },
     {
       "rank": 21,
@@ -256,18 +256,6 @@
     },
     {
       "rank": 22,
-      "title": "The Client",
-      "url": "https://letterboxd.com/film/the-client/",
-      "director": "Joel Schumacher",
-      "actors": [
-        "Brad Renfro",
-        "Susan Sarandon",
-        "Tommy Lee Jones"
-      ],
-      "genres": "Drama, Thriller, Mystery, Crime"
-    },
-    {
-      "rank": 23,
       "title": "Only You",
       "url": "https://letterboxd.com/film/only-you-1994/",
       "director": "Norman Jewison",
@@ -279,7 +267,31 @@
       "genres": "Comedy, Romance"
     },
     {
+      "rank": 23,
+      "title": "The Client",
+      "url": "https://letterboxd.com/film/the-client/",
+      "director": "Joel Schumacher",
+      "actors": [
+        "Brad Renfro",
+        "Susan Sarandon",
+        "Tommy Lee Jones"
+      ],
+      "genres": "Drama, Thriller, Mystery, Crime"
+    },
+    {
       "rank": 24,
+      "title": "Muriel's Wedding",
+      "url": "https://letterboxd.com/film/muriels-wedding/",
+      "director": "P.J. Hogan",
+      "actors": [
+        "Toni Collette",
+        "Bill Hunter",
+        "Rachel Griffiths"
+      ],
+      "genres": "Drama, Comedy, Romance"
+    },
+    {
+      "rank": 25,
       "title": "Pom Poko",
       "url": "https://letterboxd.com/film/pom-poko/",
       "director": "Isao Takahata",
@@ -291,7 +303,7 @@
       "genres": "Fantasy, Adventure, Animation"
     },
     {
-      "rank": 25,
+      "rank": 26,
       "title": "The Swan Princess",
       "url": "https://letterboxd.com/film/the-swan-princess/",
       "director": "Richard Rich",
@@ -303,7 +315,7 @@
       "genres": "Family, Adventure, Comedy, Fantasy, Animation"
     },
     {
-      "rank": 26,
+      "rank": 27,
       "title": "Legends of the Fall",
       "url": "https://letterboxd.com/film/legends-of-the-fall/",
       "director": "Edward Zwick",
@@ -315,7 +327,7 @@
       "genres": "Romance, Drama, Western, War"
     },
     {
-      "rank": 27,
+      "rank": 28,
       "title": "Reality Bites",
       "url": "https://letterboxd.com/film/reality-bites/",
       "director": "Ben Stiller",
@@ -327,7 +339,7 @@
       "genres": "Romance, Comedy, Drama"
     },
     {
-      "rank": 28,
+      "rank": 29,
       "title": "True Lies",
       "url": "https://letterboxd.com/film/true-lies/",
       "director": "James Cameron",
@@ -337,18 +349,6 @@
         "Tom Arnold"
       ],
       "genres": "Thriller, Action"
-    },
-    {
-      "rank": 29,
-      "title": "Muriel's Wedding",
-      "url": "https://letterboxd.com/film/muriels-wedding/",
-      "director": "P.J. Hogan",
-      "actors": [
-        "Toni Collette",
-        "Bill Hunter",
-        "Rachel Griffiths"
-      ],
-      "genres": "Drama, Comedy, Romance"
     },
     {
       "rank": 30,
@@ -472,18 +472,6 @@
     },
     {
       "rank": 40,
-      "title": "The Hudsucker Proxy",
-      "url": "https://letterboxd.com/film/the-hudsucker-proxy/",
-      "director": "Joel Coen",
-      "actors": [
-        "Tim Robbins",
-        "Jennifer Jason Leigh",
-        "Paul Newman"
-      ],
-      "genres": "Comedy, Drama, Fantasy"
-    },
-    {
-      "rank": 41,
       "title": "Exotica",
       "url": "https://letterboxd.com/film/exotica/",
       "director": "Atom Egoyan",
@@ -493,6 +481,18 @@
         "Don McKellar"
       ],
       "genres": "Drama"
+    },
+    {
+      "rank": 41,
+      "title": "The Hudsucker Proxy",
+      "url": "https://letterboxd.com/film/the-hudsucker-proxy/",
+      "director": "Joel Coen",
+      "actors": [
+        "Tim Robbins",
+        "Jennifer Jason Leigh",
+        "Paul Newman"
+      ],
+      "genres": "Comedy, Drama, Fantasy"
     },
     {
       "rank": 42,
@@ -508,18 +508,6 @@
     },
     {
       "rank": 43,
-      "title": "Quiz Show",
-      "url": "https://letterboxd.com/film/quiz-show/",
-      "director": "Robert Redford",
-      "actors": [
-        "John Turturro",
-        "Rob Morrow",
-        "Ralph Fiennes"
-      ],
-      "genres": "Drama, History"
-    },
-    {
-      "rank": 44,
       "title": "Dream Lover",
       "url": "https://letterboxd.com/film/dream-lover/",
       "director": "Nicholas Kazan",
@@ -529,6 +517,18 @@
         "Fredric Lehne"
       ],
       "genres": "Drama, Thriller, Mystery"
+    },
+    {
+      "rank": 44,
+      "title": "Quiz Show",
+      "url": "https://letterboxd.com/film/quiz-show/",
+      "director": "Robert Redford",
+      "actors": [
+        "John Turturro",
+        "Rob Morrow",
+        "Ralph Fiennes"
+      ],
+      "genres": "Drama, History"
     },
     {
       "rank": 45,
@@ -544,18 +544,6 @@
     },
     {
       "rank": 46,
-      "title": "Disclosure",
-      "url": "https://letterboxd.com/film/disclosure/",
-      "director": "Barry Levinson",
-      "actors": [
-        "Michael Douglas",
-        "Demi Moore",
-        "Donald Sutherland"
-      ],
-      "genres": "Crime, Drama, Thriller"
-    },
-    {
-      "rank": 47,
       "title": "Baby's Day Out",
       "url": "https://letterboxd.com/film/babys-day-out/",
       "director": "Patrick Read Johnson",
@@ -565,6 +553,18 @@
         "Joe Pantoliano"
       ],
       "genres": "Comedy, Adventure, Family, Crime"
+    },
+    {
+      "rank": 47,
+      "title": "Disclosure",
+      "url": "https://letterboxd.com/film/disclosure/",
+      "director": "Barry Levinson",
+      "actors": [
+        "Michael Douglas",
+        "Demi Moore",
+        "Donald Sutherland"
+      ],
+      "genres": "Crime, Drama, Thriller"
     },
     {
       "rank": 48,

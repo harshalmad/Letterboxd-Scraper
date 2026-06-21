@@ -124,15 +124,15 @@
     },
     {
       "rank": 11,
-      "title": "BlacKkKlansman",
-      "url": "https://letterboxd.com/film/blackkklansman/",
-      "director": "Spike Lee",
+      "title": "mid90s",
+      "url": "https://letterboxd.com/film/mid90s/",
+      "director": "Jonah Hill",
       "actors": [
-        "John David Washington",
-        "Adam Driver",
-        "Topher Grace"
+        "Sunny Suljic",
+        "Katherine Waterston",
+        "Lucas Hedges"
       ],
-      "genres": "Drama, History, Crime, Comedy"
+      "genres": "Drama, Comedy"
     },
     {
       "rank": 12,
@@ -148,15 +148,15 @@
     },
     {
       "rank": 13,
-      "title": "mid90s",
-      "url": "https://letterboxd.com/film/mid90s/",
-      "director": "Jonah Hill",
+      "title": "BlacKkKlansman",
+      "url": "https://letterboxd.com/film/blackkklansman/",
+      "director": "Spike Lee",
       "actors": [
-        "Sunny Suljic",
-        "Katherine Waterston",
-        "Lucas Hedges"
+        "John David Washington",
+        "Adam Driver",
+        "Topher Grace"
       ],
-      "genres": "Drama, Comedy"
+      "genres": "Drama, History, Crime, Comedy"
     },
     {
       "rank": 14,
@@ -184,6 +184,18 @@
     },
     {
       "rank": 16,
+      "title": "Ready Player One",
+      "url": "https://letterboxd.com/film/ready-player-one/",
+      "director": "Steven Spielberg",
+      "actors": [
+        "Tye Sheridan",
+        "Olivia Cooke",
+        "Ben Mendelsohn"
+      ],
+      "genres": "Science Fiction, Adventure, Action"
+    },
+    {
+      "rank": 17,
       "title": "A Quiet Place",
       "url": "https://letterboxd.com/film/a-quiet-place-2018/",
       "director": "John Krasinski",
@@ -195,7 +207,7 @@
       "genres": "Drama, Science Fiction, Horror"
     },
     {
-      "rank": 17,
+      "rank": 18,
       "title": "The Kissing Booth",
       "url": "https://letterboxd.com/film/the-kissing-booth/",
       "director": "Vince Marcello",
@@ -205,18 +217,6 @@
         "Jacob Elordi"
       ],
       "genres": "Comedy, Romance"
-    },
-    {
-      "rank": 18,
-      "title": "Ready Player One",
-      "url": "https://letterboxd.com/film/ready-player-one/",
-      "director": "Steven Spielberg",
-      "actors": [
-        "Tye Sheridan",
-        "Olivia Cooke",
-        "Ben Mendelsohn"
-      ],
-      "genres": "Science Fiction, Adventure, Action"
     },
     {
       "rank": 19,
@@ -340,15 +340,15 @@
     },
     {
       "rank": 29,
-      "title": "Free Solo",
-      "url": "https://letterboxd.com/film/free-solo/",
-      "director": "Jimmy Chin, Elizabeth Chai Vasarhelyi",
+      "title": "Climax",
+      "url": "https://letterboxd.com/film/climax-2018/",
+      "director": "Gaspar Noé",
       "actors": [
-        "Alex Honnold",
-        "Tommy Caldwell",
-        "Jimmy Chin"
+        "Sofia Boutella",
+        "Romain Guillermic",
+        "Souheila Yacoub"
       ],
-      "genres": "Adventure, Documentary"
+      "genres": "Horror, Drama, Music"
     },
     {
       "rank": 30,
@@ -364,15 +364,15 @@
     },
     {
       "rank": 31,
-      "title": "Climax",
-      "url": "https://letterboxd.com/film/climax-2018/",
-      "director": "Gaspar Noé",
+      "title": "Free Solo",
+      "url": "https://letterboxd.com/film/free-solo/",
+      "director": "Jimmy Chin, Elizabeth Chai Vasarhelyi",
       "actors": [
-        "Sofia Boutella",
-        "Romain Guillermic",
-        "Souheila Yacoub"
+        "Alex Honnold",
+        "Tommy Caldwell",
+        "Jimmy Chin"
       ],
-      "genres": "Horror, Drama, Music"
+      "genres": "Adventure, Documentary"
     },
     {
       "rank": 32,
@@ -412,30 +412,6 @@
     },
     {
       "rank": 35,
-      "title": "Under the Silver Lake",
-      "url": "https://letterboxd.com/film/under-the-silver-lake/",
-      "director": "David Robert Mitchell",
-      "actors": [
-        "Andrew Garfield",
-        "Riley Keough",
-        "Topher Grace"
-      ],
-      "genres": "Mystery, Crime, Drama"
-    },
-    {
-      "rank": 36,
-      "title": "Suspiria",
-      "url": "https://letterboxd.com/film/suspiria-2018/",
-      "director": "Luca Guadagnino",
-      "actors": [
-        "Dakota Johnson",
-        "Tilda Swinton",
-        "Mia Goth"
-      ],
-      "genres": "Horror, Mystery, Drama"
-    },
-    {
-      "rank": 37,
       "title": "Gonjiam: Haunted Asylum",
       "url": "https://letterboxd.com/film/gonjiam-haunted-asylum/",
       "director": "Jung Bum-shik",
@@ -447,19 +423,31 @@
       "genres": "Horror, Mystery"
     },
     {
-      "rank": 38,
-      "title": "The House That Jack Built",
-      "url": "https://letterboxd.com/film/the-house-that-jack-built-2018/",
-      "director": "Lars von Trier",
+      "rank": 36,
+      "title": "Under the Silver Lake",
+      "url": "https://letterboxd.com/film/under-the-silver-lake/",
+      "director": "David Robert Mitchell",
       "actors": [
-        "Matt Dillon",
-        "Bruno Ganz",
-        "Uma Thurman"
+        "Andrew Garfield",
+        "Riley Keough",
+        "Topher Grace"
       ],
-      "genres": "Drama, Crime, Thriller, Horror"
+      "genres": "Mystery, Crime, Drama"
     },
     {
-      "rank": 39,
+      "rank": 37,
+      "title": "Suspiria",
+      "url": "https://letterboxd.com/film/suspiria-2018/",
+      "director": "Luca Guadagnino",
+      "actors": [
+        "Dakota Johnson",
+        "Tilda Swinton",
+        "Mia Goth"
+      ],
+      "genres": "Horror, Mystery, Drama"
+    },
+    {
+      "rank": 38,
       "title": "Instant Family",
       "url": "https://letterboxd.com/film/instant-family/",
       "director": "Sean Anders",
@@ -471,67 +459,19 @@
       "genres": "Drama, Comedy"
     },
     {
+      "rank": 39,
+      "title": "The House That Jack Built",
+      "url": "https://letterboxd.com/film/the-house-that-jack-built-2018/",
+      "director": "Lars von Trier",
+      "actors": [
+        "Matt Dillon",
+        "Bruno Ganz",
+        "Uma Thurman"
+      ],
+      "genres": "Drama, Crime, Thriller, Horror"
+    },
+    {
       "rank": 40,
-      "title": "Ralph Breaks the Internet",
-      "url": "https://letterboxd.com/film/ralph-breaks-the-internet/",
-      "director": "Phil Johnston, Rich Moore",
-      "actors": [
-        "John C. Reilly",
-        "Sarah Silverman",
-        "Gal Gadot"
-      ],
-      "genres": "Science Fiction, Animation, Adventure, Action, Family, Comedy"
-    },
-    {
-      "rank": 41,
-      "title": "I Want to Eat Your Pancreas",
-      "url": "https://letterboxd.com/film/i-want-to-eat-your-pancreas/",
-      "director": "Shinichiro Ushijima",
-      "actors": [
-        "Mahiro Takasugi",
-        "Lynn",
-        "Yukiyo Fujii"
-      ],
-      "genres": "Drama, Romance, Animation"
-    },
-    {
-      "rank": 42,
-      "title": "First Man",
-      "url": "https://letterboxd.com/film/first-man/",
-      "director": "Damien Chazelle",
-      "actors": [
-        "Ryan Gosling",
-        "Claire Foy",
-        "Jason Clarke"
-      ],
-      "genres": "History, Drama"
-    },
-    {
-      "rank": 43,
-      "title": "Eighth Grade",
-      "url": "https://letterboxd.com/film/eighth-grade/",
-      "director": "Bo Burnham",
-      "actors": [
-        "Elsie Fisher",
-        "Josh Hamilton",
-        "Emily Robinson"
-      ],
-      "genres": "Drama, Comedy"
-    },
-    {
-      "rank": 44,
-      "title": "Fantastic Beasts: The Crimes of Grindelwald",
-      "url": "https://letterboxd.com/film/fantastic-beasts-the-crimes-of-grindelwald/",
-      "director": "David Yates",
-      "actors": [
-        "Eddie Redmayne",
-        "Katherine Waterston",
-        "Dan Fogler"
-      ],
-      "genres": "Fantasy, Adventure"
-    },
-    {
-      "rank": 45,
       "title": "Creed II",
       "url": "https://letterboxd.com/film/creed-ii/",
       "director": "Steven Caple Jr.",
@@ -543,19 +483,31 @@
       "genres": "Drama, Action"
     },
     {
-      "rank": 46,
-      "title": "Shoplifters",
-      "url": "https://letterboxd.com/film/shoplifters/",
-      "director": "Hirokazu Kore-eda",
+      "rank": 41,
+      "title": "Ralph Breaks the Internet",
+      "url": "https://letterboxd.com/film/ralph-breaks-the-internet/",
+      "director": "Phil Johnston, Rich Moore",
       "actors": [
-        "Lily Franky",
-        "Sakura Ando",
-        "Mayu Matsuoka"
+        "John C. Reilly",
+        "Sarah Silverman",
+        "Gal Gadot"
       ],
-      "genres": "Drama, Thriller, Crime"
+      "genres": "Science Fiction, Animation, Adventure, Action, Family, Comedy"
     },
     {
-      "rank": 47,
+      "rank": 42,
+      "title": "I Want to Eat Your Pancreas",
+      "url": "https://letterboxd.com/film/i-want-to-eat-your-pancreas/",
+      "director": "Shinichiro Ushijima",
+      "actors": [
+        "Mahiro Takasugi",
+        "Lynn",
+        "Yukiyo Fujii"
+      ],
+      "genres": "Drama, Romance, Animation"
+    },
+    {
+      "rank": 43,
       "title": "Love, Simon",
       "url": "https://letterboxd.com/film/love-simon/",
       "director": "Greg Berlanti",
@@ -567,7 +519,31 @@
       "genres": "Drama, Romance, Comedy"
     },
     {
-      "rank": 48,
+      "rank": 44,
+      "title": "First Man",
+      "url": "https://letterboxd.com/film/first-man/",
+      "director": "Damien Chazelle",
+      "actors": [
+        "Ryan Gosling",
+        "Claire Foy",
+        "Jason Clarke"
+      ],
+      "genres": "History, Drama"
+    },
+    {
+      "rank": 45,
+      "title": "Eighth Grade",
+      "url": "https://letterboxd.com/film/eighth-grade/",
+      "director": "Bo Burnham",
+      "actors": [
+        "Elsie Fisher",
+        "Josh Hamilton",
+        "Emily Robinson"
+      ],
+      "genres": "Drama, Comedy"
+    },
+    {
+      "rank": 46,
       "title": "The Meg",
       "url": "https://letterboxd.com/film/the-meg/",
       "director": "Jon Turteltaub",
@@ -579,7 +555,43 @@
       "genres": "Science Fiction, Horror, Action"
     },
     {
+      "rank": 47,
+      "title": "Shoplifters",
+      "url": "https://letterboxd.com/film/shoplifters/",
+      "director": "Hirokazu Kore-eda",
+      "actors": [
+        "Lily Franky",
+        "Sakura Ando",
+        "Mayu Matsuoka"
+      ],
+      "genres": "Drama, Thriller, Crime"
+    },
+    {
+      "rank": 48,
+      "title": "Fantastic Beasts: The Crimes of Grindelwald",
+      "url": "https://letterboxd.com/film/fantastic-beasts-the-crimes-of-grindelwald/",
+      "director": "David Yates",
+      "actors": [
+        "Eddie Redmayne",
+        "Katherine Waterston",
+        "Dan Fogler"
+      ],
+      "genres": "Fantasy, Adventure"
+    },
+    {
       "rank": 49,
+      "title": "Searching",
+      "url": "https://letterboxd.com/film/searching-2018/",
+      "director": "Aneesh Chaganty",
+      "actors": [
+        "John Cho",
+        "Michelle La",
+        "Debra Messing"
+      ],
+      "genres": "Drama, Thriller, Mystery"
+    },
+    {
+      "rank": 50,
       "title": "Mission: Impossible – Fallout",
       "url": "https://letterboxd.com/film/mission-impossible-fallout/",
       "director": "Christopher McQuarrie",
@@ -589,18 +601,6 @@
         "Ving Rhames"
       ],
       "genres": "Action, Adventure"
-    },
-    {
-      "rank": 50,
-      "title": "The Ballad of Buster Scruggs",
-      "url": "https://letterboxd.com/film/the-ballad-of-buster-scruggs/",
-      "director": "Joel Coen, Ethan Coen",
-      "actors": [
-        "Tim Blake Nelson",
-        "Willie Watson",
-        "Clancy Brown"
-      ],
-      "genres": "Western, Drama, Comedy"
     }
   ]
 }

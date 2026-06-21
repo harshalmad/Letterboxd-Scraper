@@ -16,6 +16,18 @@
     },
     {
       "rank": 2,
+      "title": "Obsession",
+      "url": "https://letterboxd.com/film/obsession-2025/",
+      "director": "Curry Barker",
+      "actors": [
+        "Michael Johnston",
+        "Inde Navarrette",
+        "Cooper Tomlinson"
+      ],
+      "genres": "Thriller, Horror"
+    },
+    {
+      "rank": 3,
       "title": "Hamnet",
       "url": "https://letterboxd.com/film/hamnet/",
       "director": "Chloé Zhao",
@@ -25,18 +37,6 @@
         "Emily Watson"
       ],
       "genres": "History, Drama, Romance"
-    },
-    {
-      "rank": 3,
-      "title": "Obsession",
-      "url": "https://letterboxd.com/film/obsession-2025-2/",
-      "director": "Curry Barker",
-      "actors": [
-        "Michael Johnston",
-        "Inde Navarrette",
-        "Cooper Tomlinson"
-      ],
-      "genres": "Horror"
     },
     {
       "rank": 4,
@@ -252,7 +252,7 @@
         "Paul Rudd",
         "Steve Zahn"
       ],
-      "genres": "Comedy, Adventure"
+      "genres": "Horror, Comedy, Adventure"
     },
     {
       "rank": 22,
@@ -272,9 +272,9 @@
       "url": "https://letterboxd.com/film/28-years-later/",
       "director": "Danny Boyle",
       "actors": [
-        "Jodie Comer",
         "Aaron Taylor-Johnson",
-        "Alfie Williams"
+        "Alfie Williams",
+        "Ralph Fiennes"
       ],
       "genres": "Science Fiction, Thriller, Horror"
     },
@@ -310,36 +310,24 @@
       "actors": [
         "Nina Kiri",
         "Adam DiMarco",
-        "Michèle Duquet"
+        "Keana Bastidas"
       ],
       "genres": "Horror, Mystery"
     },
     {
       "rank": 27,
-      "title": "I Swear",
-      "url": "https://letterboxd.com/film/i-swear/",
-      "director": "Kirk Jones",
+      "title": "Pillion",
+      "url": "https://letterboxd.com/film/pillion-2025/",
+      "director": "Harry Lighton",
       "actors": [
-        "Robert Aramayo",
-        "Maxine Peake",
-        "Peter Mullan"
+        "Harry Melling",
+        "Alexander Skarsgård",
+        "Lesley Sharp"
       ],
-      "genres": "Drama"
+      "genres": "Drama, Romance, Comedy"
     },
     {
       "rank": 28,
-      "title": "Die My Love",
-      "url": "https://letterboxd.com/film/die-my-love/",
-      "director": "Lynne Ramsay",
-      "actors": [
-        "Jennifer Lawrence",
-        "Robert Pattinson",
-        "Sissy Spacek"
-      ],
-      "genres": "Drama"
-    },
-    {
-      "rank": 29,
       "title": "Superman",
       "url": "https://letterboxd.com/film/superman-2025/",
       "director": "James Gunn",
@@ -351,16 +339,28 @@
       "genres": "Science Fiction, Adventure, Action"
     },
     {
-      "rank": 30,
-      "title": "Pillion",
-      "url": "https://letterboxd.com/film/pillion-2025/",
-      "director": "Harry Lighton",
+      "rank": 29,
+      "title": "I Swear",
+      "url": "https://letterboxd.com/film/i-swear/",
+      "director": "Kirk Jones",
       "actors": [
-        "Harry Melling",
-        "Alexander Skarsgård",
-        "Lesley Sharp"
+        "Robert Aramayo",
+        "Maxine Peake",
+        "Peter Mullan"
       ],
-      "genres": "Drama, Romance, Comedy"
+      "genres": "History, Drama"
+    },
+    {
+      "rank": 30,
+      "title": "Good Luck, Have Fun, Don't Die",
+      "url": "https://letterboxd.com/film/good-luck-have-fun-dont-die/",
+      "director": "Gore Verbinski",
+      "actors": [
+        "Sam Rockwell",
+        "Juno Temple",
+        "Haley Lu Richardson"
+      ],
+      "genres": "Action, Science Fiction, Comedy"
     },
     {
       "rank": 31,
@@ -376,15 +376,15 @@
     },
     {
       "rank": 32,
-      "title": "Good Luck, Have Fun, Don't Die",
-      "url": "https://letterboxd.com/film/good-luck-have-fun-dont-die/",
-      "director": "Gore Verbinski",
+      "title": "Die My Love",
+      "url": "https://letterboxd.com/film/die-my-love/",
+      "director": "Lynne Ramsay",
       "actors": [
-        "Sam Rockwell",
-        "Juno Temple",
-        "Haley Lu Richardson"
+        "Jennifer Lawrence",
+        "Robert Pattinson",
+        "Sissy Spacek"
       ],
-      "genres": "Action, Science Fiction, Comedy"
+      "genres": "Drama"
     },
     {
       "rank": 33,
@@ -412,18 +412,6 @@
     },
     {
       "rank": 35,
-      "title": "It Was Just an Accident",
-      "url": "https://letterboxd.com/film/it-was-just-an-accident/",
-      "director": "Jafar Panahi",
-      "actors": [
-        "Vahid Mobasseri",
-        "Mariam Afshari",
-        "Ebrahim Azizi"
-      ],
-      "genres": "Thriller, Drama, Crime, Mystery"
-    },
-    {
-      "rank": 36,
       "title": "Together",
       "url": "https://letterboxd.com/film/together-2025/",
       "director": "Michael Shanks",
@@ -435,19 +423,7 @@
       "genres": "Horror, Romance"
     },
     {
-      "rank": 37,
-      "title": "Sirāt",
-      "url": "https://letterboxd.com/film/sirat-2025/",
-      "director": "Oliver Laxe",
-      "actors": [
-        "Sergi López",
-        "Bruno Núñez",
-        "Stefania Gadda"
-      ],
-      "genres": "Thriller, Drama"
-    },
-    {
-      "rank": 38,
+      "rank": 36,
       "title": "The Long Walk",
       "url": "https://letterboxd.com/film/the-long-walk-2025/",
       "director": "Francis Lawrence",
@@ -459,19 +435,7 @@
       "genres": "Horror, Science Fiction, Thriller"
     },
     {
-      "rank": 39,
-      "title": "Predator: Badlands",
-      "url": "https://letterboxd.com/film/predator-badlands/",
-      "director": "Dan Trachtenberg",
-      "actors": [
-        "Elle Fanning",
-        "Dimitrius Schuster-Koloamatangi",
-        "Ravi Narayan"
-      ],
-      "genres": "Science Fiction, Action, Adventure"
-    },
-    {
-      "rank": 40,
+      "rank": 37,
       "title": "Exit 8",
       "url": "https://letterboxd.com/film/exit-8/",
       "director": "Genki Kawamura",
@@ -483,19 +447,43 @@
       "genres": "Mystery, Horror"
     },
     {
-      "rank": 41,
-      "title": "Nuremberg",
-      "url": "https://letterboxd.com/film/nuremberg-2025/",
-      "director": "James Vanderbilt",
+      "rank": 38,
+      "title": "It Was Just an Accident",
+      "url": "https://letterboxd.com/film/it-was-just-an-accident/",
+      "director": "Jafar Panahi",
       "actors": [
-        "Rami Malek",
-        "Russell Crowe",
-        "Michael Shannon"
+        "Vahid Mobasseri",
+        "Mariam Afshari",
+        "Ebrahim Azizi"
       ],
-      "genres": "History, Drama"
+      "genres": "Thriller, Drama, Crime, Mystery"
     },
     {
-      "rank": 42,
+      "rank": 39,
+      "title": "Sirāt",
+      "url": "https://letterboxd.com/film/sirat-2025/",
+      "director": "Oliver Laxe",
+      "actors": [
+        "Sergi López",
+        "Bruno Núñez",
+        "Stefania Gadda"
+      ],
+      "genres": "Thriller, Drama"
+    },
+    {
+      "rank": 40,
+      "title": "Predator: Badlands",
+      "url": "https://letterboxd.com/film/predator-badlands/",
+      "director": "Dan Trachtenberg",
+      "actors": [
+        "Elle Fanning",
+        "Dimitrius Schuster-Koloamatangi",
+        "Ravi Narayan"
+      ],
+      "genres": "Science Fiction, Action, Adventure"
+    },
+    {
+      "rank": 41,
       "title": "The Running Man",
       "url": "https://letterboxd.com/film/the-running-man-2025/",
       "director": "Edgar Wright",
@@ -505,6 +493,18 @@
         "Lee Pace"
       ],
       "genres": "Thriller, Science Fiction, Action"
+    },
+    {
+      "rank": 42,
+      "title": "Nuremberg",
+      "url": "https://letterboxd.com/film/nuremberg-2025/",
+      "director": "James Vanderbilt",
+      "actors": [
+        "Rami Malek",
+        "Russell Crowe",
+        "Michael Shannon"
+      ],
+      "genres": "History, Drama"
     },
     {
       "rank": 43,
@@ -520,18 +520,6 @@
     },
     {
       "rank": 44,
-      "title": "The Ugly Stepsister",
-      "url": "https://letterboxd.com/film/the-ugly-stepsister/",
-      "director": "Emilie Blichfeldt",
-      "actors": [
-        "Lea Myren",
-        "Ane Dahl Torp",
-        "Thea Sofie Loch Næss"
-      ],
-      "genres": "Drama, Comedy, Horror"
-    },
-    {
-      "rank": 45,
       "title": "Mickey 17",
       "url": "https://letterboxd.com/film/mickey-17/",
       "director": "Bong Joon Ho",
@@ -543,7 +531,7 @@
       "genres": "Comedy, Adventure, Science Fiction"
     },
     {
-      "rank": 46,
+      "rank": 45,
       "title": "Bring Her Back",
       "url": "https://letterboxd.com/film/bring-her-back/",
       "director": "Michael Philippou, Danny Philippou",
@@ -555,31 +543,19 @@
       "genres": "Horror"
     },
     {
+      "rank": 46,
+      "title": "The Ugly Stepsister",
+      "url": "https://letterboxd.com/film/the-ugly-stepsister/",
+      "director": "Emilie Blichfeldt",
+      "actors": [
+        "Lea Myren",
+        "Ane Dahl Torp",
+        "Thea Sofie Loch Næss"
+      ],
+      "genres": "Drama, Comedy, Horror"
+    },
+    {
       "rank": 47,
-      "title": "Roofman",
-      "url": "https://letterboxd.com/film/roofman/",
-      "director": "Derek Cianfrance",
-      "actors": [
-        "Channing Tatum",
-        "Kirsten Dunst",
-        "Ben Mendelsohn"
-      ],
-      "genres": "Comedy, Crime, Drama"
-    },
-    {
-      "rank": 48,
-      "title": "The Fantastic 4: First Steps",
-      "url": "https://letterboxd.com/film/the-fantastic-4-first-steps/",
-      "director": "Matt Shakman",
-      "actors": [
-        "Pedro Pascal",
-        "Vanessa Kirby",
-        "Ebon Moss-Bachrach"
-      ],
-      "genres": "Action, Science Fiction, Adventure"
-    },
-    {
-      "rank": 49,
       "title": "Companion",
       "url": "https://letterboxd.com/film/companion-2025/",
       "director": "Drew Hancock",
@@ -591,16 +567,40 @@
       "genres": "Thriller, Science Fiction, Horror"
     },
     {
-      "rank": 50,
-      "title": "Sorry, Baby",
-      "url": "https://letterboxd.com/film/sorry-baby-2025/",
-      "director": "Eva Victor",
+      "rank": 48,
+      "title": "Roofman",
+      "url": "https://letterboxd.com/film/roofman/",
+      "director": "Derek Cianfrance",
       "actors": [
-        "Eva Victor",
-        "Naomi Ackie",
-        "Louis Cancelmi"
+        "Channing Tatum",
+        "Kirsten Dunst",
+        "Ben Mendelsohn"
       ],
-      "genres": "Comedy, Drama"
+      "genres": "Comedy, Crime, Drama"
+    },
+    {
+      "rank": 49,
+      "title": "Now You See Me: Now You Don't",
+      "url": "https://letterboxd.com/film/now-you-see-me-now-you-dont-2025/",
+      "director": "Ruben Fleischer",
+      "actors": [
+        "Jesse Eisenberg",
+        "Dominic Sessa",
+        "Ariana Greenblatt"
+      ],
+      "genres": "Thriller, Crime"
+    },
+    {
+      "rank": 50,
+      "title": "The Fantastic 4: First Steps",
+      "url": "https://letterboxd.com/film/the-fantastic-4-first-steps/",
+      "director": "Matt Shakman",
+      "actors": [
+        "Pedro Pascal",
+        "Vanessa Kirby",
+        "Ebon Moss-Bachrach"
+      ],
+      "genres": "Action, Science Fiction, Adventure"
     }
   ]
 }

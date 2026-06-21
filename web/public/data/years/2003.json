@@ -72,7 +72,7 @@
         "Yoo Ji-tae",
         "Kang Hye-jung"
       ],
-      "genres": "Thriller, Mystery, Drama, Action"
+      "genres": "Thriller, Mystery"
     },
     {
       "rank": 7,
@@ -136,6 +136,18 @@
     },
     {
       "rank": 12,
+      "title": "Scary Movie 3",
+      "url": "https://letterboxd.com/film/scary-movie-3/",
+      "director": "David Zucker",
+      "actors": [
+        "Anna Faris",
+        "Regina Hall",
+        "Simon Rex"
+      ],
+      "genres": "Comedy"
+    },
+    {
+      "rank": 13,
       "title": "Mystic River",
       "url": "https://letterboxd.com/film/mystic-river/",
       "director": "Clint Eastwood",
@@ -147,7 +159,7 @@
       "genres": "Mystery, Crime, Drama, Thriller"
     },
     {
-      "rank": 13,
+      "rank": 14,
       "title": "Freaky Friday",
       "url": "https://letterboxd.com/film/freaky-friday-2003/",
       "director": "Mark Waters",
@@ -157,18 +169,6 @@
         "Harold Gould"
       ],
       "genres": "Comedy, Family, Fantasy"
-    },
-    {
-      "rank": 14,
-      "title": "Scary Movie 3",
-      "url": "https://letterboxd.com/film/scary-movie-3/",
-      "director": "David Zucker",
-      "actors": [
-        "Anna Faris",
-        "Regina Hall",
-        "Simon Rex"
-      ],
-      "genres": "Comedy"
     },
     {
       "rank": 15,
@@ -208,18 +208,6 @@
     },
     {
       "rank": 18,
-      "title": "Cheaper by the Dozen",
-      "url": "https://letterboxd.com/film/cheaper-by-the-dozen-2003/",
-      "director": "Shawn Levy",
-      "actors": [
-        "Steve Martin",
-        "Bonnie Hunt",
-        "Hilary Duff"
-      ],
-      "genres": "Comedy, Family, Drama"
-    },
-    {
-      "rank": 19,
       "title": "X2",
       "url": "https://letterboxd.com/film/x2/",
       "director": "Bryan Singer",
@@ -229,6 +217,18 @@
         "Ian McKellen"
       ],
       "genres": "Science Fiction, Action, Adventure"
+    },
+    {
+      "rank": 19,
+      "title": "Cheaper by the Dozen",
+      "url": "https://letterboxd.com/film/cheaper-by-the-dozen-2003/",
+      "director": "Shawn Levy",
+      "actors": [
+        "Steve Martin",
+        "Bonnie Hunt",
+        "Hilary Duff"
+      ],
+      "genres": "Comedy, Family, Drama"
     },
     {
       "rank": 20,
@@ -256,18 +256,6 @@
     },
     {
       "rank": 22,
-      "title": "Big Fish",
-      "url": "https://letterboxd.com/film/big-fish/",
-      "director": "Tim Burton",
-      "actors": [
-        "Ewan McGregor",
-        "Albert Finney",
-        "Billy Crudup"
-      ],
-      "genres": "Drama, Fantasy, Adventure"
-    },
-    {
-      "rank": 23,
       "title": "Final Destination 2",
       "url": "https://letterboxd.com/film/final-destination-2/",
       "director": "David R. Ellis",
@@ -277,6 +265,18 @@
         "Michael Landes"
       ],
       "genres": "Mystery, Horror"
+    },
+    {
+      "rank": 23,
+      "title": "Big Fish",
+      "url": "https://letterboxd.com/film/big-fish/",
+      "director": "Tim Burton",
+      "actors": [
+        "Ewan McGregor",
+        "Albert Finney",
+        "Billy Crudup"
+      ],
+      "genres": "Drama, Fantasy, Adventure"
     },
     {
       "rank": 24,
@@ -328,18 +328,6 @@
     },
     {
       "rank": 28,
-      "title": "The Dreamers",
-      "url": "https://letterboxd.com/film/the-dreamers/",
-      "director": "Bernardo Bertolucci",
-      "actors": [
-        "Michael Pitt",
-        "Eva Green",
-        "Louis Garrel"
-      ],
-      "genres": "Drama, Romance"
-    },
-    {
-      "rank": 29,
       "title": "Identity",
       "url": "https://letterboxd.com/film/identity/",
       "director": "James Mangold",
@@ -351,7 +339,7 @@
       "genres": "Mystery, Thriller"
     },
     {
-      "rank": 30,
+      "rank": 29,
       "title": "The Last Samurai",
       "url": "https://letterboxd.com/film/the-last-samurai/",
       "director": "Edward Zwick",
@@ -361,6 +349,18 @@
         "Timothy Spall"
       ],
       "genres": "Drama, War, Action"
+    },
+    {
+      "rank": 30,
+      "title": "The Dreamers",
+      "url": "https://letterboxd.com/film/the-dreamers/",
+      "director": "Bernardo Bertolucci",
+      "actors": [
+        "Michael Pitt",
+        "Eva Green",
+        "Louis Garrel"
+      ],
+      "genres": "Drama, Romance"
     },
     {
       "rank": 31,
@@ -436,18 +436,6 @@
     },
     {
       "rank": 37,
-      "title": "A Mighty Wind",
-      "url": "https://letterboxd.com/film/a-mighty-wind/",
-      "director": "Christopher Guest",
-      "actors": [
-        "Bob Balaban",
-        "Christopher Guest",
-        "John Michael Higgins"
-      ],
-      "genres": "Comedy, Music"
-    },
-    {
-      "rank": 38,
       "title": "The Room",
       "url": "https://letterboxd.com/film/the-room/",
       "director": "Tommy Wiseau",
@@ -457,6 +445,18 @@
         "Greg Sestero"
       ],
       "genres": "Drama, Romance"
+    },
+    {
+      "rank": 38,
+      "title": "A Mighty Wind",
+      "url": "https://letterboxd.com/film/a-mighty-wind/",
+      "director": "Christopher Guest",
+      "actors": [
+        "Bob Balaban",
+        "Christopher Guest",
+        "John Michael Higgins"
+      ],
+      "genres": "Comedy, Music"
     },
     {
       "rank": 39,
@@ -544,15 +544,15 @@
     },
     {
       "rank": 46,
-      "title": "Elf",
-      "url": "https://letterboxd.com/film/elf/",
-      "director": "Jon Favreau",
+      "title": "Old School",
+      "url": "https://letterboxd.com/film/old-school/",
+      "director": "Todd Phillips",
       "actors": [
+        "Luke Wilson",
         "Will Ferrell",
-        "James Caan",
-        "Bob Newhart"
+        "Vince Vaughn"
       ],
-      "genres": "Fantasy, Family, Comedy"
+      "genres": "Comedy"
     },
     {
       "rank": 47,
@@ -568,15 +568,15 @@
     },
     {
       "rank": 48,
-      "title": "Old School",
-      "url": "https://letterboxd.com/film/old-school/",
-      "director": "Todd Phillips",
+      "title": "Elf",
+      "url": "https://letterboxd.com/film/elf/",
+      "director": "Jon Favreau",
       "actors": [
-        "Luke Wilson",
         "Will Ferrell",
-        "Vince Vaughn"
+        "James Caan",
+        "Bob Newhart"
       ],
-      "genres": "Comedy"
+      "genres": "Fantasy, Family, Comedy"
     },
     {
       "rank": 49,

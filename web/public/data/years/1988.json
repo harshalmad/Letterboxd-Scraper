@@ -124,18 +124,6 @@
     },
     {
       "rank": 11,
-      "title": "Big",
-      "url": "https://letterboxd.com/film/big/",
-      "director": "Penny Marshall",
-      "actors": [
-        "Tom Hanks",
-        "Elizabeth Perkins",
-        "Robert Loggia"
-      ],
-      "genres": "Drama, Comedy, Fantasy"
-    },
-    {
-      "rank": 12,
       "title": "The Vanishing",
       "url": "https://letterboxd.com/film/the-vanishing/",
       "director": "George Sluizer",
@@ -145,6 +133,18 @@
         "Johanna ter Steege"
       ],
       "genres": "Mystery, Horror, Thriller"
+    },
+    {
+      "rank": 12,
+      "title": "Big",
+      "url": "https://letterboxd.com/film/big/",
+      "director": "Penny Marshall",
+      "actors": [
+        "Tom Hanks",
+        "Elizabeth Perkins",
+        "Robert Loggia"
+      ],
+      "genres": "Drama, Comedy, Fantasy"
     },
     {
       "rank": 13,
@@ -172,18 +172,6 @@
     },
     {
       "rank": 15,
-      "title": "Twins",
-      "url": "https://letterboxd.com/film/twins/",
-      "director": "Ivan Reitman",
-      "actors": [
-        "Arnold Schwarzenegger",
-        "Danny DeVito",
-        "Kelly Preston"
-      ],
-      "genres": "Comedy"
-    },
-    {
-      "rank": 16,
       "title": "Killer Klowns from Outer Space",
       "url": "https://letterboxd.com/film/killer-klowns-from-outer-space/",
       "director": "Stephen Chiodo",
@@ -193,6 +181,18 @@
         "John Allen Nelson"
       ],
       "genres": "Science Fiction, Comedy, Horror"
+    },
+    {
+      "rank": 16,
+      "title": "Twins",
+      "url": "https://letterboxd.com/film/twins/",
+      "director": "Ivan Reitman",
+      "actors": [
+        "Arnold Schwarzenegger",
+        "Danny DeVito",
+        "Kelly Preston"
+      ],
+      "genres": "Comedy"
     },
     {
       "rank": 17,
@@ -208,18 +208,6 @@
     },
     {
       "rank": 18,
-      "title": "The Last Temptation of Christ",
-      "url": "https://letterboxd.com/film/the-last-temptation-of-christ/",
-      "director": "Martin Scorsese",
-      "actors": [
-        "Willem Dafoe",
-        "Harvey Keitel",
-        "Paul Greco"
-      ],
-      "genres": "Drama"
-    },
-    {
-      "rank": 19,
       "title": "Elvira: Mistress of the Dark",
       "url": "https://letterboxd.com/film/elvira-mistress-of-the-dark/",
       "director": "James Signorelli",
@@ -231,7 +219,7 @@
       "genres": "Fantasy, Comedy, Horror"
     },
     {
-      "rank": 20,
+      "rank": 19,
       "title": "Dead Ringers",
       "url": "https://letterboxd.com/film/dead-ringers/",
       "director": "David Cronenberg",
@@ -241,6 +229,18 @@
         "Heidi von Palleske"
       ],
       "genres": "Thriller, Horror"
+    },
+    {
+      "rank": 20,
+      "title": "The Last Temptation of Christ",
+      "url": "https://letterboxd.com/film/the-last-temptation-of-christ/",
+      "director": "Martin Scorsese",
+      "actors": [
+        "Willem Dafoe",
+        "Harvey Keitel",
+        "Paul Greco"
+      ],
+      "genres": "Drama"
     },
     {
       "rank": 21,
@@ -256,18 +256,6 @@
     },
     {
       "rank": 22,
-      "title": "A Fish Called Wanda",
-      "url": "https://letterboxd.com/film/a-fish-called-wanda/",
-      "director": "Charles Crichton",
-      "actors": [
-        "Jamie Lee Curtis",
-        "John Cleese",
-        "Kevin Kline"
-      ],
-      "genres": "Crime, Comedy"
-    },
-    {
-      "rank": 23,
       "title": "Hairspray",
       "url": "https://letterboxd.com/film/hairspray/",
       "director": "John Waters",
@@ -277,6 +265,18 @@
         "Debbie Harry"
       ],
       "genres": "Romance, Music, Comedy"
+    },
+    {
+      "rank": 23,
+      "title": "A Fish Called Wanda",
+      "url": "https://letterboxd.com/film/a-fish-called-wanda/",
+      "director": "Charles Crichton",
+      "actors": [
+        "Jamie Lee Curtis",
+        "John Cleese",
+        "Kevin Kline"
+      ],
+      "genres": "Crime, Comedy"
     },
     {
       "rank": 24,
@@ -292,18 +292,6 @@
     },
     {
       "rank": 25,
-      "title": "Coming to America",
-      "url": "https://letterboxd.com/film/coming-to-america/",
-      "director": "John Landis",
-      "actors": [
-        "Eddie Murphy",
-        "Arsenio Hall",
-        "Shari Headley"
-      ],
-      "genres": "Romance, Comedy"
-    },
-    {
-      "rank": 26,
       "title": "Bloodsport",
       "url": "https://letterboxd.com/film/bloodsport/",
       "director": "Newt Arnold",
@@ -313,6 +301,18 @@
         "Leah Ayres"
       ],
       "genres": "Drama, Action, Thriller"
+    },
+    {
+      "rank": 26,
+      "title": "Coming to America",
+      "url": "https://letterboxd.com/film/coming-to-america/",
+      "director": "John Landis",
+      "actors": [
+        "Eddie Murphy",
+        "Arsenio Hall",
+        "Shari Headley"
+      ],
+      "genres": "Romance, Comedy"
     },
     {
       "rank": 27,
@@ -352,18 +352,6 @@
     },
     {
       "rank": 30,
-      "title": "Miracle Mile",
-      "url": "https://letterboxd.com/film/miracle-mile/",
-      "director": "Steve De Jarnatt",
-      "actors": [
-        "Anthony Edwards",
-        "Mare Winningham",
-        "John Agar"
-      ],
-      "genres": "Thriller, Comedy, Drama, Science Fiction, Romance, Action"
-    },
-    {
-      "rank": 31,
       "title": "A Short Film About Love",
       "url": "https://letterboxd.com/film/a-short-film-about-love/",
       "director": "Krzysztof Kieślowski",
@@ -373,6 +361,18 @@
         "Stefania Iwińska"
       ],
       "genres": "Romance, Drama"
+    },
+    {
+      "rank": 31,
+      "title": "Miracle Mile",
+      "url": "https://letterboxd.com/film/miracle-mile/",
+      "director": "Steve De Jarnatt",
+      "actors": [
+        "Anthony Edwards",
+        "Mare Winningham",
+        "John Agar"
+      ],
+      "genres": "Thriller, Comedy, Drama, Science Fiction, Romance, Action"
     },
     {
       "rank": 32,
@@ -424,16 +424,6 @@
     },
     {
       "rank": 36,
-      "title": "Alice",
-      "url": "https://letterboxd.com/film/alice-1988/",
-      "director": "Jan Švankmajer",
-      "actors": [
-        "Kristýna Kohoutová"
-      ],
-      "genres": "Horror, Animation, Fantasy, Adventure"
-    },
-    {
-      "rank": 37,
       "title": "Dangerous Liaisons",
       "url": "https://letterboxd.com/film/dangerous-liaisons/",
       "director": "Stephen Frears",
@@ -443,6 +433,16 @@
         "Michelle Pfeiffer"
       ],
       "genres": "Drama, Romance"
+    },
+    {
+      "rank": 37,
+      "title": "Alice",
+      "url": "https://letterboxd.com/film/alice-1988/",
+      "director": "Jan Švankmajer",
+      "actors": [
+        "Kristýna Kohoutová"
+      ],
+      "genres": "Horror, Animation, Fantasy, Adventure"
     },
     {
       "rank": 38,
@@ -458,18 +458,6 @@
     },
     {
       "rank": 39,
-      "title": "Beaches",
-      "url": "https://letterboxd.com/film/beaches/",
-      "director": "Garry Marshall",
-      "actors": [
-        "Bette Midler",
-        "Barbara Hershey",
-        "John Heard"
-      ],
-      "genres": "Drama, Comedy"
-    },
-    {
-      "rank": 40,
       "title": "As Tears Go By",
       "url": "https://letterboxd.com/film/as-tears-go-by/",
       "director": "Wong Kar-Wai",
@@ -481,7 +469,7 @@
       "genres": "Drama, Crime, Romance"
     },
     {
-      "rank": 41,
+      "rank": 40,
       "title": "Working Girl",
       "url": "https://letterboxd.com/film/working-girl/",
       "director": "Mike Nichols",
@@ -491,6 +479,18 @@
         "Sigourney Weaver"
       ],
       "genres": "Comedy, Romance"
+    },
+    {
+      "rank": 41,
+      "title": "Maniac Cop",
+      "url": "https://letterboxd.com/film/maniac-cop/",
+      "director": "William Lustig",
+      "actors": [
+        "Tom Atkins",
+        "Bruce Campbell",
+        "Laurene Landon"
+      ],
+      "genres": "Horror, Mystery, Action, Crime"
     },
     {
       "rank": 42,
@@ -506,6 +506,18 @@
     },
     {
       "rank": 43,
+      "title": "Beaches",
+      "url": "https://letterboxd.com/film/beaches/",
+      "director": "Garry Marshall",
+      "actors": [
+        "Bette Midler",
+        "Barbara Hershey",
+        "John Heard"
+      ],
+      "genres": "Drama, Comedy"
+    },
+    {
+      "rank": 44,
       "title": "Running on Empty",
       "url": "https://letterboxd.com/film/running-on-empty-1988/",
       "director": "Sidney Lumet",
@@ -515,18 +527,6 @@
         "Judd Hirsch"
       ],
       "genres": "Drama, Romance, Crime"
-    },
-    {
-      "rank": 44,
-      "title": "Maniac Cop",
-      "url": "https://letterboxd.com/film/maniac-cop/",
-      "director": "William Lustig",
-      "actors": [
-        "Tom Atkins",
-        "Bruce Campbell",
-        "Laurene Landon"
-      ],
-      "genres": "Horror, Mystery, Action, Crime"
     },
     {
       "rank": 45,
@@ -542,6 +542,18 @@
     },
     {
       "rank": 46,
+      "title": "Vampire's Kiss",
+      "url": "https://letterboxd.com/film/vampires-kiss/",
+      "director": "Robert Bierman",
+      "actors": [
+        "Nicolas Cage",
+        "María Conchita Alonso",
+        "Jennifer Beals"
+      ],
+      "genres": "Fantasy, Horror, Comedy"
+    },
+    {
+      "rank": 47,
       "title": "Oliver & Company",
       "url": "https://letterboxd.com/film/oliver-company/",
       "director": "George Scribner",
@@ -553,31 +565,7 @@
       "genres": "Family, Animation, Comedy"
     },
     {
-      "rank": 47,
-      "title": "Damnation",
-      "url": "https://letterboxd.com/film/damnation/",
-      "director": "Béla Tarr",
-      "actors": [
-        "Székely B. Miklós",
-        "György Cserhalmi",
-        "Vali Kerekes"
-      ],
-      "genres": "Crime, Drama"
-    },
-    {
       "rank": 48,
-      "title": "Earth Girls Are Easy",
-      "url": "https://letterboxd.com/film/earth-girls-are-easy/",
-      "director": "Julien Temple",
-      "actors": [
-        "Geena Davis",
-        "Jeff Goldblum",
-        "Jim Carrey"
-      ],
-      "genres": "Science Fiction, Romance, Comedy"
-    },
-    {
-      "rank": 49,
       "title": "A Nightmare on Elm Street 4: The Dream Master",
       "url": "https://letterboxd.com/film/a-nightmare-on-elm-street-4-the-dream-master/",
       "director": "Renny Harlin",
@@ -589,16 +577,28 @@
       "genres": "Thriller, Horror"
     },
     {
-      "rank": 50,
-      "title": "Vampire's Kiss",
-      "url": "https://letterboxd.com/film/vampires-kiss/",
-      "director": "Robert Bierman",
+      "rank": 49,
+      "title": "Earth Girls Are Easy",
+      "url": "https://letterboxd.com/film/earth-girls-are-easy/",
+      "director": "Julien Temple",
       "actors": [
-        "Nicolas Cage",
-        "María Conchita Alonso",
-        "Jennifer Beals"
+        "Geena Davis",
+        "Jeff Goldblum",
+        "Jim Carrey"
       ],
-      "genres": "Fantasy, Horror, Comedy, Crime"
+      "genres": "Science Fiction, Romance, Comedy"
+    },
+    {
+      "rank": 50,
+      "title": "Bull Durham",
+      "url": "https://letterboxd.com/film/bull-durham/",
+      "director": "Ron Shelton",
+      "actors": [
+        "Kevin Costner",
+        "Susan Sarandon",
+        "Tim Robbins"
+      ],
+      "genres": "Romance, Comedy"
     }
   ]
 }

@@ -304,6 +304,18 @@
     },
     {
       "rank": 26,
+      "title": "Zombie Flesh Eaters",
+      "url": "https://letterboxd.com/film/zombie-flesh-eaters/",
+      "director": "Lucio Fulci",
+      "actors": [
+        "Tisa Farrow",
+        "Ian McCulloch",
+        "Richard Johnson"
+      ],
+      "genres": "Horror"
+    },
+    {
+      "rank": 27,
       "title": "The Amityville Horror",
       "url": "https://letterboxd.com/film/the-amityville-horror/",
       "director": "Stuart Rosenberg",
@@ -315,24 +327,12 @@
       "genres": "Horror"
     },
     {
-      "rank": 27,
+      "rank": 28,
       "title": "Asparagus",
       "url": "https://letterboxd.com/film/asparagus/",
       "director": "Suzan Pitt",
       "actors": [],
       "genres": "Animation"
-    },
-    {
-      "rank": 28,
-      "title": "Zombie Flesh Eaters",
-      "url": "https://letterboxd.com/film/zombie-flesh-eaters/",
-      "director": "Lucio Fulci",
-      "actors": [
-        "Tisa Farrow",
-        "Ian McCulloch",
-        "Richard Johnson"
-      ],
-      "genres": "Horror"
     },
     {
       "rank": 29,
@@ -383,30 +383,6 @@
     },
     {
       "rank": 33,
-      "title": "Real Life",
-      "url": "https://letterboxd.com/film/real-life/",
-      "director": "Albert Brooks",
-      "actors": [
-        "Albert Brooks",
-        "Charles Grodin",
-        "Frances Lee McCain"
-      ],
-      "genres": "Comedy"
-    },
-    {
-      "rank": 34,
-      "title": "The Plumber",
-      "url": "https://letterboxd.com/film/the-plumber/",
-      "director": "Peter Weir",
-      "actors": [
-        "Ivar Kants",
-        "Judy Morris",
-        "Robert Coleby"
-      ],
-      "genres": "Thriller, TV Movie, Horror, Comedy"
-    },
-    {
-      "rank": 35,
       "title": "Tourist Trap",
       "url": "https://letterboxd.com/film/tourist-trap/",
       "director": "David Schmoeller",
@@ -418,7 +394,43 @@
       "genres": "Fantasy, Horror"
     },
     {
+      "rank": 34,
+      "title": "Real Life",
+      "url": "https://letterboxd.com/film/real-life/",
+      "director": "Albert Brooks",
+      "actors": [
+        "Albert Brooks",
+        "Charles Grodin",
+        "Frances Lee McCain"
+      ],
+      "genres": "Comedy"
+    },
+    {
+      "rank": 35,
+      "title": "1941",
+      "url": "https://letterboxd.com/film/1941/",
+      "director": "Steven Spielberg",
+      "actors": [
+        "Dan Aykroyd",
+        "Ned Beatty",
+        "John Belushi"
+      ],
+      "genres": "War, Comedy"
+    },
+    {
       "rank": 36,
+      "title": "The Plumber",
+      "url": "https://letterboxd.com/film/the-plumber/",
+      "director": "Peter Weir",
+      "actors": [
+        "Ivar Kants",
+        "Judy Morris",
+        "Robert Coleby"
+      ],
+      "genres": "Thriller, TV Movie, Drama"
+    },
+    {
+      "rank": 37,
       "title": "The Driller Killer",
       "url": "https://letterboxd.com/film/the-driller-killer/",
       "director": "Abel Ferrara",
@@ -428,18 +440,6 @@
         "Baybi Day"
       ],
       "genres": "Horror"
-    },
-    {
-      "rank": 37,
-      "title": "Woyzeck",
-      "url": "https://letterboxd.com/film/woyzeck/",
-      "director": "Werner Herzog",
-      "actors": [
-        "Klaus Kinski",
-        "Eva Mattes",
-        "Wolfgang Reichmann"
-      ],
-      "genres": "Drama"
     },
     {
       "rank": 38,
@@ -455,6 +455,18 @@
     },
     {
       "rank": 39,
+      "title": "Woyzeck",
+      "url": "https://letterboxd.com/film/woyzeck/",
+      "director": "Werner Herzog",
+      "actors": [
+        "Klaus Kinski",
+        "Eva Mattes",
+        "Wolfgang Reichmann"
+      ],
+      "genres": "Drama"
+    },
+    {
+      "rank": 40,
       "title": "Scum",
       "url": "https://letterboxd.com/film/scum/",
       "director": "Alan Clarke",
@@ -466,7 +478,7 @@
       "genres": "Crime, Drama"
     },
     {
-      "rank": 40,
+      "rank": 41,
       "title": "Camera Buff",
       "url": "https://letterboxd.com/film/camera-buff/",
       "director": "Krzysztof Kieślowski",
@@ -478,19 +490,19 @@
       "genres": "Drama"
     },
     {
-      "rank": 41,
-      "title": "1941",
-      "url": "https://letterboxd.com/film/1941/",
-      "director": "Steven Spielberg",
+      "rank": 42,
+      "title": "Rapture",
+      "url": "https://letterboxd.com/film/rapture-1979/",
+      "director": "Iván Zulueta",
       "actors": [
-        "Dan Aykroyd",
-        "Ned Beatty",
-        "John Belushi"
+        "Eusebio Poncela",
+        "Cecilia Roth",
+        "Will More"
       ],
-      "genres": "War, Comedy, Action"
+      "genres": "Horror, Drama, Fantasy"
     },
     {
-      "rank": 42,
+      "rank": 43,
       "title": "The Marriage of Maria Braun",
       "url": "https://letterboxd.com/film/the-marriage-of-maria-braun/",
       "director": "Rainer Werner Fassbinder",
@@ -502,28 +514,16 @@
       "genres": "Drama"
     },
     {
-      "rank": 43,
-      "title": "Chilly Scenes of Winter",
-      "url": "https://letterboxd.com/film/chilly-scenes-of-winter/",
-      "director": "Joan Micklin Silver",
-      "actors": [
-        "John Heard",
-        "Mary Beth Hurt",
-        "Peter Riegert"
-      ],
-      "genres": "Romance, Comedy, Drama"
-    },
-    {
       "rank": 44,
-      "title": "Rapture",
-      "url": "https://letterboxd.com/film/rapture-1979/",
-      "director": "Iván Zulueta",
+      "title": "When a Stranger Calls",
+      "url": "https://letterboxd.com/film/when-a-stranger-calls/",
+      "director": "Fred Walton",
       "actors": [
-        "Eusebio Poncela",
-        "Cecilia Roth",
-        "Will More"
+        "Carol Kane",
+        "Charles Durning",
+        "Colleen Dewhurst"
       ],
-      "genres": "Horror, Drama, Fantasy"
+      "genres": "Thriller, Horror"
     },
     {
       "rank": 45,
@@ -539,42 +539,18 @@
     },
     {
       "rank": 46,
-      "title": "When a Stranger Calls",
-      "url": "https://letterboxd.com/film/when-a-stranger-calls/",
-      "director": "Fred Walton",
+      "title": "Chilly Scenes of Winter",
+      "url": "https://letterboxd.com/film/chilly-scenes-of-winter/",
+      "director": "Joan Micklin Silver",
       "actors": [
-        "Carol Kane",
-        "Charles Durning",
-        "Colleen Dewhurst"
+        "John Heard",
+        "Mary Beth Hurt",
+        "Peter Riegert"
       ],
-      "genres": "Thriller, Horror"
+      "genres": "Romance, Comedy, Drama"
     },
     {
       "rank": 47,
-      "title": "Winter Kills",
-      "url": "https://letterboxd.com/film/winter-kills/",
-      "director": "William Richert",
-      "actors": [
-        "Jeff Bridges",
-        "John Huston",
-        "Anthony Perkins"
-      ],
-      "genres": "Drama, Thriller, Mystery, Comedy"
-    },
-    {
-      "rank": 48,
-      "title": "The Visitor",
-      "url": "https://letterboxd.com/film/the-visitor-1979/",
-      "director": "Giulio Paradisi",
-      "actors": [
-        "Mel Ferrer",
-        "Glenn Ford",
-        "Lance Henriksen"
-      ],
-      "genres": "Science Fiction, Horror"
-    },
-    {
-      "rank": 49,
       "title": "The Man Who Stole the Sun",
       "url": "https://letterboxd.com/film/the-man-who-stole-the-sun/",
       "director": "Kazuhiko Hasegawa",
@@ -586,7 +562,19 @@
       "genres": "Drama, Thriller, Crime"
     },
     {
-      "rank": 50,
+      "rank": 48,
+      "title": "Over the Edge",
+      "url": "https://letterboxd.com/film/over-the-edge/",
+      "director": "Jonathan Kaplan",
+      "actors": [
+        "Michael Eric Kramer",
+        "Pamela Ludwig",
+        "Matt Dillon"
+      ],
+      "genres": "Crime, Drama"
+    },
+    {
+      "rank": 49,
       "title": "Rock 'n' Roll High School",
       "url": "https://letterboxd.com/film/rock-n-roll-high-school/",
       "director": "Allan Arkush",
@@ -596,6 +584,18 @@
         "Clint Howard"
       ],
       "genres": "Music, Comedy"
+    },
+    {
+      "rank": 50,
+      "title": "The Visitor",
+      "url": "https://letterboxd.com/film/the-visitor-1979/",
+      "director": "Giulio Paradisi",
+      "actors": [
+        "Mel Ferrer",
+        "Glenn Ford",
+        "Lance Henriksen"
+      ],
+      "genres": "Science Fiction, Horror"
     }
   ]
 }

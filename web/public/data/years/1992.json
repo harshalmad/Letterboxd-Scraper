@@ -76,18 +76,6 @@
     },
     {
       "rank": 7,
-      "title": "Hard Boiled",
-      "url": "https://letterboxd.com/film/hard-boiled/",
-      "director": "John Woo",
-      "actors": [
-        "Chow Yun-Fat",
-        "Tony Leung Chiu-wai",
-        "Anthony Wong Chau-Sang"
-      ],
-      "genres": "Action, Thriller, Crime"
-    },
-    {
-      "rank": 8,
       "title": "Death Becomes Her",
       "url": "https://letterboxd.com/film/death-becomes-her/",
       "director": "Robert Zemeckis",
@@ -97,6 +85,18 @@
         "Bruce Willis"
       ],
       "genres": "Comedy, Fantasy, Horror"
+    },
+    {
+      "rank": 8,
+      "title": "Hard Boiled",
+      "url": "https://letterboxd.com/film/hard-boiled/",
+      "director": "John Woo",
+      "actors": [
+        "Chow Yun-Fat",
+        "Tony Leung Chiu-wai",
+        "Anthony Wong Chau-Sang"
+      ],
+      "genres": "Action, Thriller, Crime"
     },
     {
       "rank": 9,
@@ -160,18 +160,6 @@
     },
     {
       "rank": 14,
-      "title": "Army of Darkness",
-      "url": "https://letterboxd.com/film/army-of-darkness/",
-      "director": "Sam Raimi",
-      "actors": [
-        "Bruce Campbell",
-        "Embeth Davidtz",
-        "Marcus Gilbert"
-      ],
-      "genres": "Comedy, Fantasy, Horror"
-    },
-    {
-      "rank": 15,
       "title": "Batman Returns",
       "url": "https://letterboxd.com/film/batman-returns/",
       "director": "Tim Burton",
@@ -181,6 +169,18 @@
         "Michelle Pfeiffer"
       ],
       "genres": "Fantasy, Action"
+    },
+    {
+      "rank": 15,
+      "title": "Army of Darkness",
+      "url": "https://letterboxd.com/film/army-of-darkness/",
+      "director": "Sam Raimi",
+      "actors": [
+        "Bruce Campbell",
+        "Embeth Davidtz",
+        "Marcus Gilbert"
+      ],
+      "genres": "Comedy, Fantasy, Horror"
     },
     {
       "rank": 16,
@@ -230,18 +230,6 @@
     },
     {
       "rank": 20,
-      "title": "A League of Their Own",
-      "url": "https://letterboxd.com/film/a-league-of-their-own/",
-      "director": "Penny Marshall",
-      "actors": [
-        "Tom Hanks",
-        "Geena Davis",
-        "Lori Petty"
-      ],
-      "genres": "Comedy, Drama"
-    },
-    {
-      "rank": 21,
       "title": "The Bodyguard",
       "url": "https://letterboxd.com/film/the-bodyguard-1992/",
       "director": "Mick Jackson",
@@ -251,6 +239,18 @@
         "Gary Kemp"
       ],
       "genres": "Drama, Action, Romance"
+    },
+    {
+      "rank": 21,
+      "title": "A League of Their Own",
+      "url": "https://letterboxd.com/film/a-league-of-their-own/",
+      "director": "Penny Marshall",
+      "actors": [
+        "Tom Hanks",
+        "Geena Davis",
+        "Lori Petty"
+      ],
+      "genres": "Comedy, Drama"
     },
     {
       "rank": 22,
@@ -326,114 +326,6 @@
     },
     {
       "rank": 28,
-      "title": "Wuthering Heights",
-      "url": "https://letterboxd.com/film/wuthering-heights-1992/",
-      "director": "Peter Kosminsky",
-      "actors": [
-        "Juliette Binoche",
-        "Ralph Fiennes",
-        "Janet McTeer"
-      ],
-      "genres": "Romance, Drama"
-    },
-    {
-      "rank": 29,
-      "title": "Braindead",
-      "url": "https://letterboxd.com/film/braindead-1992/",
-      "director": "Peter Jackson",
-      "actors": [
-        "Timothy Balme",
-        "Diana Peñalver",
-        "Elizabeth Moody"
-      ],
-      "genres": "Comedy, Horror"
-    },
-    {
-      "rank": 30,
-      "title": "Orlando",
-      "url": "https://letterboxd.com/film/orlando/",
-      "director": "Sally Potter",
-      "actors": [
-        "Tilda Swinton",
-        "Billy Zane",
-        "Lothaire Bluteau"
-      ],
-      "genres": "Drama, Fantasy"
-    },
-    {
-      "rank": 31,
-      "title": "The Cutting Edge",
-      "url": "https://letterboxd.com/film/the-cutting-edge/",
-      "director": "Paul Michael Glaser",
-      "actors": [
-        "D. B. Sweeney",
-        "Moira Kelly",
-        "Roy Dotrice"
-      ],
-      "genres": "Comedy, Romance, Drama"
-    },
-    {
-      "rank": 32,
-      "title": "Cronos",
-      "url": "https://letterboxd.com/film/cronos/",
-      "director": "Guillermo del Toro",
-      "actors": [
-        "Federico Luppi",
-        "Ron Perlman",
-        "Claudio Brook"
-      ],
-      "genres": "Horror, Thriller, Drama"
-    },
-    {
-      "rank": 33,
-      "title": "The Mighty Ducks",
-      "url": "https://letterboxd.com/film/the-mighty-ducks/",
-      "director": "Stephen Herek",
-      "actors": [
-        "Emilio Estevez",
-        "Joss Ackland",
-        "Lane Smith"
-      ],
-      "genres": "Family, Comedy, Drama"
-    },
-    {
-      "rank": 34,
-      "title": "Bad Lieutenant",
-      "url": "https://letterboxd.com/film/bad-lieutenant/",
-      "director": "Abel Ferrara",
-      "actors": [
-        "Harvey Keitel",
-        "Peggy Gormley",
-        "Stella Keitel"
-      ],
-      "genres": "Drama, Crime"
-    },
-    {
-      "rank": 35,
-      "title": "Jamon Jamon",
-      "url": "https://letterboxd.com/film/jamon-jamon/",
-      "director": "Bigas Luna",
-      "actors": [
-        "Stefania Sandrelli",
-        "Anna Galiena",
-        "Juan Diego"
-      ],
-      "genres": "Romance, Drama, Comedy"
-    },
-    {
-      "rank": 36,
-      "title": "Benny's Video",
-      "url": "https://letterboxd.com/film/bennys-video/",
-      "director": "Michael Haneke",
-      "actors": [
-        "Arno Frisch",
-        "Angela Winkler",
-        "Ulrich Mühe"
-      ],
-      "genres": "Crime, Drama"
-    },
-    {
-      "rank": 37,
       "title": "The Hand That Rocks the Cradle",
       "url": "https://letterboxd.com/film/the-hand-that-rocks-the-cradle/",
       "director": "Curtis Hanson",
@@ -445,7 +337,55 @@
       "genres": "Thriller, Drama"
     },
     {
-      "rank": 38,
+      "rank": 29,
+      "title": "Wuthering Heights",
+      "url": "https://letterboxd.com/film/wuthering-heights-1992/",
+      "director": "Peter Kosminsky",
+      "actors": [
+        "Juliette Binoche",
+        "Ralph Fiennes",
+        "Janet McTeer"
+      ],
+      "genres": "Romance, Drama"
+    },
+    {
+      "rank": 30,
+      "title": "The Cutting Edge",
+      "url": "https://letterboxd.com/film/the-cutting-edge/",
+      "director": "Paul Michael Glaser",
+      "actors": [
+        "D. B. Sweeney",
+        "Moira Kelly",
+        "Roy Dotrice"
+      ],
+      "genres": "Comedy, Romance, Drama"
+    },
+    {
+      "rank": 31,
+      "title": "Orlando",
+      "url": "https://letterboxd.com/film/orlando/",
+      "director": "Sally Potter",
+      "actors": [
+        "Tilda Swinton",
+        "Billy Zane",
+        "Lothaire Bluteau"
+      ],
+      "genres": "Drama, Fantasy"
+    },
+    {
+      "rank": 32,
+      "title": "Braindead",
+      "url": "https://letterboxd.com/film/braindead-1992/",
+      "director": "Peter Jackson",
+      "actors": [
+        "Timothy Balme",
+        "Diana Peñalver",
+        "Elizabeth Moody"
+      ],
+      "genres": "Comedy, Horror"
+    },
+    {
+      "rank": 33,
       "title": "Single White Female",
       "url": "https://letterboxd.com/film/single-white-female/",
       "director": "Barbet Schroeder",
@@ -457,19 +397,67 @@
       "genres": "Horror, Thriller"
     },
     {
-      "rank": 39,
-      "title": "The Muppet Christmas Carol",
-      "url": "https://letterboxd.com/film/the-muppet-christmas-carol/",
-      "director": "Brian Henson",
+      "rank": 34,
+      "title": "Cronos",
+      "url": "https://letterboxd.com/film/cronos/",
+      "director": "Guillermo del Toro",
       "actors": [
-        "Michael Caine",
-        "Dave Goelz",
-        "Steve Whitmire"
+        "Federico Luppi",
+        "Ron Perlman",
+        "Claudio Brook"
       ],
-      "genres": "Drama, Family, Comedy, Music, Fantasy"
+      "genres": "Horror, Thriller, Drama"
     },
     {
-      "rank": 40,
+      "rank": 35,
+      "title": "Bad Lieutenant",
+      "url": "https://letterboxd.com/film/bad-lieutenant/",
+      "director": "Abel Ferrara",
+      "actors": [
+        "Harvey Keitel",
+        "Peggy Gormley",
+        "Stella Keitel"
+      ],
+      "genres": "Drama, Crime"
+    },
+    {
+      "rank": 36,
+      "title": "The Mighty Ducks",
+      "url": "https://letterboxd.com/film/the-mighty-ducks/",
+      "director": "Stephen Herek",
+      "actors": [
+        "Emilio Estevez",
+        "Joss Ackland",
+        "Lane Smith"
+      ],
+      "genres": "Family, Comedy, Drama"
+    },
+    {
+      "rank": 37,
+      "title": "Jamon Jamon",
+      "url": "https://letterboxd.com/film/jamon-jamon/",
+      "director": "Bigas Luna",
+      "actors": [
+        "Stefania Sandrelli",
+        "Anna Galiena",
+        "Juan Diego"
+      ],
+      "genres": "Romance, Drama, Comedy"
+    },
+    {
+      "rank": 38,
+      "title": "Benny's Video",
+      "url": "https://letterboxd.com/film/bennys-video/",
+      "director": "Michael Haneke",
+      "actors": [
+        "Arno Frisch",
+        "Angela Winkler",
+        "Ulrich Mühe"
+      ],
+      "genres": "Crime, Drama"
+    },
+    {
+      "rank": 39,
       "title": "Sneakers",
       "url": "https://letterboxd.com/film/sneakers/",
       "director": "Phil Alden Robinson",
@@ -481,7 +469,7 @@
       "genres": "Crime, Comedy, Drama"
     },
     {
-      "rank": 41,
+      "rank": 40,
       "title": "Singles",
       "url": "https://letterboxd.com/film/singles/",
       "director": "Cameron Crowe",
@@ -491,6 +479,18 @@
         "Kyra Sedgwick"
       ],
       "genres": "Comedy, Drama, Romance"
+    },
+    {
+      "rank": 41,
+      "title": "The Muppet Christmas Carol",
+      "url": "https://letterboxd.com/film/the-muppet-christmas-carol/",
+      "director": "Brian Henson",
+      "actors": [
+        "Michael Caine",
+        "Dave Goelz",
+        "Steve Whitmire"
+      ],
+      "genres": "Drama, Family, Comedy, Music, Fantasy"
     },
     {
       "rank": 42,
@@ -530,18 +530,6 @@
     },
     {
       "rank": 45,
-      "title": "Of Mice and Men",
-      "url": "https://letterboxd.com/film/of-mice-and-men-1992/",
-      "director": "Gary Sinise",
-      "actors": [
-        "John Malkovich",
-        "Gary Sinise",
-        "Ray Walston"
-      ],
-      "genres": "Drama"
-    },
-    {
-      "rank": 46,
       "title": "Juice",
       "url": "https://letterboxd.com/film/juice/",
       "director": "Ernest R. Dickerson",
@@ -551,6 +539,18 @@
         "Khalil Kain"
       ],
       "genres": "Thriller, Drama, Crime"
+    },
+    {
+      "rank": 46,
+      "title": "Sleepwalkers",
+      "url": "https://letterboxd.com/film/sleepwalkers/",
+      "director": "Mick Garris",
+      "actors": [
+        "Brian Krause",
+        "Mädchen Amick",
+        "Alice Krige"
+      ],
+      "genres": "Fantasy, Thriller, Horror"
     },
     {
       "rank": 47,
@@ -566,15 +566,15 @@
     },
     {
       "rank": 48,
-      "title": "Sleepwalkers",
-      "url": "https://letterboxd.com/film/sleepwalkers/",
-      "director": "Mick Garris",
+      "title": "Of Mice and Men",
+      "url": "https://letterboxd.com/film/of-mice-and-men-1992/",
+      "director": "Gary Sinise",
       "actors": [
-        "Brian Krause",
-        "Mädchen Amick",
-        "Alice Krige"
+        "John Malkovich",
+        "Gary Sinise",
+        "Ray Walston"
       ],
-      "genres": "Fantasy, Thriller, Horror"
+      "genres": "Drama"
     },
     {
       "rank": 49,

@@ -88,6 +88,18 @@
     },
     {
       "rank": 8,
+      "title": "Cape Fear",
+      "url": "https://letterboxd.com/film/cape-fear-1991/",
+      "director": "Martin Scorsese",
+      "actors": [
+        "Robert De Niro",
+        "Nick Nolte",
+        "Jessica Lange"
+      ],
+      "genres": "Drama, Thriller, Crime"
+    },
+    {
+      "rank": 9,
       "title": "Boyz n the Hood",
       "url": "https://letterboxd.com/film/boyz-n-the-hood/",
       "director": "John Singleton",
@@ -99,7 +111,7 @@
       "genres": "Drama, Crime"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "Fried Green Tomatoes",
       "url": "https://letterboxd.com/film/fried-green-tomatoes/",
       "director": "Jon Avnet",
@@ -109,18 +121,6 @@
         "Mary-Louise Parker"
       ],
       "genres": "Drama, Comedy"
-    },
-    {
-      "rank": 10,
-      "title": "Cape Fear",
-      "url": "https://letterboxd.com/film/cape-fear-1991/",
-      "director": "Martin Scorsese",
-      "actors": [
-        "Robert De Niro",
-        "Nick Nolte",
-        "Jessica Lange"
-      ],
-      "genres": "Drama, Thriller, Crime"
     },
     {
       "rank": 11,
@@ -184,18 +184,6 @@
     },
     {
       "rank": 16,
-      "title": "Night on Earth",
-      "url": "https://letterboxd.com/film/night-on-earth/",
-      "director": "Jim Jarmusch",
-      "actors": [
-        "Winona Ryder",
-        "Gena Rowlands",
-        "Giancarlo Esposito"
-      ],
-      "genres": "Drama, Comedy"
-    },
-    {
-      "rank": 17,
       "title": "The Double Life of Véronique",
       "url": "https://letterboxd.com/film/the-double-life-of-veronique/",
       "director": "Krzysztof Kieślowski",
@@ -205,6 +193,18 @@
         "Philippe Volter"
       ],
       "genres": "Fantasy, Drama"
+    },
+    {
+      "rank": 17,
+      "title": "Night on Earth",
+      "url": "https://letterboxd.com/film/night-on-earth/",
+      "director": "Jim Jarmusch",
+      "actors": [
+        "Winona Ryder",
+        "Gena Rowlands",
+        "Giancarlo Esposito"
+      ],
+      "genres": "Drama, Comedy"
     },
     {
       "rank": 18,
@@ -220,18 +220,6 @@
     },
     {
       "rank": 19,
-      "title": "The Lovers on the Bridge",
-      "url": "https://letterboxd.com/film/the-lovers-on-the-bridge/",
-      "director": "Leos Carax",
-      "actors": [
-        "Juliette Binoche",
-        "Denis Lavant",
-        "Klaus-Michael Grüber"
-      ],
-      "genres": "Drama, Romance"
-    },
-    {
-      "rank": 20,
       "title": "964 Pinocchio",
       "url": "https://letterboxd.com/film/964-pinocchio/",
       "director": "Shozin Fukui",
@@ -241,6 +229,18 @@
         "Koji Otsubo"
       ],
       "genres": "Horror, Science Fiction, Thriller"
+    },
+    {
+      "rank": 20,
+      "title": "The Lovers on the Bridge",
+      "url": "https://letterboxd.com/film/the-lovers-on-the-bridge/",
+      "director": "Leos Carax",
+      "actors": [
+        "Juliette Binoche",
+        "Denis Lavant",
+        "Klaus-Michael Grüber"
+      ],
+      "genres": "Drama, Romance"
     },
     {
       "rank": 21,
@@ -268,18 +268,6 @@
     },
     {
       "rank": 23,
-      "title": "The Fisher King",
-      "url": "https://letterboxd.com/film/the-fisher-king/",
-      "director": "Terry Gilliam",
-      "actors": [
-        "Robin Williams",
-        "Jeff Bridges",
-        "Amanda Plummer"
-      ],
-      "genres": "Drama, Comedy"
-    },
-    {
-      "rank": 24,
       "title": "The Man in the Moon",
       "url": "https://letterboxd.com/film/the-man-in-the-moon/",
       "director": "Robert Mulligan",
@@ -289,6 +277,18 @@
         "Emily Warfield"
       ],
       "genres": "Drama, Romance"
+    },
+    {
+      "rank": 24,
+      "title": "The Fisher King",
+      "url": "https://letterboxd.com/film/the-fisher-king/",
+      "director": "Terry Gilliam",
+      "actors": [
+        "Robin Williams",
+        "Jeff Bridges",
+        "Amanda Plummer"
+      ],
+      "genres": "Drama, Comedy"
     },
     {
       "rank": 25,
@@ -376,18 +376,6 @@
     },
     {
       "rank": 32,
-      "title": "The Doors",
-      "url": "https://letterboxd.com/film/the-doors/",
-      "director": "Oliver Stone",
-      "actors": [
-        "Val Kilmer",
-        "Meg Ryan",
-        "Kyle MacLachlan"
-      ],
-      "genres": "Drama, Music"
-    },
-    {
-      "rank": 33,
       "title": "A Brighter Summer Day",
       "url": "https://letterboxd.com/film/a-brighter-summer-day/",
       "director": "Edward Yang",
@@ -397,6 +385,18 @@
         "Chang Kuo-Chu"
       ],
       "genres": "Crime, Drama, Romance"
+    },
+    {
+      "rank": 33,
+      "title": "The Doors",
+      "url": "https://letterboxd.com/film/the-doors/",
+      "director": "Oliver Stone",
+      "actors": [
+        "Val Kilmer",
+        "Meg Ryan",
+        "Kyle MacLachlan"
+      ],
+      "genres": "Drama, Music"
     },
     {
       "rank": 34,
@@ -460,18 +460,6 @@
     },
     {
       "rank": 39,
-      "title": "Dogfight",
-      "url": "https://letterboxd.com/film/dogfight/",
-      "director": "Nancy Savoca",
-      "actors": [
-        "River Phoenix",
-        "Lili Taylor",
-        "Richard Panebianco"
-      ],
-      "genres": "Romance, Drama"
-    },
-    {
-      "rank": 40,
       "title": "The Last Boy Scout",
       "url": "https://letterboxd.com/film/the-last-boy-scout/",
       "director": "Tony Scott",
@@ -481,6 +469,18 @@
         "Chelsea Field"
       ],
       "genres": "Action, Thriller"
+    },
+    {
+      "rank": 40,
+      "title": "Dogfight",
+      "url": "https://letterboxd.com/film/dogfight/",
+      "director": "Nancy Savoca",
+      "actors": [
+        "River Phoenix",
+        "Lili Taylor",
+        "Richard Panebianco"
+      ],
+      "genres": "Romance, Drama"
     },
     {
       "rank": 41,
@@ -496,18 +496,6 @@
     },
     {
       "rank": 42,
-      "title": "Riki-Oh: The Story of Ricky",
-      "url": "https://letterboxd.com/film/riki-oh-the-story-of-ricky/",
-      "director": "Lam Nai-Choi",
-      "actors": [
-        "Louis Fan Siu-Wong",
-        "Fan Mei-Sheng",
-        "William Ho"
-      ],
-      "genres": "Comedy, Crime, Action, Science Fiction, Thriller"
-    },
-    {
-      "rank": 43,
       "title": "What About Bob?",
       "url": "https://letterboxd.com/film/what-about-bob/",
       "director": "Frank Oz",
@@ -517,6 +505,18 @@
         "Julie Hagerty"
       ],
       "genres": "Comedy"
+    },
+    {
+      "rank": 43,
+      "title": "Riki-Oh: The Story of Ricky",
+      "url": "https://letterboxd.com/film/riki-oh-the-story-of-ricky/",
+      "director": "Lam Nai-choi",
+      "actors": [
+        "Louis Fan Siu-Wong",
+        "Fan Mei-Sheng",
+        "William Ho"
+      ],
+      "genres": "Action, Science Fiction"
     },
     {
       "rank": 44,
@@ -540,22 +540,10 @@
         "Lisa Zane",
         "Shon Greenblatt"
       ],
-      "genres": "Thriller, Horror"
+      "genres": "Thriller, Horror, Comedy"
     },
     {
       "rank": 46,
-      "title": "Hot Shots!",
-      "url": "https://letterboxd.com/film/hot-shots/",
-      "director": "Jim Abrahams",
-      "actors": [
-        "Charlie Sheen",
-        "Cary Elwes",
-        "Valeria Golino"
-      ],
-      "genres": "Action, War, Comedy"
-    },
-    {
-      "rank": 47,
       "title": "Defending Your Life",
       "url": "https://letterboxd.com/film/defending-your-life/",
       "director": "Albert Brooks",
@@ -565,6 +553,18 @@
         "Rip Torn"
       ],
       "genres": "Comedy, Romance, Drama, Fantasy"
+    },
+    {
+      "rank": 47,
+      "title": "Hot Shots!",
+      "url": "https://letterboxd.com/film/hot-shots/",
+      "director": "Jim Abrahams",
+      "actors": [
+        "Charlie Sheen",
+        "Cary Elwes",
+        "Valeria Golino"
+      ],
+      "genres": "Action, War, Comedy"
     },
     {
       "rank": 48,

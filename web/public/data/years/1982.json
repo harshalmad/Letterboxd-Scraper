@@ -36,7 +36,7 @@
         "Drew Barrymore",
         "Robert MacNaughton"
       ],
-      "genres": "Science Fiction, Family, Adventure"
+      "genres": "Adventure, Science Fiction, Family"
     },
     {
       "rank": 4,
@@ -60,22 +60,10 @@
         "Richard Crenna",
         "Brian Dennehy"
       ],
-      "genres": "Adventure, War, Action, Thriller"
+      "genres": "Drama, Action, Thriller"
     },
     {
       "rank": 6,
-      "title": "The Last Unicorn",
-      "url": "https://letterboxd.com/film/the-last-unicorn/",
-      "director": "Jules Bass, Arthur Rankin, Jr.",
-      "actors": [
-        "Mia Farrow",
-        "Alan Arkin",
-        "Tammy Grimes"
-      ],
-      "genres": "Family, Adventure, Fantasy, Animation"
-    },
-    {
-      "rank": 7,
       "title": "Rocky III",
       "url": "https://letterboxd.com/film/rocky-iii/",
       "director": "Sylvester Stallone",
@@ -85,6 +73,18 @@
         "Burt Young"
       ],
       "genres": "Drama"
+    },
+    {
+      "rank": 7,
+      "title": "The Last Unicorn",
+      "url": "https://letterboxd.com/film/the-last-unicorn/",
+      "director": "Jules Bass, Arthur Rankin, Jr.",
+      "actors": [
+        "Mia Farrow",
+        "Alan Arkin",
+        "Tammy Grimes"
+      ],
+      "genres": "Family, Adventure, Fantasy, Animation"
     },
     {
       "rank": 8,
@@ -100,18 +100,6 @@
     },
     {
       "rank": 9,
-      "title": "Tron",
-      "url": "https://letterboxd.com/film/tron/",
-      "director": "Steven Lisberger",
-      "actors": [
-        "Jeff Bridges",
-        "Bruce Boxleitner",
-        "David Warner"
-      ],
-      "genres": "Adventure, Action, Science Fiction"
-    },
-    {
-      "rank": 10,
       "title": "Fast Times at Ridgemont High",
       "url": "https://letterboxd.com/film/fast-times-at-ridgemont-high/",
       "director": "Amy Heckerling",
@@ -123,7 +111,7 @@
       "genres": "Drama, Romance, Comedy"
     },
     {
-      "rank": 11,
+      "rank": 10,
       "title": "Tootsie",
       "url": "https://letterboxd.com/film/tootsie/",
       "director": "Sydney Pollack",
@@ -135,7 +123,7 @@
       "genres": "Comedy, Romance"
     },
     {
-      "rank": 12,
+      "rank": 11,
       "title": "Poltergeist",
       "url": "https://letterboxd.com/film/poltergeist/",
       "director": "Tobe Hooper",
@@ -145,6 +133,18 @@
         "Beatrice Straight"
       ],
       "genres": "Horror"
+    },
+    {
+      "rank": 12,
+      "title": "Tron",
+      "url": "https://letterboxd.com/film/tron/",
+      "director": "Steven Lisberger",
+      "actors": [
+        "Jeff Bridges",
+        "Bruce Boxleitner",
+        "David Warner"
+      ],
+      "genres": "Adventure, Action, Science Fiction"
     },
     {
       "rank": 13,
@@ -160,18 +160,6 @@
     },
     {
       "rank": 14,
-      "title": "Fitzcarraldo",
-      "url": "https://letterboxd.com/film/fitzcarraldo/",
-      "director": "Werner Herzog",
-      "actors": [
-        "Klaus Kinski",
-        "Claudia Cardinale",
-        "José Lewgoy"
-      ],
-      "genres": "Adventure, Drama"
-    },
-    {
-      "rank": 15,
       "title": "Pink Floyd: The Wall",
       "url": "https://letterboxd.com/film/pink-floyd-the-wall/",
       "director": "Alan Parker",
@@ -181,6 +169,18 @@
         "James Laurenson"
       ],
       "genres": "Music, Drama"
+    },
+    {
+      "rank": 15,
+      "title": "Fitzcarraldo",
+      "url": "https://letterboxd.com/film/fitzcarraldo/",
+      "director": "Werner Herzog",
+      "actors": [
+        "Klaus Kinski",
+        "Claudia Cardinale",
+        "José Lewgoy"
+      ],
+      "genres": "Adventure, Drama"
     },
     {
       "rank": 16,
@@ -230,18 +230,6 @@
     },
     {
       "rank": 20,
-      "title": "The Year of Living Dangerously",
-      "url": "https://letterboxd.com/film/the-year-of-living-dangerously/",
-      "director": "Peter Weir",
-      "actors": [
-        "Mel Gibson",
-        "Sigourney Weaver",
-        "Linda Hunt"
-      ],
-      "genres": "Romance, Drama"
-    },
-    {
-      "rank": 21,
       "title": "The Secret of NIMH",
       "url": "https://letterboxd.com/film/the-secret-of-nimh/",
       "director": "Don Bluth",
@@ -251,6 +239,18 @@
         "Arthur Malet"
       ],
       "genres": "Mystery, Drama, Animation, Fantasy, Adventure, Family, Science Fiction"
+    },
+    {
+      "rank": 21,
+      "title": "The Year of Living Dangerously",
+      "url": "https://letterboxd.com/film/the-year-of-living-dangerously/",
+      "director": "Peter Weir",
+      "actors": [
+        "Mel Gibson",
+        "Sigourney Weaver",
+        "Linda Hunt"
+      ],
+      "genres": "Romance, Drama"
     },
     {
       "rank": 22,
@@ -278,18 +278,6 @@
     },
     {
       "rank": 24,
-      "title": "The Verdict",
-      "url": "https://letterboxd.com/film/the-verdict-1982/",
-      "director": "Sidney Lumet",
-      "actors": [
-        "Paul Newman",
-        "Charlotte Rampling",
-        "Jack Warden"
-      ],
-      "genres": "Drama"
-    },
-    {
-      "rank": 25,
       "title": "The Slumber Party Massacre",
       "url": "https://letterboxd.com/film/the-slumber-party-massacre/",
       "director": "Amy Holden Jones",
@@ -299,6 +287,18 @@
         "Michael Villella"
       ],
       "genres": "Horror, Comedy"
+    },
+    {
+      "rank": 25,
+      "title": "The Verdict",
+      "url": "https://letterboxd.com/film/the-verdict-1982/",
+      "director": "Sidney Lumet",
+      "actors": [
+        "Paul Newman",
+        "Charlotte Rampling",
+        "Jack Warden"
+      ],
+      "genres": "Drama"
     },
     {
       "rank": 26,
@@ -374,18 +374,6 @@
     },
     {
       "rank": 32,
-      "title": "Basket Case",
-      "url": "https://letterboxd.com/film/basket-case/",
-      "director": "Frank Henenlotter",
-      "actors": [
-        "Kevin Van Hentenryck",
-        "Terri Susan Smith",
-        "Beverly Bonner"
-      ],
-      "genres": "Comedy, Horror"
-    },
-    {
-      "rank": 33,
       "title": "Smithereens",
       "url": "https://letterboxd.com/film/smithereens/",
       "director": "Susan Seidelman",
@@ -397,7 +385,31 @@
       "genres": "Romance, Drama, Music"
     },
     {
+      "rank": 33,
+      "title": "Basket Case",
+      "url": "https://letterboxd.com/film/basket-case/",
+      "director": "Frank Henenlotter",
+      "actors": [
+        "Kevin Van Hentenryck",
+        "Terri Susan Smith",
+        "Beverly Bonner"
+      ],
+      "genres": "Comedy, Horror"
+    },
+    {
       "rank": 34,
+      "title": "Querelle",
+      "url": "https://letterboxd.com/film/querelle/",
+      "director": "Rainer Werner Fassbinder",
+      "actors": [
+        "Brad Davis",
+        "Franco Nero",
+        "Jeanne Moreau"
+      ],
+      "genres": "Crime, Drama"
+    },
+    {
+      "rank": 35,
       "title": "Evil Under the Sun",
       "url": "https://letterboxd.com/film/evil-under-the-sun/",
       "director": "Guy Hamilton",
@@ -407,18 +419,6 @@
         "Sylvia Miles"
       ],
       "genres": "Drama, Crime, Thriller, Mystery"
-    },
-    {
-      "rank": 35,
-      "title": "The Party 2",
-      "url": "https://letterboxd.com/film/the-party-2/",
-      "director": "Claude Pinoteau",
-      "actors": [
-        "Claude Brasseur",
-        "Brigitte Fossey",
-        "Sophie Marceau"
-      ],
-      "genres": "Comedy, Drama, Romance"
     },
     {
       "rank": 36,
@@ -434,30 +434,18 @@
     },
     {
       "rank": 37,
-      "title": "Querelle",
-      "url": "https://letterboxd.com/film/querelle/",
-      "director": "Rainer Werner Fassbinder",
+      "title": "The Party 2",
+      "url": "https://letterboxd.com/film/the-party-2/",
+      "director": "Claude Pinoteau",
       "actors": [
-        "Brad Davis",
-        "Franco Nero",
-        "Jeanne Moreau"
+        "Claude Brasseur",
+        "Brigitte Fossey",
+        "Sophie Marceau"
       ],
-      "genres": "Crime, Drama"
+      "genres": "Comedy, Drama, Romance"
     },
     {
       "rank": 38,
-      "title": "Burden of Dreams",
-      "url": "https://letterboxd.com/film/burden-of-dreams/",
-      "director": "Les Blank",
-      "actors": [
-        "Candace Laughlin",
-        "Werner Herzog",
-        "Klaus Kinski"
-      ],
-      "genres": "Documentary"
-    },
-    {
-      "rank": 39,
       "title": "Cat People",
       "url": "https://letterboxd.com/film/cat-people-1982/",
       "director": "Paul Schrader",
@@ -469,19 +457,19 @@
       "genres": "Fantasy, Horror"
     },
     {
-      "rank": 40,
-      "title": "Time Masters",
-      "url": "https://letterboxd.com/film/time-masters/",
-      "director": "René Laloux",
+      "rank": 39,
+      "title": "Burden of Dreams",
+      "url": "https://letterboxd.com/film/burden-of-dreams/",
+      "director": "Les Blank",
       "actors": [
-        "Jean Valmont",
-        "Michel Elias",
-        "Frédéric Legros"
+        "Candace Laughlin",
+        "Werner Herzog",
+        "Klaus Kinski"
       ],
-      "genres": "Animation, Science Fiction, Adventure"
+      "genres": "Documentary"
     },
     {
-      "rank": 41,
+      "rank": 40,
       "title": "The Plague Dogs",
       "url": "https://letterboxd.com/film/the-plague-dogs/",
       "director": "Martin Rosen",
@@ -491,6 +479,18 @@
         "James Bolam"
       ],
       "genres": "Drama, Adventure, Animation"
+    },
+    {
+      "rank": 41,
+      "title": "Time Masters",
+      "url": "https://letterboxd.com/film/time-masters/",
+      "director": "René Laloux",
+      "actors": [
+        "Jean Valmont",
+        "Michel Elias",
+        "Frédéric Legros"
+      ],
+      "genres": "Animation, Science Fiction, Adventure"
     },
     {
       "rank": 42,
@@ -578,6 +578,16 @@
     },
     {
       "rank": 49,
+      "title": "Thunder",
+      "url": "https://letterboxd.com/film/thunder-1982/",
+      "director": "Takashi Ito",
+      "actors": [
+        "Seiko Nakano"
+      ],
+      "genres": "Fantasy, Animation, Mystery"
+    },
+    {
+      "rank": 50,
       "title": "The Living Dead Girl",
       "url": "https://letterboxd.com/film/the-living-dead-girl/",
       "director": "Jean Rollin",
@@ -587,16 +597,6 @@
         "Mike Marshall"
       ],
       "genres": "Horror"
-    },
-    {
-      "rank": 50,
-      "title": "Thunder",
-      "url": "https://letterboxd.com/film/thunder-1982/",
-      "director": "Takashi Ito",
-      "actors": [
-        "Seiko Nakano"
-      ],
-      "genres": "Fantasy, Animation, Mystery"
     }
   ]
 }

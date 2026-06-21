@@ -72,7 +72,7 @@
         "Mako Hyodo",
         "Jinpachi Nezu"
       ],
-      "genres": "Fantasy, Animation, Mystery"
+      "genres": "Fantasy, Animation, Mystery, Science Fiction"
     },
     {
       "rank": 7,
@@ -124,18 +124,6 @@
     },
     {
       "rank": 11,
-      "title": "Tampopo",
-      "url": "https://letterboxd.com/film/tampopo/",
-      "director": "Jūzō Itami",
-      "actors": [
-        "Tsutomu Yamazaki",
-        "Nobuko Miyamoto",
-        "Ken Watanabe"
-      ],
-      "genres": "Comedy"
-    },
-    {
-      "rank": 12,
       "title": "Rocky IV",
       "url": "https://letterboxd.com/film/rocky-iv/",
       "director": "Sylvester Stallone",
@@ -145,6 +133,18 @@
         "Carl Weathers"
       ],
       "genres": "Drama"
+    },
+    {
+      "rank": 12,
+      "title": "Tampopo",
+      "url": "https://letterboxd.com/film/tampopo/",
+      "director": "Jūzō Itami",
+      "actors": [
+        "Tsutomu Yamazaki",
+        "Nobuko Miyamoto",
+        "Ken Watanabe"
+      ],
+      "genres": "Comedy"
     },
     {
       "rank": 13,
@@ -232,6 +232,18 @@
     },
     {
       "rank": 20,
+      "title": "The Return of the Living Dead",
+      "url": "https://letterboxd.com/film/the-return-of-the-living-dead/",
+      "director": "Dan O'Bannon",
+      "actors": [
+        "Clu Gulager",
+        "James Karen",
+        "Don Calfa"
+      ],
+      "genres": "Science Fiction, Comedy, Horror"
+    },
+    {
+      "rank": 21,
       "title": "Lost in America",
       "url": "https://letterboxd.com/film/lost-in-america/",
       "director": "Albert Brooks",
@@ -243,7 +255,7 @@
       "genres": "Comedy"
     },
     {
-      "rank": 21,
+      "rank": 22,
       "title": "Pee-wee's Big Adventure",
       "url": "https://letterboxd.com/film/pee-wees-big-adventure/",
       "director": "Tim Burton",
@@ -255,7 +267,7 @@
       "genres": "Adventure, Family, Comedy"
     },
     {
-      "rank": 22,
+      "rank": 23,
       "title": "The Stuff",
       "url": "https://letterboxd.com/film/the-stuff/",
       "director": "Larry Cohen",
@@ -267,7 +279,7 @@
       "genres": "Horror, Comedy, Science Fiction"
     },
     {
-      "rank": 23,
+      "rank": 24,
       "title": "Legend",
       "url": "https://letterboxd.com/film/legend/",
       "director": "Ridley Scott",
@@ -277,18 +289,6 @@
         "Tim Curry"
       ],
       "genres": "Adventure, Fantasy"
-    },
-    {
-      "rank": 24,
-      "title": "The Return of the Living Dead",
-      "url": "https://letterboxd.com/film/the-return-of-the-living-dead/",
-      "director": "Dan O'Bannon",
-      "actors": [
-        "Clu Gulager",
-        "James Karen",
-        "Don Calfa"
-      ],
-      "genres": "Science Fiction, Comedy, Horror"
     },
     {
       "rank": 25,
@@ -364,30 +364,6 @@
     },
     {
       "rank": 31,
-      "title": "Mad Max Beyond Thunderdome",
-      "url": "https://letterboxd.com/film/mad-max-beyond-thunderdome/",
-      "director": "George Miller, George Ogilvie",
-      "actors": [
-        "Mel Gibson",
-        "Tina Turner",
-        "Helen Buday"
-      ],
-      "genres": "Science Fiction, Adventure, Action"
-    },
-    {
-      "rank": 32,
-      "title": "Vampire Hunter D",
-      "url": "https://letterboxd.com/film/vampire-hunter-d/",
-      "director": "Toyoo Ashida",
-      "actors": [
-        "Kaneto Shiozawa",
-        "Michie Tomizawa",
-        "Seizo Kato"
-      ],
-      "genres": "Fantasy, Animation, Horror"
-    },
-    {
-      "rank": 33,
       "title": "Fright Night",
       "url": "https://letterboxd.com/film/fright-night/",
       "director": "Tom Holland",
@@ -399,31 +375,43 @@
       "genres": "Comedy, Horror"
     },
     {
-      "rank": 34,
-      "title": "Return to Oz",
-      "url": "https://letterboxd.com/film/return-to-oz/",
-      "director": "Walter Murch",
+      "rank": 32,
+      "title": "Mad Max Beyond Thunderdome",
+      "url": "https://letterboxd.com/film/mad-max-beyond-thunderdome/",
+      "director": "George Miller, George Ogilvie",
       "actors": [
-        "Fairuza Balk",
-        "Nicol Williamson",
-        "Jean Marsh"
+        "Mel Gibson",
+        "Tina Turner",
+        "Helen Buday"
       ],
-      "genres": "Adventure, Fantasy, Family"
+      "genres": "Science Fiction, Adventure, Action"
+    },
+    {
+      "rank": 33,
+      "title": "Vampire Hunter D",
+      "url": "https://letterboxd.com/film/vampire-hunter-d/",
+      "director": "Toyoo Ashida",
+      "actors": [
+        "Kaneto Shiozawa",
+        "Michie Tomizawa",
+        "Seizo Kato"
+      ],
+      "genres": "Fantasy, Animation, Horror"
+    },
+    {
+      "rank": 34,
+      "title": "Day of the Dead",
+      "url": "https://letterboxd.com/film/day-of-the-dead/",
+      "director": "George A. Romero",
+      "actors": [
+        "Lori Cardille",
+        "Terry Alexander",
+        "Joseph Pilato"
+      ],
+      "genres": "Mystery, Drama, Horror"
     },
     {
       "rank": 35,
-      "title": "The Black Cauldron",
-      "url": "https://letterboxd.com/film/the-black-cauldron/",
-      "director": "Richard Rich, Ted Berman",
-      "actors": [
-        "Grant Bardsley",
-        "Susan Sheridan",
-        "John Byner"
-      ],
-      "genres": "Animation, Adventure, Family, Fantasy"
-    },
-    {
-      "rank": 36,
       "title": "Commando",
       "url": "https://letterboxd.com/film/commando/",
       "director": "Mark L. Lester",
@@ -435,7 +423,31 @@
       "genres": "Adventure, Action, Thriller"
     },
     {
+      "rank": 36,
+      "title": "The Black Cauldron",
+      "url": "https://letterboxd.com/film/the-black-cauldron/",
+      "director": "Richard Rich, Ted Berman",
+      "actors": [
+        "Grant Bardsley",
+        "Susan Sheridan",
+        "John Byner"
+      ],
+      "genres": "Animation, Adventure, Family, Fantasy"
+    },
+    {
       "rank": 37,
+      "title": "Return to Oz",
+      "url": "https://letterboxd.com/film/return-to-oz/",
+      "director": "Walter Murch",
+      "actors": [
+        "Fairuza Balk",
+        "Nicol Williamson",
+        "Jean Marsh"
+      ],
+      "genres": "Adventure, Fantasy, Family"
+    },
+    {
+      "rank": 38,
       "title": "Waiting for the Hearse",
       "url": "https://letterboxd.com/film/waiting-for-the-hearse/",
       "director": "Alejandro Doria",
@@ -445,18 +457,6 @@
         "Antonio Gasalla"
       ],
       "genres": "Comedy"
-    },
-    {
-      "rank": 38,
-      "title": "Day of the Dead",
-      "url": "https://letterboxd.com/film/day-of-the-dead/",
-      "director": "George A. Romero",
-      "actors": [
-        "Lori Cardille",
-        "Terry Alexander",
-        "Joseph Pilato"
-      ],
-      "genres": "Mystery, Drama, Horror"
     },
     {
       "rank": 39,
@@ -484,18 +484,6 @@
     },
     {
       "rank": 41,
-      "title": "Out of Africa",
-      "url": "https://letterboxd.com/film/out-of-africa/",
-      "director": "Sydney Pollack",
-      "actors": [
-        "Robert Redford",
-        "Meryl Streep",
-        "Klaus Maria Brandauer"
-      ],
-      "genres": "Drama, History, Romance"
-    },
-    {
-      "rank": 42,
       "title": "The Purple Rose of Cairo",
       "url": "https://letterboxd.com/film/the-purple-rose-of-cairo/",
       "director": "Woody Allen",
@@ -505,6 +493,18 @@
         "Danny Aiello"
       ],
       "genres": "Comedy, Romance, Fantasy"
+    },
+    {
+      "rank": 42,
+      "title": "Out of Africa",
+      "url": "https://letterboxd.com/film/out-of-africa/",
+      "director": "Sydney Pollack",
+      "actors": [
+        "Robert Redford",
+        "Meryl Streep",
+        "Klaus Maria Brandauer"
+      ],
+      "genres": "Drama, History, Romance"
     },
     {
       "rank": 43,
@@ -532,18 +532,6 @@
     },
     {
       "rank": 45,
-      "title": "Teen Wolf",
-      "url": "https://letterboxd.com/film/teen-wolf/",
-      "director": "Rod Daniel",
-      "actors": [
-        "Michael J. Fox",
-        "James Hampton",
-        "Susan Ursitti"
-      ],
-      "genres": "Comedy, Romance, Fantasy"
-    },
-    {
-      "rank": 46,
       "title": "Demons",
       "url": "https://letterboxd.com/film/demons/",
       "director": "Lamberto Bava",
@@ -553,6 +541,18 @@
         "Karl Zinny"
       ],
       "genres": "Horror"
+    },
+    {
+      "rank": 46,
+      "title": "Teen Wolf",
+      "url": "https://letterboxd.com/film/teen-wolf/",
+      "director": "Rod Daniel",
+      "actors": [
+        "Michael J. Fox",
+        "James Hampton",
+        "Susan Ursitti"
+      ],
+      "genres": "Comedy, Romance, Fantasy"
     },
     {
       "rank": 47,
@@ -568,6 +568,18 @@
     },
     {
       "rank": 48,
+      "title": "Kiss of the Spider Woman",
+      "url": "https://letterboxd.com/film/kiss-of-the-spider-woman/",
+      "director": "Héctor Babenco",
+      "actors": [
+        "William Hurt",
+        "Raúl Juliá",
+        "Sonia Braga"
+      ],
+      "genres": "Drama"
+    },
+    {
+      "rank": 49,
       "title": "The Official Story",
       "url": "https://letterboxd.com/film/the-official-story/",
       "director": "Luis Puenzo",
@@ -579,7 +591,7 @@
       "genres": "History, Drama"
     },
     {
-      "rank": 49,
+      "rank": 50,
       "title": "Just One of the Guys",
       "url": "https://letterboxd.com/film/just-one-of-the-guys/",
       "director": "Lisa Gottlieb",
@@ -589,18 +601,6 @@
         "Billy Jayne"
       ],
       "genres": "Comedy, Romance"
-    },
-    {
-      "rank": 50,
-      "title": "Kiss of the Spider Woman",
-      "url": "https://letterboxd.com/film/kiss-of-the-spider-woman/",
-      "director": "Héctor Babenco",
-      "actors": [
-        "William Hurt",
-        "Raúl Juliá",
-        "Sonia Braga"
-      ],
-      "genres": "Drama"
     }
   ]
 }

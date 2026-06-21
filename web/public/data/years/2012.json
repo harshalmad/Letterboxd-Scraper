@@ -28,18 +28,6 @@
     },
     {
       "rank": 3,
-      "title": "Pitch Perfect",
-      "url": "https://letterboxd.com/film/pitch-perfect/",
-      "director": "Jason Moore",
-      "actors": [
-        "Anna Kendrick",
-        "Anna Camp",
-        "Brittany Snow"
-      ],
-      "genres": "Music, Comedy, Romance"
-    },
-    {
-      "rank": 4,
       "title": "Django Unchained",
       "url": "https://letterboxd.com/film/django-unchained/",
       "director": "Quentin Tarantino",
@@ -49,6 +37,18 @@
         "Leonardo DiCaprio"
       ],
       "genres": "Drama, Western"
+    },
+    {
+      "rank": 4,
+      "title": "Pitch Perfect",
+      "url": "https://letterboxd.com/film/pitch-perfect/",
+      "director": "Jason Moore",
+      "actors": [
+        "Anna Kendrick",
+        "Anna Camp",
+        "Brittany Snow"
+      ],
+      "genres": "Music, Comedy, Romance"
     },
     {
       "rank": 5,
@@ -112,18 +112,6 @@
     },
     {
       "rank": 10,
-      "title": "Project X",
-      "url": "https://letterboxd.com/film/project-x-2012/",
-      "director": "Nima Nourizadeh",
-      "actors": [
-        "Thomas Mann",
-        "Oliver Cooper",
-        "Jonathan Daniel Brown"
-      ],
-      "genres": "Comedy"
-    },
-    {
-      "rank": 11,
       "title": "Skyfall",
       "url": "https://letterboxd.com/film/skyfall/",
       "director": "Sam Mendes",
@@ -133,6 +121,18 @@
         "Javier Bardem"
       ],
       "genres": "Adventure, Thriller, Action"
+    },
+    {
+      "rank": 11,
+      "title": "Project X",
+      "url": "https://letterboxd.com/film/project-x-2012/",
+      "director": "Nima Nourizadeh",
+      "actors": [
+        "Thomas Mann",
+        "Oliver Cooper",
+        "Jonathan Daniel Brown"
+      ],
+      "genres": "Comedy"
     },
     {
       "rank": 12,
@@ -208,6 +208,18 @@
     },
     {
       "rank": 18,
+      "title": "Sinister",
+      "url": "https://letterboxd.com/film/sinister/",
+      "director": "Scott Derrickson",
+      "actors": [
+        "Ethan Hawke",
+        "Juliet Rylance",
+        "Vincent D'Onofrio"
+      ],
+      "genres": "Thriller, Horror, Mystery"
+    },
+    {
+      "rank": 19,
       "title": "The Dictator",
       "url": "https://letterboxd.com/film/the-dictator-2012/",
       "director": "Larry Charles",
@@ -219,7 +231,7 @@
       "genres": "Comedy"
     },
     {
-      "rank": 19,
+      "rank": 20,
       "title": "The Lorax",
       "url": "https://letterboxd.com/film/the-lorax-2012/",
       "director": "Chris Renaud",
@@ -229,18 +241,6 @@
         "Zac Efron"
       ],
       "genres": "Animation, Family"
-    },
-    {
-      "rank": 20,
-      "title": "Sinister",
-      "url": "https://letterboxd.com/film/sinister/",
-      "director": "Scott Derrickson",
-      "actors": [
-        "Ethan Hawke",
-        "Juliet Rylance",
-        "Vincent D'Onofrio"
-      ],
-      "genres": "Thriller, Horror, Mystery"
     },
     {
       "rank": 21,
@@ -304,18 +304,6 @@
     },
     {
       "rank": 26,
-      "title": "Spring Breakers",
-      "url": "https://letterboxd.com/film/spring-breakers/",
-      "director": "Harmony Korine",
-      "actors": [
-        "James Franco",
-        "Selena Gomez",
-        "Vanessa Hudgens"
-      ],
-      "genres": "Drama, Crime"
-    },
-    {
-      "rank": 27,
       "title": "Diary of a Wimpy Kid: Dog Days",
       "url": "https://letterboxd.com/film/diary-of-a-wimpy-kid-dog-days/",
       "director": "David Bowers",
@@ -325,6 +313,18 @@
         "Devon Bostick"
       ],
       "genres": "Comedy, Family"
+    },
+    {
+      "rank": 27,
+      "title": "Spring Breakers",
+      "url": "https://letterboxd.com/film/spring-breakers/",
+      "director": "Harmony Korine",
+      "actors": [
+        "James Franco",
+        "Selena Gomez",
+        "Vanessa Hudgens"
+      ],
+      "genres": "Drama, Crime"
     },
     {
       "rank": 28,
@@ -448,18 +448,6 @@
     },
     {
       "rank": 38,
-      "title": "Zero Dark Thirty",
-      "url": "https://letterboxd.com/film/zero-dark-thirty/",
-      "director": "Kathryn Bigelow",
-      "actors": [
-        "Jessica Chastain",
-        "Jason Clarke",
-        "Kyle Chandler"
-      ],
-      "genres": "Drama, Thriller"
-    },
-    {
-      "rank": 39,
       "title": "The Vow",
       "url": "https://letterboxd.com/film/the-vow/",
       "director": "Michael Sucsy",
@@ -469,6 +457,18 @@
         "Sam Neill"
       ],
       "genres": "Romance, Drama"
+    },
+    {
+      "rank": 39,
+      "title": "Zero Dark Thirty",
+      "url": "https://letterboxd.com/film/zero-dark-thirty/",
+      "director": "Kathryn Bigelow",
+      "actors": [
+        "Jessica Chastain",
+        "Jason Clarke",
+        "Kyle Chandler"
+      ],
+      "genres": "Drama, Thriller"
     },
     {
       "rank": 40,
@@ -508,18 +508,6 @@
     },
     {
       "rank": 43,
-      "title": "Anna Karenina",
-      "url": "https://letterboxd.com/film/anna-karenina-2012/",
-      "director": "Joe Wright",
-      "actors": [
-        "Keira Knightley",
-        "Jude Law",
-        "Aaron Taylor-Johnson"
-      ],
-      "genres": "Romance, History, Drama"
-    },
-    {
-      "rank": 44,
       "title": "Rise of the Guardians",
       "url": "https://letterboxd.com/film/rise-of-the-guardians/",
       "director": "Peter Ramsey",
@@ -531,7 +519,7 @@
       "genres": "Fantasy, Family, Adventure, Action, Animation"
     },
     {
-      "rank": 45,
+      "rank": 44,
       "title": "Frankenweenie",
       "url": "https://letterboxd.com/film/frankenweenie-2012/",
       "director": "Tim Burton",
@@ -541,6 +529,18 @@
         "Martin Landau"
       ],
       "genres": "Comedy, Family, Animation"
+    },
+    {
+      "rank": 45,
+      "title": "Anna Karenina",
+      "url": "https://letterboxd.com/film/anna-karenina-2012/",
+      "director": "Joe Wright",
+      "actors": [
+        "Keira Knightley",
+        "Jude Law",
+        "Aaron Taylor-Johnson"
+      ],
+      "genres": "Romance, History, Drama"
     },
     {
       "rank": 46,
@@ -558,7 +558,7 @@
       "rank": 47,
       "title": "Ice Age: Continental Drift",
       "url": "https://letterboxd.com/film/ice-age-continental-drift/",
-      "director": "Mike Thurmeier, Steve Martino",
+      "director": "Michael Thurmeier, Steve Martino",
       "actors": [
         "Ray Romano",
         "John Leguizamo",
@@ -568,6 +568,18 @@
     },
     {
       "rank": 48,
+      "title": "Looper",
+      "url": "https://letterboxd.com/film/looper/",
+      "director": "Rian Johnson",
+      "actors": [
+        "Joseph Gordon-Levitt",
+        "Bruce Willis",
+        "Emily Blunt"
+      ],
+      "genres": "Thriller, Science Fiction, Action"
+    },
+    {
+      "rank": 49,
       "title": "Silent Hill: Revelation 3D",
       "url": "https://letterboxd.com/film/silent-hill-revelation-3d/",
       "director": "MJ Bassett",
@@ -579,7 +591,7 @@
       "genres": "Mystery, Thriller, Horror"
     },
     {
-      "rank": 49,
+      "rank": 50,
       "title": "Monster High: Why Do Ghouls Fall in Love?",
       "url": "https://letterboxd.com/film/monster-high-why-do-ghouls-fall-in-love/",
       "director": "Steve Sacks, Dustin McKenzie",
@@ -589,18 +601,6 @@
         "Jonathan Lipow"
       ],
       "genres": "Animation, Fantasy"
-    },
-    {
-      "rank": 50,
-      "title": "Magic Mike",
-      "url": "https://letterboxd.com/film/magic-mike/",
-      "director": "Steven Soderbergh",
-      "actors": [
-        "Channing Tatum",
-        "Matthew McConaughey",
-        "Alex Pettyfer"
-      ],
-      "genres": "Comedy, Drama"
     }
   ]
 }

@@ -52,18 +52,6 @@
     },
     {
       "rank": 5,
-      "title": "Saltburn",
-      "url": "https://letterboxd.com/film/saltburn/",
-      "director": "Emerald Fennell",
-      "actors": [
-        "Barry Keoghan",
-        "Jacob Elordi",
-        "Rosamund Pike"
-      ],
-      "genres": "Comedy, Drama, Thriller"
-    },
-    {
-      "rank": 6,
       "title": "Past Lives",
       "url": "https://letterboxd.com/film/past-lives/",
       "director": "Celine Song",
@@ -73,6 +61,18 @@
         "John Magaro"
       ],
       "genres": "Drama, Romance"
+    },
+    {
+      "rank": 6,
+      "title": "Saltburn",
+      "url": "https://letterboxd.com/film/saltburn/",
+      "director": "Emerald Fennell",
+      "actors": [
+        "Barry Keoghan",
+        "Jacob Elordi",
+        "Rosamund Pike"
+      ],
+      "genres": "Comedy, Drama, Thriller"
     },
     {
       "rank": 7,
@@ -324,22 +324,10 @@
         "Mamoudou Athie",
         "Ronnie del Carmen"
       ],
-      "genres": "Comedy, Romance, Animation, Fantasy, Family"
+      "genres": "Comedy, Romance, Animation, Family"
     },
     {
       "rank": 28,
-      "title": "The Zone of Interest",
-      "url": "https://letterboxd.com/film/the-zone-of-interest/",
-      "director": "Jonathan Glazer",
-      "actors": [
-        "Christian Friedel",
-        "Sandra Hüller",
-        "Johann Karthaus"
-      ],
-      "genres": "Drama, War, History"
-    },
-    {
-      "rank": 29,
       "title": "Evil Dead Rise",
       "url": "https://letterboxd.com/film/evil-dead-rise/",
       "director": "Lee Cronin",
@@ -351,19 +339,19 @@
       "genres": "Horror, Thriller"
     },
     {
-      "rank": 30,
-      "title": "BEEF",
-      "url": "https://letterboxd.com/film/beef-2023/",
-      "director": "Hikari, Jake Schreier, Lee Sung Jin",
+      "rank": 29,
+      "title": "The Zone of Interest",
+      "url": "https://letterboxd.com/film/the-zone-of-interest/",
+      "director": "Jonathan Glazer",
       "actors": [
-        "Oscar Isaac",
-        "Carey Mulligan",
-        "Cailee Spaeny"
+        "Christian Friedel",
+        "Sandra Hüller",
+        "Johann Karthaus"
       ],
-      "genres": "Comedy, Drama"
+      "genres": "Drama, War, History"
     },
     {
-      "rank": 31,
+      "rank": 30,
       "title": "Society of the Snow",
       "url": "https://letterboxd.com/film/society-of-the-snow/",
       "director": "J. A. Bayona",
@@ -373,6 +361,18 @@
         "Matías Recalt"
       ],
       "genres": "History, Drama"
+    },
+    {
+      "rank": 31,
+      "title": "BEEF",
+      "url": "https://letterboxd.com/film/beef-2023/",
+      "director": "Hikari, Jake Schreier, Lee Sung Jin",
+      "actors": [
+        "Oscar Isaac",
+        "Carey Mulligan",
+        "Cailee Spaeny"
+      ],
+      "genres": "Comedy, Drama"
     },
     {
       "rank": 32,
@@ -496,30 +496,6 @@
     },
     {
       "rank": 42,
-      "title": "Sing Sing",
-      "url": "https://letterboxd.com/film/sing-sing-2023/",
-      "director": "Greg Kwedar",
-      "actors": [
-        "Colman Domingo",
-        "Clarence Maclin",
-        "Sean San Jose"
-      ],
-      "genres": "Drama"
-    },
-    {
-      "rank": 43,
-      "title": "Hit Man",
-      "url": "https://letterboxd.com/film/hit-man-2023/",
-      "director": "Richard Linklater",
-      "actors": [
-        "Glen Powell",
-        "Adria Arjona",
-        "Austin Amelio"
-      ],
-      "genres": "Comedy, Crime, Romance"
-    },
-    {
-      "rank": 44,
       "title": "My Fault",
       "url": "https://letterboxd.com/film/my-fault/",
       "director": "Domingo González",
@@ -531,19 +507,19 @@
       "genres": "Romance, Thriller, Drama"
     },
     {
-      "rank": 45,
-      "title": "The Killer",
-      "url": "https://letterboxd.com/film/the-killer-2023/",
-      "director": "David Fincher",
+      "rank": 43,
+      "title": "Sing Sing",
+      "url": "https://letterboxd.com/film/sing-sing-2023/",
+      "director": "Greg Kwedar",
       "actors": [
-        "Michael Fassbender",
-        "Tilda Swinton",
-        "Charles Parnell"
+        "Colman Domingo",
+        "Clarence Maclin",
+        "Sean San Jose"
       ],
-      "genres": "Thriller, Crime"
+      "genres": "Drama"
     },
     {
-      "rank": 46,
+      "rank": 44,
       "title": "When Evil Lurks",
       "url": "https://letterboxd.com/film/when-evil-lurks/",
       "director": "Demián Rugna",
@@ -553,6 +529,30 @@
         "Silvina Sabater"
       ],
       "genres": "Horror, Thriller"
+    },
+    {
+      "rank": 45,
+      "title": "Hit Man",
+      "url": "https://letterboxd.com/film/hit-man-2023/",
+      "director": "Richard Linklater",
+      "actors": [
+        "Glen Powell",
+        "Adria Arjona",
+        "Austin Amelio"
+      ],
+      "genres": "Comedy, Crime, Romance"
+    },
+    {
+      "rank": 46,
+      "title": "The Killer",
+      "url": "https://letterboxd.com/film/the-killer-2023/",
+      "director": "David Fincher",
+      "actors": [
+        "Michael Fassbender",
+        "Tilda Swinton",
+        "Charles Parnell"
+      ],
+      "genres": "Thriller, Crime"
     },
     {
       "rank": 47,
@@ -568,18 +568,6 @@
     },
     {
       "rank": 48,
-      "title": "Poison",
-      "url": "https://letterboxd.com/film/poison-2023/",
-      "director": "Wes Anderson",
-      "actors": [
-        "Benedict Cumberbatch",
-        "Dev Patel",
-        "Ben Kingsley"
-      ],
-      "genres": "Thriller, Comedy, Drama"
-    },
-    {
-      "rank": 49,
       "title": "Ant-Man and the Wasp: Quantumania",
       "url": "https://letterboxd.com/film/ant-man-and-the-wasp-quantumania/",
       "director": "Peyton Reed",
@@ -591,16 +579,28 @@
       "genres": "Adventure, Science Fiction, Action"
     },
     {
-      "rank": 50,
-      "title": "The Swan",
-      "url": "https://letterboxd.com/film/the-swan-2023/",
+      "rank": 49,
+      "title": "Poison",
+      "url": "https://letterboxd.com/film/poison-2023/",
       "director": "Wes Anderson",
       "actors": [
-        "Rupert Friend",
-        "Ralph Fiennes",
-        "Asa Jennings"
+        "Benedict Cumberbatch",
+        "Dev Patel",
+        "Ben Kingsley"
       ],
-      "genres": "Drama, Comedy"
+      "genres": "Thriller, Comedy, Drama"
+    },
+    {
+      "rank": 50,
+      "title": "Dungeons & Dragons: Honor Among Thieves",
+      "url": "https://letterboxd.com/film/dungeons-dragons-honor-among-thieves/",
+      "director": "John Francis Daley, Jonathan Goldstein",
+      "actors": [
+        "Chris Pine",
+        "Michelle Rodriguez",
+        "Justice Smith"
+      ],
+      "genres": "Fantasy, Adventure, Comedy"
     }
   ]
 }

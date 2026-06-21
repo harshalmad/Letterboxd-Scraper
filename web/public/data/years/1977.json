@@ -28,6 +28,18 @@
     },
     {
       "rank": 3,
+      "title": "Close Encounters of the Third Kind",
+      "url": "https://letterboxd.com/film/close-encounters-of-the-third-kind/",
+      "director": "Steven Spielberg",
+      "actors": [
+        "Richard Dreyfuss",
+        "François Truffaut",
+        "Teri Garr"
+      ],
+      "genres": "Science Fiction, Drama"
+    },
+    {
+      "rank": 4,
       "title": "Suspiria",
       "url": "https://letterboxd.com/film/suspiria/",
       "director": "Dario Argento",
@@ -39,7 +51,7 @@
       "genres": "Horror"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "House",
       "url": "https://letterboxd.com/film/house/",
       "director": "Nobuhiko Obayashi",
@@ -49,18 +61,6 @@
         "Ai Matsubara"
       ],
       "genres": "Horror, Comedy, Fantasy"
-    },
-    {
-      "rank": 5,
-      "title": "Close Encounters of the Third Kind",
-      "url": "https://letterboxd.com/film/close-encounters-of-the-third-kind/",
-      "director": "Steven Spielberg",
-      "actors": [
-        "Richard Dreyfuss",
-        "François Truffaut",
-        "Teri Garr"
-      ],
-      "genres": "Science Fiction, Drama"
     },
     {
       "rank": 6,
@@ -184,18 +184,6 @@
     },
     {
       "rank": 16,
-      "title": "The Hobbit",
-      "url": "https://letterboxd.com/film/the-hobbit/",
-      "director": "Jules Bass, Arthur Rankin, Jr.",
-      "actors": [
-        "Orson Bean",
-        "John Huston",
-        "Hans Conried"
-      ],
-      "genres": "Fantasy, Family, Animation, TV Movie, Adventure"
-    },
-    {
-      "rank": 17,
       "title": "Slap Shot",
       "url": "https://letterboxd.com/film/slap-shot/",
       "director": "George Roy Hill",
@@ -207,7 +195,7 @@
       "genres": "Comedy, Drama"
     },
     {
-      "rank": 18,
+      "rank": 17,
       "title": "A Special Day",
       "url": "https://letterboxd.com/film/a-special-day/",
       "director": "Ettore Scola",
@@ -217,6 +205,18 @@
         "John Vernon"
       ],
       "genres": "Drama, Romance"
+    },
+    {
+      "rank": 18,
+      "title": "The Hobbit",
+      "url": "https://letterboxd.com/film/the-hobbit/",
+      "director": "Jules Bass, Arthur Rankin, Jr.",
+      "actors": [
+        "Orson Bean",
+        "John Huston",
+        "Hans Conried"
+      ],
+      "genres": "Fantasy, Family, Animation, TV Movie, Adventure"
     },
     {
       "rank": 19,
@@ -244,18 +244,6 @@
     },
     {
       "rank": 21,
-      "title": "One Sings, the Other Doesn't",
-      "url": "https://letterboxd.com/film/one-sings-the-other-doesnt/",
-      "director": "Agnès Varda",
-      "actors": [
-        "Thérèse Liotard",
-        "Valérie Mairesse",
-        "Robert Dadiès"
-      ],
-      "genres": "Music, Drama"
-    },
-    {
-      "rank": 22,
       "title": "The Many Adventures of Winnie the Pooh",
       "url": "https://letterboxd.com/film/the-many-adventures-of-winnie-the-pooh/",
       "director": "John Lounsbery, Wolfgang Reitherman",
@@ -265,6 +253,18 @@
         "Junius Matthews"
       ],
       "genres": "Adventure, Animation, Family"
+    },
+    {
+      "rank": 22,
+      "title": "One Sings, the Other Doesn't",
+      "url": "https://letterboxd.com/film/one-sings-the-other-doesnt/",
+      "director": "Agnès Varda",
+      "actors": [
+        "Thérèse Liotard",
+        "Valérie Mairesse",
+        "Robert Dadiès"
+      ],
+      "genres": "Music, Drama"
     },
     {
       "rank": 23,
@@ -328,18 +328,6 @@
     },
     {
       "rank": 28,
-      "title": "Stroszek",
-      "url": "https://letterboxd.com/film/stroszek/",
-      "director": "Werner Herzog",
-      "actors": [
-        "Bruno S.",
-        "Eva Mattes",
-        "Clemens Scheitz"
-      ],
-      "genres": "Drama"
-    },
-    {
-      "rank": 29,
       "title": "The Duellists",
       "url": "https://letterboxd.com/film/the-duellists/",
       "director": "Ridley Scott",
@@ -349,6 +337,18 @@
         "Albert Finney"
       ],
       "genres": "Drama, War"
+    },
+    {
+      "rank": 29,
+      "title": "Stroszek",
+      "url": "https://letterboxd.com/film/stroszek/",
+      "director": "Werner Herzog",
+      "actors": [
+        "Bruno S.",
+        "Eva Mattes",
+        "Clemens Scheitz"
+      ],
+      "genres": "Drama"
     },
     {
       "rank": 30,
@@ -468,7 +468,7 @@
         "Tommy Lee Jones",
         "Linda Haynes"
       ],
-      "genres": "Drama, Crime, Action, Thriller"
+      "genres": "Drama, Thriller"
     },
     {
       "rank": 40,
@@ -496,15 +496,15 @@
     },
     {
       "rank": 42,
-      "title": "Perfumed Nightmare",
-      "url": "https://letterboxd.com/film/perfumed-nightmare/",
-      "director": "Kidlat Tahimik",
+      "title": "Looking for Mr. Goodbar",
+      "url": "https://letterboxd.com/film/looking-for-mr-goodbar/",
+      "director": "Richard Brooks",
       "actors": [
-        "Kidlat Tahimik",
-        "Mang Fely",
-        "Dolores Santamaria"
+        "Diane Keaton",
+        "Tuesday Weld",
+        "William Atherton"
       ],
-      "genres": "Documentary, Comedy"
+      "genres": "Crime, Drama"
     },
     {
       "rank": 43,
@@ -520,18 +520,6 @@
     },
     {
       "rank": 44,
-      "title": "Office Romance",
-      "url": "https://letterboxd.com/film/office-romance/",
-      "director": "Eldar Ryazanov",
-      "actors": [
-        "Alisa Freyndlikh",
-        "Andrey Myagkov",
-        "Svetlana Nemolyaeva"
-      ],
-      "genres": "Comedy, Romance"
-    },
-    {
-      "rank": 45,
       "title": "Peppermint Soda",
       "url": "https://letterboxd.com/film/peppermint-soda/",
       "director": "Diane Kurys",
@@ -543,7 +531,43 @@
       "genres": "Drama, Comedy"
     },
     {
+      "rank": 45,
+      "title": "Office Romance",
+      "url": "https://letterboxd.com/film/office-romance/",
+      "director": "Eldar Ryazanov",
+      "actors": [
+        "Alisa Freyndlikh",
+        "Andrey Myagkov",
+        "Svetlana Nemolyaeva"
+      ],
+      "genres": "Comedy, Romance"
+    },
+    {
       "rank": 46,
+      "title": "Man of Marble",
+      "url": "https://letterboxd.com/film/man-of-marble/",
+      "director": "Andrzej Wajda",
+      "actors": [
+        "Krystyna Janda",
+        "Jerzy Radziwiłowicz",
+        "Tadeusz Łomnicki"
+      ],
+      "genres": "Drama"
+    },
+    {
+      "rank": 47,
+      "title": "Perfumed Nightmare",
+      "url": "https://letterboxd.com/film/perfumed-nightmare/",
+      "director": "Kidlat Tahimik",
+      "actors": [
+        "Kidlat Tahimik",
+        "Mang Fely",
+        "Dolores Santamaria"
+      ],
+      "genres": "Documentary, Comedy"
+    },
+    {
+      "rank": 48,
       "title": "Cross of Iron",
       "url": "https://letterboxd.com/film/cross-of-iron/",
       "director": "Sam Peckinpah",
@@ -555,7 +579,7 @@
       "genres": "History, War, Drama, Action"
     },
     {
-      "rank": 47,
+      "rank": 49,
       "title": "Capricorn One",
       "url": "https://letterboxd.com/film/capricorn-one/",
       "director": "Peter Hyams",
@@ -565,30 +589,6 @@
         "Brenda Vaccaro"
       ],
       "genres": "Science Fiction, Thriller, Action, Drama"
-    },
-    {
-      "rank": 48,
-      "title": "Looking for Mr. Goodbar",
-      "url": "https://letterboxd.com/film/looking-for-mr-goodbar/",
-      "director": "Richard Brooks",
-      "actors": [
-        "Diane Keaton",
-        "Tuesday Weld",
-        "William Atherton"
-      ],
-      "genres": "Crime, Drama"
-    },
-    {
-      "rank": 49,
-      "title": "Man of Marble",
-      "url": "https://letterboxd.com/film/man-of-marble/",
-      "director": "Andrzej Wajda",
-      "actors": [
-        "Krystyna Janda",
-        "Jerzy Radziwiłowicz",
-        "Tadeusz Łomnicki"
-      ],
-      "genres": "Drama"
     },
     {
       "rank": 50,

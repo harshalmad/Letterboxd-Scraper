@@ -64,6 +64,18 @@
     },
     {
       "rank": 6,
+      "title": "Paris Is Burning",
+      "url": "https://letterboxd.com/film/paris-is-burning/",
+      "director": "Jennie Livingston",
+      "actors": [
+        "Pepper LaBeija",
+        "Octavia St. Laurent",
+        "Venus Xtravaganza"
+      ],
+      "genres": "Documentary"
+    },
+    {
+      "rank": 7,
       "title": "Wild at Heart",
       "url": "https://letterboxd.com/film/wild-at-heart/",
       "director": "David Lynch",
@@ -75,7 +87,7 @@
       "genres": "Crime, Thriller, Romance"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "Back to the Future Part III",
       "url": "https://letterboxd.com/film/back-to-the-future-part-iii/",
       "director": "Robert Zemeckis",
@@ -85,18 +97,6 @@
         "Mary Steenburgen"
       ],
       "genres": "Comedy, Adventure, Science Fiction, Western"
-    },
-    {
-      "rank": 8,
-      "title": "Paris Is Burning",
-      "url": "https://letterboxd.com/film/paris-is-burning/",
-      "director": "Jennie Livingston",
-      "actors": [
-        "Pepper LaBeija",
-        "Octavia St. Laurent",
-        "Venus Xtravaganza"
-      ],
-      "genres": "Documentary"
     },
     {
       "rank": 9,
@@ -136,18 +136,6 @@
     },
     {
       "rank": 12,
-      "title": "Total Recall",
-      "url": "https://letterboxd.com/film/total-recall/",
-      "director": "Paul Verhoeven",
-      "actors": [
-        "Arnold Schwarzenegger",
-        "Rachel Ticotin",
-        "Sharon Stone"
-      ],
-      "genres": "Action, Adventure, Science Fiction"
-    },
-    {
-      "rank": 13,
       "title": "Jacob's Ladder",
       "url": "https://letterboxd.com/film/jacobs-ladder/",
       "director": "Adrian Lyne",
@@ -157,6 +145,18 @@
         "Danny Aiello"
       ],
       "genres": "Horror, Drama, Mystery"
+    },
+    {
+      "rank": 13,
+      "title": "Total Recall",
+      "url": "https://letterboxd.com/film/total-recall/",
+      "director": "Paul Verhoeven",
+      "actors": [
+        "Arnold Schwarzenegger",
+        "Rachel Ticotin",
+        "Sharon Stone"
+      ],
+      "genres": "Action, Adventure, Science Fiction"
     },
     {
       "rank": 14,
@@ -244,30 +244,6 @@
     },
     {
       "rank": 21,
-      "title": "Predator 2",
-      "url": "https://letterboxd.com/film/predator-2/",
-      "director": "Stephen Hopkins",
-      "actors": [
-        "Danny Glover",
-        "Gary Busey",
-        "Rubén Blades"
-      ],
-      "genres": "Action, Science Fiction, Thriller"
-    },
-    {
-      "rank": 22,
-      "title": "Days of Being Wild",
-      "url": "https://letterboxd.com/film/ah-fei-jing-juen/",
-      "director": "Wong Kar-Wai",
-      "actors": [
-        "Leslie Cheung",
-        "Maggie Cheung",
-        "Andy Lau"
-      ],
-      "genres": "Drama, Romance, Crime"
-    },
-    {
-      "rank": 23,
       "title": "Cry-Baby",
       "url": "https://letterboxd.com/film/cry-baby/",
       "director": "John Waters",
@@ -279,19 +255,31 @@
       "genres": "Comedy, Romance"
     },
     {
-      "rank": 24,
-      "title": "Kindergarten Cop",
-      "url": "https://letterboxd.com/film/kindergarten-cop/",
-      "director": "Ivan Reitman",
+      "rank": 22,
+      "title": "Predator 2",
+      "url": "https://letterboxd.com/film/predator-2/",
+      "director": "Stephen Hopkins",
       "actors": [
-        "Arnold Schwarzenegger",
-        "Penelope Ann Miller",
-        "Pamela Reed"
+        "Danny Glover",
+        "Gary Busey",
+        "Rubén Blades"
       ],
-      "genres": "Comedy"
+      "genres": "Action, Science Fiction, Thriller"
     },
     {
-      "rank": 25,
+      "rank": 23,
+      "title": "Days of Being Wild",
+      "url": "https://letterboxd.com/film/ah-fei-jing-juen/",
+      "director": "Wong Kar-Wai",
+      "actors": [
+        "Leslie Cheung",
+        "Maggie Cheung",
+        "Andy Lau"
+      ],
+      "genres": "Drama, Romance, Crime"
+    },
+    {
+      "rank": 24,
       "title": "Tremors",
       "url": "https://letterboxd.com/film/tremors/",
       "director": "Ron Underwood",
@@ -303,16 +291,28 @@
       "genres": "Horror, Science Fiction, Comedy"
     },
     {
-      "rank": 26,
-      "title": "Dances with Wolves",
-      "url": "https://letterboxd.com/film/dances-with-wolves/",
-      "director": "Kevin Costner",
+      "rank": 25,
+      "title": "Kindergarten Cop",
+      "url": "https://letterboxd.com/film/kindergarten-cop/",
+      "director": "Ivan Reitman",
       "actors": [
-        "Kevin Costner",
-        "Mary McDonnell",
-        "Graham Greene"
+        "Arnold Schwarzenegger",
+        "Penelope Ann Miller",
+        "Pamela Reed"
       ],
-      "genres": "Western, Drama, Adventure"
+      "genres": "Comedy"
+    },
+    {
+      "rank": 26,
+      "title": "Rocky V",
+      "url": "https://letterboxd.com/film/rocky-v/",
+      "director": "John G. Avildsen",
+      "actors": [
+        "Sylvester Stallone",
+        "Talia Shire",
+        "Burt Young"
+      ],
+      "genres": "Drama"
     },
     {
       "rank": 27,
@@ -328,6 +328,18 @@
     },
     {
       "rank": 28,
+      "title": "Dances with Wolves",
+      "url": "https://letterboxd.com/film/dances-with-wolves/",
+      "director": "Kevin Costner",
+      "actors": [
+        "Kevin Costner",
+        "Mary McDonnell",
+        "Graham Greene"
+      ],
+      "genres": "Western, Drama, Adventure"
+    },
+    {
+      "rank": 29,
       "title": "Teenage Mutant Ninja Turtles",
       "url": "https://letterboxd.com/film/teenage-mutant-ninja-turtles/",
       "director": "Steve Barron",
@@ -339,7 +351,7 @@
       "genres": "Comedy, Family, Science Fiction, Action, Adventure"
     },
     {
-      "rank": 29,
+      "rank": 30,
       "title": "Miller's Crossing",
       "url": "https://letterboxd.com/film/millers-crossing/",
       "director": "Joel Coen",
@@ -351,31 +363,7 @@
       "genres": "Drama, Thriller, Crime"
     },
     {
-      "rank": 30,
-      "title": "Rocky V",
-      "url": "https://letterboxd.com/film/rocky-v/",
-      "director": "John G. Avildsen",
-      "actors": [
-        "Sylvester Stallone",
-        "Talia Shire",
-        "Burt Young"
-      ],
-      "genres": "Drama"
-    },
-    {
       "rank": 31,
-      "title": "Die Hard 2",
-      "url": "https://letterboxd.com/film/die-hard-2/",
-      "director": "Renny Harlin",
-      "actors": [
-        "Bruce Willis",
-        "Bonnie Bedelia",
-        "William Sadler"
-      ],
-      "genres": "Action, Thriller"
-    },
-    {
-      "rank": 32,
       "title": "Bullet in the Head",
       "url": "https://letterboxd.com/film/bullet-in-the-head/",
       "director": "John Woo",
@@ -387,16 +375,28 @@
       "genres": "Crime, War, Thriller, Action"
     },
     {
-      "rank": 33,
-      "title": "Gremlins 2: The New Batch",
-      "url": "https://letterboxd.com/film/gremlins-2-the-new-batch/",
-      "director": "Joe Dante",
+      "rank": 32,
+      "title": "Postcards from the Edge",
+      "url": "https://letterboxd.com/film/postcards-from-the-edge/",
+      "director": "Mike Nichols",
       "actors": [
-        "Zach Galligan",
-        "Phoebe Cates",
-        "John Glover"
+        "Meryl Streep",
+        "Shirley MacLaine",
+        "Dennis Quaid"
       ],
-      "genres": "Comedy, Fantasy, Horror"
+      "genres": "Comedy, Drama"
+    },
+    {
+      "rank": 33,
+      "title": "Die Hard 2",
+      "url": "https://letterboxd.com/film/die-hard-2/",
+      "director": "Renny Harlin",
+      "actors": [
+        "Bruce Willis",
+        "Bonnie Bedelia",
+        "William Sadler"
+      ],
+      "genres": "Action, Thriller"
     },
     {
       "rank": 34,
@@ -412,6 +412,18 @@
     },
     {
       "rank": 35,
+      "title": "Gremlins 2: The New Batch",
+      "url": "https://letterboxd.com/film/gremlins-2-the-new-batch/",
+      "director": "Joe Dante",
+      "actors": [
+        "Zach Galligan",
+        "Phoebe Cates",
+        "John Glover"
+      ],
+      "genres": "Comedy, Fantasy, Horror"
+    },
+    {
+      "rank": 36,
       "title": "Darkman",
       "url": "https://letterboxd.com/film/darkman/",
       "director": "Sam Raimi",
@@ -421,18 +433,6 @@
         "Colin Friels"
       ],
       "genres": "Action, Thriller, Science Fiction"
-    },
-    {
-      "rank": 36,
-      "title": "Postcards from the Edge",
-      "url": "https://letterboxd.com/film/postcards-from-the-edge/",
-      "director": "Mike Nichols",
-      "actors": [
-        "Meryl Streep",
-        "Shirley MacLaine",
-        "Dennis Quaid"
-      ],
-      "genres": "Comedy, Drama"
     },
     {
       "rank": 37,
@@ -484,18 +484,6 @@
     },
     {
       "rank": 41,
-      "title": "Metropolitan",
-      "url": "https://letterboxd.com/film/metropolitan/",
-      "director": "Whit Stillman",
-      "actors": [
-        "Edward Clements",
-        "Chris Eigeman",
-        "Taylor Nichols"
-      ],
-      "genres": "Romance, Comedy, Drama"
-    },
-    {
-      "rank": 42,
       "title": "The Exorcist III",
       "url": "https://letterboxd.com/film/the-exorcist-iii/",
       "director": "William Peter Blatty",
@@ -505,6 +493,18 @@
         "Brad Dourif"
       ],
       "genres": "Horror, Mystery"
+    },
+    {
+      "rank": 42,
+      "title": "Metropolitan",
+      "url": "https://letterboxd.com/film/metropolitan/",
+      "director": "Whit Stillman",
+      "actors": [
+        "Edward Clements",
+        "Chris Eigeman",
+        "Taylor Nichols"
+      ],
+      "genres": "Romance, Comedy, Drama"
     },
     {
       "rank": 43,
@@ -532,6 +532,18 @@
     },
     {
       "rank": 45,
+      "title": "RoboCop 2",
+      "url": "https://letterboxd.com/film/robocop-2/",
+      "director": "Irvin Kershner",
+      "actors": [
+        "Peter Weller",
+        "Nancy Allen",
+        "Tom Noonan"
+      ],
+      "genres": "Science Fiction, Action, Thriller"
+    },
+    {
+      "rank": 46,
       "title": "Bad Influence",
       "url": "https://letterboxd.com/film/bad-influence/",
       "director": "Curtis Hanson",
@@ -543,7 +555,7 @@
       "genres": "Thriller"
     },
     {
-      "rank": 46,
+      "rank": 47,
       "title": "State of Grace",
       "url": "https://letterboxd.com/film/state-of-grace/",
       "director": "Phil Joanou",
@@ -553,18 +565,6 @@
         "Gary Oldman"
       ],
       "genres": "Thriller, Drama, Crime"
-    },
-    {
-      "rank": 47,
-      "title": "RoboCop 2",
-      "url": "https://letterboxd.com/film/robocop-2/",
-      "director": "Irvin Kershner",
-      "actors": [
-        "Peter Weller",
-        "Nancy Allen",
-        "Tom Noonan"
-      ],
-      "genres": "Science Fiction, Action, Thriller"
     },
     {
       "rank": 48,

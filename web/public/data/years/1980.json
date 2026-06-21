@@ -84,7 +84,7 @@
         "Dan Aykroyd",
         "James Brown"
       ],
-      "genres": "Music, Action, Comedy, Crime"
+      "genres": "Music, Comedy, Crime"
     },
     {
       "rank": 8,
@@ -276,15 +276,15 @@
     },
     {
       "rank": 24,
-      "title": "The King and the Mockingbird",
-      "url": "https://letterboxd.com/film/the-king-and-the-mockingbird/",
-      "director": "Paul Grimault",
+      "title": "Superman II",
+      "url": "https://letterboxd.com/film/superman-ii/",
+      "director": "Richard Lester",
       "actors": [
-        "Jean Martin",
-        "Renaud Marx",
-        "Agnès Viala"
+        "Christopher Reeve",
+        "Margot Kidder",
+        "Terence Stamp"
       ],
-      "genres": "Fantasy, Animation, Family"
+      "genres": "Action, Adventure, Science Fiction"
     },
     {
       "rank": 25,
@@ -300,15 +300,15 @@
     },
     {
       "rank": 26,
-      "title": "Superman II",
-      "url": "https://letterboxd.com/film/superman-ii/",
-      "director": "Richard Lester",
+      "title": "The King and the Mockingbird",
+      "url": "https://letterboxd.com/film/the-king-and-the-mockingbird/",
+      "director": "Paul Grimault",
       "actors": [
-        "Christopher Reeve",
-        "Margot Kidder",
-        "Terence Stamp"
+        "Jean Martin",
+        "Renaud Marx",
+        "Agnès Viala"
       ],
-      "genres": "Action, Adventure, Science Fiction"
+      "genres": "Fantasy, Animation, Family"
     },
     {
       "rank": 27,
@@ -432,30 +432,6 @@
     },
     {
       "rank": 37,
-      "title": "Permanent Vacation",
-      "url": "https://letterboxd.com/film/permanent-vacation/",
-      "director": "Jim Jarmusch",
-      "actors": [
-        "Chris Parker",
-        "Leila Gastil",
-        "John Lurie"
-      ],
-      "genres": "Drama"
-    },
-    {
-      "rank": 38,
-      "title": "Bubble Bath",
-      "url": "https://letterboxd.com/film/bubble-bath/",
-      "director": "György Kovásznai",
-      "actors": [
-        "Albert Antalffy",
-        "Katalin Bontovics",
-        "Katalin Dobos"
-      ],
-      "genres": "Drama, Comedy, Animation, Music"
-    },
-    {
-      "rank": 39,
       "title": "Bye Bye Brazil",
       "url": "https://letterboxd.com/film/bye-bye-brazil/",
       "director": "Carlos Diegues",
@@ -467,19 +443,19 @@
       "genres": "Drama"
     },
     {
-      "rank": 40,
-      "title": "The Stunt Man",
-      "url": "https://letterboxd.com/film/the-stunt-man/",
-      "director": "Richard Rush",
+      "rank": 38,
+      "title": "Permanent Vacation",
+      "url": "https://letterboxd.com/film/permanent-vacation/",
+      "director": "Jim Jarmusch",
       "actors": [
-        "Peter O'Toole",
-        "Steve Railsback",
-        "Barbara Hershey"
+        "Chris Parker",
+        "Leila Gastil",
+        "John Lurie"
       ],
-      "genres": "Action, Thriller, Romance, Comedy, Drama"
+      "genres": "Drama"
     },
     {
-      "rank": 41,
+      "rank": 39,
       "title": "Alligator",
       "url": "https://letterboxd.com/film/alligator/",
       "director": "Lewis Teague",
@@ -489,6 +465,30 @@
         "Michael V. Gazzo"
       ],
       "genres": "Thriller, Horror, Science Fiction"
+    },
+    {
+      "rank": 40,
+      "title": "Bubble Bath",
+      "url": "https://letterboxd.com/film/bubble-bath/",
+      "director": "György Kovásznai",
+      "actors": [
+        "Albert Antalffy",
+        "Katalin Bontovics",
+        "Katalin Dobos"
+      ],
+      "genres": "Drama, Comedy, Animation, Music"
+    },
+    {
+      "rank": 41,
+      "title": "The Stunt Man",
+      "url": "https://letterboxd.com/film/the-stunt-man/",
+      "director": "Richard Rush",
+      "actors": [
+        "Peter O'Toole",
+        "Steve Railsback",
+        "Barbara Hershey"
+      ],
+      "genres": "Action, Thriller, Romance, Comedy, Drama"
     },
     {
       "rank": 42,
@@ -536,22 +536,10 @@
         "Scott Wilson",
         "Jason Miller"
       ],
-      "genres": "Mystery, Thriller, Horror, Drama, Comedy"
+      "genres": "Horror, Drama, Comedy"
     },
     {
       "rank": 46,
-      "title": "Motel Hell",
-      "url": "https://letterboxd.com/film/motel-hell/",
-      "director": "Kevin Connor",
-      "actors": [
-        "Rory Calhoun",
-        "Paul Linke",
-        "Nancy Parsons"
-      ],
-      "genres": "Horror, Comedy"
-    },
-    {
-      "rank": 47,
       "title": "Fame",
       "url": "https://letterboxd.com/film/fame/",
       "director": "Alan Parker",
@@ -561,6 +549,18 @@
         "Maureen Teefy"
       ],
       "genres": "Drama, Music"
+    },
+    {
+      "rank": 47,
+      "title": "Motel Hell",
+      "url": "https://letterboxd.com/film/motel-hell/",
+      "director": "Kevin Connor",
+      "actors": [
+        "Rory Calhoun",
+        "Paul Linke",
+        "Nancy Parsons"
+      ],
+      "genres": "Horror, Comedy"
     },
     {
       "rank": 48,
@@ -576,18 +576,6 @@
     },
     {
       "rank": 49,
-      "title": "Werner Herzog Eats His Shoe",
-      "url": "https://letterboxd.com/film/werner-herzog-eats-his-shoe/",
-      "director": "Les Blank",
-      "actors": [
-        "Werner Herzog",
-        "Errol Morris",
-        "Tom Luddy"
-      ],
-      "genres": "Documentary, Comedy"
-    },
-    {
-      "rank": 50,
       "title": "Urban Cowboy",
       "url": "https://letterboxd.com/film/urban-cowboy/",
       "director": "James Bridges",
@@ -597,6 +585,18 @@
         "Scott Glenn"
       ],
       "genres": "Romance, Drama, Western"
+    },
+    {
+      "rank": 50,
+      "title": "Forbidden Zone",
+      "url": "https://letterboxd.com/film/forbidden-zone/",
+      "director": "Richard Elfman",
+      "actors": [
+        "Hervé Villechaize",
+        "Susan Tyrrell",
+        "Matthew Bright"
+      ],
+      "genres": "Comedy, Fantasy, Music"
     }
   ]
 }

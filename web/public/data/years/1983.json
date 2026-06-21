@@ -136,6 +136,18 @@
     },
     {
       "rank": 12,
+      "title": "Flashdance",
+      "url": "https://letterboxd.com/film/flashdance/",
+      "director": "Adrian Lyne",
+      "actors": [
+        "Jennifer Beals",
+        "Michael Nouri",
+        "Sunny Johnson"
+      ],
+      "genres": "Romance, Drama"
+    },
+    {
+      "rank": 13,
       "title": "Octopussy",
       "url": "https://letterboxd.com/film/octopussy/",
       "director": "John Glen",
@@ -147,7 +159,7 @@
       "genres": "Thriller, Action, Adventure"
     },
     {
-      "rank": 13,
+      "rank": 14,
       "title": "Angst",
       "url": "https://letterboxd.com/film/angst/",
       "director": "Gerald Kargl",
@@ -159,31 +171,7 @@
       "genres": "Thriller, Horror, Crime"
     },
     {
-      "rank": 14,
-      "title": "Nostalgia",
-      "url": "https://letterboxd.com/film/nostalgia-1983/",
-      "director": "Andrei Tarkovsky",
-      "actors": [
-        "Oleg Yankovskiy",
-        "Erland Josephson",
-        "Domiziana Giordano"
-      ],
-      "genres": "Drama, Romance"
-    },
-    {
       "rank": 15,
-      "title": "Monty Python's The Meaning of Life",
-      "url": "https://letterboxd.com/film/monty-pythons-the-meaning-of-life/",
-      "director": "Terry Jones",
-      "actors": [
-        "Terry Gilliam",
-        "Graham Chapman",
-        "John Cleese"
-      ],
-      "genres": "Comedy"
-    },
-    {
-      "rank": 16,
       "title": "WarGames",
       "url": "https://letterboxd.com/film/wargames/",
       "director": "John Badham",
@@ -195,7 +183,31 @@
       "genres": "Thriller, Science Fiction, Drama"
     },
     {
+      "rank": 16,
+      "title": "Nostalgia",
+      "url": "https://letterboxd.com/film/nostalgia-1983/",
+      "director": "Andrei Tarkovsky",
+      "actors": [
+        "Oleg Yankovskiy",
+        "Erland Josephson",
+        "Domiziana Giordano"
+      ],
+      "genres": "Drama, Romance"
+    },
+    {
       "rank": 17,
+      "title": "Monty Python's The Meaning of Life",
+      "url": "https://letterboxd.com/film/monty-pythons-the-meaning-of-life/",
+      "director": "Terry Jones",
+      "actors": [
+        "Terry Gilliam",
+        "Graham Chapman",
+        "John Cleese"
+      ],
+      "genres": "Comedy"
+    },
+    {
+      "rank": 18,
       "title": "The Dead Zone",
       "url": "https://letterboxd.com/film/the-dead-zone/",
       "director": "David Cronenberg",
@@ -205,18 +217,6 @@
         "Tom Skerritt"
       ],
       "genres": "Science Fiction, Thriller, Horror"
-    },
-    {
-      "rank": 18,
-      "title": "Flashdance",
-      "url": "https://letterboxd.com/film/flashdance/",
-      "director": "Adrian Lyne",
-      "actors": [
-        "Jennifer Beals",
-        "Michael Nouri",
-        "Sunny Johnson"
-      ],
-      "genres": "Romance, Drama"
     },
     {
       "rank": 19,
@@ -316,18 +316,6 @@
     },
     {
       "rank": 27,
-      "title": "A Girl, She Is 100%",
-      "url": "https://letterboxd.com/film/a-girl-she-is-100/",
-      "director": "Naoto Yamakawa",
-      "actors": [
-        "Kissei Kumamoto",
-        "Shigeru Muroi",
-        "Kazunao Sakaguchi"
-      ],
-      "genres": "Romance, Comedy, Drama"
-    },
-    {
-      "rank": 28,
       "title": "Psycho II",
       "url": "https://letterboxd.com/film/psycho-ii/",
       "director": "Richard Franklin",
@@ -337,6 +325,18 @@
         "Vera Miles"
       ],
       "genres": "Thriller, Crime, Mystery, Horror"
+    },
+    {
+      "rank": 28,
+      "title": "A Girl, She Is 100%",
+      "url": "https://letterboxd.com/film/a-girl-she-is-100/",
+      "director": "Naoto Yamakawa",
+      "actors": [
+        "Kissei Kumamoto",
+        "Shigeru Muroi",
+        "Kazunao Sakaguchi"
+      ],
+      "genres": "Romance, Comedy, Drama"
     },
     {
       "rank": 29,
@@ -400,18 +400,6 @@
     },
     {
       "rank": 34,
-      "title": "The Big Chill",
-      "url": "https://letterboxd.com/film/the-big-chill/",
-      "director": "Lawrence Kasdan",
-      "actors": [
-        "Tom Berenger",
-        "Glenn Close",
-        "Jeff Goldblum"
-      ],
-      "genres": "Comedy, Drama"
-    },
-    {
-      "rank": 35,
       "title": "Pauline at the Beach",
       "url": "https://letterboxd.com/film/pauline-at-the-beach/",
       "director": "Éric Rohmer",
@@ -421,6 +409,18 @@
         "Pascal Greggory"
       ],
       "genres": "Romance, Drama, Comedy"
+    },
+    {
+      "rank": 35,
+      "title": "The Big Chill",
+      "url": "https://letterboxd.com/film/the-big-chill/",
+      "director": "Lawrence Kasdan",
+      "actors": [
+        "Tom Berenger",
+        "Glenn Close",
+        "Jeff Goldblum"
+      ],
+      "genres": "Comedy, Drama"
     },
     {
       "rank": 36,
@@ -448,30 +448,6 @@
     },
     {
       "rank": 38,
-      "title": "The Boxer's Omen",
-      "url": "https://letterboxd.com/film/the-boxers-omen/",
-      "director": "Kuei Chih-Hung",
-      "actors": [
-        "Phillip Ko Fai",
-        "Elvis Tsui Kam-Kong",
-        "Wai Ka-Man"
-      ],
-      "genres": "Action, Horror, Fantasy"
-    },
-    {
-      "rank": 39,
-      "title": "Superman III",
-      "url": "https://letterboxd.com/film/superman-iii/",
-      "director": "Richard Lester",
-      "actors": [
-        "Christopher Reeve",
-        "Richard Pryor",
-        "Jackie Cooper"
-      ],
-      "genres": "Comedy, Adventure, Action, Science Fiction"
-    },
-    {
-      "rank": 40,
       "title": "Twilight Zone: The Movie",
       "url": "https://letterboxd.com/film/twilight-zone-the-movie/",
       "director": "John Landis, Joe Dante, Steven Spielberg, George Miller",
@@ -483,19 +459,31 @@
       "genres": "Science Fiction, Horror, Fantasy"
     },
     {
-      "rank": 41,
-      "title": "The Right Stuff",
-      "url": "https://letterboxd.com/film/the-right-stuff/",
-      "director": "Philip Kaufman",
+      "rank": 39,
+      "title": "The Boxer's Omen",
+      "url": "https://letterboxd.com/film/the-boxers-omen/",
+      "director": "Kuei Chih-hung",
       "actors": [
-        "Sam Shepard",
-        "Scott Glenn",
-        "Ed Harris"
+        "Phillip Ko Fai",
+        "Elvis Tsui Kam-Kong",
+        "Wai Ka-Man"
       ],
-      "genres": "Drama, History, Adventure"
+      "genres": "Action, Horror, Fantasy"
     },
     {
-      "rank": 42,
+      "rank": 40,
+      "title": "Superman III",
+      "url": "https://letterboxd.com/film/superman-iii/",
+      "director": "Richard Lester",
+      "actors": [
+        "Christopher Reeve",
+        "Richard Pryor",
+        "Jackie Cooper"
+      ],
+      "genres": "Comedy, Adventure, Action, Science Fiction"
+    },
+    {
+      "rank": 41,
       "title": "A Nos Amours",
       "url": "https://letterboxd.com/film/a-nos-amours/",
       "director": "Maurice Pialat",
@@ -507,7 +495,30 @@
       "genres": "Drama, Romance"
     },
     {
+      "rank": 42,
+      "title": "The Right Stuff",
+      "url": "https://letterboxd.com/film/the-right-stuff/",
+      "director": "Philip Kaufman",
+      "actors": [
+        "Sam Shepard",
+        "Scott Glenn",
+        "Ed Harris"
+      ],
+      "genres": "Drama, History, Adventure"
+    },
+    {
       "rank": 43,
+      "title": "Heroic Times",
+      "url": "https://letterboxd.com/film/heroic-times/",
+      "director": "József Gémes",
+      "actors": [
+        "Adrienne Csengery",
+        "Gyula Szabó"
+      ],
+      "genres": "History, Animation, War"
+    },
+    {
+      "rank": 44,
       "title": "Rock & Rule",
       "url": "https://letterboxd.com/film/rock-rule/",
       "director": "Clive A. Smith",
@@ -519,26 +530,7 @@
       "genres": "Animation, Adventure, Fantasy"
     },
     {
-      "rank": 44,
-      "title": "Heroic Times",
-      "url": "https://letterboxd.com/film/heroic-times/",
-      "director": "József Gémes",
-      "actors": [
-        "Adrienne Csengery",
-        "Gyula Szabó"
-      ],
-      "genres": "History, Animation, War"
-    },
-    {
       "rank": 45,
-      "title": "Dimensions of Dialogue",
-      "url": "https://letterboxd.com/film/dimensions-of-dialogue/",
-      "director": "Jan Švankmajer",
-      "actors": [],
-      "genres": "Animation, Comedy"
-    },
-    {
-      "rank": 46,
       "title": "Jaws 3-D",
       "url": "https://letterboxd.com/film/jaws-3-d/",
       "director": "Joe Alves",
@@ -550,31 +542,27 @@
       "genres": "Horror, Thriller"
     },
     {
+      "rank": 46,
+      "title": "Dimensions of Dialogue",
+      "url": "https://letterboxd.com/film/dimensions-of-dialogue/",
+      "director": "Jan Švankmajer",
+      "actors": [],
+      "genres": "Animation, Comedy"
+    },
+    {
       "rank": 47,
-      "title": "Lone Wolf McQuade",
-      "url": "https://letterboxd.com/film/lone-wolf-mcquade/",
-      "director": "Steve Carver",
+      "title": "Silkwood",
+      "url": "https://letterboxd.com/film/silkwood/",
+      "director": "Mike Nichols",
       "actors": [
-        "Chuck Norris",
-        "David Carradine",
-        "Barbara Carrera"
+        "Meryl Streep",
+        "Kurt Russell",
+        "Cher"
       ],
-      "genres": "Crime, Action"
+      "genres": "Drama"
     },
     {
       "rank": 48,
-      "title": "Eddie and the Cruisers",
-      "url": "https://letterboxd.com/film/eddie-and-the-cruisers/",
-      "director": "Martin Davidson",
-      "actors": [
-        "Tom Berenger",
-        "Michael Paré",
-        "Joe Pantoliano"
-      ],
-      "genres": "Drama, Music"
-    },
-    {
-      "rank": 49,
       "title": "Fire and Ice",
       "url": "https://letterboxd.com/film/fire-and-ice/",
       "director": "Ralph Bakshi",
@@ -584,6 +572,18 @@
         "Steve Sandor"
       ],
       "genres": "Animation, Adventure, Fantasy, Science Fiction"
+    },
+    {
+      "rank": 49,
+      "title": "Eddie and the Cruisers",
+      "url": "https://letterboxd.com/film/eddie-and-the-cruisers/",
+      "director": "Martin Davidson",
+      "actors": [
+        "Tom Berenger",
+        "Michael Paré",
+        "Joe Pantoliano"
+      ],
+      "genres": "Drama, Music"
     },
     {
       "rank": 50,

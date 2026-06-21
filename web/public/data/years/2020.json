@@ -64,18 +64,6 @@
     },
     {
       "rank": 6,
-      "title": "Spree",
-      "url": "https://letterboxd.com/film/spree-2020/",
-      "director": "Eugene Kotlyarenko",
-      "actors": [
-        "Joe Keery",
-        "Sasheer Zamata",
-        "David Arquette"
-      ],
-      "genres": "Horror, Thriller, Comedy, Crime"
-    },
-    {
-      "rank": 7,
       "title": "Hamilton",
       "url": "https://letterboxd.com/film/hamilton-2020/",
       "director": "Thomas Kail",
@@ -85,6 +73,18 @@
         "Renée Elise Goldsberry"
       ],
       "genres": "Drama, History"
+    },
+    {
+      "rank": 7,
+      "title": "Spree",
+      "url": "https://letterboxd.com/film/spree-2020/",
+      "director": "Eugene Kotlyarenko",
+      "actors": [
+        "Joe Keery",
+        "Sasheer Zamata",
+        "David Arquette"
+      ],
+      "genres": "Horror, Thriller, Comedy"
     },
     {
       "rank": 8,
@@ -159,18 +159,6 @@
     },
     {
       "rank": 14,
-      "title": "Promising Young Woman",
-      "url": "https://letterboxd.com/film/promising-young-woman/",
-      "director": "Emerald Fennell",
-      "actors": [
-        "Carey Mulligan",
-        "Bo Burnham",
-        "Alison Brie"
-      ],
-      "genres": "Crime, Drama, Thriller"
-    },
-    {
-      "rank": 15,
       "title": "All the Bright Places",
       "url": "https://letterboxd.com/film/all-the-bright-places/",
       "director": "Brett Haley",
@@ -180,6 +168,18 @@
         "Alexandra Shipp"
       ],
       "genres": "Romance, Drama"
+    },
+    {
+      "rank": 15,
+      "title": "Promising Young Woman",
+      "url": "https://letterboxd.com/film/promising-young-woman/",
+      "director": "Emerald Fennell",
+      "actors": [
+        "Carey Mulligan",
+        "Bo Burnham",
+        "Alison Brie"
+      ],
+      "genres": "Crime, Drama, Thriller"
     },
     {
       "rank": 16,
@@ -219,17 +219,6 @@
     },
     {
       "rank": 19,
-      "title": "The Queen's Gambit",
-      "url": "https://letterboxd.com/film/the-queens-gambit/",
-      "director": "Scott Frank",
-      "actors": [
-        "Anya Taylor-Joy",
-        "Chloe Pirrie"
-      ],
-      "genres": "Drama"
-    },
-    {
-      "rank": 20,
       "title": "Caveat",
       "url": "https://letterboxd.com/film/caveat-2020/",
       "director": "Damian McCarthy",
@@ -241,7 +230,7 @@
       "genres": "Mystery, Horror"
     },
     {
-      "rank": 21,
+      "rank": 20,
       "title": "Zola",
       "url": "https://letterboxd.com/film/zola/",
       "director": "Janicza Bravo",
@@ -251,6 +240,17 @@
         "Colman Domingo"
       ],
       "genres": "Comedy, Crime, Drama"
+    },
+    {
+      "rank": 21,
+      "title": "The Queen's Gambit",
+      "url": "https://letterboxd.com/film/the-queens-gambit/",
+      "director": "Scott Frank",
+      "actors": [
+        "Anya Taylor-Joy",
+        "Chloe Pirrie"
+      ],
+      "genres": "Drama"
     },
     {
       "rank": 22,
@@ -286,18 +286,6 @@
     },
     {
       "rank": 25,
-      "title": "Nomadland",
-      "url": "https://letterboxd.com/film/nomadland/",
-      "director": "Chloé Zhao",
-      "actors": [
-        "Frances McDormand",
-        "David Strathairn",
-        "Linda May"
-      ],
-      "genres": "Drama"
-    },
-    {
-      "rank": 26,
       "title": "Minari",
       "url": "https://letterboxd.com/film/minari/",
       "director": "Lee Isaac Chung",
@@ -309,19 +297,19 @@
       "genres": "Drama"
     },
     {
-      "rank": 27,
-      "title": "The Kissing Booth 2",
-      "url": "https://letterboxd.com/film/the-kissing-booth-2/",
-      "director": "Vince Marcello",
+      "rank": 26,
+      "title": "Your Name Engraved Herein",
+      "url": "https://letterboxd.com/film/your-name-engraved-herein/",
+      "director": "Kuang-Hui Liu",
       "actors": [
-        "Joey King",
-        "Jacob Elordi",
-        "Joel Courtney"
+        "Edward Chen",
+        "Tseng Jing-hua",
+        "Leon Dai"
       ],
-      "genres": "Comedy, Romance"
+      "genres": "Romance, Drama"
     },
     {
-      "rank": 28,
+      "rank": 27,
       "title": "The Half of It",
       "url": "https://letterboxd.com/film/the-half-of-it/",
       "director": "Alice Wu",
@@ -333,16 +321,28 @@
       "genres": "Romance, Comedy, Drama"
     },
     {
-      "rank": 29,
-      "title": "Your Name Engraved Herein",
-      "url": "https://letterboxd.com/film/your-name-engraved-herein/",
-      "director": "Kuang-Hui Liu",
+      "rank": 28,
+      "title": "Nomadland",
+      "url": "https://letterboxd.com/film/nomadland/",
+      "director": "Chloé Zhao",
       "actors": [
-        "Edward Chen",
-        "Tseng Jing-hua",
-        "Leon Dai"
+        "Frances McDormand",
+        "David Strathairn",
+        "Linda May"
       ],
-      "genres": "Romance, Drama"
+      "genres": "Drama"
+    },
+    {
+      "rank": 29,
+      "title": "The Hunt",
+      "url": "https://letterboxd.com/film/the-hunt-2020/",
+      "director": "Craig Zobel",
+      "actors": [
+        "Betty Gilpin",
+        "Hilary Swank",
+        "Ethan Suplee"
+      ],
+      "genres": "Thriller, Action, Horror"
     },
     {
       "rank": 30,
@@ -358,6 +358,18 @@
     },
     {
       "rank": 31,
+      "title": "The Kissing Booth 2",
+      "url": "https://letterboxd.com/film/the-kissing-booth-2/",
+      "director": "Vince Marcello",
+      "actors": [
+        "Joey King",
+        "Jacob Elordi",
+        "Joel Courtney"
+      ],
+      "genres": "Comedy, Romance"
+    },
+    {
+      "rank": 32,
       "title": "Sonic the Hedgehog",
       "url": "https://letterboxd.com/film/sonic-the-hedgehog/",
       "director": "Jeff Fowler",
@@ -369,31 +381,7 @@
       "genres": "Comedy, Family, Science Fiction, Action"
     },
     {
-      "rank": 32,
-      "title": "The Hunt",
-      "url": "https://letterboxd.com/film/the-hunt-2020/",
-      "director": "Craig Zobel",
-      "actors": [
-        "Betty Gilpin",
-        "Hilary Swank",
-        "Ethan Suplee"
-      ],
-      "genres": "Thriller, Action, Horror"
-    },
-    {
       "rank": 33,
-      "title": "The Father",
-      "url": "https://letterboxd.com/film/the-father-2020/",
-      "director": "Florian Zeller",
-      "actors": [
-        "Anthony Hopkins",
-        "Olivia Colman",
-        "Mark Gatiss"
-      ],
-      "genres": "Drama"
-    },
-    {
-      "rank": 34,
       "title": "Euphoria: Trouble Don't Last Always",
       "url": "https://letterboxd.com/film/euphoria-trouble-dont-last-always/",
       "director": "Sam Levinson",
@@ -401,6 +389,18 @@
         "Zendaya",
         "Colman Domingo",
         "Hunter Schafer"
+      ],
+      "genres": "Drama"
+    },
+    {
+      "rank": 34,
+      "title": "The Father",
+      "url": "https://letterboxd.com/film/the-father-2020/",
+      "director": "Florian Zeller",
+      "actors": [
+        "Anthony Hopkins",
+        "Olivia Colman",
+        "Mark Gatiss"
       ],
       "genres": "Drama"
     },
@@ -454,14 +454,6 @@
     },
     {
       "rank": 39,
-      "title": "If Anything Happens I Love You",
-      "url": "https://letterboxd.com/film/if-anything-happens-i-love-you/",
-      "director": "Will McCormack, Michael Govier",
-      "actors": [],
-      "genres": "Drama, Animation"
-    },
-    {
-      "rank": 40,
       "title": "Onward",
       "url": "https://letterboxd.com/film/onward-2020/",
       "director": "Dan Scanlon",
@@ -471,6 +463,14 @@
         "Julia Louis-Dreyfus"
       ],
       "genres": "Comedy, Fantasy, Adventure, Family, Animation"
+    },
+    {
+      "rank": 40,
+      "title": "If Anything Happens I Love You",
+      "url": "https://letterboxd.com/film/if-anything-happens-i-love-you/",
+      "director": "Will McCormack, Michael Govier",
+      "actors": [],
+      "genres": "Drama, Animation"
     },
     {
       "rank": 41,
@@ -494,7 +494,7 @@
         "Michele Morrone",
         "Bronisław Wrocławski"
       ],
-      "genres": "Drama, Romance"
+      "genres": "Drama, Romance, Crime"
     },
     {
       "rank": 43,
@@ -582,15 +582,15 @@
     },
     {
       "rank": 50,
-      "title": "Extraction",
-      "url": "https://letterboxd.com/film/extraction-2020/",
-      "director": "Sam Hargrave",
+      "title": "The Croods: A New Age",
+      "url": "https://letterboxd.com/film/the-croods-a-new-age/",
+      "director": "Joel Crawford",
       "actors": [
-        "Chris Hemsworth",
-        "Rudhraksh Jaiswal",
-        "Randeep Hooda"
+        "Nicolas Cage",
+        "Emma Stone",
+        "Ryan Reynolds"
       ],
-      "genres": "Thriller, Action"
+      "genres": "Family, Adventure, Animation, Fantasy, Comedy"
     }
   ]
 }

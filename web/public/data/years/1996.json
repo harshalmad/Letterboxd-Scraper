@@ -20,8 +20,8 @@
       "url": "https://letterboxd.com/film/scream/",
       "director": "Wes Craven",
       "actors": [
-        "David Arquette",
         "Neve Campbell",
+        "David Arquette",
         "Courteney Cox"
       ],
       "genres": "Mystery, Crime, Horror"
@@ -48,7 +48,7 @@
         "Laura Linney",
         "Edward Norton"
       ],
-      "genres": "Crime, Mystery, Drama, Thriller"
+      "genres": "Crime, Drama, Thriller"
     },
     {
       "rank": 5,
@@ -100,18 +100,6 @@
     },
     {
       "rank": 9,
-      "title": "A Time to Kill",
-      "url": "https://letterboxd.com/film/a-time-to-kill-1996/",
-      "director": "Joel Schumacher",
-      "actors": [
-        "Matthew McConaughey",
-        "Sandra Bullock",
-        "Samuel L. Jackson"
-      ],
-      "genres": "Thriller, Drama, Crime"
-    },
-    {
-      "rank": 10,
       "title": "The Birdcage",
       "url": "https://letterboxd.com/film/the-birdcage/",
       "director": "Mike Nichols",
@@ -121,6 +109,18 @@
         "Nathan Lane"
       ],
       "genres": "Comedy, Romance"
+    },
+    {
+      "rank": 10,
+      "title": "A Time to Kill",
+      "url": "https://letterboxd.com/film/a-time-to-kill-1996/",
+      "director": "Joel Schumacher",
+      "actors": [
+        "Matthew McConaughey",
+        "Sandra Bullock",
+        "Samuel L. Jackson"
+      ],
+      "genres": "Thriller, Drama, Crime"
     },
     {
       "rank": 11,
@@ -148,42 +148,6 @@
     },
     {
       "rank": 13,
-      "title": "Mission: Impossible",
-      "url": "https://letterboxd.com/film/mission-impossible/",
-      "director": "Brian De Palma",
-      "actors": [
-        "Tom Cruise",
-        "Jon Voight",
-        "Emmanuelle Béart"
-      ],
-      "genres": "Thriller, Action, Adventure"
-    },
-    {
-      "rank": 14,
-      "title": "From Dusk Till Dawn",
-      "url": "https://letterboxd.com/film/from-dusk-till-dawn/",
-      "director": "Robert Rodriguez",
-      "actors": [
-        "George Clooney",
-        "Quentin Tarantino",
-        "Harvey Keitel"
-      ],
-      "genres": "Thriller, Horror, Crime, Action"
-    },
-    {
-      "rank": 15,
-      "title": "Waiting for Guffman",
-      "url": "https://letterboxd.com/film/waiting-for-guffman/",
-      "director": "Christopher Guest",
-      "actors": [
-        "Christopher Guest",
-        "Eugene Levy",
-        "Fred Willard"
-      ],
-      "genres": "Music, Comedy"
-    },
-    {
-      "rank": 16,
       "title": "Bound",
       "url": "https://letterboxd.com/film/bound/",
       "director": "Lana Wachowski, Lilly Wachowski",
@@ -195,7 +159,7 @@
       "genres": "Crime, Thriller, Drama"
     },
     {
-      "rank": 17,
+      "rank": 14,
       "title": "Sleepers",
       "url": "https://letterboxd.com/film/sleepers/",
       "director": "Barry Levinson",
@@ -205,6 +169,42 @@
         "Dustin Hoffman"
       ],
       "genres": "Drama, Crime, Thriller"
+    },
+    {
+      "rank": 15,
+      "title": "Mission: Impossible",
+      "url": "https://letterboxd.com/film/mission-impossible/",
+      "director": "Brian De Palma",
+      "actors": [
+        "Tom Cruise",
+        "Jon Voight",
+        "Emmanuelle Béart"
+      ],
+      "genres": "Thriller, Action, Adventure"
+    },
+    {
+      "rank": 16,
+      "title": "From Dusk Till Dawn",
+      "url": "https://letterboxd.com/film/from-dusk-till-dawn/",
+      "director": "Robert Rodriguez",
+      "actors": [
+        "George Clooney",
+        "Quentin Tarantino",
+        "Harvey Keitel"
+      ],
+      "genres": "Horror, Crime, Action"
+    },
+    {
+      "rank": 17,
+      "title": "Waiting for Guffman",
+      "url": "https://letterboxd.com/film/waiting-for-guffman/",
+      "director": "Christopher Guest",
+      "actors": [
+        "Christopher Guest",
+        "Eugene Levy",
+        "Fred Willard"
+      ],
+      "genres": "Music, Comedy"
     },
     {
       "rank": 18,
@@ -244,18 +244,6 @@
     },
     {
       "rank": 21,
-      "title": "Thesis",
-      "url": "https://letterboxd.com/film/thesis/",
-      "director": "Alejandro Amenábar",
-      "actors": [
-        "Ana Torrent",
-        "Fele Martínez",
-        "Eduardo Noriega"
-      ],
-      "genres": "Thriller, Horror"
-    },
-    {
-      "rank": 22,
       "title": "The Watermelon Woman",
       "url": "https://letterboxd.com/film/the-watermelon-woman/",
       "director": "Cheryl Dunye",
@@ -265,6 +253,18 @@
         "Valarie Walker"
       ],
       "genres": "Comedy, Drama, Romance"
+    },
+    {
+      "rank": 22,
+      "title": "Thesis",
+      "url": "https://letterboxd.com/film/thesis/",
+      "director": "Alejandro Amenábar",
+      "actors": [
+        "Ana Torrent",
+        "Fele Martínez",
+        "Eduardo Noriega"
+      ],
+      "genres": "Thriller, Horror"
     },
     {
       "rank": 23,
@@ -352,6 +352,18 @@
     },
     {
       "rank": 30,
+      "title": "The Rock",
+      "url": "https://letterboxd.com/film/the-rock/",
+      "director": "Michael Bay",
+      "actors": [
+        "Sean Connery",
+        "Nicolas Cage",
+        "Ed Harris"
+      ],
+      "genres": "Thriller, Action, Adventure"
+    },
+    {
+      "rank": 31,
       "title": "Lost and Found",
       "url": "https://letterboxd.com/film/lost-and-found-1996/",
       "director": "Lee Chi-Ngai",
@@ -363,7 +375,7 @@
       "genres": "Romance, Drama"
     },
     {
-      "rank": 31,
+      "rank": 32,
       "title": "A Summer's Tale",
       "url": "https://letterboxd.com/film/a-summers-tale/",
       "director": "Éric Rohmer",
@@ -375,7 +387,7 @@
       "genres": "Comedy, Romance, Drama"
     },
     {
-      "rank": 32,
+      "rank": 33,
       "title": "Muppet Treasure Island",
       "url": "https://letterboxd.com/film/muppet-treasure-island/",
       "director": "Brian Henson",
@@ -385,18 +397,6 @@
         "Jennifer Saunders"
       ],
       "genres": "Family, Comedy, Adventure"
-    },
-    {
-      "rank": 33,
-      "title": "The Rock",
-      "url": "https://letterboxd.com/film/the-rock/",
-      "director": "Michael Bay",
-      "actors": [
-        "Sean Connery",
-        "Nicolas Cage",
-        "Ed Harris"
-      ],
-      "genres": "Thriller, Action, Adventure"
     },
     {
       "rank": 34,
@@ -424,18 +424,6 @@
     },
     {
       "rank": 36,
-      "title": "Breaking the Waves",
-      "url": "https://letterboxd.com/film/breaking-the-waves/",
-      "director": "Lars von Trier",
-      "actors": [
-        "Emily Watson",
-        "Stellan Skarsgård",
-        "Katrin Cartlidge"
-      ],
-      "genres": "Drama, Romance"
-    },
-    {
-      "rank": 37,
       "title": "Don't Be a Menace to South Central While Drinking Your Juice in the Hood",
       "url": "https://letterboxd.com/film/dont-be-a-menace-to-south-central-while-drinking-your-juice-in-the-hood/",
       "director": "Paris Barclay",
@@ -445,6 +433,18 @@
         "Tracey Cherelle Jones"
       ],
       "genres": "Comedy"
+    },
+    {
+      "rank": 37,
+      "title": "Breaking the Waves",
+      "url": "https://letterboxd.com/film/breaking-the-waves/",
+      "director": "Lars von Trier",
+      "actors": [
+        "Emily Watson",
+        "Stellan Skarsgård",
+        "Katrin Cartlidge"
+      ],
+      "genres": "Drama, Romance"
     },
     {
       "rank": 38,
@@ -508,18 +508,6 @@
     },
     {
       "rank": 43,
-      "title": "The Mirror Has Two Faces",
-      "url": "https://letterboxd.com/film/the-mirror-has-two-faces/",
-      "director": "Barbra Streisand",
-      "actors": [
-        "Barbra Streisand",
-        "Jeff Bridges",
-        "Pierce Brosnan"
-      ],
-      "genres": "Romance, Comedy, Drama"
-    },
-    {
-      "rank": 44,
       "title": "Irma Vep",
       "url": "https://letterboxd.com/film/irma-vep/",
       "director": "Olivier Assayas",
@@ -529,6 +517,18 @@
         "Nathalie Richard"
       ],
       "genres": "Drama, Comedy"
+    },
+    {
+      "rank": 44,
+      "title": "The Mirror Has Two Faces",
+      "url": "https://letterboxd.com/film/the-mirror-has-two-faces/",
+      "director": "Barbra Streisand",
+      "actors": [
+        "Barbra Streisand",
+        "Jeff Bridges",
+        "Pierce Brosnan"
+      ],
+      "genres": "Romance, Comedy, Drama"
     },
     {
       "rank": 45,
@@ -544,6 +544,18 @@
     },
     {
       "rank": 46,
+      "title": "Set It Off",
+      "url": "https://letterboxd.com/film/set-it-off/",
+      "director": "F. Gary Gray",
+      "actors": [
+        "Jada Pinkett Smith",
+        "Queen Latifah",
+        "Vivica A. Fox"
+      ],
+      "genres": "Crime, Romance, Action, Drama, Thriller"
+    },
+    {
+      "rank": 47,
       "title": "A Moment of Innocence",
       "url": "https://letterboxd.com/film/a-moment-of-innocence/",
       "director": "Mohsen Makhmalbaf",
@@ -555,7 +567,7 @@
       "genres": "Drama, Comedy"
     },
     {
-      "rank": 47,
+      "rank": 48,
       "title": "Ransom",
       "url": "https://letterboxd.com/film/ransom/",
       "director": "Ron Howard",
@@ -565,18 +577,6 @@
         "Gary Sinise"
       ],
       "genres": "Action, Thriller"
-    },
-    {
-      "rank": 48,
-      "title": "Set It Off",
-      "url": "https://letterboxd.com/film/set-it-off/",
-      "director": "F. Gary Gray",
-      "actors": [
-        "Jada Pinkett Smith",
-        "Queen Latifah",
-        "Vivica A. Fox"
-      ],
-      "genres": "Crime, Romance, Action, Drama, Thriller"
     },
     {
       "rank": 49,

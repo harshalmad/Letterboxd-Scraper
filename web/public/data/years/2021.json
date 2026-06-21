@@ -88,18 +88,6 @@
     },
     {
       "rank": 8,
-      "title": "Licorice Pizza",
-      "url": "https://letterboxd.com/film/licorice-pizza/",
-      "director": "Paul Thomas Anderson",
-      "actors": [
-        "Alana Haim",
-        "Cooper Hoffman",
-        "Sean Penn"
-      ],
-      "genres": "Drama, Romance, Comedy"
-    },
-    {
-      "rank": 9,
       "title": "Jujutsu Kaisen 0",
       "url": "https://letterboxd.com/film/jujutsu-kaisen-0/",
       "director": "Sunghoo Park",
@@ -109,6 +97,18 @@
         "Yuichi Nakamura"
       ],
       "genres": "Action, Animation, Fantasy"
+    },
+    {
+      "rank": 9,
+      "title": "Licorice Pizza",
+      "url": "https://letterboxd.com/film/licorice-pizza/",
+      "director": "Paul Thomas Anderson",
+      "actors": [
+        "Alana Haim",
+        "Cooper Hoffman",
+        "Sean Penn"
+      ],
+      "genres": "Drama, Romance, Comedy"
     },
     {
       "rank": 10,
@@ -144,7 +144,7 @@
         "Jack Dylan Grazer",
         "Emma Berman"
       ],
-      "genres": "Fantasy, Comedy, Drama, Family, Animation"
+      "genres": "Fantasy, Family, Comedy, Drama, Animation"
     },
     {
       "rank": 13,
@@ -180,7 +180,7 @@
         "Olivia Scott Welch",
         "Benjamin Flores Jr."
       ],
-      "genres": "Horror, Mystery, Drama"
+      "genres": "Horror, Mystery"
     },
     {
       "rank": 16,
@@ -196,6 +196,18 @@
     },
     {
       "rank": 17,
+      "title": "Fear Street: 1978",
+      "url": "https://letterboxd.com/film/fear-street-1978/",
+      "director": "Leigh Janiak",
+      "actors": [
+        "Sadie Sink",
+        "Emily Rudd",
+        "Ryan Simpkins"
+      ],
+      "genres": "Horror, Mystery"
+    },
+    {
+      "rank": 18,
       "title": "Shang-Chi and the Legend of the Ten Rings",
       "url": "https://letterboxd.com/film/shang-chi-and-the-legend-of-the-ten-rings/",
       "director": "Destin Daniel Cretton",
@@ -205,18 +217,6 @@
         "Awkwafina"
       ],
       "genres": "Adventure, Fantasy, Action"
-    },
-    {
-      "rank": 18,
-      "title": "Fear Street: 1978",
-      "url": "https://letterboxd.com/film/fear-street-1978/",
-      "director": "Leigh Janiak",
-      "actors": [
-        "Sadie Sink",
-        "Emily Rudd",
-        "Ryan Simpkins"
-      ],
-      "genres": "Drama, Horror, Mystery"
     },
     {
       "rank": 19,
@@ -256,15 +256,15 @@
     },
     {
       "rank": 22,
-      "title": "Nobody",
-      "url": "https://letterboxd.com/film/nobody-2021/",
-      "director": "Ilya Naishuller",
+      "title": "Fear Street: 1666",
+      "url": "https://letterboxd.com/film/fear-street-1666/",
+      "director": "Leigh Janiak",
       "actors": [
-        "Bob Odenkirk",
-        "Aleksey Serebryakov",
-        "Connie Nielsen"
+        "Kiana Madeira",
+        "Benjamin Flores Jr.",
+        "Olivia Scott Welch"
       ],
-      "genres": "Action, Thriller"
+      "genres": "Mystery, Horror"
     },
     {
       "rank": 23,
@@ -280,15 +280,15 @@
     },
     {
       "rank": 24,
-      "title": "Fear Street: 1666",
-      "url": "https://letterboxd.com/film/fear-street-1666/",
-      "director": "Leigh Janiak",
+      "title": "Nobody",
+      "url": "https://letterboxd.com/film/nobody-2021/",
+      "director": "Ilya Naishuller",
       "actors": [
-        "Kiana Madeira",
-        "Benjamin Flores Jr.",
-        "Olivia Scott Welch"
+        "Bob Odenkirk",
+        "Aleksey Serebryakov",
+        "Connie Nielsen"
       ],
-      "genres": "Mystery, Horror"
+      "genres": "Action, Thriller"
     },
     {
       "rank": 25,
@@ -388,30 +388,6 @@
     },
     {
       "rank": 33,
-      "title": "Venom: Let There Be Carnage",
-      "url": "https://letterboxd.com/film/venom-let-there-be-carnage/",
-      "director": "Andy Serkis",
-      "actors": [
-        "Tom Hardy",
-        "Woody Harrelson",
-        "Michelle Williams"
-      ],
-      "genres": "Science Fiction, Action, Adventure"
-    },
-    {
-      "rank": 34,
-      "title": "The Mitchells vs. the Machines",
-      "url": "https://letterboxd.com/film/the-mitchells-vs-the-machines/",
-      "director": "Mike Rianda",
-      "actors": [
-        "Abbi Jacobson",
-        "Danny McBride",
-        "Maya Rudolph"
-      ],
-      "genres": "Animation, Science Fiction, Comedy, Adventure"
-    },
-    {
-      "rank": 35,
       "title": "West Side Story",
       "url": "https://letterboxd.com/film/west-side-story-2021/",
       "director": "Steven Spielberg",
@@ -423,19 +399,31 @@
       "genres": "Romance, Crime, Drama"
     },
     {
-      "rank": 36,
-      "title": "Drive My Car",
-      "url": "https://letterboxd.com/film/drive-my-car/",
-      "director": "Ryusuke Hamaguchi",
+      "rank": 34,
+      "title": "Venom: Let There Be Carnage",
+      "url": "https://letterboxd.com/film/venom-let-there-be-carnage/",
+      "director": "Andy Serkis",
       "actors": [
-        "Hidetoshi Nishijima",
-        "Toko Miura",
-        "Masaki Okada"
+        "Tom Hardy",
+        "Woody Harrelson",
+        "Michelle Williams"
       ],
-      "genres": "Drama"
+      "genres": "Science Fiction, Action, Adventure"
     },
     {
-      "rank": 37,
+      "rank": 35,
+      "title": "The Mitchells vs. the Machines",
+      "url": "https://letterboxd.com/film/the-mitchells-vs-the-machines/",
+      "director": "Mike Rianda",
+      "actors": [
+        "Abbi Jacobson",
+        "Danny McBride",
+        "Maya Rudolph"
+      ],
+      "genres": "Animation, Science Fiction, Comedy, Adventure"
+    },
+    {
+      "rank": 36,
       "title": "Red Notice",
       "url": "https://letterboxd.com/film/red-notice/",
       "director": "Rawson Marshall Thurber",
@@ -447,19 +435,19 @@
       "genres": "Crime, Comedy, Action"
     },
     {
-      "rank": 38,
-      "title": "CODA",
-      "url": "https://letterboxd.com/film/coda-2021/",
-      "director": "Sian Heder",
+      "rank": 37,
+      "title": "Drive My Car",
+      "url": "https://letterboxd.com/film/drive-my-car/",
+      "director": "Ryusuke Hamaguchi",
       "actors": [
-        "Emilia Jones",
-        "Marlee Matlin",
-        "Troy Kotsur"
+        "Hidetoshi Nishijima",
+        "Toko Miura",
+        "Masaki Okada"
       ],
-      "genres": "Drama, Music, Romance"
+      "genres": "Drama"
     },
     {
-      "rank": 39,
+      "rank": 38,
       "title": "WandaVision",
       "url": "https://letterboxd.com/film/wandavision/",
       "director": "Matt Shakman",
@@ -469,6 +457,18 @@
         "Kathryn Hahn"
       ],
       "genres": "Mystery, Drama"
+    },
+    {
+      "rank": 39,
+      "title": "CODA",
+      "url": "https://letterboxd.com/film/coda-2021/",
+      "director": "Sian Heder",
+      "actors": [
+        "Emilia Jones",
+        "Marlee Matlin",
+        "Troy Kotsur"
+      ],
+      "genres": "Drama, Music, Romance"
     },
     {
       "rank": 40,
@@ -484,18 +484,6 @@
     },
     {
       "rank": 41,
-      "title": "The Hating Game",
-      "url": "https://letterboxd.com/film/the-hating-game/",
-      "director": "Peter Hutchings",
-      "actors": [
-        "Lucy Hale",
-        "Austin Stowell",
-        "Corbin Bernsen"
-      ],
-      "genres": "Romance, Drama, Comedy"
-    },
-    {
-      "rank": 42,
       "title": "Red Rocket",
       "url": "https://letterboxd.com/film/red-rocket-2021/",
       "director": "Sean Baker",
@@ -505,6 +493,18 @@
         "Bree Elrod"
       ],
       "genres": "Comedy, Drama"
+    },
+    {
+      "rank": 42,
+      "title": "The Hating Game",
+      "url": "https://letterboxd.com/film/the-hating-game/",
+      "director": "Peter Hutchings",
+      "actors": [
+        "Lucy Hale",
+        "Austin Stowell",
+        "Corbin Bernsen"
+      ],
+      "genres": "Romance, Drama, Comedy"
     },
     {
       "rank": 43,
@@ -544,18 +544,6 @@
     },
     {
       "rank": 46,
-      "title": "The Lost Daughter",
-      "url": "https://letterboxd.com/film/the-lost-daughter-2021/",
-      "director": "Maggie Gyllenhaal",
-      "actors": [
-        "Olivia Colman",
-        "Jessie Buckley",
-        "Dakota Johnson"
-      ],
-      "genres": "Drama"
-    },
-    {
-      "rank": 47,
       "title": "The Kissing Booth 3",
       "url": "https://letterboxd.com/film/the-kissing-booth-3/",
       "director": "Vince Marcello",
@@ -567,19 +555,7 @@
       "genres": "Romance, Comedy"
     },
     {
-      "rank": 48,
-      "title": "Godzilla vs. Kong",
-      "url": "https://letterboxd.com/film/godzilla-vs-kong/",
-      "director": "Adam Wingard",
-      "actors": [
-        "Alexander Skarsgård",
-        "Rebecca Hall",
-        "Kaylee Hottle"
-      ],
-      "genres": "Science Fiction, Adventure, Action"
-    },
-    {
-      "rank": 49,
+      "rank": 47,
       "title": "The Medium",
       "url": "https://letterboxd.com/film/the-medium-2021/",
       "director": "Banjong Pisanthanakun",
@@ -589,6 +565,30 @@
         "Sirani Yankittikan"
       ],
       "genres": "Mystery, Horror"
+    },
+    {
+      "rank": 48,
+      "title": "The Lost Daughter",
+      "url": "https://letterboxd.com/film/the-lost-daughter-2021/",
+      "director": "Maggie Gyllenhaal",
+      "actors": [
+        "Olivia Colman",
+        "Jessie Buckley",
+        "Dakota Johnson"
+      ],
+      "genres": "Drama"
+    },
+    {
+      "rank": 49,
+      "title": "Godzilla vs. Kong",
+      "url": "https://letterboxd.com/film/godzilla-vs-kong/",
+      "director": "Adam Wingard",
+      "actors": [
+        "Alexander Skarsgård",
+        "Rebecca Hall",
+        "Kaylee Hottle"
+      ],
+      "genres": "Science Fiction, Adventure, Action"
     },
     {
       "rank": 50,

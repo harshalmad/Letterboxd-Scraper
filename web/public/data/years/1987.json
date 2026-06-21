@@ -88,18 +88,6 @@
     },
     {
       "rank": 8,
-      "title": "Spaceballs",
-      "url": "https://letterboxd.com/film/spaceballs/",
-      "director": "Mel Brooks",
-      "actors": [
-        "Mel Brooks",
-        "John Candy",
-        "Rick Moranis"
-      ],
-      "genres": "Science Fiction, Comedy"
-    },
-    {
-      "rank": 9,
       "title": "The Lost Boys",
       "url": "https://letterboxd.com/film/the-lost-boys/",
       "director": "Joel Schumacher",
@@ -109,6 +97,18 @@
         "Dianne Wiest"
       ],
       "genres": "Thriller, Horror, Drama, Comedy, Romance"
+    },
+    {
+      "rank": 9,
+      "title": "Spaceballs",
+      "url": "https://letterboxd.com/film/spaceballs/",
+      "director": "Mel Brooks",
+      "actors": [
+        "Mel Brooks",
+        "John Candy",
+        "Rick Moranis"
+      ],
+      "genres": "Science Fiction, Comedy"
     },
     {
       "rank": 10,
@@ -148,18 +148,6 @@
     },
     {
       "rank": 13,
-      "title": "Wings of Desire",
-      "url": "https://letterboxd.com/film/wings-of-desire/",
-      "director": "Wim Wenders",
-      "actors": [
-        "Bruno Ganz",
-        "Solveig Dommartin",
-        "Otto Sander"
-      ],
-      "genres": "Drama, Fantasy, Romance"
-    },
-    {
-      "rank": 14,
       "title": "Where Is the Friend's House?",
       "url": "https://letterboxd.com/film/where-is-the-friends-house/",
       "director": "Abbas Kiarostami",
@@ -169,6 +157,18 @@
         "Kheda Barech Defai"
       ],
       "genres": "Drama, Adventure"
+    },
+    {
+      "rank": 14,
+      "title": "Wings of Desire",
+      "url": "https://letterboxd.com/film/wings-of-desire/",
+      "director": "Wim Wenders",
+      "actors": [
+        "Bruno Ganz",
+        "Solveig Dommartin",
+        "Otto Sander"
+      ],
+      "genres": "Drama, Fantasy, Romance"
     },
     {
       "rank": 15,
@@ -256,114 +256,6 @@
     },
     {
       "rank": 22,
-      "title": "Can't Buy Me Love",
-      "url": "https://letterboxd.com/film/cant-buy-me-love/",
-      "director": "Steve Rash",
-      "actors": [
-        "Patrick Dempsey",
-        "Amanda Peterson",
-        "Courtney Gains"
-      ],
-      "genres": "Comedy, Romance"
-    },
-    {
-      "rank": 23,
-      "title": "Fatal Attraction",
-      "url": "https://letterboxd.com/film/fatal-attraction/",
-      "director": "Adrian Lyne",
-      "actors": [
-        "Michael Douglas",
-        "Glenn Close",
-        "Anne Archer"
-      ],
-      "genres": "Romance, Thriller, Drama"
-    },
-    {
-      "rank": 24,
-      "title": "Empire of the Sun",
-      "url": "https://letterboxd.com/film/empire-of-the-sun/",
-      "director": "Steven Spielberg",
-      "actors": [
-        "Christian Bale",
-        "John Malkovich",
-        "Miranda Richardson"
-      ],
-      "genres": "History, War, Drama"
-    },
-    {
-      "rank": 25,
-      "title": "The Living Daylights",
-      "url": "https://letterboxd.com/film/the-living-daylights/",
-      "director": "John Glen",
-      "actors": [
-        "Timothy Dalton",
-        "Maryam D'Abo",
-        "Joe Don Baker"
-      ],
-      "genres": "Action, Thriller, Adventure"
-    },
-    {
-      "rank": 26,
-      "title": "City on Fire",
-      "url": "https://letterboxd.com/film/city-on-fire/",
-      "director": "Ringo Lam Ling-Tung",
-      "actors": [
-        "Chow Yun-Fat",
-        "Sun Yueh",
-        "Danny Lee Sau-Yin"
-      ],
-      "genres": "Action, Thriller, Crime"
-    },
-    {
-      "rank": 27,
-      "title": "Michael Jackson: Bad",
-      "url": "https://letterboxd.com/film/bad-1987-1/",
-      "director": "Martin Scorsese",
-      "actors": [
-        "Michael Jackson",
-        "Wesley Snipes",
-        "Jaime Perry"
-      ],
-      "genres": "Music"
-    },
-    {
-      "rank": 28,
-      "title": "Planes, Trains and Automobiles",
-      "url": "https://letterboxd.com/film/planes-trains-and-automobiles/",
-      "director": "John Hughes",
-      "actors": [
-        "Steve Martin",
-        "John Candy",
-        "Laila Robins"
-      ],
-      "genres": "Comedy"
-    },
-    {
-      "rank": 29,
-      "title": "A Nightmare on Elm Street 3: Dream Warriors",
-      "url": "https://letterboxd.com/film/a-nightmare-on-elm-street-3-dream-warriors/",
-      "director": "Chuck Russell",
-      "actors": [
-        "Heather Langenkamp",
-        "Patricia Arquette",
-        "Craig Wasson"
-      ],
-      "genres": "Thriller, Fantasy, Horror"
-    },
-    {
-      "rank": 30,
-      "title": "Broadcast News",
-      "url": "https://letterboxd.com/film/broadcast-news/",
-      "director": "James L. Brooks",
-      "actors": [
-        "Holly Hunter",
-        "William Hurt",
-        "Albert Brooks"
-      ],
-      "genres": "Comedy, Romance"
-    },
-    {
-      "rank": 31,
       "title": "Masters of the Universe",
       "url": "https://letterboxd.com/film/masters-of-the-universe/",
       "director": "Gary Goddard",
@@ -375,19 +267,115 @@
       "genres": "Thriller, Adventure, Action, Science Fiction, Fantasy"
     },
     {
-      "rank": 32,
-      "title": "The Last Emperor",
-      "url": "https://letterboxd.com/film/the-last-emperor/",
-      "director": "Bernardo Bertolucci",
+      "rank": 23,
+      "title": "Empire of the Sun",
+      "url": "https://letterboxd.com/film/empire-of-the-sun/",
+      "director": "Steven Spielberg",
       "actors": [
-        "John Lone",
-        "Joan Chen",
-        "Peter O'Toole"
+        "Christian Bale",
+        "John Malkovich",
+        "Miranda Richardson"
       ],
-      "genres": "Drama, History"
+      "genres": "History, War, Drama"
     },
     {
-      "rank": 33,
+      "rank": 24,
+      "title": "Fatal Attraction",
+      "url": "https://letterboxd.com/film/fatal-attraction/",
+      "director": "Adrian Lyne",
+      "actors": [
+        "Michael Douglas",
+        "Glenn Close",
+        "Anne Archer"
+      ],
+      "genres": "Romance, Thriller, Drama"
+    },
+    {
+      "rank": 25,
+      "title": "Can't Buy Me Love",
+      "url": "https://letterboxd.com/film/cant-buy-me-love/",
+      "director": "Steve Rash",
+      "actors": [
+        "Patrick Dempsey",
+        "Amanda Peterson",
+        "Courtney Gains"
+      ],
+      "genres": "Comedy, Romance"
+    },
+    {
+      "rank": 26,
+      "title": "The Living Daylights",
+      "url": "https://letterboxd.com/film/the-living-daylights/",
+      "director": "John Glen",
+      "actors": [
+        "Timothy Dalton",
+        "Maryam D'Abo",
+        "Joe Don Baker"
+      ],
+      "genres": "Action, Thriller, Adventure"
+    },
+    {
+      "rank": 27,
+      "title": "City on Fire",
+      "url": "https://letterboxd.com/film/city-on-fire/",
+      "director": "Ringo Lam Ling-Tung",
+      "actors": [
+        "Chow Yun-Fat",
+        "Sun Yueh",
+        "Danny Lee Sau-Yin"
+      ],
+      "genres": "Action, Thriller, Crime"
+    },
+    {
+      "rank": 28,
+      "title": "Michael Jackson: Bad",
+      "url": "https://letterboxd.com/film/bad-1987-1/",
+      "director": "Martin Scorsese",
+      "actors": [
+        "Michael Jackson",
+        "Wesley Snipes",
+        "Jaime Perry"
+      ],
+      "genres": "Music"
+    },
+    {
+      "rank": 29,
+      "title": "Planes, Trains and Automobiles",
+      "url": "https://letterboxd.com/film/planes-trains-and-automobiles/",
+      "director": "John Hughes",
+      "actors": [
+        "Steve Martin",
+        "John Candy",
+        "Laila Robins"
+      ],
+      "genres": "Comedy"
+    },
+    {
+      "rank": 30,
+      "title": "A Nightmare on Elm Street 3: Dream Warriors",
+      "url": "https://letterboxd.com/film/a-nightmare-on-elm-street-3-dream-warriors/",
+      "director": "Chuck Russell",
+      "actors": [
+        "Heather Langenkamp",
+        "Patricia Arquette",
+        "Craig Wasson"
+      ],
+      "genres": "Thriller, Fantasy, Horror"
+    },
+    {
+      "rank": 31,
+      "title": "Broadcast News",
+      "url": "https://letterboxd.com/film/broadcast-news/",
+      "director": "James L. Brooks",
+      "actors": [
+        "Holly Hunter",
+        "William Hurt",
+        "Albert Brooks"
+      ],
+      "genres": "Comedy, Romance"
+    },
+    {
+      "rank": 32,
       "title": "Angel Heart",
       "url": "https://letterboxd.com/film/angel-heart/",
       "director": "Alan Parker",
@@ -397,6 +385,18 @@
         "Lisa Bonet"
       ],
       "genres": "Horror, Mystery"
+    },
+    {
+      "rank": 33,
+      "title": "The Last Emperor",
+      "url": "https://letterboxd.com/film/the-last-emperor/",
+      "director": "Bernardo Bertolucci",
+      "actors": [
+        "John Lone",
+        "Joan Chen",
+        "Peter O'Toole"
+      ],
+      "genres": "Drama, History"
     },
     {
       "rank": 34,
@@ -448,18 +448,6 @@
     },
     {
       "rank": 38,
-      "title": "Opera",
-      "url": "https://letterboxd.com/film/opera/",
-      "director": "Dario Argento",
-      "actors": [
-        "Cristina Marsillach",
-        "Ian Charleson",
-        "Urbano Barberini"
-      ],
-      "genres": "Thriller, Horror, Mystery"
-    },
-    {
-      "rank": 39,
       "title": "Near Dark",
       "url": "https://letterboxd.com/film/near-dark/",
       "director": "Kathryn Bigelow",
@@ -471,19 +459,19 @@
       "genres": "Horror"
     },
     {
-      "rank": 40,
-      "title": "A Chinese Ghost Story",
-      "url": "https://letterboxd.com/film/a-chinese-ghost-story/",
-      "director": "Tony Ching Siu-Tung",
+      "rank": 39,
+      "title": "Opera",
+      "url": "https://letterboxd.com/film/opera/",
+      "director": "Dario Argento",
       "actors": [
-        "Leslie Cheung",
-        "Joey Wong Cho-Yin",
-        "Wu Ma"
+        "Cristina Marsillach",
+        "Ian Charleson",
+        "Urbano Barberini"
       ],
-      "genres": "Fantasy, Action, Horror"
+      "genres": "Thriller, Horror, Mystery"
     },
     {
-      "rank": 41,
+      "rank": 40,
       "title": "Adventures in Babysitting",
       "url": "https://letterboxd.com/film/adventures-in-babysitting/",
       "director": "Chris Columbus",
@@ -495,7 +483,31 @@
       "genres": "Comedy"
     },
     {
+      "rank": 41,
+      "title": "A Chinese Ghost Story",
+      "url": "https://letterboxd.com/film/a-chinese-ghost-story/",
+      "director": "Tony Ching Siu-Tung",
+      "actors": [
+        "Leslie Cheung",
+        "Joey Wong",
+        "Wu Ma"
+      ],
+      "genres": "Fantasy, Action, Horror"
+    },
+    {
       "rank": 42,
+      "title": "Law of Desire",
+      "url": "https://letterboxd.com/film/law-of-desire/",
+      "director": "Pedro Almodóvar",
+      "actors": [
+        "Eusebio Poncela",
+        "Carmen Maura",
+        "Antonio Banderas"
+      ],
+      "genres": "Comedy, Thriller, Romance, Drama"
+    },
+    {
+      "rank": 43,
       "title": "A Better Tomorrow II",
       "url": "https://letterboxd.com/film/a-better-tomorrow-ii/",
       "director": "John Woo",
@@ -507,7 +519,7 @@
       "genres": "Crime, Thriller, Action"
     },
     {
-      "rank": 43,
+      "rank": 44,
       "title": "Beverly Hills Cop II",
       "url": "https://letterboxd.com/film/beverly-hills-cop-ii/",
       "director": "Tony Scott",
@@ -517,18 +529,6 @@
         "John Ashton"
       ],
       "genres": "Action, Crime, Comedy"
-    },
-    {
-      "rank": 44,
-      "title": "Law of Desire",
-      "url": "https://letterboxd.com/film/law-of-desire/",
-      "director": "Pedro Almodóvar",
-      "actors": [
-        "Eusebio Poncela",
-        "Carmen Maura",
-        "Antonio Banderas"
-      ],
-      "genres": "Comedy, Thriller, Romance, Drama"
     },
     {
       "rank": 45,
@@ -556,18 +556,30 @@
     },
     {
       "rank": 47,
-      "title": "Baby Boom",
-      "url": "https://letterboxd.com/film/baby-boom/",
-      "director": "Charles Shyer",
+      "title": "Walker",
+      "url": "https://letterboxd.com/film/walker/",
+      "director": "Alex Cox",
       "actors": [
-        "Diane Keaton",
-        "Sam Shepard",
-        "Harold Ramis"
+        "Ed Harris",
+        "Richard Masur",
+        "René Auberjonois"
       ],
-      "genres": "Drama, Comedy, Romance"
+      "genres": "Drama, History, Western"
     },
     {
       "rank": 48,
+      "title": "3 Men and a Baby",
+      "url": "https://letterboxd.com/film/3-men-and-a-baby/",
+      "director": "Leonard Nimoy",
+      "actors": [
+        "Tom Selleck",
+        "Steve Guttenberg",
+        "Ted Danson"
+      ],
+      "genres": "Comedy"
+    },
+    {
+      "rank": 49,
       "title": "No Way Out",
       "url": "https://letterboxd.com/film/no-way-out-1987/",
       "director": "Roger Donaldson",
@@ -579,28 +591,16 @@
       "genres": "Thriller, Drama"
     },
     {
-      "rank": 49,
-      "title": "The Dead",
-      "url": "https://letterboxd.com/film/the-dead/",
-      "director": "John Huston",
-      "actors": [
-        "Anjelica Huston",
-        "Donal McCann",
-        "Dan O'Herlihy"
-      ],
-      "genres": "Drama"
-    },
-    {
       "rank": 50,
-      "title": "3 Men and a Baby",
-      "url": "https://letterboxd.com/film/3-men-and-a-baby/",
-      "director": "Leonard Nimoy",
+      "title": "Baby Boom",
+      "url": "https://letterboxd.com/film/baby-boom/",
+      "director": "Charles Shyer",
       "actors": [
-        "Tom Selleck",
-        "Steve Guttenberg",
-        "Ted Danson"
+        "Diane Keaton",
+        "Sam Shepard",
+        "Harold Ramis"
       ],
-      "genres": "Comedy"
+      "genres": "Drama, Comedy, Romance"
     }
   ]
 }

@@ -52,18 +52,6 @@
     },
     {
       "rank": 5,
-      "title": "This Is Spinal Tap",
-      "url": "https://letterboxd.com/film/this-is-spinal-tap/",
-      "director": "Rob Reiner",
-      "actors": [
-        "Christopher Guest",
-        "Michael McKean",
-        "Harry Shearer"
-      ],
-      "genres": "Comedy, Music"
-    },
-    {
-      "rank": 6,
       "title": "Indiana Jones and the Temple of Doom",
       "url": "https://letterboxd.com/film/indiana-jones-and-the-temple-of-doom/",
       "director": "Steven Spielberg",
@@ -73,6 +61,18 @@
         "Ke Huy Quan"
       ],
       "genres": "Adventure, Action"
+    },
+    {
+      "rank": 6,
+      "title": "This Is Spinal Tap",
+      "url": "https://letterboxd.com/film/this-is-spinal-tap/",
+      "director": "Rob Reiner",
+      "actors": [
+        "Christopher Guest",
+        "Michael McKean",
+        "Harry Shearer"
+      ],
+      "genres": "Comedy, Music"
     },
     {
       "rank": 7,
@@ -92,9 +92,9 @@
       "url": "https://letterboxd.com/film/a-nightmare-on-elm-street/",
       "director": "Wes Craven",
       "actors": [
-        "John Saxon",
-        "Ronee Blakley",
-        "Heather Langenkamp"
+        "Heather Langenkamp",
+        "Johnny Depp",
+        "Robert Englund"
       ],
       "genres": "Horror"
     },
@@ -220,6 +220,18 @@
     },
     {
       "rank": 19,
+      "title": "Repo Man",
+      "url": "https://letterboxd.com/film/repo-man/",
+      "director": "Alex Cox",
+      "actors": [
+        "Emilio Estevez",
+        "Harry Dean Stanton",
+        "Tracey Walter"
+      ],
+      "genres": "Comedy, Science Fiction"
+    },
+    {
+      "rank": 20,
       "title": "Top Secret!",
       "url": "https://letterboxd.com/film/top-secret/",
       "director": "Jim Abrahams, David Zucker, Jerry Zucker",
@@ -231,7 +243,7 @@
       "genres": "Comedy"
     },
     {
-      "rank": 20,
+      "rank": 21,
       "title": "Beverly Hills Cop",
       "url": "https://letterboxd.com/film/beverly-hills-cop/",
       "director": "Martin Brest",
@@ -243,7 +255,7 @@
       "genres": "Crime, Action, Comedy"
     },
     {
-      "rank": 21,
+      "rank": 22,
       "title": "Friday the 13th: The Final Chapter",
       "url": "https://letterboxd.com/film/friday-the-13th-the-final-chapter/",
       "director": "Joseph Zito",
@@ -253,18 +265,6 @@
         "Joan Freeman"
       ],
       "genres": "Thriller, Horror"
-    },
-    {
-      "rank": 22,
-      "title": "Repo Man",
-      "url": "https://letterboxd.com/film/repo-man/",
-      "director": "Alex Cox",
-      "actors": [
-        "Emilio Estevez",
-        "Harry Dean Stanton",
-        "Tracey Walter"
-      ],
-      "genres": "Comedy, Science Fiction"
     },
     {
       "rank": 23,
@@ -304,18 +304,6 @@
     },
     {
       "rank": 26,
-      "title": "Stranger Than Paradise",
-      "url": "https://letterboxd.com/film/stranger-than-paradise/",
-      "director": "Jim Jarmusch",
-      "actors": [
-        "John Lurie",
-        "Eszter Balint",
-        "Richard Edson"
-      ],
-      "genres": "Comedy, Drama"
-    },
-    {
-      "rank": 27,
       "title": "Splash",
       "url": "https://letterboxd.com/film/splash/",
       "director": "Ron Howard",
@@ -325,6 +313,18 @@
         "Eugene Levy"
       ],
       "genres": "Fantasy, Romance, Comedy"
+    },
+    {
+      "rank": 27,
+      "title": "Stranger Than Paradise",
+      "url": "https://letterboxd.com/film/stranger-than-paradise/",
+      "director": "Jim Jarmusch",
+      "actors": [
+        "John Lurie",
+        "Eszter Balint",
+        "Richard Edson"
+      ],
+      "genres": "Comedy, Drama"
     },
     {
       "rank": 28,
@@ -508,30 +508,6 @@
     },
     {
       "rank": 43,
-      "title": "The Hit",
-      "url": "https://letterboxd.com/film/the-hit-1984/",
-      "director": "Stephen Frears",
-      "actors": [
-        "John Hurt",
-        "Terence Stamp",
-        "Tim Roth"
-      ],
-      "genres": "Drama, Crime, Thriller"
-    },
-    {
-      "rank": 44,
-      "title": "Shanghai Blues",
-      "url": "https://letterboxd.com/film/shanghai-blues/",
-      "director": "Tsui Hark",
-      "actors": [
-        "Kenny Bee",
-        "Sylvia Chang",
-        "Sally Yip Sin-Man"
-      ],
-      "genres": "Romance, Comedy"
-    },
-    {
-      "rank": 45,
       "title": "Night of the Comet",
       "url": "https://letterboxd.com/film/night-of-the-comet/",
       "director": "Thom Eberhardt",
@@ -543,7 +519,7 @@
       "genres": "Science Fiction, Comedy, Horror"
     },
     {
-      "rank": 46,
+      "rank": 44,
       "title": "Crimes of Passion",
       "url": "https://letterboxd.com/film/crimes-of-passion/",
       "director": "Ken Russell",
@@ -555,31 +531,43 @@
       "genres": "Thriller, Crime, Drama"
     },
     {
-      "rank": 47,
-      "title": "The Adventures of Buckaroo Banzai Across the 8th Dimension",
-      "url": "https://letterboxd.com/film/the-adventures-of-buckaroo-banzai-across-the-8th-dimension/",
-      "director": "W.D. Richter",
+      "rank": 45,
+      "title": "Another Country",
+      "url": "https://letterboxd.com/film/another-country/",
+      "director": "Marek Kanievska",
       "actors": [
-        "Peter Weller",
-        "John Lithgow",
-        "Ellen Barkin"
+        "Rupert Everett",
+        "Colin Firth",
+        "Michael Jenn"
       ],
-      "genres": "Comedy, Science Fiction, Romance, Adventure"
+      "genres": "Drama, Romance"
+    },
+    {
+      "rank": 46,
+      "title": "Shanghai Blues",
+      "url": "https://letterboxd.com/film/shanghai-blues/",
+      "director": "Tsui Hark",
+      "actors": [
+        "Kenny Bee",
+        "Sylvia Chang",
+        "Sally Yip Sin-Man"
+      ],
+      "genres": "Romance, Comedy"
+    },
+    {
+      "rank": 47,
+      "title": "The Hit",
+      "url": "https://letterboxd.com/film/the-hit-1984/",
+      "director": "Stephen Frears",
+      "actors": [
+        "John Hurt",
+        "Terence Stamp",
+        "Tim Roth"
+      ],
+      "genres": "Drama, Crime, Thriller"
     },
     {
       "rank": 48,
-      "title": "What Have I Done to Deserve This?",
-      "url": "https://letterboxd.com/film/what-have-i-done-to-deserve-this/",
-      "director": "Pedro Almodóvar",
-      "actors": [
-        "Carmen Maura",
-        "Luis Hostalot",
-        "Ryo Hiruma"
-      ],
-      "genres": "Comedy, Drama"
-    },
-    {
-      "rank": 49,
       "title": "The Return of Godzilla",
       "url": "https://letterboxd.com/film/the-return-of-godzilla/",
       "director": "Koji Hashimoto",
@@ -591,16 +579,28 @@
       "genres": "Action, Horror, Science Fiction"
     },
     {
-      "rank": 50,
-      "title": "Another Country",
-      "url": "https://letterboxd.com/film/another-country/",
-      "director": "Marek Kanievska",
+      "rank": 49,
+      "title": "The Adventures of Buckaroo Banzai Across the 8th Dimension",
+      "url": "https://letterboxd.com/film/the-adventures-of-buckaroo-banzai-across-the-8th-dimension/",
+      "director": "W.D. Richter",
       "actors": [
-        "Rupert Everett",
-        "Colin Firth",
-        "Michael Jenn"
+        "Peter Weller",
+        "John Lithgow",
+        "Ellen Barkin"
       ],
-      "genres": "Drama, Romance"
+      "genres": "Comedy, Science Fiction, Romance, Adventure"
+    },
+    {
+      "rank": 50,
+      "title": "What Have I Done to Deserve This?",
+      "url": "https://letterboxd.com/film/what-have-i-done-to-deserve-this/",
+      "director": "Pedro Almodóvar",
+      "actors": [
+        "Carmen Maura",
+        "Luis Hostalot",
+        "Ryo Hiruma"
+      ],
+      "genres": "Comedy, Drama"
     }
   ]
 }

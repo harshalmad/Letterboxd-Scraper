@@ -3,10 +3,10 @@ rank,title,director,actors,genres,url
 2,The Terminator,James Cameron,Arnold Schwarzenegger; Michael Biehn; Linda Hamilton,"Action, Thriller, Science Fiction",https://letterboxd.com/film/the-terminator/
 3,Amadeus,Miloš Forman,F. Murray Abraham; Tom Hulce; Elizabeth Berridge,"Drama, History, Music",https://letterboxd.com/film/amadeus/
 4,Nausicaä of the Valley of the Wind,Hayao Miyazaki,Sumi Shimamoto; Ichiro Nagai; Gorō Naya,"Animation, Science Fiction, Fantasy, Adventure",https://letterboxd.com/film/nausicaa-of-the-valley-of-the-wind/
-5,This Is Spinal Tap,Rob Reiner,Christopher Guest; Michael McKean; Harry Shearer,"Comedy, Music",https://letterboxd.com/film/this-is-spinal-tap/
-6,Indiana Jones and the Temple of Doom,Steven Spielberg,Harrison Ford; Kate Capshaw; Ke Huy Quan,"Adventure, Action",https://letterboxd.com/film/indiana-jones-and-the-temple-of-doom/
+5,Indiana Jones and the Temple of Doom,Steven Spielberg,Harrison Ford; Kate Capshaw; Ke Huy Quan,"Adventure, Action",https://letterboxd.com/film/indiana-jones-and-the-temple-of-doom/
+6,This Is Spinal Tap,Rob Reiner,Christopher Guest; Michael McKean; Harry Shearer,"Comedy, Music",https://letterboxd.com/film/this-is-spinal-tap/
 7,Ghostbusters,Ivan Reitman,Bill Murray; Dan Aykroyd; Sigourney Weaver,"Comedy, Fantasy",https://letterboxd.com/film/ghostbusters/
-8,A Nightmare on Elm Street,Wes Craven,John Saxon; Ronee Blakley; Heather Langenkamp,Horror,https://letterboxd.com/film/a-nightmare-on-elm-street/
+8,A Nightmare on Elm Street,Wes Craven,Heather Langenkamp; Johnny Depp; Robert Englund,Horror,https://letterboxd.com/film/a-nightmare-on-elm-street/
 9,The Karate Kid,John G. Avildsen,Ralph Macchio; Pat Morita; Elisabeth Shue,"Action, Drama, Family",https://letterboxd.com/film/the-karate-kid/
 10,Once Upon a Time in America,Sergio Leone,Robert De Niro; James Woods; Elizabeth McGovern,"Crime, Drama",https://letterboxd.com/film/once-upon-a-time-in-america/
 11,Dune,David Lynch,Kyle MacLachlan; Francesca Annis; Patrick Stewart,"Adventure, Science Fiction, Action",https://letterboxd.com/film/dune/
@@ -17,15 +17,15 @@ rank,title,director,actors,genres,url
 16,Footloose,Herbert Ross,Kevin Bacon; Lori Singer; John Lithgow,"Drama, Romance",https://letterboxd.com/film/footloose/
 17,Body Double,Brian De Palma,Craig Wasson; Melanie Griffith; Gregg Henry,"Crime, Thriller, Mystery",https://letterboxd.com/film/body-double/
 18,Blood Simple,Joel Coen,John Getz; Frances McDormand; Dan Hedaya,"Thriller, Crime, Drama",https://letterboxd.com/film/blood-simple/
-19,Top Secret!,"Jim Abrahams, David Zucker, Jerry Zucker",Val Kilmer; Lucy Gutteridge; Peter Cushing,Comedy,https://letterboxd.com/film/top-secret/
-20,Beverly Hills Cop,Martin Brest,Eddie Murphy; Judge Reinhold; John Ashton,"Crime, Action, Comedy",https://letterboxd.com/film/beverly-hills-cop/
-21,Friday the 13th: The Final Chapter,Joseph Zito,Judie Aronson; Kimberly Beck; Joan Freeman,"Thriller, Horror",https://letterboxd.com/film/friday-the-13th-the-final-chapter/
-22,Repo Man,Alex Cox,Emilio Estevez; Harry Dean Stanton; Tracey Walter,"Comedy, Science Fiction",https://letterboxd.com/film/repo-man/
+19,Repo Man,Alex Cox,Emilio Estevez; Harry Dean Stanton; Tracey Walter,"Comedy, Science Fiction",https://letterboxd.com/film/repo-man/
+20,Top Secret!,"Jim Abrahams, David Zucker, Jerry Zucker",Val Kilmer; Lucy Gutteridge; Peter Cushing,Comedy,https://letterboxd.com/film/top-secret/
+21,Beverly Hills Cop,Martin Brest,Eddie Murphy; Judge Reinhold; John Ashton,"Crime, Action, Comedy",https://letterboxd.com/film/beverly-hills-cop/
+22,Friday the 13th: The Final Chapter,Joseph Zito,Judie Aronson; Kimberly Beck; Joan Freeman,"Thriller, Horror",https://letterboxd.com/film/friday-the-13th-the-final-chapter/
 23,Nineteen Eighty-Four,Michael Radford,John Hurt; Richard Burton; Suzanna Hamilton,"Drama, Science Fiction, Thriller",https://letterboxd.com/film/nineteen-eighty-four-1984/
 24,Threads,Mick Jackson,Karen Meagher; Reece Dinsdale; David Brierly,"Drama, War, Science Fiction",https://letterboxd.com/film/threads/
 25,Purple Rain,Albert Magnoli,Prince; Apollonia Kotero; Morris Day,"Drama, Romance, Music",https://letterboxd.com/film/purple-rain/
-26,Stranger Than Paradise,Jim Jarmusch,John Lurie; Eszter Balint; Richard Edson,"Comedy, Drama",https://letterboxd.com/film/stranger-than-paradise/
-27,Splash,Ron Howard,Tom Hanks; Daryl Hannah; Eugene Levy,"Fantasy, Romance, Comedy",https://letterboxd.com/film/splash/
+26,Splash,Ron Howard,Tom Hanks; Daryl Hannah; Eugene Levy,"Fantasy, Romance, Comedy",https://letterboxd.com/film/splash/
+27,Stranger Than Paradise,Jim Jarmusch,John Lurie; Eszter Balint; Richard Edson,"Comedy, Drama",https://letterboxd.com/film/stranger-than-paradise/
 28,Children of the Corn,Fritz Kiersch,Peter Horton; Linda Hamilton; R.G. Armstrong,"Thriller, Horror",https://letterboxd.com/film/children-of-the-corn/
 29,The Muppets Take Manhattan,Frank Oz,Jim Henson; Frank Oz; Dave Goelz,"Family, Comedy, Romance",https://letterboxd.com/film/the-muppets-take-manhattan/
 30,C.H.U.D.,Douglas Cheek,John Heard; Daniel Stern; Christopher Curry,"Horror, Science Fiction",https://letterboxd.com/film/chud/
@@ -41,11 +41,11 @@ rank,title,director,actors,genres,url
 40,Streets of Fire,Walter Hill,Michael Paré; Diane Lane; Rick Moranis,Action,https://letterboxd.com/film/streets-of-fire/
 41,Red Dawn,John Milius,Patrick Swayze; Charlie Sheen; C. Thomas Howell,"Thriller, Action, Drama, War",https://letterboxd.com/film/red-dawn/
 42,The Natural,Barry Levinson,Robert Redford; Robert Duvall; Glenn Close,Drama,https://letterboxd.com/film/the-natural/
-43,The Hit,Stephen Frears,John Hurt; Terence Stamp; Tim Roth,"Drama, Crime, Thriller",https://letterboxd.com/film/the-hit-1984/
-44,Shanghai Blues,Tsui Hark,Kenny Bee; Sylvia Chang; Sally Yip Sin-Man,"Romance, Comedy",https://letterboxd.com/film/shanghai-blues/
-45,Night of the Comet,Thom Eberhardt,Catherine Mary Stewart; Robert Beltran; Kelli Maroney,"Science Fiction, Comedy, Horror",https://letterboxd.com/film/night-of-the-comet/
-46,Crimes of Passion,Ken Russell,Kathleen Turner; Anthony Perkins; John Laughlin,"Thriller, Crime, Drama",https://letterboxd.com/film/crimes-of-passion/
-47,The Adventures of Buckaroo Banzai Across the 8th Dimension,W.D. Richter,Peter Weller; John Lithgow; Ellen Barkin,"Comedy, Science Fiction, Romance, Adventure",https://letterboxd.com/film/the-adventures-of-buckaroo-banzai-across-the-8th-dimension/
-48,What Have I Done to Deserve This?,Pedro Almodóvar,Carmen Maura; Luis Hostalot; Ryo Hiruma,"Comedy, Drama",https://letterboxd.com/film/what-have-i-done-to-deserve-this/
-49,The Return of Godzilla,Koji Hashimoto,Keiju Kobayashi; Ken Tanaka; Yasuko Sawaguchi,"Action, Horror, Science Fiction",https://letterboxd.com/film/the-return-of-godzilla/
-50,Another Country,Marek Kanievska,Rupert Everett; Colin Firth; Michael Jenn,"Drama, Romance",https://letterboxd.com/film/another-country/
+43,Night of the Comet,Thom Eberhardt,Catherine Mary Stewart; Robert Beltran; Kelli Maroney,"Science Fiction, Comedy, Horror",https://letterboxd.com/film/night-of-the-comet/
+44,Crimes of Passion,Ken Russell,Kathleen Turner; Anthony Perkins; John Laughlin,"Thriller, Crime, Drama",https://letterboxd.com/film/crimes-of-passion/
+45,Another Country,Marek Kanievska,Rupert Everett; Colin Firth; Michael Jenn,"Drama, Romance",https://letterboxd.com/film/another-country/
+46,Shanghai Blues,Tsui Hark,Kenny Bee; Sylvia Chang; Sally Yip Sin-Man,"Romance, Comedy",https://letterboxd.com/film/shanghai-blues/
+47,The Hit,Stephen Frears,John Hurt; Terence Stamp; Tim Roth,"Drama, Crime, Thriller",https://letterboxd.com/film/the-hit-1984/
+48,The Return of Godzilla,Koji Hashimoto,Keiju Kobayashi; Ken Tanaka; Yasuko Sawaguchi,"Action, Horror, Science Fiction",https://letterboxd.com/film/the-return-of-godzilla/
+49,The Adventures of Buckaroo Banzai Across the 8th Dimension,W.D. Richter,Peter Weller; John Lithgow; Ellen Barkin,"Comedy, Science Fiction, Romance, Adventure",https://letterboxd.com/film/the-adventures-of-buckaroo-banzai-across-the-8th-dimension/
+50,What Have I Done to Deserve This?,Pedro Almodóvar,Carmen Maura; Luis Hostalot; Ryo Hiruma,"Comedy, Drama",https://letterboxd.com/film/what-have-i-done-to-deserve-this/

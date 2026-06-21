@@ -16,18 +16,6 @@
     },
     {
       "rank": 2,
-      "title": "Avatar: The Way of Water",
-      "url": "https://letterboxd.com/film/avatar-the-way-of-water/",
-      "director": "James Cameron",
-      "actors": [
-        "Sam Worthington",
-        "Zoe Saldaña",
-        "Sigourney Weaver"
-      ],
-      "genres": "Science Fiction, Action, Adventure"
-    },
-    {
-      "rank": 3,
       "title": "Everything Everywhere All at Once",
       "url": "https://letterboxd.com/film/everything-everywhere-all-at-once/",
       "director": "Daniel Scheinert, Daniel Kwan",
@@ -37,6 +25,18 @@
         "Ke Huy Quan"
       ],
       "genres": "Science Fiction, Adventure, Comedy, Action"
+    },
+    {
+      "rank": 3,
+      "title": "Avatar: The Way of Water",
+      "url": "https://letterboxd.com/film/avatar-the-way-of-water/",
+      "director": "James Cameron",
+      "actors": [
+        "Sam Worthington",
+        "Zoe Saldaña",
+        "Sigourney Weaver"
+      ],
+      "genres": "Science Fiction, Action, Adventure"
     },
     {
       "rank": 4,
@@ -136,15 +136,15 @@
     },
     {
       "rank": 12,
-      "title": "Scream",
-      "url": "https://letterboxd.com/film/scream-2022/",
-      "director": "Tyler Gillett, Matt Bettinelli-Olpin",
+      "title": "Nope",
+      "url": "https://letterboxd.com/film/nope/",
+      "director": "Jordan Peele",
       "actors": [
-        "Melissa Barrera",
-        "Jenna Ortega",
-        "Mason Gooding"
+        "Daniel Kaluuya",
+        "Keke Palmer",
+        "Brandon Perea"
       ],
-      "genres": "Mystery, Horror"
+      "genres": "Science Fiction, Horror"
     },
     {
       "rank": 13,
@@ -160,15 +160,15 @@
     },
     {
       "rank": 14,
-      "title": "Nope",
-      "url": "https://letterboxd.com/film/nope/",
-      "director": "Jordan Peele",
+      "title": "Scream",
+      "url": "https://letterboxd.com/film/scream-2022/",
+      "director": "Tyler Gillett, Matt Bettinelli-Olpin",
       "actors": [
-        "Daniel Kaluuya",
-        "Keke Palmer",
-        "Brandon Perea"
+        "Melissa Barrera",
+        "Jenna Ortega",
+        "Mason Gooding"
       ],
-      "genres": "Science Fiction, Horror"
+      "genres": "Mystery, Horror"
     },
     {
       "rank": 15,
@@ -232,6 +232,18 @@
     },
     {
       "rank": 20,
+      "title": "Talk to Me",
+      "url": "https://letterboxd.com/film/talk-to-me-2022/",
+      "director": "Michael Philippou, Danny Philippou",
+      "actors": [
+        "Sophie Wilde",
+        "Alexandra Jensen",
+        "Joe Bird"
+      ],
+      "genres": "Horror"
+    },
+    {
+      "rank": 21,
       "title": "Don't Worry Darling",
       "url": "https://letterboxd.com/film/dont-worry-darling/",
       "director": "Olivia Wilde",
@@ -240,10 +252,10 @@
         "Harry Styles",
         "Chris Pine"
       ],
-      "genres": "Horror, Mystery, Science Fiction, Thriller"
+      "genres": "Mystery, Science Fiction, Horror, Thriller"
     },
     {
-      "rank": 21,
+      "rank": 22,
       "title": "X",
       "url": "https://letterboxd.com/film/x-2022/",
       "director": "Ti West",
@@ -251,18 +263,6 @@
         "Mia Goth",
         "Jenna Ortega",
         "Brittany Snow"
-      ],
-      "genres": "Horror"
-    },
-    {
-      "rank": 22,
-      "title": "Talk to Me",
-      "url": "https://letterboxd.com/film/talk-to-me-2022/",
-      "director": "Michael Philippou, Danny Philippou",
-      "actors": [
-        "Sophie Wilde",
-        "Alexandra Jensen",
-        "Joe Bird"
       ],
       "genres": "Horror"
     },
@@ -292,6 +292,14 @@
     },
     {
       "rank": 25,
+      "title": "The Backrooms (Found Footage)",
+      "url": "https://letterboxd.com/film/the-backrooms-found-footage/",
+      "director": "Kane Parsons",
+      "actors": [],
+      "genres": "Science Fiction, Mystery, Horror"
+    },
+    {
+      "rank": 26,
       "title": "The Whale",
       "url": "https://letterboxd.com/film/the-whale-2022/",
       "director": "Darren Aronofsky",
@@ -303,7 +311,7 @@
       "genres": "Drama"
     },
     {
-      "rank": 26,
+      "rank": 27,
       "title": "A Man Called Otto",
       "url": "https://letterboxd.com/film/a-man-called-otto/",
       "director": "Marc Forster",
@@ -311,18 +319,6 @@
         "Tom Hanks",
         "Mariana Treviño",
         "Cameron Britton"
-      ],
-      "genres": "Drama, Comedy"
-    },
-    {
-      "rank": 27,
-      "title": "Triangle of Sadness",
-      "url": "https://letterboxd.com/film/triangle-of-sadness/",
-      "director": "Ruben Östlund",
-      "actors": [
-        "Harris Dickinson",
-        "Charlbi Dean",
-        "Dolly de Leon"
       ],
       "genres": "Drama, Comedy"
     },
@@ -340,15 +336,15 @@
     },
     {
       "rank": 29,
-      "title": "The Banshees of Inisherin",
-      "url": "https://letterboxd.com/film/the-banshees-of-inisherin/",
-      "director": "Martin McDonagh",
+      "title": "Triangle of Sadness",
+      "url": "https://letterboxd.com/film/triangle-of-sadness/",
+      "director": "Ruben Östlund",
       "actors": [
-        "Colin Farrell",
-        "Brendan Gleeson",
-        "Kerry Condon"
+        "Harris Dickinson",
+        "Charlbi Dean",
+        "Dolly de Leon"
       ],
-      "genres": "Comedy, Drama"
+      "genres": "Drama, Comedy"
     },
     {
       "rank": 30,
@@ -364,6 +360,18 @@
     },
     {
       "rank": 31,
+      "title": "The Banshees of Inisherin",
+      "url": "https://letterboxd.com/film/the-banshees-of-inisherin/",
+      "director": "Martin McDonagh",
+      "actors": [
+        "Colin Farrell",
+        "Brendan Gleeson",
+        "Kerry Condon"
+      ],
+      "genres": "Comedy, Drama"
+    },
+    {
+      "rank": 32,
       "title": "Entergalactic",
       "url": "https://letterboxd.com/film/entergalactic/",
       "director": "Fletcher Moules",
@@ -375,7 +383,7 @@
       "genres": "Romance, Animation, Music"
     },
     {
-      "rank": 32,
+      "rank": 33,
       "title": "The Northman",
       "url": "https://letterboxd.com/film/the-northman/",
       "director": "Robert Eggers",
@@ -385,14 +393,6 @@
         "Claes Bang"
       ],
       "genres": "Adventure, Action, Fantasy"
-    },
-    {
-      "rank": 33,
-      "title": "The Backrooms (Found Footage)",
-      "url": "https://letterboxd.com/film/the-backrooms-found-footage/",
-      "director": "Kane Parsons",
-      "actors": [],
-      "genres": "Science Fiction, Mystery, Horror"
     },
     {
       "rank": 34,
@@ -552,18 +552,6 @@
     },
     {
       "rank": 47,
-      "title": "Where the Crawdads Sing",
-      "url": "https://letterboxd.com/film/where-the-crawdads-sing/",
-      "director": "Olivia Newman",
-      "actors": [
-        "Daisy Edgar-Jones",
-        "Taylor John Smith",
-        "Harris Dickinson"
-      ],
-      "genres": "Mystery, Drama, Romance"
-    },
-    {
-      "rank": 48,
       "title": "Purple Hearts",
       "url": "https://letterboxd.com/film/purple-hearts-2022/",
       "director": "Elizabeth Allen Rosenbaum",
@@ -573,6 +561,18 @@
         "John Harlan Kim"
       ],
       "genres": "Drama, Romance"
+    },
+    {
+      "rank": 48,
+      "title": "Where the Crawdads Sing",
+      "url": "https://letterboxd.com/film/where-the-crawdads-sing/",
+      "director": "Olivia Newman",
+      "actors": [
+        "Daisy Edgar-Jones",
+        "Taylor John Smith",
+        "Harris Dickinson"
+      ],
+      "genres": "Mystery, Drama, Romance"
     },
     {
       "rank": 49,
@@ -596,7 +596,7 @@
         "Olivia Graves",
         "Doug Mancheski"
       ],
-      "genres": "Adventure, Comedy, Action"
+      "genres": "Adventure, Comedy"
     }
   ]
 }
