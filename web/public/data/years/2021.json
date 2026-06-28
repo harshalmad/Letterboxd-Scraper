@@ -16,18 +16,6 @@
     },
     {
       "rank": 2,
-      "title": "The Worst Person in the World",
-      "url": "https://letterboxd.com/film/the-worst-person-in-the-world/",
-      "director": "Joachim Trier",
-      "actors": [
-        "Renate Reinsve",
-        "Anders Danielsen Lie",
-        "Herbert Nordrum"
-      ],
-      "genres": "Drama, Romance, Comedy"
-    },
-    {
-      "rank": 3,
       "title": "Spider-Man: No Way Home",
       "url": "https://letterboxd.com/film/spider-man-no-way-home/",
       "director": "Jon Watts",
@@ -37,6 +25,18 @@
         "Benedict Cumberbatch"
       ],
       "genres": "Adventure, Action, Science Fiction"
+    },
+    {
+      "rank": 3,
+      "title": "The Worst Person in the World",
+      "url": "https://letterboxd.com/film/the-worst-person-in-the-world/",
+      "director": "Joachim Trier",
+      "actors": [
+        "Renate Reinsve",
+        "Anders Danielsen Lie",
+        "Herbert Nordrum"
+      ],
+      "genres": "Drama, Romance, Comedy"
     },
     {
       "rank": 4,
@@ -100,18 +100,6 @@
     },
     {
       "rank": 9,
-      "title": "Licorice Pizza",
-      "url": "https://letterboxd.com/film/licorice-pizza/",
-      "director": "Paul Thomas Anderson",
-      "actors": [
-        "Alana Haim",
-        "Cooper Hoffman",
-        "Sean Penn"
-      ],
-      "genres": "Drama, Romance, Comedy"
-    },
-    {
-      "rank": 10,
       "title": "Encanto",
       "url": "https://letterboxd.com/film/encanto/",
       "director": "Byron Howard, Jared Bush",
@@ -121,6 +109,18 @@
         "John Leguizamo"
       ],
       "genres": "Comedy, Family, Fantasy, Animation"
+    },
+    {
+      "rank": 10,
+      "title": "Licorice Pizza",
+      "url": "https://letterboxd.com/film/licorice-pizza/",
+      "director": "Paul Thomas Anderson",
+      "actors": [
+        "Alana Haim",
+        "Cooper Hoffman",
+        "Sean Penn"
+      ],
+      "genres": "Drama, Romance, Comedy"
     },
     {
       "rank": 11,
@@ -496,18 +496,6 @@
     },
     {
       "rank": 42,
-      "title": "The Hating Game",
-      "url": "https://letterboxd.com/film/the-hating-game/",
-      "director": "Peter Hutchings",
-      "actors": [
-        "Lucy Hale",
-        "Austin Stowell",
-        "Corbin Bernsen"
-      ],
-      "genres": "Romance, Drama, Comedy"
-    },
-    {
-      "rank": 43,
       "title": "Old",
       "url": "https://letterboxd.com/film/old-2021/",
       "director": "M. Night Shyamalan",
@@ -517,6 +505,18 @@
         "Rufus Sewell"
       ],
       "genres": "Thriller, Mystery, Horror"
+    },
+    {
+      "rank": 43,
+      "title": "The Hating Game",
+      "url": "https://letterboxd.com/film/the-hating-game/",
+      "director": "Peter Hutchings",
+      "actors": [
+        "Lucy Hale",
+        "Austin Stowell",
+        "Corbin Bernsen"
+      ],
+      "genres": "Romance, Drama, Comedy"
     },
     {
       "rank": 44,
@@ -544,18 +544,6 @@
     },
     {
       "rank": 46,
-      "title": "The Kissing Booth 3",
-      "url": "https://letterboxd.com/film/the-kissing-booth-3/",
-      "director": "Vince Marcello",
-      "actors": [
-        "Joey King",
-        "Joel Courtney",
-        "Jacob Elordi"
-      ],
-      "genres": "Romance, Comedy"
-    },
-    {
-      "rank": 47,
       "title": "The Medium",
       "url": "https://letterboxd.com/film/the-medium-2021/",
       "director": "Banjong Pisanthanakun",
@@ -567,19 +555,19 @@
       "genres": "Mystery, Horror"
     },
     {
-      "rank": 48,
-      "title": "The Lost Daughter",
-      "url": "https://letterboxd.com/film/the-lost-daughter-2021/",
-      "director": "Maggie Gyllenhaal",
+      "rank": 47,
+      "title": "The Kissing Booth 3",
+      "url": "https://letterboxd.com/film/the-kissing-booth-3/",
+      "director": "Vince Marcello",
       "actors": [
-        "Olivia Colman",
-        "Jessie Buckley",
-        "Dakota Johnson"
+        "Joey King",
+        "Joel Courtney",
+        "Jacob Elordi"
       ],
-      "genres": "Drama"
+      "genres": "Romance, Comedy"
     },
     {
-      "rank": 49,
+      "rank": 48,
       "title": "Godzilla vs. Kong",
       "url": "https://letterboxd.com/film/godzilla-vs-kong/",
       "director": "Adam Wingard",
@@ -589,6 +577,18 @@
         "Kaylee Hottle"
       ],
       "genres": "Science Fiction, Adventure, Action"
+    },
+    {
+      "rank": 49,
+      "title": "The Lost Daughter",
+      "url": "https://letterboxd.com/film/the-lost-daughter-2021/",
+      "director": "Maggie Gyllenhaal",
+      "actors": [
+        "Olivia Colman",
+        "Jessie Buckley",
+        "Dakota Johnson"
+      ],
+      "genres": "Drama"
     },
     {
       "rank": 50,

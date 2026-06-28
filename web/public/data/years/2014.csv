@@ -5,7 +5,7 @@ rank,title,director,actors,genres,url
 4,Gone Girl,David Fincher,Ben Affleck; Rosamund Pike; Neil Patrick Harris,"Drama, Mystery, Thriller",https://letterboxd.com/film/gone-girl/
 5,The Maze Runner,Wes Ball,Dylan O'Brien; Kaya Scodelario; Thomas Brodie-Sangster,"Science Fiction, Thriller, Action, Mystery",https://letterboxd.com/film/the-maze-runner/
 6,The Hunger Games: Mockingjay – Part 1,Francis Lawrence,Jennifer Lawrence; Josh Hutcherson; Liam Hemsworth,"Thriller, Science Fiction, Adventure",https://letterboxd.com/film/the-hunger-games-mockingjay-part-1/
-7,Nightcrawler,Dan Gilroy,Jake Gyllenhaal; Riz Ahmed; Rene Russo,"Crime, Drama, Thriller",https://letterboxd.com/film/nightcrawler/
+7,Nightcrawler,Dan Gilroy,Jake Gyllenhaal; Rene Russo; Riz Ahmed,"Crime, Drama, Thriller",https://letterboxd.com/film/nightcrawler/
 8,Guardians of the Galaxy,James Gunn,Chris Pratt; Zoe Saldaña; Dave Bautista,"Adventure, Action, Science Fiction",https://letterboxd.com/film/guardians-of-the-galaxy/
 9,The Amazing Spider-Man 2,Marc Webb,Andrew Garfield; Emma Stone; Jamie Foxx,"Science Fiction, Action, Adventure",https://letterboxd.com/film/the-amazing-spider-man-2/
 10,The Lego Movie,"Phil Lord, Christopher Miller",Chris Pratt; Elizabeth Banks; Will Ferrell,"Family, Fantasy, Comedy, Animation, Adventure",https://letterboxd.com/film/the-lego-movie/
@@ -13,15 +13,15 @@ rank,title,director,actors,genres,url
 12,Creep,Patrick Brice,Mark Duplass; Patrick Brice; Katie Aselton,"Horror, Thriller",https://letterboxd.com/film/creep-2014/
 13,John Wick,Chad Stahelski,Keanu Reeves; Michael Nyqvist; Alfie Allen,"Action, Thriller",https://letterboxd.com/film/john-wick/
 14,22 Jump Street,"Phil Lord, Christopher Miller",Jonah Hill; Channing Tatum; Peter Stormare,"Action, Crime, Comedy",https://letterboxd.com/film/22-jump-street/
-15,Birdman or (The Unexpected Virtue of Ignorance),Alejandro G. Iñárritu,Michael Keaton; Emma Stone; Zach Galifianakis,"Drama, Comedy",https://letterboxd.com/film/birdman-or-the-unexpected-virtue-of-ignorance/
-16,How to Train Your Dragon 2,Dean DeBlois,Jay Baruchel; Cate Blanchett; Gerard Butler,"Animation, Adventure, Action, Fantasy, Family",https://letterboxd.com/film/how-to-train-your-dragon-2/
+15,How to Train Your Dragon 2,Dean DeBlois,Jay Baruchel; Cate Blanchett; Gerard Butler,"Animation, Adventure, Action, Fantasy, Family",https://letterboxd.com/film/how-to-train-your-dragon-2/
+16,Birdman or (The Unexpected Virtue of Ignorance),Alejandro G. Iñárritu,Michael Keaton; Emma Stone; Zach Galifianakis,"Drama, Comedy",https://letterboxd.com/film/birdman-or-the-unexpected-virtue-of-ignorance/
 17,Big Hero 6,"Don Hall, Chris Williams",Scott Adsit; Ryan Potter; Daniel Henney,"Science Fiction, Comedy, Action, Family, Animation, Adventure",https://letterboxd.com/film/big-hero-6/
 18,Divergent,Neil Burger,Shailene Woodley; Theo James; Ashley Judd,"Adventure, Action, Science Fiction",https://letterboxd.com/film/divergent/
-19,"Love, Rosie",Christian Ditter,Lily Collins; Sam Claflin; Christian Cooke,"Drama, Romance, Comedy",https://letterboxd.com/film/love-rosie/
-20,"As Above, So Below",John Erick Dowdle,Perdita Weeks; Ben Feldman; Edwin Hodge,"Horror, Thriller",https://letterboxd.com/film/as-above-so-below-2014/
+19,"As Above, So Below",John Erick Dowdle,Perdita Weeks; Ben Feldman; Edwin Hodge,"Horror, Thriller",https://letterboxd.com/film/as-above-so-below-2014/
+20,"Love, Rosie",Christian Ditter,Lily Collins; Sam Claflin; Christian Cooke,"Drama, Romance, Comedy",https://letterboxd.com/film/love-rosie/
 21,I Believe in Unicorns,Leah Meyerhoff,Natalia Dyer; Peter Vack; Julia Garner,Drama,https://letterboxd.com/film/i-believe-in-unicorns/
-22,Fury,David Ayer,Brad Pitt; Shia LaBeouf; Logan Lerman,"War, Drama, Action",https://letterboxd.com/film/fury-2014/
-23,Kingsman: The Secret Service,Matthew Vaughn,Taron Egerton; Colin Firth; Samuel L. Jackson,"Action, Comedy, Crime, Adventure",https://letterboxd.com/film/kingsman-the-secret-service/
+22,Kingsman: The Secret Service,Matthew Vaughn,Taron Egerton; Colin Firth; Samuel L. Jackson,"Action, Comedy, Crime, Adventure",https://letterboxd.com/film/kingsman-the-secret-service/
+23,Fury,David Ayer,Brad Pitt; Shia LaBeouf; Logan Lerman,"War, Drama, Action",https://letterboxd.com/film/fury-2014/
 24,It Follows,David Robert Mitchell,Maika Monroe; Keir Gilchrist; Daniel Zovatto,"Horror, Mystery",https://letterboxd.com/film/it-follows/
 25,The Hobbit: The Battle of the Five Armies,Peter Jackson,Ian McKellen; Martin Freeman; Richard Armitage,"Fantasy, Action, Adventure",https://letterboxd.com/film/the-hobbit-the-battle-of-the-five-armies/
 26,Paddington,Paul King,Ben Whishaw; Hugh Bonneville; Sally Hawkins,"Comedy, Family, Adventure",https://letterboxd.com/film/paddington/
@@ -35,8 +35,8 @@ rank,title,director,actors,genres,url
 34,The Babadook,Jennifer Kent,Essie Davis; Noah Wiseman; Hayley McElhinney,"Drama, Horror",https://letterboxd.com/film/the-babadook/
 35,The Interview,"Evan Goldberg, Seth Rogen",James Franco; Seth Rogen; Lizzy Caplan,"Comedy, Action",https://letterboxd.com/film/the-interview-2014/
 36,Maleficent,Robert Stromberg,Angelina Jolie; Elle Fanning; Imelda Staunton,"Romance, Fantasy, Action, Adventure, Family",https://letterboxd.com/film/maleficent/
-37,Boyhood,Richard Linklater,Ellar Coltrane; Patricia Arquette; Ethan Hawke,Drama,https://letterboxd.com/film/boyhood/
-38,Tusk,Kevin Smith,Michael Parks; Justin Long; Genesis Rodriguez,"Horror, Comedy",https://letterboxd.com/film/tusk-2014/
+37,Tusk,Kevin Smith,Michael Parks; Justin Long; Genesis Rodriguez,"Horror, Comedy",https://letterboxd.com/film/tusk-2014/
+38,Boyhood,Richard Linklater,Ellar Coltrane; Patricia Arquette; Ethan Hawke,Drama,https://letterboxd.com/film/boyhood/
 39,Dawn of the Planet of the Apes,Matt Reeves,Andy Serkis; Jason Clarke; Toby Kebbell,"Action, Thriller, Science Fiction, Drama",https://letterboxd.com/film/dawn-of-the-planet-of-the-apes/
 40,Blended,Frank Coraci,Adam Sandler; Drew Barrymore; Kevin Nealon,"Comedy, Romance",https://letterboxd.com/film/blended/
 41,When Marnie Was There,Hiromasa Yonebayashi,Sara Takatsuki; Kasumi Arimura; Nanako Matsushima,"Drama, Family, Animation",https://letterboxd.com/film/when-marnie-was-there/

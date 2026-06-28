@@ -184,18 +184,6 @@
     },
     {
       "rank": 16,
-      "title": "Slap Shot",
-      "url": "https://letterboxd.com/film/slap-shot/",
-      "director": "George Roy Hill",
-      "actors": [
-        "Paul Newman",
-        "Strother Martin",
-        "Michael Ontkean"
-      ],
-      "genres": "Comedy, Drama"
-    },
-    {
-      "rank": 17,
       "title": "A Special Day",
       "url": "https://letterboxd.com/film/a-special-day/",
       "director": "Ettore Scola",
@@ -205,6 +193,18 @@
         "John Vernon"
       ],
       "genres": "Drama, Romance"
+    },
+    {
+      "rank": 17,
+      "title": "Slap Shot",
+      "url": "https://letterboxd.com/film/slap-shot/",
+      "director": "George Roy Hill",
+      "actors": [
+        "Paul Newman",
+        "Strother Martin",
+        "Michael Ontkean"
+      ],
+      "genres": "Comedy, Drama"
     },
     {
       "rank": 18,
@@ -220,18 +220,6 @@
     },
     {
       "rank": 19,
-      "title": "Untitled 77-A",
-      "url": "https://letterboxd.com/film/untitled-77-a/",
-      "director": "Han Okhi",
-      "actors": [
-        "Kim Yong-sik",
-        "Kwak Myoung-ok",
-        "Son Sung-Kwon"
-      ],
-      "genres": "Drama"
-    },
-    {
-      "rank": 20,
       "title": "The Hills Have Eyes",
       "url": "https://letterboxd.com/film/the-hills-have-eyes/",
       "director": "Wes Craven",
@@ -243,7 +231,7 @@
       "genres": "Horror"
     },
     {
-      "rank": 21,
+      "rank": 20,
       "title": "The Many Adventures of Winnie the Pooh",
       "url": "https://letterboxd.com/film/the-many-adventures-of-winnie-the-pooh/",
       "director": "John Lounsbery, Wolfgang Reitherman",
@@ -255,19 +243,19 @@
       "genres": "Adventure, Animation, Family"
     },
     {
-      "rank": 22,
-      "title": "One Sings, the Other Doesn't",
-      "url": "https://letterboxd.com/film/one-sings-the-other-doesnt/",
-      "director": "Agnès Varda",
+      "rank": 21,
+      "title": "Untitled 77-A",
+      "url": "https://letterboxd.com/film/untitled-77-a/",
+      "director": "Han Okhi",
       "actors": [
-        "Thérèse Liotard",
-        "Valérie Mairesse",
-        "Robert Dadiès"
+        "Kim Yong-sik",
+        "Kwak Myoung-ok",
+        "Son Sung-Kwon"
       ],
-      "genres": "Music, Drama"
+      "genres": "Drama"
     },
     {
-      "rank": 23,
+      "rank": 22,
       "title": "The American Friend",
       "url": "https://letterboxd.com/film/the-american-friend/",
       "director": "Wim Wenders",
@@ -279,19 +267,19 @@
       "genres": "Crime, Drama, Thriller"
     },
     {
-      "rank": 24,
-      "title": "Alucarda",
-      "url": "https://letterboxd.com/film/alucarda/",
-      "director": "Juan López Moctezuma",
+      "rank": 23,
+      "title": "One Sings, the Other Doesn't",
+      "url": "https://letterboxd.com/film/one-sings-the-other-doesnt/",
+      "director": "Agnès Varda",
       "actors": [
-        "Tina Romero",
-        "Susana Kamini",
-        "Claudio Brook"
+        "Thérèse Liotard",
+        "Valérie Mairesse",
+        "Robert Dadiès"
       ],
-      "genres": "Horror"
+      "genres": "Music, Drama"
     },
     {
-      "rank": 25,
+      "rank": 24,
       "title": "Wizards",
       "url": "https://letterboxd.com/film/wizards/",
       "director": "Ralph Bakshi",
@@ -301,6 +289,18 @@
         "Richard Romanus"
       ],
       "genres": "Fantasy, Animation, Science Fiction"
+    },
+    {
+      "rank": 25,
+      "title": "Alucarda",
+      "url": "https://letterboxd.com/film/alucarda/",
+      "director": "Juan López Moctezuma",
+      "actors": [
+        "Tina Romero",
+        "Susana Kamini",
+        "Claudio Brook"
+      ],
+      "genres": "Horror"
     },
     {
       "rank": 26,
@@ -316,18 +316,6 @@
     },
     {
       "rank": 27,
-      "title": "High Anxiety",
-      "url": "https://letterboxd.com/film/high-anxiety/",
-      "director": "Mel Brooks",
-      "actors": [
-        "Mel Brooks",
-        "Madeline Kahn",
-        "Cloris Leachman"
-      ],
-      "genres": "Thriller, Mystery, Comedy"
-    },
-    {
-      "rank": 28,
       "title": "The Duellists",
       "url": "https://letterboxd.com/film/the-duellists/",
       "director": "Ridley Scott",
@@ -337,6 +325,18 @@
         "Albert Finney"
       ],
       "genres": "Drama, War"
+    },
+    {
+      "rank": 28,
+      "title": "High Anxiety",
+      "url": "https://letterboxd.com/film/high-anxiety/",
+      "director": "Mel Brooks",
+      "actors": [
+        "Mel Brooks",
+        "Madeline Kahn",
+        "Cloris Leachman"
+      ],
+      "genres": "Thriller, Mystery, Comedy"
     },
     {
       "rank": 29,
@@ -352,30 +352,6 @@
     },
     {
       "rank": 30,
-      "title": "Martin",
-      "url": "https://letterboxd.com/film/martin/",
-      "director": "George A. Romero",
-      "actors": [
-        "John Amplas",
-        "Lincoln Maazel",
-        "Christine Forrest"
-      ],
-      "genres": "Drama, Horror"
-    },
-    {
-      "rank": 31,
-      "title": "Rabid",
-      "url": "https://letterboxd.com/film/rabid/",
-      "director": "David Cronenberg",
-      "actors": [
-        "Marilyn Chambers",
-        "Terri Hanauer",
-        "Frank Moore"
-      ],
-      "genres": "Science Fiction, Horror"
-    },
-    {
-      "rank": 32,
       "title": "New York, New York",
       "url": "https://letterboxd.com/film/new-york-new-york/",
       "director": "Martin Scorsese",
@@ -387,7 +363,19 @@
       "genres": "Drama, Music, Romance"
     },
     {
-      "rank": 33,
+      "rank": 31,
+      "title": "Martin",
+      "url": "https://letterboxd.com/film/martin/",
+      "director": "George A. Romero",
+      "actors": [
+        "John Amplas",
+        "Lincoln Maazel",
+        "Christine Forrest"
+      ],
+      "genres": "Drama, Horror"
+    },
+    {
+      "rank": 32,
       "title": "Desperate Living",
       "url": "https://letterboxd.com/film/desperate-living/",
       "director": "John Waters",
@@ -397,6 +385,18 @@
         "Susan Lowe"
       ],
       "genres": "Comedy, Crime"
+    },
+    {
+      "rank": 33,
+      "title": "Rabid",
+      "url": "https://letterboxd.com/film/rabid/",
+      "director": "David Cronenberg",
+      "actors": [
+        "Marilyn Chambers",
+        "Terri Hanauer",
+        "Frank Moore"
+      ],
+      "genres": "Science Fiction, Horror"
     },
     {
       "rank": 34,
@@ -532,18 +532,6 @@
     },
     {
       "rank": 45,
-      "title": "Office Romance",
-      "url": "https://letterboxd.com/film/office-romance/",
-      "director": "Eldar Ryazanov",
-      "actors": [
-        "Alisa Freyndlikh",
-        "Andrey Myagkov",
-        "Svetlana Nemolyaeva"
-      ],
-      "genres": "Comedy, Romance"
-    },
-    {
-      "rank": 46,
       "title": "Man of Marble",
       "url": "https://letterboxd.com/film/man-of-marble/",
       "director": "Andrzej Wajda",
@@ -555,16 +543,28 @@
       "genres": "Drama"
     },
     {
-      "rank": 47,
-      "title": "Perfumed Nightmare",
-      "url": "https://letterboxd.com/film/perfumed-nightmare/",
-      "director": "Kidlat Tahimik",
+      "rank": 46,
+      "title": "Office Romance",
+      "url": "https://letterboxd.com/film/office-romance/",
+      "director": "Eldar Ryazanov",
       "actors": [
-        "Kidlat Tahimik",
-        "Mang Fely",
-        "Dolores Santamaria"
+        "Alisa Freyndlikh",
+        "Andrey Myagkov",
+        "Svetlana Nemolyaeva"
       ],
-      "genres": "Documentary, Comedy"
+      "genres": "Comedy, Romance"
+    },
+    {
+      "rank": 47,
+      "title": "Capricorn One",
+      "url": "https://letterboxd.com/film/capricorn-one/",
+      "director": "Peter Hyams",
+      "actors": [
+        "Elliott Gould",
+        "James Brolin",
+        "Brenda Vaccaro"
+      ],
+      "genres": "Science Fiction, Thriller, Action, Drama"
     },
     {
       "rank": 48,
@@ -580,15 +580,15 @@
     },
     {
       "rank": 49,
-      "title": "Capricorn One",
-      "url": "https://letterboxd.com/film/capricorn-one/",
-      "director": "Peter Hyams",
+      "title": "Perfumed Nightmare",
+      "url": "https://letterboxd.com/film/perfumed-nightmare/",
+      "director": "Kidlat Tahimik",
       "actors": [
-        "Elliott Gould",
-        "James Brolin",
-        "Brenda Vaccaro"
+        "Kidlat Tahimik",
+        "Mang Fely",
+        "Dolores Santamaria"
       ],
-      "genres": "Science Fiction, Thriller, Action, Drama"
+      "genres": "Documentary, Comedy"
     },
     {
       "rank": 50,

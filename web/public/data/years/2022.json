@@ -124,18 +124,6 @@
     },
     {
       "rank": 11,
-      "title": "All Quiet on the Western Front",
-      "url": "https://letterboxd.com/film/all-quiet-on-the-western-front-2022/",
-      "director": "Edward Berger",
-      "actors": [
-        "Felix Kammerer",
-        "Albrecht Schuch",
-        "Aaron Hilmer"
-      ],
-      "genres": "Drama, War"
-    },
-    {
-      "rank": 12,
       "title": "Nope",
       "url": "https://letterboxd.com/film/nope/",
       "director": "Jordan Peele",
@@ -145,6 +133,18 @@
         "Brandon Perea"
       ],
       "genres": "Science Fiction, Horror"
+    },
+    {
+      "rank": 12,
+      "title": "All Quiet on the Western Front",
+      "url": "https://letterboxd.com/film/all-quiet-on-the-western-front-2022/",
+      "director": "Edward Berger",
+      "actors": [
+        "Felix Kammerer",
+        "Albrecht Schuch",
+        "Aaron Hilmer"
+      ],
+      "genres": "Drama, War"
     },
     {
       "rank": 13,
@@ -208,18 +208,6 @@
     },
     {
       "rank": 18,
-      "title": "Babylon",
-      "url": "https://letterboxd.com/film/babylon-2022/",
-      "director": "Damien Chazelle",
-      "actors": [
-        "Diego Calva",
-        "Margot Robbie",
-        "Brad Pitt"
-      ],
-      "genres": "Comedy, Drama"
-    },
-    {
-      "rank": 19,
       "title": "Smile",
       "url": "https://letterboxd.com/film/smile-2022/",
       "director": "Parker Finn",
@@ -231,7 +219,7 @@
       "genres": "Horror, Mystery"
     },
     {
-      "rank": 20,
+      "rank": 19,
       "title": "Talk to Me",
       "url": "https://letterboxd.com/film/talk-to-me-2022/",
       "director": "Michael Philippou, Danny Philippou",
@@ -241,6 +229,18 @@
         "Joe Bird"
       ],
       "genres": "Horror"
+    },
+    {
+      "rank": 20,
+      "title": "Babylon",
+      "url": "https://letterboxd.com/film/babylon-2022/",
+      "director": "Damien Chazelle",
+      "actors": [
+        "Diego Calva",
+        "Margot Robbie",
+        "Brad Pitt"
+      ],
+      "genres": "Comedy, Drama"
     },
     {
       "rank": 21,
@@ -300,15 +300,15 @@
     },
     {
       "rank": 26,
-      "title": "The Whale",
-      "url": "https://letterboxd.com/film/the-whale-2022/",
-      "director": "Darren Aronofsky",
+      "title": "Enola Holmes 2",
+      "url": "https://letterboxd.com/film/enola-holmes-2/",
+      "director": "Harry Bradbeer",
       "actors": [
-        "Brendan Fraser",
-        "Sadie Sink",
-        "Ty Simpkins"
+        "Millie Bobby Brown",
+        "Henry Cavill",
+        "David Thewlis"
       ],
-      "genres": "Drama"
+      "genres": "Adventure, Crime, Mystery"
     },
     {
       "rank": 27,
@@ -324,15 +324,15 @@
     },
     {
       "rank": 28,
-      "title": "Enola Holmes 2",
-      "url": "https://letterboxd.com/film/enola-holmes-2/",
-      "director": "Harry Bradbeer",
+      "title": "The Whale",
+      "url": "https://letterboxd.com/film/the-whale-2022/",
+      "director": "Darren Aronofsky",
       "actors": [
-        "Millie Bobby Brown",
-        "Henry Cavill",
-        "David Thewlis"
+        "Brendan Fraser",
+        "Sadie Sink",
+        "Ty Simpkins"
       ],
-      "genres": "Adventure, Crime, Mystery"
+      "genres": "Drama"
     },
     {
       "rank": 29,
@@ -380,7 +380,7 @@
         "Jessica Williams",
         "Laura Harrier"
       ],
-      "genres": "Romance, Animation, Music"
+      "genres": "Romance, Animation, Music, Comedy"
     },
     {
       "rank": 33,
@@ -416,7 +416,7 @@
         "Sebastian Stan",
         "Jojo T. Gibbs"
       ],
-      "genres": "Horror, Thriller"
+      "genres": "Horror, Thriller, Comedy"
     },
     {
       "rank": 36,
@@ -468,18 +468,6 @@
     },
     {
       "rank": 40,
-      "title": "Am I OK?",
-      "url": "https://letterboxd.com/film/am-i-ok/",
-      "director": "Tig Notaro, Stephanie Allynne",
-      "actors": [
-        "Dakota Johnson",
-        "Sonoya Mizuno",
-        "Jermaine Fowler"
-      ],
-      "genres": "Romance, Comedy, Drama"
-    },
-    {
-      "rank": 41,
       "title": "Weak Hero",
       "url": "https://letterboxd.com/film/weak-hero/",
       "director": "Park Dan-hee, You Su-min",
@@ -491,7 +479,7 @@
       "genres": "Drama"
     },
     {
-      "rank": 42,
+      "rank": 41,
       "title": "The Gray Man",
       "url": "https://letterboxd.com/film/the-gray-man-2022/",
       "director": "Joe Russo, Anthony Russo",
@@ -501,6 +489,18 @@
         "Ana de Armas"
       ],
       "genres": "Thriller, Action"
+    },
+    {
+      "rank": 42,
+      "title": "Am I OK?",
+      "url": "https://letterboxd.com/film/am-i-ok/",
+      "director": "Tig Notaro, Stephanie Allynne",
+      "actors": [
+        "Dakota Johnson",
+        "Sonoya Mizuno",
+        "Jermaine Fowler"
+      ],
+      "genres": "Romance, Comedy, Drama"
     },
     {
       "rank": 43,
@@ -528,15 +528,15 @@
     },
     {
       "rank": 45,
-      "title": "Jurassic World Dominion",
-      "url": "https://letterboxd.com/film/jurassic-world-dominion/",
-      "director": "Colin Trevorrow",
+      "title": "Purple Hearts",
+      "url": "https://letterboxd.com/film/purple-hearts-2022/",
+      "director": "Elizabeth Allen Rosenbaum",
       "actors": [
-        "Chris Pratt",
-        "Bryce Dallas Howard",
-        "Laura Dern"
+        "Sofia Carson",
+        "Nicholas Galitzine",
+        "John Harlan Kim"
       ],
-      "genres": "Thriller, Science Fiction, Adventure"
+      "genres": "Drama, Romance"
     },
     {
       "rank": 46,
@@ -552,15 +552,15 @@
     },
     {
       "rank": 47,
-      "title": "Purple Hearts",
-      "url": "https://letterboxd.com/film/purple-hearts-2022/",
-      "director": "Elizabeth Allen Rosenbaum",
+      "title": "Jurassic World Dominion",
+      "url": "https://letterboxd.com/film/jurassic-world-dominion/",
+      "director": "Colin Trevorrow",
       "actors": [
-        "Sofia Carson",
-        "Nicholas Galitzine",
-        "John Harlan Kim"
+        "Chris Pratt",
+        "Bryce Dallas Howard",
+        "Laura Dern"
       ],
-      "genres": "Drama, Romance"
+      "genres": "Thriller, Science Fiction, Adventure"
     },
     {
       "rank": 48,

@@ -136,18 +136,6 @@
     },
     {
       "rank": 12,
-      "title": "Big",
-      "url": "https://letterboxd.com/film/big/",
-      "director": "Penny Marshall",
-      "actors": [
-        "Tom Hanks",
-        "Elizabeth Perkins",
-        "Robert Loggia"
-      ],
-      "genres": "Drama, Comedy, Fantasy"
-    },
-    {
-      "rank": 13,
       "title": "Who Framed Roger Rabbit",
       "url": "https://letterboxd.com/film/who-framed-roger-rabbit/",
       "director": "Robert Zemeckis",
@@ -157,6 +145,18 @@
         "Joanna Cassidy"
       ],
       "genres": "Fantasy, Animation, Crime, Comedy"
+    },
+    {
+      "rank": 13,
+      "title": "Big",
+      "url": "https://letterboxd.com/film/big/",
+      "director": "Penny Marshall",
+      "actors": [
+        "Tom Hanks",
+        "Elizabeth Perkins",
+        "Robert Loggia"
+      ],
+      "genres": "Drama, Comedy, Fantasy"
     },
     {
       "rank": 14,
@@ -280,18 +280,6 @@
     },
     {
       "rank": 24,
-      "title": "Midnight Run",
-      "url": "https://letterboxd.com/film/midnight-run/",
-      "director": "Martin Brest",
-      "actors": [
-        "Robert De Niro",
-        "Charles Grodin",
-        "Yaphet Kotto"
-      ],
-      "genres": "Thriller, Crime, Comedy"
-    },
-    {
-      "rank": 25,
       "title": "Bloodsport",
       "url": "https://letterboxd.com/film/bloodsport/",
       "director": "Newt Arnold",
@@ -301,6 +289,18 @@
         "Leah Ayres"
       ],
       "genres": "Drama, Action, Thriller"
+    },
+    {
+      "rank": 25,
+      "title": "Midnight Run",
+      "url": "https://letterboxd.com/film/midnight-run/",
+      "director": "Martin Brest",
+      "actors": [
+        "Robert De Niro",
+        "Charles Grodin",
+        "Yaphet Kotto"
+      ],
+      "genres": "Thriller, Crime, Comedy"
     },
     {
       "rank": 26,
@@ -352,18 +352,6 @@
     },
     {
       "rank": 30,
-      "title": "A Short Film About Love",
-      "url": "https://letterboxd.com/film/a-short-film-about-love/",
-      "director": "Krzysztof Kieślowski",
-      "actors": [
-        "Grażyna Szapołowska",
-        "Olaf Lubaszenko",
-        "Stefania Iwińska"
-      ],
-      "genres": "Romance, Drama"
-    },
-    {
-      "rank": 31,
       "title": "Miracle Mile",
       "url": "https://letterboxd.com/film/miracle-mile/",
       "director": "Steve De Jarnatt",
@@ -373,6 +361,18 @@
         "John Agar"
       ],
       "genres": "Thriller, Comedy, Drama, Science Fiction, Romance, Action"
+    },
+    {
+      "rank": 31,
+      "title": "A Short Film About Love",
+      "url": "https://letterboxd.com/film/a-short-film-about-love/",
+      "director": "Krzysztof Kieślowski",
+      "actors": [
+        "Grażyna Szapołowska",
+        "Olaf Lubaszenko",
+        "Stefania Iwińska"
+      ],
+      "genres": "Romance, Drama"
     },
     {
       "rank": 32,
@@ -458,15 +458,15 @@
     },
     {
       "rank": 39,
-      "title": "As Tears Go By",
-      "url": "https://letterboxd.com/film/as-tears-go-by/",
-      "director": "Wong Kar-Wai",
+      "title": "Maniac Cop",
+      "url": "https://letterboxd.com/film/maniac-cop/",
+      "director": "William Lustig",
       "actors": [
-        "Andy Lau",
-        "Maggie Cheung",
-        "Jacky Cheung Hok-Yau"
+        "Tom Atkins",
+        "Bruce Campbell",
+        "Laurene Landon"
       ],
-      "genres": "Drama, Crime, Romance"
+      "genres": "Horror, Mystery, Action, Crime"
     },
     {
       "rank": 40,
@@ -478,19 +478,19 @@
         "Harrison Ford",
         "Sigourney Weaver"
       ],
-      "genres": "Comedy, Romance"
+      "genres": "Drama, Comedy, Romance"
     },
     {
       "rank": 41,
-      "title": "Maniac Cop",
-      "url": "https://letterboxd.com/film/maniac-cop/",
-      "director": "William Lustig",
+      "title": "As Tears Go By",
+      "url": "https://letterboxd.com/film/as-tears-go-by/",
+      "director": "Wong Kar-Wai",
       "actors": [
-        "Tom Atkins",
-        "Bruce Campbell",
-        "Laurene Landon"
+        "Andy Lau",
+        "Maggie Cheung",
+        "Jacky Cheung Hok-Yau"
       ],
-      "genres": "Horror, Mystery, Action, Crime"
+      "genres": "Drama, Crime, Romance"
     },
     {
       "rank": 42,
@@ -506,18 +506,6 @@
     },
     {
       "rank": 43,
-      "title": "Beaches",
-      "url": "https://letterboxd.com/film/beaches/",
-      "director": "Garry Marshall",
-      "actors": [
-        "Bette Midler",
-        "Barbara Hershey",
-        "John Heard"
-      ],
-      "genres": "Drama, Comedy"
-    },
-    {
-      "rank": 44,
       "title": "Running on Empty",
       "url": "https://letterboxd.com/film/running-on-empty-1988/",
       "director": "Sidney Lumet",
@@ -527,6 +515,18 @@
         "Judd Hirsch"
       ],
       "genres": "Drama, Romance, Crime"
+    },
+    {
+      "rank": 44,
+      "title": "Beaches",
+      "url": "https://letterboxd.com/film/beaches/",
+      "director": "Garry Marshall",
+      "actors": [
+        "Bette Midler",
+        "Barbara Hershey",
+        "John Heard"
+      ],
+      "genres": "Drama, Comedy"
     },
     {
       "rank": 45,
@@ -566,6 +566,18 @@
     },
     {
       "rank": 48,
+      "title": "Bull Durham",
+      "url": "https://letterboxd.com/film/bull-durham/",
+      "director": "Ron Shelton",
+      "actors": [
+        "Kevin Costner",
+        "Susan Sarandon",
+        "Tim Robbins"
+      ],
+      "genres": "Romance, Comedy"
+    },
+    {
+      "rank": 49,
       "title": "A Nightmare on Elm Street 4: The Dream Master",
       "url": "https://letterboxd.com/film/a-nightmare-on-elm-street-4-the-dream-master/",
       "director": "Renny Harlin",
@@ -577,7 +589,7 @@
       "genres": "Thriller, Horror"
     },
     {
-      "rank": 49,
+      "rank": 50,
       "title": "Earth Girls Are Easy",
       "url": "https://letterboxd.com/film/earth-girls-are-easy/",
       "director": "Julien Temple",
@@ -587,18 +599,6 @@
         "Jim Carrey"
       ],
       "genres": "Science Fiction, Romance, Comedy"
-    },
-    {
-      "rank": 50,
-      "title": "Bull Durham",
-      "url": "https://letterboxd.com/film/bull-durham/",
-      "director": "Ron Shelton",
-      "actors": [
-        "Kevin Costner",
-        "Susan Sarandon",
-        "Tim Robbins"
-      ],
-      "genres": "Romance, Comedy"
     }
   ]
 }

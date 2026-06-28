@@ -172,18 +172,6 @@
     },
     {
       "rank": 15,
-      "title": "My Bloody Valentine",
-      "url": "https://letterboxd.com/film/my-bloody-valentine/",
-      "director": "George Mihalka",
-      "actors": [
-        "Paul Kelman",
-        "Lori Hallier",
-        "Neil Affleck"
-      ],
-      "genres": "Thriller, Horror"
-    },
-    {
-      "rank": 16,
       "title": "Scanners",
       "url": "https://letterboxd.com/film/scanners/",
       "director": "David Cronenberg",
@@ -195,19 +183,19 @@
       "genres": "Horror, Science Fiction"
     },
     {
-      "rank": 17,
-      "title": "The Great Muppet Caper",
-      "url": "https://letterboxd.com/film/the-great-muppet-caper/",
-      "director": "Jim Henson",
+      "rank": 16,
+      "title": "My Bloody Valentine",
+      "url": "https://letterboxd.com/film/my-bloody-valentine/",
+      "director": "George Mihalka",
       "actors": [
-        "Jim Henson",
-        "Frank Oz",
-        "Dave Goelz"
+        "Paul Kelman",
+        "Lori Hallier",
+        "Neil Affleck"
       ],
-      "genres": "Romance, Family, Mystery, Comedy, Crime"
+      "genres": "Thriller, Horror"
     },
     {
-      "rank": 18,
+      "rank": 17,
       "title": "For Your Eyes Only",
       "url": "https://letterboxd.com/film/for-your-eyes-only/",
       "director": "John Glen",
@@ -217,6 +205,18 @@
         "Chaim Topol"
       ],
       "genres": "Thriller, Action, Adventure"
+    },
+    {
+      "rank": 18,
+      "title": "The Great Muppet Caper",
+      "url": "https://letterboxd.com/film/the-great-muppet-caper/",
+      "director": "Jim Henson",
+      "actors": [
+        "Jim Henson",
+        "Frank Oz",
+        "Dave Goelz"
+      ],
+      "genres": "Romance, Family, Mystery, Comedy, Crime"
     },
     {
       "rank": 19,
@@ -256,18 +256,6 @@
     },
     {
       "rank": 22,
-      "title": "Son of the White Mare",
-      "url": "https://letterboxd.com/film/son-of-the-white-mare/",
-      "director": "Marcell Jankovics",
-      "actors": [
-        "György Cserhalmi",
-        "Pap Vera",
-        "Gyula Szabó"
-      ],
-      "genres": "Adventure, Animation, Fantasy"
-    },
-    {
-      "rank": 23,
       "title": "Halloween II",
       "url": "https://letterboxd.com/film/halloween-ii-1981/",
       "director": "Rick Rosenthal",
@@ -277,6 +265,18 @@
         "Charles Cyphers"
       ],
       "genres": "Horror"
+    },
+    {
+      "rank": 23,
+      "title": "Son of the White Mare",
+      "url": "https://letterboxd.com/film/son-of-the-white-mare/",
+      "director": "Marcell Jankovics",
+      "actors": [
+        "György Cserhalmi",
+        "Pap Vera",
+        "Gyula Szabó"
+      ],
+      "genres": "Adventure, Animation, Fantasy"
     },
     {
       "rank": 24,
@@ -436,15 +436,15 @@
     },
     {
       "rank": 37,
-      "title": "The Inquisitor",
-      "url": "https://letterboxd.com/film/the-inquisitor/",
-      "director": "Claude Miller",
+      "title": "They Don't Wear Black Tie",
+      "url": "https://letterboxd.com/film/they-dont-wear-black-tie/",
+      "director": "Leon Hirszman",
       "actors": [
-        "Lino Ventura",
-        "Michel Serrault",
-        "Romy Schneider"
+        "Carlos Alberto Riccelli",
+        "Bete Mendes",
+        "Fernanda Montenegro"
       ],
-      "genres": "Crime, Drama, Thriller"
+      "genres": "Drama"
     },
     {
       "rank": 38,
@@ -460,15 +460,15 @@
     },
     {
       "rank": 39,
-      "title": "They Don't Wear Black Tie",
-      "url": "https://letterboxd.com/film/they-dont-wear-black-tie/",
-      "director": "Leon Hirszman",
+      "title": "The Inquisitor",
+      "url": "https://letterboxd.com/film/the-inquisitor/",
+      "director": "Claude Miller",
       "actors": [
-        "Carlos Alberto Riccelli",
-        "Bete Mendes",
-        "Fernanda Montenegro"
+        "Lino Ventura",
+        "Michel Serrault",
+        "Romy Schneider"
       ],
-      "genres": "Drama"
+      "genres": "Crime, Drama, Thriller"
     },
     {
       "rank": 40,
@@ -580,6 +580,18 @@
     },
     {
       "rank": 49,
+      "title": "The House by the Cemetery",
+      "url": "https://letterboxd.com/film/the-house-by-the-cemetery/",
+      "director": "Lucio Fulci",
+      "actors": [
+        "Catriona MacColl",
+        "Paolo Malco",
+        "Ania Pieroni"
+      ],
+      "genres": "Horror, Mystery"
+    },
+    {
+      "rank": 50,
       "title": "Don't Go in the Woods",
       "url": "https://letterboxd.com/film/dont-go-in-the-woods/",
       "director": "James Bryan",
@@ -587,18 +599,6 @@
         "Jack McClelland",
         "Mary Gail Artz",
         "James P. Hayden"
-      ],
-      "genres": "Horror"
-    },
-    {
-      "rank": 50,
-      "title": "The Funhouse",
-      "url": "https://letterboxd.com/film/the-funhouse/",
-      "director": "Tobe Hooper",
-      "actors": [
-        "Elizabeth Berridge",
-        "Cooper Huckabee",
-        "Kevin Conway"
       ],
       "genres": "Horror"
     }

@@ -208,18 +208,6 @@
     },
     {
       "rank": 18,
-      "title": "Neon Genesis Evangelion: The End of Evangelion",
-      "url": "https://letterboxd.com/film/neon-genesis-evangelion-the-end-of-evangelion/",
-      "director": "Hideaki Anno, Kazuya Tsurumaki",
-      "actors": [
-        "Megumi Ogata",
-        "Megumi Hayashibara",
-        "Kotono Mitsuishi"
-      ],
-      "genres": "Fantasy, Animation, Science Fiction, Drama"
-    },
-    {
-      "rank": 19,
       "title": "The Lost World: Jurassic Park",
       "url": "https://letterboxd.com/film/the-lost-world-jurassic-park/",
       "director": "Steven Spielberg",
@@ -229,6 +217,18 @@
         "Pete Postlethwaite"
       ],
       "genres": "Science Fiction, Action, Adventure"
+    },
+    {
+      "rank": 19,
+      "title": "Neon Genesis Evangelion: The End of Evangelion",
+      "url": "https://letterboxd.com/film/neon-genesis-evangelion-the-end-of-evangelion/",
+      "director": "Hideaki Anno, Kazuya Tsurumaki",
+      "actors": [
+        "Megumi Ogata",
+        "Megumi Hayashibara",
+        "Kotono Mitsuishi"
+      ],
+      "genres": "Fantasy, Animation, Science Fiction, Drama"
     },
     {
       "rank": 20,
@@ -508,15 +508,15 @@
     },
     {
       "rank": 43,
-      "title": "Tomorrow Never Dies",
-      "url": "https://letterboxd.com/film/tomorrow-never-dies/",
-      "director": "Roger Spottiswoode",
+      "title": "Fireworks",
+      "url": "https://letterboxd.com/film/fireworks-1997/",
+      "director": "Takeshi Kitano",
       "actors": [
-        "Pierce Brosnan",
-        "Jonathan Pryce",
-        "Michelle Yeoh"
+        "Takeshi Kitano",
+        "Kayoko Kishimoto",
+        "Ren Osugi"
       ],
-      "genres": "Action, Thriller, Adventure"
+      "genres": "Drama, Crime"
     },
     {
       "rank": 44,
@@ -532,15 +532,15 @@
     },
     {
       "rank": 45,
-      "title": "Fireworks",
-      "url": "https://letterboxd.com/film/fireworks-1997/",
-      "director": "Takeshi Kitano",
+      "title": "Tomorrow Never Dies",
+      "url": "https://letterboxd.com/film/tomorrow-never-dies/",
+      "director": "Roger Spottiswoode",
       "actors": [
-        "Takeshi Kitano",
-        "Kayoko Kishimoto",
-        "Ren Osugi"
+        "Pierce Brosnan",
+        "Jonathan Pryce",
+        "Michelle Yeoh"
       ],
-      "genres": "Drama, Crime"
+      "genres": "Action, Thriller, Adventure"
     },
     {
       "rank": 46,
@@ -568,18 +568,6 @@
     },
     {
       "rank": 48,
-      "title": "The Ice Storm",
-      "url": "https://letterboxd.com/film/the-ice-storm/",
-      "director": "Ang Lee",
-      "actors": [
-        "Kevin Kline",
-        "Joan Allen",
-        "Sigourney Weaver"
-      ],
-      "genres": "Drama"
-    },
-    {
-      "rank": 49,
       "title": "Berserk",
       "url": "https://letterboxd.com/film/berserk-1997/",
       "director": "Kazuya Tsurumaki, Masakazu Amiya, Kazuhisa Ono, Yasuhiro Geshi, Mihiro Yamaguchi, Yasuhiro Matsumura, Koji Yoshikawa, Yukina Hiiro, Yukio Okazaki, Koji Fukasawa, Naohito Takahashi",
@@ -591,7 +579,7 @@
       "genres": "Animation"
     },
     {
-      "rank": 50,
+      "rank": 49,
       "title": "Open Your Eyes",
       "url": "https://letterboxd.com/film/open-your-eyes/",
       "director": "Alejandro Amenábar",
@@ -601,6 +589,18 @@
         "Chete Lera"
       ],
       "genres": "Thriller, Drama, Science Fiction"
+    },
+    {
+      "rank": 50,
+      "title": "The Ice Storm",
+      "url": "https://letterboxd.com/film/the-ice-storm/",
+      "director": "Ang Lee",
+      "actors": [
+        "Kevin Kline",
+        "Joan Allen",
+        "Sigourney Weaver"
+      ],
+      "genres": "Drama"
     }
   ]
 }

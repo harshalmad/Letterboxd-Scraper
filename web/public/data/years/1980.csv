@@ -11,20 +11,20 @@ rank,title,director,actors,genres,url
 10,Altered States,Ken Russell,William Hurt; Blair Brown; Bob Balaban,"Thriller, Horror, Science Fiction",https://letterboxd.com/film/altered-states/
 11,Nine to Five,Colin Higgins,Jane Fonda; Lily Tomlin; Dolly Parton,Comedy,https://letterboxd.com/film/nine-to-five/
 12,The Party,Claude Pinoteau,Claude Brasseur; Brigitte Fossey; Sophie Marceau,"Drama, Comedy, Romance",https://letterboxd.com/film/the-party-1980/
-13,Pixote,Héctor Babenco,Fernando Ramos da Silva; Jorge Julião; Gilberto Moura,"Drama, Crime",https://letterboxd.com/film/pixote/
-14,The Fog,John Carpenter,Adrienne Barbeau; Tom Atkins; Jamie Lee Curtis,Horror,https://letterboxd.com/film/the-fog/
-15,The Blue Lagoon,Randal Kleiser,Brooke Shields; Christopher Atkins; Leo McKern,"Romance, Adventure, Drama",https://letterboxd.com/film/the-blue-lagoon/
-16,Cannibal Holocaust,Ruggero Deodato,Robert Kerman; Francesca Ciardi; Perry Pirkanen,Horror,https://letterboxd.com/film/cannibal-holocaust/
+13,The Fog,John Carpenter,Adrienne Barbeau; Tom Atkins; Jamie Lee Curtis,Horror,https://letterboxd.com/film/the-fog/
+14,Pixote,Héctor Babenco,Fernando Ramos da Silva; Jorge Julião; Gilberto Moura,"Drama, Crime",https://letterboxd.com/film/pixote/
+15,Cannibal Holocaust,Ruggero Deodato,Robert Kerman; Francesca Ciardi; Perry Pirkanen,Horror,https://letterboxd.com/film/cannibal-holocaust/
+16,The Blue Lagoon,Randal Kleiser,Brooke Shields; Christopher Atkins; Leo McKern,"Romance, Adventure, Drama",https://letterboxd.com/film/the-blue-lagoon/
 17,Ordinary People,Robert Redford,Donald Sutherland; Mary Tyler Moore; Judd Hirsch,Drama,https://letterboxd.com/film/ordinary-people/
 18,Caddyshack,Harold Ramis,Chevy Chase; Rodney Dangerfield; Ted Knight,Comedy,https://letterboxd.com/film/caddyshack/
 19,The Long Good Friday,John Mackenzie,Bob Hoskins; Helen Mirren; Dave King,"Crime, Drama, Thriller",https://letterboxd.com/film/the-long-good-friday/
 20,Inferno,Dario Argento,Leigh McCloskey; Irene Miracle; Eleonora Giorgi,"Horror, Thriller",https://letterboxd.com/film/inferno-1980/
 21,Talking Heads,Krzysztof Kieślowski,,Documentary,https://letterboxd.com/film/talking-heads/
-22,Night of the Juggler,Robert Butler,James Brolin; Cliff Gorman; Richard S. Castellano,"Action, Crime, Thriller",https://letterboxd.com/film/night-of-the-juggler/
-23,Maniac,William Lustig,Joe Spinell; Caroline Munro; Abigail Clayton,Horror,https://letterboxd.com/film/maniac-1980/
-24,Superman II,Richard Lester,Christopher Reeve; Margot Kidder; Terence Stamp,"Action, Adventure, Science Fiction",https://letterboxd.com/film/superman-ii/
-25,Kagemusha,Akira Kurosawa,Tatsuya Nakadai; Tsutomu Yamazaki; Kenichi Hagiwara,"Action, Drama, War, History",https://letterboxd.com/film/kagemusha/
-26,The King and the Mockingbird,Paul Grimault,Jean Martin; Renaud Marx; Agnès Viala,"Fantasy, Animation, Family",https://letterboxd.com/film/the-king-and-the-mockingbird/
+22,Maniac,William Lustig,Joe Spinell; Caroline Munro; Abigail Clayton,Horror,https://letterboxd.com/film/maniac-1980/
+23,Superman II,Richard Lester,Christopher Reeve; Margot Kidder; Terence Stamp,"Action, Adventure, Science Fiction",https://letterboxd.com/film/superman-ii/
+24,Night of the Juggler,Robert Butler,James Brolin; Cliff Gorman; Richard S. Castellano,"Action, Crime, Thriller",https://letterboxd.com/film/night-of-the-juggler/
+25,The King and the Mockingbird,Paul Grimault,Jean Martin; Renaud Marx; Agnès Viala,"Fantasy, Animation, Family",https://letterboxd.com/film/the-king-and-the-mockingbird/
+26,Kagemusha,Akira Kurosawa,Tatsuya Nakadai; Tsutomu Yamazaki; Kenichi Hagiwara,"Action, Drama, War, History",https://letterboxd.com/film/kagemusha/
 27,"Pepi, Luci, Bom",Pedro Almodóvar,Carmen Maura; Eva Siva; Alaska,"Drama, Comedy",https://letterboxd.com/film/pepi-luci-bom/
 28,American Gigolo,Paul Schrader,Richard Gere; Lauren Hutton; Héctor Elizondo,"Mystery, Crime, Drama",https://letterboxd.com/film/american-gigolo/
 29,Flash Gordon,Mike Hodges,Sam J. Jones; Melody Anderson; Max von Sydow,"Action, Adventure, Science Fiction",https://letterboxd.com/film/flash-gordon-1980/
@@ -36,16 +36,16 @@ rank,title,director,actors,genres,url
 35,Popeye,Robert Altman,Robin Williams; Shelley Duvall; Ray Walston,"Comedy, Action, Adventure, Family",https://letterboxd.com/film/popeye/
 36,City of the Living Dead,Lucio Fulci,Christopher George; Catriona MacColl; Carlo De Mejo,"Mystery, Horror, Fantasy",https://letterboxd.com/film/city-of-the-living-dead/
 37,Bye Bye Brazil,Carlos Diegues,José Wilker; Betty Faria; Fábio Júnior,Drama,https://letterboxd.com/film/bye-bye-brazil/
-38,Permanent Vacation,Jim Jarmusch,Chris Parker; Leila Gastil; John Lurie,Drama,https://letterboxd.com/film/permanent-vacation/
-39,Alligator,Lewis Teague,Robert Forster; Robin Riker; Michael V. Gazzo,"Thriller, Horror, Science Fiction",https://letterboxd.com/film/alligator/
-40,Bubble Bath,György Kovásznai,Albert Antalffy; Katalin Bontovics; Katalin Dobos,"Drama, Comedy, Animation, Music",https://letterboxd.com/film/bubble-bath/
-41,The Stunt Man,Richard Rush,Peter O'Toole; Steve Railsback; Barbara Hershey,"Action, Thriller, Romance, Comedy, Drama",https://letterboxd.com/film/the-stunt-man/
+38,Alligator,Lewis Teague,Robert Forster; Robin Riker; Michael V. Gazzo,"Thriller, Horror, Science Fiction",https://letterboxd.com/film/alligator/
+39,Permanent Vacation,Jim Jarmusch,Chris Parker; Leila Gastil; John Lurie,Drama,https://letterboxd.com/film/permanent-vacation/
+40,The Stunt Man,Richard Rush,Peter O'Toole; Steve Railsback; Barbara Hershey,"Action, Thriller, Romance, Comedy, Drama",https://letterboxd.com/film/the-stunt-man/
+41,Bubble Bath,György Kovásznai,Albert Antalffy; Katalin Bontovics; Katalin Dobos,"Drama, Comedy, Animation, Music",https://letterboxd.com/film/bubble-bath/
 42,Gloria,John Cassavetes,Gena Rowlands; Buck Henry; Julie Carmen,"Thriller, Drama, Crime",https://letterboxd.com/film/gloria/
-43,Moscow Does Not Believe in Tears,Vladimir Menshov,Vera Alentova; Aleksey Batalov; Irina Muravyova,"Romance, Comedy, Drama",https://letterboxd.com/film/moscow-does-not-believe-in-tears/
-44,The Gods Must Be Crazy,Jamie Uys,Marius Weyers; Sandra Prinsloo; N!xau,"Action, Comedy",https://letterboxd.com/film/the-gods-must-be-crazy/
+43,The Gods Must Be Crazy,Jamie Uys,Marius Weyers; Sandra Prinsloo; N!xau,"Action, Comedy",https://letterboxd.com/film/the-gods-must-be-crazy/
+44,Moscow Does Not Believe in Tears,Vladimir Menshov,Vera Alentova; Aleksey Batalov; Irina Muravyova,"Romance, Comedy, Drama",https://letterboxd.com/film/moscow-does-not-believe-in-tears/
 45,The Ninth Configuration,William Peter Blatty,Stacy Keach; Scott Wilson; Jason Miller,"Horror, Drama, Comedy",https://letterboxd.com/film/the-ninth-configuration/
 46,Fame,Alan Parker,Irene Cara; Barry Miller; Maureen Teefy,"Drama, Music",https://letterboxd.com/film/fame/
 47,Motel Hell,Kevin Connor,Rory Calhoun; Paul Linke; Nancy Parsons,"Horror, Comedy",https://letterboxd.com/film/motel-hell/
 48,Heaven's Gate,Michael Cimino,Kris Kristofferson; Christopher Walken; John Hurt,"Drama, Western, History",https://letterboxd.com/film/heavens-gate/
-49,Urban Cowboy,James Bridges,John Travolta; Debra Winger; Scott Glenn,"Romance, Drama, Western",https://letterboxd.com/film/urban-cowboy/
-50,Forbidden Zone,Richard Elfman,Hervé Villechaize; Susan Tyrrell; Matthew Bright,"Comedy, Fantasy, Music",https://letterboxd.com/film/forbidden-zone/
+49,The Under-Gifted,Claude Zidi,Daniel Auteuil; Michel Galabru; Maria Pacôme,Comedy,https://letterboxd.com/film/the-under-gifted/
+50,Urban Cowboy,James Bridges,John Travolta; Debra Winger; Scott Glenn,"Romance, Drama, Western",https://letterboxd.com/film/urban-cowboy/

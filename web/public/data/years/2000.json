@@ -124,18 +124,6 @@
     },
     {
       "rank": 11,
-      "title": "Erin Brockovich",
-      "url": "https://letterboxd.com/film/erin-brockovich/",
-      "director": "Steven Soderbergh",
-      "actors": [
-        "Julia Roberts",
-        "Albert Finney",
-        "Aaron Eckhart"
-      ],
-      "genres": "Drama"
-    },
-    {
-      "rank": 12,
       "title": "Final Destination",
       "url": "https://letterboxd.com/film/final-destination/",
       "director": "James Wong",
@@ -145,6 +133,18 @@
         "Kerr Smith"
       ],
       "genres": "Horror"
+    },
+    {
+      "rank": 12,
+      "title": "Erin Brockovich",
+      "url": "https://letterboxd.com/film/erin-brockovich/",
+      "director": "Steven Soderbergh",
+      "actors": [
+        "Julia Roberts",
+        "Albert Finney",
+        "Aaron Eckhart"
+      ],
+      "genres": "Drama"
     },
     {
       "rank": 13,
@@ -292,18 +292,6 @@
     },
     {
       "rank": 25,
-      "title": "Remember the Titans",
-      "url": "https://letterboxd.com/film/remember-the-titans/",
-      "director": "Boaz Yakin",
-      "actors": [
-        "Denzel Washington",
-        "Will Patton",
-        "Wood Harris"
-      ],
-      "genres": "Drama"
-    },
-    {
-      "rank": 26,
       "title": "Bring It On",
       "url": "https://letterboxd.com/film/bring-it-on/",
       "director": "Peyton Reed",
@@ -313,6 +301,18 @@
         "Jesse Bradford"
       ],
       "genres": "Comedy"
+    },
+    {
+      "rank": 26,
+      "title": "Remember the Titans",
+      "url": "https://letterboxd.com/film/remember-the-titans/",
+      "director": "Boaz Yakin",
+      "actors": [
+        "Denzel Washington",
+        "Will Patton",
+        "Wood Harris"
+      ],
+      "genres": "Drama"
     },
     {
       "rank": 27,
@@ -328,18 +328,6 @@
     },
     {
       "rank": 28,
-      "title": "Dancer in the Dark",
-      "url": "https://letterboxd.com/film/dancer-in-the-dark/",
-      "director": "Lars von Trier",
-      "actors": [
-        "Björk",
-        "Catherine Deneuve",
-        "David Morse"
-      ],
-      "genres": "Drama, Crime"
-    },
-    {
-      "rank": 29,
       "title": "Coyote Ugly",
       "url": "https://letterboxd.com/film/coyote-ugly/",
       "director": "David McNally",
@@ -349,6 +337,18 @@
         "Bridget Moynahan"
       ],
       "genres": "Romance, Music, Comedy, Drama"
+    },
+    {
+      "rank": 29,
+      "title": "Dancer in the Dark",
+      "url": "https://letterboxd.com/film/dancer-in-the-dark/",
+      "director": "Lars von Trier",
+      "actors": [
+        "Björk",
+        "Catherine Deneuve",
+        "David Morse"
+      ],
+      "genres": "Drama, Crime"
     },
     {
       "rank": 30,
@@ -436,6 +436,18 @@
     },
     {
       "rank": 37,
+      "title": "The Road to El Dorado",
+      "url": "https://letterboxd.com/film/the-road-to-el-dorado/",
+      "director": "Bibo Bergeron, Don Paul",
+      "actors": [
+        "Kenneth Branagh",
+        "Kevin Kline",
+        "Rosie Perez"
+      ],
+      "genres": "Fantasy, Comedy, Family, Animation, Adventure"
+    },
+    {
+      "rank": 38,
       "title": "Vampire Hunter D: Bloodlust",
       "url": "https://letterboxd.com/film/vampire-hunter-d-bloodlust/",
       "director": "Yoshiaki Kawajiri",
@@ -447,7 +459,7 @@
       "genres": "Fantasy, Animation, Horror"
     },
     {
-      "rank": 38,
+      "rank": 39,
       "title": "Sexy Beast",
       "url": "https://letterboxd.com/film/sexy-beast/",
       "director": "Jonathan Glazer",
@@ -457,18 +469,6 @@
         "Ian McShane"
       ],
       "genres": "Thriller, Drama, Crime"
-    },
-    {
-      "rank": 39,
-      "title": "The Road to El Dorado",
-      "url": "https://letterboxd.com/film/the-road-to-el-dorado/",
-      "director": "Bibo Bergeron, Don Paul",
-      "actors": [
-        "Kenneth Branagh",
-        "Kevin Kline",
-        "Rosie Perez"
-      ],
-      "genres": "Fantasy, Comedy, Family, Animation, Adventure"
     },
     {
       "rank": 40,
@@ -484,18 +484,6 @@
     },
     {
       "rank": 41,
-      "title": "Hollow Man",
-      "url": "https://letterboxd.com/film/hollow-man/",
-      "director": "Paul Verhoeven",
-      "actors": [
-        "Kevin Bacon",
-        "Elisabeth Shue",
-        "Josh Brolin"
-      ],
-      "genres": "Science Fiction, Action, Thriller, Horror"
-    },
-    {
-      "rank": 42,
       "title": "Nine Queens",
       "url": "https://letterboxd.com/film/nine-queens/",
       "director": "Fabián Bielinsky",
@@ -505,6 +493,18 @@
         "Leticia Brédice"
       ],
       "genres": "Crime, Drama, Thriller"
+    },
+    {
+      "rank": 42,
+      "title": "Hollow Man",
+      "url": "https://letterboxd.com/film/hollow-man/",
+      "director": "Paul Verhoeven",
+      "actors": [
+        "Kevin Bacon",
+        "Elisabeth Shue",
+        "Josh Brolin"
+      ],
+      "genres": "Science Fiction, Action, Thriller, Horror"
     },
     {
       "rank": 43,
@@ -544,18 +544,6 @@
     },
     {
       "rank": 46,
-      "title": "Werckmeister Harmonies",
-      "url": "https://letterboxd.com/film/werckmeister-harmonies/",
-      "director": "Béla Tarr",
-      "actors": [
-        "Lars Rudolph",
-        "Peter Fitz",
-        "Hanna Schygulla"
-      ],
-      "genres": "Drama"
-    },
-    {
-      "rank": 47,
       "title": "Malena",
       "url": "https://letterboxd.com/film/malena/",
       "director": "Giuseppe Tornatore",
@@ -563,6 +551,18 @@
         "Monica Bellucci",
         "Giuseppe Sulfaro",
         "Luciano Federico"
+      ],
+      "genres": "Drama"
+    },
+    {
+      "rank": 47,
+      "title": "Werckmeister Harmonies",
+      "url": "https://letterboxd.com/film/werckmeister-harmonies/",
+      "director": "Béla Tarr",
+      "actors": [
+        "Lars Rudolph",
+        "Peter Fitz",
+        "Hanna Schygulla"
       ],
       "genres": "Drama"
     },
@@ -592,15 +592,15 @@
     },
     {
       "rank": 50,
-      "title": "Cecil B. Demented",
-      "url": "https://letterboxd.com/film/cecil-b-demented/",
-      "director": "John Waters",
+      "title": "Dude, Where's My Car?",
+      "url": "https://letterboxd.com/film/dude-wheres-my-car/",
+      "director": "Danny Leiner",
       "actors": [
-        "Melanie Griffith",
-        "Stephen Dorff",
-        "Alicia Witt"
+        "Ashton Kutcher",
+        "Seann William Scott",
+        "Jennifer Garner"
       ],
-      "genres": "Crime, Comedy, Action"
+      "genres": "Science Fiction, Comedy, Adventure, Mystery"
     }
   ]
 }

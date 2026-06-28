@@ -148,18 +148,6 @@
     },
     {
       "rank": 13,
-      "title": "A Better Tomorrow",
-      "url": "https://letterboxd.com/film/a-better-tomorrow/",
-      "director": "John Woo",
-      "actors": [
-        "Ti Lung",
-        "Chow Yun-Fat",
-        "Leslie Cheung"
-      ],
-      "genres": "Drama, Action, Crime"
-    },
-    {
-      "rank": 14,
       "title": "Manhunter",
       "url": "https://letterboxd.com/film/manhunter/",
       "director": "Michael Mann",
@@ -169,6 +157,18 @@
         "Dennis Farina"
       ],
       "genres": "Horror, Thriller, Crime"
+    },
+    {
+      "rank": 14,
+      "title": "A Better Tomorrow",
+      "url": "https://letterboxd.com/film/a-better-tomorrow/",
+      "director": "John Woo",
+      "actors": [
+        "Ti Lung",
+        "Chow Yun-Fat",
+        "Leslie Cheung"
+      ],
+      "genres": "Drama, Action, Crime"
     },
     {
       "rank": 15,
@@ -232,18 +232,6 @@
     },
     {
       "rank": 20,
-      "title": "The Sacrifice",
-      "url": "https://letterboxd.com/film/the-sacrifice/",
-      "director": "Andrei Tarkovsky",
-      "actors": [
-        "Erland Josephson",
-        "Susan Fleetwood",
-        "Allan Edwall"
-      ],
-      "genres": "Drama"
-    },
-    {
-      "rank": 21,
       "title": "A Room with a View",
       "url": "https://letterboxd.com/film/a-room-with-a-view/",
       "director": "James Ivory",
@@ -253,6 +241,18 @@
         "Maggie Smith"
       ],
       "genres": "Romance, Drama"
+    },
+    {
+      "rank": 21,
+      "title": "The Sacrifice",
+      "url": "https://letterboxd.com/film/the-sacrifice/",
+      "director": "Andrei Tarkovsky",
+      "actors": [
+        "Erland Josephson",
+        "Susan Fleetwood",
+        "Allan Edwall"
+      ],
+      "genres": "Drama"
     },
     {
       "rank": 22,
@@ -268,18 +268,6 @@
     },
     {
       "rank": 23,
-      "title": "Something Wild",
-      "url": "https://letterboxd.com/film/something-wild/",
-      "director": "Jonathan Demme",
-      "actors": [
-        "Jeff Daniels",
-        "Melanie Griffith",
-        "Ray Liotta"
-      ],
-      "genres": "Romance, Crime, Comedy"
-    },
-    {
-      "rank": 24,
       "title": "The Green Ray",
       "url": "https://letterboxd.com/film/the-green-ray/",
       "director": "Éric Rohmer",
@@ -291,19 +279,19 @@
       "genres": "Drama, Romance"
     },
     {
-      "rank": 25,
-      "title": "The Mosquito Coast",
-      "url": "https://letterboxd.com/film/the-mosquito-coast/",
-      "director": "Peter Weir",
+      "rank": 24,
+      "title": "Something Wild",
+      "url": "https://letterboxd.com/film/something-wild/",
+      "director": "Jonathan Demme",
       "actors": [
-        "Harrison Ford",
-        "Helen Mirren",
-        "River Phoenix"
+        "Jeff Daniels",
+        "Melanie Griffith",
+        "Ray Liotta"
       ],
-      "genres": "Adventure, Drama"
+      "genres": "Romance, Crime, Comedy"
     },
     {
-      "rank": 26,
+      "rank": 25,
       "title": "From Beyond",
       "url": "https://letterboxd.com/film/from-beyond/",
       "director": "Stuart Gordon",
@@ -313,6 +301,18 @@
         "Ken Foree"
       ],
       "genres": "Science Fiction, Horror"
+    },
+    {
+      "rank": 26,
+      "title": "The Mosquito Coast",
+      "url": "https://letterboxd.com/film/the-mosquito-coast/",
+      "director": "Peter Weir",
+      "actors": [
+        "Harrison Ford",
+        "Helen Mirren",
+        "River Phoenix"
+      ],
+      "genres": "Adventure, Drama"
     },
     {
       "rank": 27,
@@ -424,18 +424,6 @@
     },
     {
       "rank": 36,
-      "title": "Heartburn",
-      "url": "https://letterboxd.com/film/heartburn/",
-      "director": "Mike Nichols",
-      "actors": [
-        "Meryl Streep",
-        "Jack Nicholson",
-        "Jeff Daniels"
-      ],
-      "genres": "Comedy, Drama, Romance"
-    },
-    {
-      "rank": 37,
       "title": "Betty Blue",
       "url": "https://letterboxd.com/film/betty-blue/",
       "director": "Jean-Jacques Beineix",
@@ -445,6 +433,18 @@
         "Gérard Darmon"
       ],
       "genres": "Romance, Drama"
+    },
+    {
+      "rank": 37,
+      "title": "Heartburn",
+      "url": "https://letterboxd.com/film/heartburn/",
+      "director": "Mike Nichols",
+      "actors": [
+        "Meryl Streep",
+        "Jack Nicholson",
+        "Jeff Daniels"
+      ],
+      "genres": "Comedy, Drama, Romance"
     },
     {
       "rank": 38,
@@ -472,15 +472,15 @@
     },
     {
       "rank": 40,
-      "title": "The Pied Piper",
-      "url": "https://letterboxd.com/film/the-pied-piper-1986/",
-      "director": "Jiří Barta",
+      "title": "Peking Opera Blues",
+      "url": "https://letterboxd.com/film/peking-opera-blues/",
+      "director": "Tsui Hark",
       "actors": [
-        "Oldřich Kaiser",
-        "Jiří Lábus",
-        "Michal Pavlíček"
+        "Brigitte Lin",
+        "Sally Yip Sin-Man",
+        "Cherie Chung Cho-Hung"
       ],
-      "genres": "Fantasy, Drama, Animation"
+      "genres": "Comedy, Drama, Action"
     },
     {
       "rank": 41,
@@ -496,6 +496,18 @@
     },
     {
       "rank": 42,
+      "title": "The Pied Piper",
+      "url": "https://letterboxd.com/film/the-pied-piper-1986/",
+      "director": "Jiří Barta",
+      "actors": [
+        "Oldřich Kaiser",
+        "Jiří Lábus",
+        "Michal Pavlíček"
+      ],
+      "genres": "Fantasy, Drama, Animation"
+    },
+    {
+      "rank": 43,
       "title": "Star Trek IV: The Voyage Home",
       "url": "https://letterboxd.com/film/star-trek-iv-the-voyage-home/",
       "director": "Leonard Nimoy",
@@ -507,31 +519,7 @@
       "genres": "Science Fiction, Adventure"
     },
     {
-      "rank": 43,
-      "title": "Peking Opera Blues",
-      "url": "https://letterboxd.com/film/peking-opera-blues/",
-      "director": "Tsui Hark",
-      "actors": [
-        "Brigitte Lin",
-        "Sally Yip Sin-Man",
-        "Cherie Chung Cho-Hung"
-      ],
-      "genres": "Comedy, Drama, Action"
-    },
-    {
       "rank": 44,
-      "title": "Cobra",
-      "url": "https://letterboxd.com/film/cobra-1986/",
-      "director": "George P. Cosmatos",
-      "actors": [
-        "Sylvester Stallone",
-        "Brigitte Nielsen",
-        "Reni Santoni"
-      ],
-      "genres": "Action, Thriller, Crime"
-    },
-    {
-      "rank": 45,
       "title": "Caravaggio",
       "url": "https://letterboxd.com/film/caravaggio/",
       "director": "Derek Jarman",
@@ -541,6 +529,18 @@
         "Garry Cooper"
       ],
       "genres": "History, Romance, Drama"
+    },
+    {
+      "rank": 45,
+      "title": "Cobra",
+      "url": "https://letterboxd.com/film/cobra-1986/",
+      "director": "George P. Cosmatos",
+      "actors": [
+        "Sylvester Stallone",
+        "Brigitte Nielsen",
+        "Reni Santoni"
+      ],
+      "genres": "Action, Thriller, Crime"
     },
     {
       "rank": 46,
@@ -580,6 +580,18 @@
     },
     {
       "rank": 49,
+      "title": "Poison for the Fairies",
+      "url": "https://letterboxd.com/film/poison-for-the-fairies/",
+      "director": "Carlos Enrique Taboada",
+      "actors": [
+        "Ana Patricia Rojo",
+        "Elsa Maria Gutierrez",
+        "Leonor Llausás"
+      ],
+      "genres": "Fantasy, Horror"
+    },
+    {
+      "rank": 50,
       "title": "Peggy Sue Got Married",
       "url": "https://letterboxd.com/film/peggy-sue-got-married/",
       "director": "Francis Ford Coppola",
@@ -589,18 +601,6 @@
         "Barry Miller"
       ],
       "genres": "Comedy, Fantasy, Drama"
-    },
-    {
-      "rank": 50,
-      "title": "The Transformers: The Movie",
-      "url": "https://letterboxd.com/film/the-transformers-the-movie/",
-      "director": "Nelson Shin",
-      "actors": [
-        "Judd Nelson",
-        "Peter Cullen",
-        "Frank Welker"
-      ],
-      "genres": "Adventure, Science Fiction, Action, Animation, Family"
     }
   ]
 }

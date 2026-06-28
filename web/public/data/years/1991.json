@@ -100,18 +100,6 @@
     },
     {
       "rank": 9,
-      "title": "Boyz n the Hood",
-      "url": "https://letterboxd.com/film/boyz-n-the-hood/",
-      "director": "John Singleton",
-      "actors": [
-        "Cuba Gooding Jr.",
-        "Laurence Fishburne",
-        "Ice Cube"
-      ],
-      "genres": "Drama, Crime"
-    },
-    {
-      "rank": 10,
       "title": "Fried Green Tomatoes",
       "url": "https://letterboxd.com/film/fried-green-tomatoes/",
       "director": "Jon Avnet",
@@ -121,6 +109,18 @@
         "Mary-Louise Parker"
       ],
       "genres": "Drama, Comedy"
+    },
+    {
+      "rank": 10,
+      "title": "Boyz n the Hood",
+      "url": "https://letterboxd.com/film/boyz-n-the-hood/",
+      "director": "John Singleton",
+      "actors": [
+        "Cuba Gooding Jr.",
+        "Laurence Fishburne",
+        "Ice Cube"
+      ],
+      "genres": "Drama, Crime"
     },
     {
       "rank": 11,
@@ -280,18 +280,6 @@
     },
     {
       "rank": 24,
-      "title": "The Fisher King",
-      "url": "https://letterboxd.com/film/the-fisher-king/",
-      "director": "Terry Gilliam",
-      "actors": [
-        "Robin Williams",
-        "Jeff Bridges",
-        "Amanda Plummer"
-      ],
-      "genres": "Drama, Comedy"
-    },
-    {
-      "rank": 25,
       "title": "Naked Lunch",
       "url": "https://letterboxd.com/film/naked-lunch/",
       "director": "David Cronenberg",
@@ -303,7 +291,7 @@
       "genres": "Crime, Drama"
     },
     {
-      "rank": 26,
+      "rank": 25,
       "title": "Sleeping with the Enemy",
       "url": "https://letterboxd.com/film/sleeping-with-the-enemy/",
       "director": "Joseph Ruben",
@@ -313,6 +301,18 @@
         "Kevin Anderson"
       ],
       "genres": "Thriller, Drama"
+    },
+    {
+      "rank": 26,
+      "title": "The Fisher King",
+      "url": "https://letterboxd.com/film/the-fisher-king/",
+      "director": "Terry Gilliam",
+      "actors": [
+        "Robin Williams",
+        "Jeff Bridges",
+        "Amanda Plummer"
+      ],
+      "genres": "Drama, Comedy"
     },
     {
       "rank": 27,
@@ -472,18 +472,6 @@
     },
     {
       "rank": 40,
-      "title": "Dogfight",
-      "url": "https://letterboxd.com/film/dogfight/",
-      "director": "Nancy Savoca",
-      "actors": [
-        "River Phoenix",
-        "Lili Taylor",
-        "Richard Panebianco"
-      ],
-      "genres": "Romance, Drama"
-    },
-    {
-      "rank": 41,
       "title": "Bill & Ted's Bogus Journey",
       "url": "https://letterboxd.com/film/bill-teds-bogus-journey/",
       "director": "Peter Hewitt",
@@ -493,6 +481,18 @@
         "William Sadler"
       ],
       "genres": "Science Fiction, Adventure, Comedy"
+    },
+    {
+      "rank": 41,
+      "title": "Dogfight",
+      "url": "https://letterboxd.com/film/dogfight/",
+      "director": "Nancy Savoca",
+      "actors": [
+        "River Phoenix",
+        "Lili Taylor",
+        "Richard Panebianco"
+      ],
+      "genres": "Romance, Drama"
     },
     {
       "rank": 42,
@@ -508,18 +508,6 @@
     },
     {
       "rank": 43,
-      "title": "Riki-Oh: The Story of Ricky",
-      "url": "https://letterboxd.com/film/riki-oh-the-story-of-ricky/",
-      "director": "Lam Nai-choi",
-      "actors": [
-        "Louis Fan Siu-Wong",
-        "Fan Mei-Sheng",
-        "William Ho"
-      ],
-      "genres": "Action, Science Fiction"
-    },
-    {
-      "rank": 44,
       "title": "A Scene at the Sea",
       "url": "https://letterboxd.com/film/a-scene-at-the-sea/",
       "director": "Takeshi Kitano",
@@ -529,6 +517,18 @@
         "Sabu Kawahara"
       ],
       "genres": "Romance, Comedy, Drama"
+    },
+    {
+      "rank": 44,
+      "title": "Riki-Oh: The Story of Ricky",
+      "url": "https://letterboxd.com/film/riki-oh-the-story-of-ricky/",
+      "director": "Lam Nai-choi",
+      "actors": [
+        "Louis Fan Siu-Wong",
+        "Fan Mei-Sheng",
+        "William Ho"
+      ],
+      "genres": "Action, Science Fiction"
     },
     {
       "rank": 45,
@@ -568,18 +568,6 @@
     },
     {
       "rank": 48,
-      "title": "Daughters of the Dust",
-      "url": "https://letterboxd.com/film/daughters-of-the-dust/",
-      "director": "Julie Dash",
-      "actors": [
-        "Cora Lee Day",
-        "Alva Rogers",
-        "Barbara O. Jones"
-      ],
-      "genres": "Drama, Romance"
-    },
-    {
-      "rank": 49,
       "title": "The People Under the Stairs",
       "url": "https://letterboxd.com/film/the-people-under-the-stairs/",
       "director": "Wes Craven",
@@ -589,6 +577,18 @@
         "Wendy Robie"
       ],
       "genres": "Comedy, Thriller, Horror"
+    },
+    {
+      "rank": 49,
+      "title": "Daughters of the Dust",
+      "url": "https://letterboxd.com/film/daughters-of-the-dust/",
+      "director": "Julie Dash",
+      "actors": [
+        "Cora Lee Day",
+        "Alva Rogers",
+        "Barbara O. Jones"
+      ],
+      "genres": "Drama, Romance"
     },
     {
       "rank": 50,

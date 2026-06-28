@@ -52,18 +52,6 @@
     },
     {
       "rank": 5,
-      "title": "Lost in Translation",
-      "url": "https://letterboxd.com/film/lost-in-translation/",
-      "director": "Sofia Coppola",
-      "actors": [
-        "Bill Murray",
-        "Scarlett Johansson",
-        "Giovanni Ribisi"
-      ],
-      "genres": "Comedy, Romance, Drama"
-    },
-    {
-      "rank": 6,
       "title": "Oldboy",
       "url": "https://letterboxd.com/film/oldboy/",
       "director": "Park Chan-wook",
@@ -73,6 +61,18 @@
         "Kang Hye-jung"
       ],
       "genres": "Thriller, Mystery"
+    },
+    {
+      "rank": 6,
+      "title": "Lost in Translation",
+      "url": "https://letterboxd.com/film/lost-in-translation/",
+      "director": "Sofia Coppola",
+      "actors": [
+        "Bill Murray",
+        "Scarlett Johansson",
+        "Giovanni Ribisi"
+      ],
+      "genres": "Comedy, Romance, Drama"
     },
     {
       "rank": 7,
@@ -232,18 +232,6 @@
     },
     {
       "rank": 20,
-      "title": "Love Actually",
-      "url": "https://letterboxd.com/film/love-actually/",
-      "director": "Richard Curtis",
-      "actors": [
-        "Hugh Grant",
-        "Alan Rickman",
-        "Emma Thompson"
-      ],
-      "genres": "Romance, Drama, Comedy"
-    },
-    {
-      "rank": 21,
       "title": "Mona Lisa Smile",
       "url": "https://letterboxd.com/film/mona-lisa-smile/",
       "director": "Mike Newell",
@@ -253,6 +241,18 @@
         "Julia Stiles"
       ],
       "genres": "Romance, History, Drama"
+    },
+    {
+      "rank": 21,
+      "title": "Love Actually",
+      "url": "https://letterboxd.com/film/love-actually/",
+      "director": "Richard Curtis",
+      "actors": [
+        "Hugh Grant",
+        "Alan Rickman",
+        "Emma Thompson"
+      ],
+      "genres": "Romance, Drama, Comedy"
     },
     {
       "rank": 22,
@@ -292,18 +292,6 @@
     },
     {
       "rank": 25,
-      "title": "Brother Bear",
-      "url": "https://letterboxd.com/film/brother-bear/",
-      "director": "Aaron Blaise, Robert Walker",
-      "actors": [
-        "Joaquin Phoenix",
-        "Jeremy Suarez",
-        "Jason Raize"
-      ],
-      "genres": "Animation, Family, Adventure"
-    },
-    {
-      "rank": 26,
       "title": "The Cat in the Hat",
       "url": "https://letterboxd.com/film/the-cat-in-the-hat-2003/",
       "director": "Bo Welch",
@@ -313,6 +301,18 @@
         "Spencer Breslin"
       ],
       "genres": "Comedy, Fantasy, Adventure, Family"
+    },
+    {
+      "rank": 26,
+      "title": "Brother Bear",
+      "url": "https://letterboxd.com/film/brother-bear/",
+      "director": "Aaron Blaise, Robert Walker",
+      "actors": [
+        "Joaquin Phoenix",
+        "Jeremy Suarez",
+        "Jason Raize"
+      ],
+      "genres": "Animation, Family, Adventure"
     },
     {
       "rank": 27,
@@ -448,15 +448,15 @@
     },
     {
       "rank": 38,
-      "title": "A Mighty Wind",
-      "url": "https://letterboxd.com/film/a-mighty-wind/",
-      "director": "Christopher Guest",
+      "title": "House of 1000 Corpses",
+      "url": "https://letterboxd.com/film/house-of-1000-corpses/",
+      "director": "Rob Zombie",
       "actors": [
-        "Bob Balaban",
-        "Christopher Guest",
-        "John Michael Higgins"
+        "Sid Haig",
+        "Bill Moseley",
+        "Sheri Moon Zombie"
       ],
-      "genres": "Comedy, Music"
+      "genres": "Horror"
     },
     {
       "rank": 39,
@@ -472,15 +472,15 @@
     },
     {
       "rank": 40,
-      "title": "House of 1000 Corpses",
-      "url": "https://letterboxd.com/film/house-of-1000-corpses/",
-      "director": "Rob Zombie",
+      "title": "A Mighty Wind",
+      "url": "https://letterboxd.com/film/a-mighty-wind/",
+      "director": "Christopher Guest",
       "actors": [
-        "Sid Haig",
-        "Bill Moseley",
-        "Sheri Moon Zombie"
+        "Bob Balaban",
+        "Christopher Guest",
+        "John Michael Higgins"
       ],
-      "genres": "Horror"
+      "genres": "Comedy, Music"
     },
     {
       "rank": 41,
@@ -568,18 +568,6 @@
     },
     {
       "rank": 48,
-      "title": "Elf",
-      "url": "https://letterboxd.com/film/elf/",
-      "director": "Jon Favreau",
-      "actors": [
-        "Will Ferrell",
-        "James Caan",
-        "Bob Newhart"
-      ],
-      "genres": "Fantasy, Family, Comedy"
-    },
-    {
-      "rank": 49,
       "title": "Down with Love",
       "url": "https://letterboxd.com/film/down-with-love/",
       "director": "Peyton Reed",
@@ -591,16 +579,28 @@
       "genres": "Romance, Comedy"
     },
     {
-      "rank": 50,
-      "title": "Anger Management",
-      "url": "https://letterboxd.com/film/anger-management/",
-      "director": "Peter Segal",
+      "rank": 49,
+      "title": "Elf",
+      "url": "https://letterboxd.com/film/elf/",
+      "director": "Jon Favreau",
       "actors": [
-        "Adam Sandler",
-        "Jack Nicholson",
-        "Marisa Tomei"
+        "Will Ferrell",
+        "James Caan",
+        "Bob Newhart"
       ],
-      "genres": "Comedy"
+      "genres": "Fantasy, Family, Comedy"
+    },
+    {
+      "rank": 50,
+      "title": "Daredevil",
+      "url": "https://letterboxd.com/film/daredevil/",
+      "director": "Mark Steven Johnson",
+      "actors": [
+        "Ben Affleck",
+        "Jennifer Garner",
+        "Colin Farrell"
+      ],
+      "genres": "Fantasy, Action"
     }
   ]
 }

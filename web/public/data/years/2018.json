@@ -4,18 +4,6 @@
   "films": [
     {
       "rank": 1,
-      "title": "Beautiful Boy",
-      "url": "https://letterboxd.com/film/beautiful-boy-2018/",
-      "director": "Felix van Groeningen",
-      "actors": [
-        "Steve Carell",
-        "Timothée Chalamet",
-        "Maura Tierney"
-      ],
-      "genres": "Drama"
-    },
-    {
-      "rank": 2,
       "title": "Spider-Man: Into the Spider-Verse",
       "url": "https://letterboxd.com/film/spider-man-into-the-spider-verse/",
       "director": "Bob Persichetti, Peter Ramsey, Rodney Rothman",
@@ -27,19 +15,19 @@
       "genres": "Adventure, Animation, Action, Science Fiction"
     },
     {
-      "rank": 3,
-      "title": "To All the Boys I've Loved Before",
-      "url": "https://letterboxd.com/film/to-all-the-boys-ive-loved-before/",
-      "director": "Susan Johnson",
+      "rank": 2,
+      "title": "Beautiful Boy",
+      "url": "https://letterboxd.com/film/beautiful-boy-2018/",
+      "director": "Felix van Groeningen",
       "actors": [
-        "Lana Condor",
-        "Noah Centineo",
-        "Israel Broussard"
+        "Steve Carell",
+        "Timothée Chalamet",
+        "Maura Tierney"
       ],
-      "genres": "Comedy, Romance"
+      "genres": "Drama"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "Avengers: Infinity War",
       "url": "https://letterboxd.com/film/avengers-infinity-war/",
       "director": "Anthony Russo, Joe Russo",
@@ -49,6 +37,18 @@
         "Chris Hemsworth"
       ],
       "genres": "Action, Science Fiction, Adventure"
+    },
+    {
+      "rank": 4,
+      "title": "To All the Boys I've Loved Before",
+      "url": "https://letterboxd.com/film/to-all-the-boys-ive-loved-before/",
+      "director": "Susan Johnson",
+      "actors": [
+        "Lana Condor",
+        "Noah Centineo",
+        "Israel Broussard"
+      ],
+      "genres": "Comedy, Romance"
     },
     {
       "rank": 5,
@@ -148,18 +148,6 @@
     },
     {
       "rank": 13,
-      "title": "BlacKkKlansman",
-      "url": "https://letterboxd.com/film/blackkklansman/",
-      "director": "Spike Lee",
-      "actors": [
-        "John David Washington",
-        "Adam Driver",
-        "Topher Grace"
-      ],
-      "genres": "Drama, History, Crime, Comedy"
-    },
-    {
-      "rank": 14,
       "title": "Game Night",
       "url": "https://letterboxd.com/film/game-night/",
       "director": "John Francis Daley, Jonathan Goldstein",
@@ -169,6 +157,18 @@
         "Kyle Chandler"
       ],
       "genres": "Mystery, Comedy, Crime"
+    },
+    {
+      "rank": 14,
+      "title": "BlacKkKlansman",
+      "url": "https://letterboxd.com/film/blackkklansman/",
+      "director": "Spike Lee",
+      "actors": [
+        "John David Washington",
+        "Adam Driver",
+        "Topher Grace"
+      ],
+      "genres": "Drama, History, Crime, Comedy"
     },
     {
       "rank": 15,
@@ -220,18 +220,6 @@
     },
     {
       "rank": 19,
-      "title": "Ocean's Eight",
-      "url": "https://letterboxd.com/film/oceans-eight/",
-      "director": "Gary Ross",
-      "actors": [
-        "Sandra Bullock",
-        "Cate Blanchett",
-        "Anne Hathaway"
-      ],
-      "genres": "Crime, Action, Comedy"
-    },
-    {
-      "rank": 20,
       "title": "Set It Up",
       "url": "https://letterboxd.com/film/set-it-up/",
       "director": "Claire Scanlon",
@@ -241,6 +229,18 @@
         "Taye Diggs"
       ],
       "genres": "Comedy, Romance"
+    },
+    {
+      "rank": 20,
+      "title": "Ocean's Eight",
+      "url": "https://letterboxd.com/film/oceans-eight/",
+      "director": "Gary Ross",
+      "actors": [
+        "Sandra Bullock",
+        "Cate Blanchett",
+        "Anne Hathaway"
+      ],
+      "genres": "Crime, Action, Comedy"
     },
     {
       "rank": 21,
@@ -424,18 +424,6 @@
     },
     {
       "rank": 36,
-      "title": "Under the Silver Lake",
-      "url": "https://letterboxd.com/film/under-the-silver-lake/",
-      "director": "David Robert Mitchell",
-      "actors": [
-        "Andrew Garfield",
-        "Riley Keough",
-        "Topher Grace"
-      ],
-      "genres": "Mystery, Crime, Drama"
-    },
-    {
-      "rank": 37,
       "title": "Suspiria",
       "url": "https://letterboxd.com/film/suspiria-2018/",
       "director": "Luca Guadagnino",
@@ -445,6 +433,18 @@
         "Mia Goth"
       ],
       "genres": "Horror, Mystery, Drama"
+    },
+    {
+      "rank": 37,
+      "title": "Under the Silver Lake",
+      "url": "https://letterboxd.com/film/under-the-silver-lake/",
+      "director": "David Robert Mitchell",
+      "actors": [
+        "Andrew Garfield",
+        "Riley Keough",
+        "Topher Grace"
+      ],
+      "genres": "Mystery, Crime, Drama"
     },
     {
       "rank": 38,
@@ -568,18 +568,6 @@
     },
     {
       "rank": 48,
-      "title": "Fantastic Beasts: The Crimes of Grindelwald",
-      "url": "https://letterboxd.com/film/fantastic-beasts-the-crimes-of-grindelwald/",
-      "director": "David Yates",
-      "actors": [
-        "Eddie Redmayne",
-        "Katherine Waterston",
-        "Dan Fogler"
-      ],
-      "genres": "Fantasy, Adventure"
-    },
-    {
-      "rank": 49,
       "title": "Searching",
       "url": "https://letterboxd.com/film/searching-2018/",
       "director": "Aneesh Chaganty",
@@ -589,6 +577,18 @@
         "Debra Messing"
       ],
       "genres": "Drama, Thriller, Mystery"
+    },
+    {
+      "rank": 49,
+      "title": "Fantastic Beasts: The Crimes of Grindelwald",
+      "url": "https://letterboxd.com/film/fantastic-beasts-the-crimes-of-grindelwald/",
+      "director": "David Yates",
+      "actors": [
+        "Eddie Redmayne",
+        "Katherine Waterston",
+        "Dan Fogler"
+      ],
+      "genres": "Fantasy, Adventure"
     },
     {
       "rank": 50,

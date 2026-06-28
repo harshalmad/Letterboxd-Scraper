@@ -10,8 +10,8 @@ rank,title,director,actors,genres,url
 9,Fast Times at Ridgemont High,Amy Heckerling,Sean Penn; Jennifer Jason Leigh; Judge Reinhold,"Drama, Romance, Comedy",https://letterboxd.com/film/fast-times-at-ridgemont-high/
 10,Tootsie,Sydney Pollack,Dustin Hoffman; Jessica Lange; Teri Garr,"Comedy, Romance",https://letterboxd.com/film/tootsie/
 11,Poltergeist,Tobe Hooper,JoBeth Williams; Craig T. Nelson; Beatrice Straight,Horror,https://letterboxd.com/film/poltergeist/
-12,Tron,Steven Lisberger,Jeff Bridges; Bruce Boxleitner; David Warner,"Adventure, Action, Science Fiction",https://letterboxd.com/film/tron/
-13,Friday the 13th Part III,Steve Miner,Richard Brooker; Dana Kimmell; Catherine Parks,"Thriller, Horror",https://letterboxd.com/film/friday-the-13th-part-iii/
+12,Friday the 13th Part III,Steve Miner,Richard Brooker; Dana Kimmell; Catherine Parks,"Thriller, Horror",https://letterboxd.com/film/friday-the-13th-part-iii/
+13,Tron,Steven Lisberger,Jeff Bridges; Bruce Boxleitner; David Warner,"Adventure, Action, Science Fiction",https://letterboxd.com/film/tron/
 14,Pink Floyd: The Wall,Alan Parker,Bob Geldof; Christine Hargreaves; James Laurenson,"Music, Drama",https://letterboxd.com/film/pink-floyd-the-wall/
 15,Fitzcarraldo,Werner Herzog,Klaus Kinski; Claudia Cardinale; José Lewgoy,"Adventure, Drama",https://letterboxd.com/film/fitzcarraldo/
 16,Koyaanisqatsi,Godfrey Reggio,Ed Asner; Pat Benatar; Johnny Carson,"Documentary, Music",https://letterboxd.com/film/koyaanisqatsi/
@@ -30,22 +30,22 @@ rank,title,director,actors,genres,url
 29,Halloween III: Season of the Witch,Tommy Lee Wallace,Tom Atkins; Stacey Nelkin; Dan O'Herlihy,"Horror, Science Fiction, Mystery",https://letterboxd.com/film/halloween-iii-season-of-the-witch/
 30,Grease 2,Patricia Birch,Maxwell Caulfield; Michelle Pfeiffer; Lorna Luft,"Romance, Music, Comedy",https://letterboxd.com/film/grease-2/
 31,One from the Heart,Francis Ford Coppola,Teri Garr; Frederic Forrest; Raúl Juliá,"Drama, Romance",https://letterboxd.com/film/one-from-the-heart/
-32,Smithereens,Susan Seidelman,Susan Berman; Brad Rijn; Richard Hell,"Romance, Drama, Music",https://letterboxd.com/film/smithereens/
+32,Querelle,Rainer Werner Fassbinder,Brad Davis; Franco Nero; Jeanne Moreau,"Crime, Drama",https://letterboxd.com/film/querelle/
 33,Basket Case,Frank Henenlotter,Kevin Van Hentenryck; Terri Susan Smith; Beverly Bonner,"Comedy, Horror",https://letterboxd.com/film/basket-case/
-34,Querelle,Rainer Werner Fassbinder,Brad Davis; Franco Nero; Jeanne Moreau,"Crime, Drama",https://letterboxd.com/film/querelle/
-35,Evil Under the Sun,Guy Hamilton,Peter Ustinov; James Mason; Sylvia Miles,"Drama, Crime, Thriller, Mystery",https://letterboxd.com/film/evil-under-the-sun/
-36,Creepshow,George A. Romero,Hal Holbrook; Adrienne Barbeau; Fritz Weaver,"Comedy, Horror",https://letterboxd.com/film/creepshow/
+34,Smithereens,Susan Seidelman,Susan Berman; Brad Rijn; Richard Hell,"Romance, Drama, Music",https://letterboxd.com/film/smithereens/
+35,Creepshow,George A. Romero,Hal Holbrook; Adrienne Barbeau; Fritz Weaver,"Comedy, Horror",https://letterboxd.com/film/creepshow/
+36,Evil Under the Sun,Guy Hamilton,Peter Ustinov; James Mason; Sylvia Miles,"Drama, Crime, Thriller, Mystery",https://letterboxd.com/film/evil-under-the-sun/
 37,The Party 2,Claude Pinoteau,Claude Brasseur; Brigitte Fossey; Sophie Marceau,"Comedy, Drama, Romance",https://letterboxd.com/film/the-party-2/
 38,Cat People,Paul Schrader,Nastassja Kinski; Malcolm McDowell; John Heard,"Fantasy, Horror",https://letterboxd.com/film/cat-people-1982/
 39,Burden of Dreams,Les Blank,Candace Laughlin; Werner Herzog; Klaus Kinski,Documentary,https://letterboxd.com/film/burden-of-dreams/
 40,The Plague Dogs,Martin Rosen,John Hurt; Christopher Benjamin; James Bolam,"Drama, Adventure, Animation",https://letterboxd.com/film/the-plague-dogs/
 41,Time Masters,René Laloux,Jean Valmont; Michel Elias; Frédéric Legros,"Animation, Science Fiction, Adventure",https://letterboxd.com/film/time-masters/
-42,The Last Horror Film,David Winters,Caroline Munro; Joe Spinell; Judd Hamilton,"Comedy, Horror",https://letterboxd.com/film/the-last-horror-film/
-43,An Officer and a Gentleman,Taylor Hackford,Richard Gere; Debra Winger; Louis Gossett Jr.,"Drama, Romance",https://letterboxd.com/film/an-officer-and-a-gentleman/
-44,Gandhi,Richard Attenborough,Ben Kingsley; Candice Bergen; Edward Fox,"Drama, History",https://letterboxd.com/film/gandhi/
-45,Victor/Victoria,Blake Edwards,Julie Andrews; James Garner; Robert Preston,"Comedy, Romance, Music",https://letterboxd.com/film/victor-victoria/
+42,An Officer and a Gentleman,Taylor Hackford,Richard Gere; Debra Winger; Louis Gossett Jr.,"Drama, Romance",https://letterboxd.com/film/an-officer-and-a-gentleman/
+43,The Last Horror Film,David Winters,Caroline Munro; Joe Spinell; Judd Hamilton,"Comedy, Horror",https://letterboxd.com/film/the-last-horror-film/
+44,Victor/Victoria,Blake Edwards,Julie Andrews; James Garner; Robert Preston,"Comedy, Romance, Music",https://letterboxd.com/film/victor-victoria/
+45,Gandhi,Richard Attenborough,Ben Kingsley; Candice Bergen; Edward Fox,"Drama, History",https://letterboxd.com/film/gandhi/
 46,Pieces,Juan Piquer Simón,Christopher George; Lynda Day George; Frank Braña,"Horror, Thriller",https://letterboxd.com/film/pieces/
 47,The Best Little Whorehouse in Texas,Colin Higgins,Burt Reynolds; Dolly Parton; Dom DeLuise,Comedy,https://letterboxd.com/film/the-best-little-whorehouse-in-texas/
 48,Deathtrap,Sidney Lumet,Michael Caine; Christopher Reeve; Dyan Cannon,"Crime, Drama, Thriller, Comedy",https://letterboxd.com/film/deathtrap/
-49,Thunder,Takashi Ito,Seiko Nakano,"Fantasy, Animation, Mystery",https://letterboxd.com/film/thunder-1982/
-50,The Living Dead Girl,Jean Rollin,Marina Pierro; Françoise Blanchard; Mike Marshall,Horror,https://letterboxd.com/film/the-living-dead-girl/
+49,The Living Dead Girl,Jean Rollin,Marina Pierro; Françoise Blanchard; Mike Marshall,Horror,https://letterboxd.com/film/the-living-dead-girl/
+50,Thunder,Takashi Ito,Seiko Nakano,"Fantasy, Animation, Mystery",https://letterboxd.com/film/thunder-1982/

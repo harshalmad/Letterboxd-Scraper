@@ -302,30 +302,6 @@
     },
     {
       "rank": 26,
-      "title": "The Living End",
-      "url": "https://letterboxd.com/film/the-living-end/",
-      "director": "Gregg Araki",
-      "actors": [
-        "Mike Dytri",
-        "Craig Gilmore",
-        "Mark Finch"
-      ],
-      "genres": "Romance, Drama, Crime"
-    },
-    {
-      "rank": 27,
-      "title": "Candyman",
-      "url": "https://letterboxd.com/film/candyman/",
-      "director": "Bernard Rose",
-      "actors": [
-        "Virginia Madsen",
-        "Tony Todd",
-        "Xander Berkeley"
-      ],
-      "genres": "Thriller, Horror, Drama"
-    },
-    {
-      "rank": 28,
       "title": "The Hand That Rocks the Cradle",
       "url": "https://letterboxd.com/film/the-hand-that-rocks-the-cradle/",
       "director": "Curtis Hanson",
@@ -337,19 +313,31 @@
       "genres": "Thriller, Drama"
     },
     {
-      "rank": 29,
-      "title": "Wuthering Heights",
-      "url": "https://letterboxd.com/film/wuthering-heights-1992/",
-      "director": "Peter Kosminsky",
+      "rank": 27,
+      "title": "The Living End",
+      "url": "https://letterboxd.com/film/the-living-end/",
+      "director": "Gregg Araki",
       "actors": [
-        "Juliette Binoche",
-        "Ralph Fiennes",
-        "Janet McTeer"
+        "Mike Dytri",
+        "Craig Gilmore",
+        "Mark Finch"
       ],
-      "genres": "Romance, Drama"
+      "genres": "Romance, Drama, Crime"
     },
     {
-      "rank": 30,
+      "rank": 28,
+      "title": "Candyman",
+      "url": "https://letterboxd.com/film/candyman/",
+      "director": "Bernard Rose",
+      "actors": [
+        "Virginia Madsen",
+        "Tony Todd",
+        "Xander Berkeley"
+      ],
+      "genres": "Thriller, Horror, Drama"
+    },
+    {
+      "rank": 29,
       "title": "The Cutting Edge",
       "url": "https://letterboxd.com/film/the-cutting-edge/",
       "director": "Paul Michael Glaser",
@@ -361,19 +349,7 @@
       "genres": "Comedy, Romance, Drama"
     },
     {
-      "rank": 31,
-      "title": "Orlando",
-      "url": "https://letterboxd.com/film/orlando/",
-      "director": "Sally Potter",
-      "actors": [
-        "Tilda Swinton",
-        "Billy Zane",
-        "Lothaire Bluteau"
-      ],
-      "genres": "Drama, Fantasy"
-    },
-    {
-      "rank": 32,
+      "rank": 30,
       "title": "Braindead",
       "url": "https://letterboxd.com/film/braindead-1992/",
       "director": "Peter Jackson",
@@ -385,7 +361,7 @@
       "genres": "Comedy, Horror"
     },
     {
-      "rank": 33,
+      "rank": 31,
       "title": "Single White Female",
       "url": "https://letterboxd.com/film/single-white-female/",
       "director": "Barbet Schroeder",
@@ -395,6 +371,30 @@
         "Steven Weber"
       ],
       "genres": "Horror, Thriller"
+    },
+    {
+      "rank": 32,
+      "title": "Orlando",
+      "url": "https://letterboxd.com/film/orlando/",
+      "director": "Sally Potter",
+      "actors": [
+        "Tilda Swinton",
+        "Billy Zane",
+        "Lothaire Bluteau"
+      ],
+      "genres": "Drama, Fantasy"
+    },
+    {
+      "rank": 33,
+      "title": "Wuthering Heights",
+      "url": "https://letterboxd.com/film/wuthering-heights-1992/",
+      "director": "Peter Kosminsky",
+      "actors": [
+        "Juliette Binoche",
+        "Ralph Fiennes",
+        "Janet McTeer"
+      ],
+      "genres": "Romance, Drama"
     },
     {
       "rank": 34,
@@ -482,18 +482,6 @@
     },
     {
       "rank": 41,
-      "title": "The Muppet Christmas Carol",
-      "url": "https://letterboxd.com/film/the-muppet-christmas-carol/",
-      "director": "Brian Henson",
-      "actors": [
-        "Michael Caine",
-        "Dave Goelz",
-        "Steve Whitmire"
-      ],
-      "genres": "Drama, Family, Comedy, Music, Fantasy"
-    },
-    {
-      "rank": 42,
       "title": "Midori",
       "url": "https://letterboxd.com/film/midori-1992/",
       "director": "Hiroshi Harada",
@@ -503,6 +491,18 @@
         "Keinosuke Okamoto"
       ],
       "genres": "Horror, Drama, Animation"
+    },
+    {
+      "rank": 42,
+      "title": "FernGully: The Last Rainforest",
+      "url": "https://letterboxd.com/film/ferngully-the-last-rainforest/",
+      "director": "Bill Kroyer",
+      "actors": [
+        "Samantha Mathis",
+        "Jonathan Ward",
+        "Christian Slater"
+      ],
+      "genres": "Animation, Family, Adventure, Fantasy"
     },
     {
       "rank": 43,
@@ -518,15 +518,15 @@
     },
     {
       "rank": 44,
-      "title": "FernGully: The Last Rainforest",
-      "url": "https://letterboxd.com/film/ferngully-the-last-rainforest/",
-      "director": "Bill Kroyer",
+      "title": "The Muppet Christmas Carol",
+      "url": "https://letterboxd.com/film/the-muppet-christmas-carol/",
+      "director": "Brian Henson",
       "actors": [
-        "Samantha Mathis",
-        "Jonathan Ward",
-        "Christian Slater"
+        "Michael Caine",
+        "Dave Goelz",
+        "Steve Whitmire"
       ],
-      "genres": "Animation, Family, Adventure, Fantasy"
+      "genres": "Drama, Family, Comedy, Music, Fantasy"
     },
     {
       "rank": 45,
@@ -590,15 +590,15 @@
     },
     {
       "rank": 50,
-      "title": "Like Water for Chocolate",
-      "url": "https://letterboxd.com/film/like-water-for-chocolate/",
-      "director": "Alfonso Arau",
+      "title": "Newsies",
+      "url": "https://letterboxd.com/film/newsies/",
+      "director": "Kenny Ortega",
       "actors": [
-        "Lumi Cavazos",
-        "Marco Leonardi",
-        "Regina Torné"
+        "Christian Bale",
+        "Bill Pullman",
+        "Ann-Margret"
       ],
-      "genres": "Drama, Romance"
+      "genres": "History, Drama"
     }
   ]
 }

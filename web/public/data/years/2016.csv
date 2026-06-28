@@ -7,13 +7,13 @@ rank,title,director,actors,genres,url
 6,The Nice Guys,Shane Black,Russell Crowe; Ryan Gosling; Angourie Rice,"Action, Comedy, Crime",https://letterboxd.com/film/the-nice-guys/
 7,Manchester by the Sea,Kenneth Lonergan,Casey Affleck; Lucas Hedges; Michelle Williams,Drama,https://letterboxd.com/film/manchester-by-the-sea/
 8,Captain America: Civil War,"Joe Russo, Anthony Russo",Chris Evans; Robert Downey Jr.; Scarlett Johansson,"Adventure, Action, Science Fiction",https://letterboxd.com/film/captain-america-civil-war/
-9,Your Name.,Makoto Shinkai,Ryunosuke Kamiki; Mone Kamishiraishi; Ryo Narita,"Romance, Animation, Drama",https://letterboxd.com/film/your-name/
-10,The Handmaiden,Park Chan-wook,Kim Min-hee; Kim Tae-ri; Ha Jung-woo,"Thriller, Romance, Drama",https://letterboxd.com/film/the-handmaiden/
-11,Hacksaw Ridge,Mel Gibson,Andrew Garfield; Sam Worthington; Vince Vaughn,"War, Drama, History",https://letterboxd.com/film/hacksaw-ridge/
-12,Rogue One: A Star Wars Story,Gareth Edwards,Felicity Jones; Diego Luna; Alan Tudyk,"Adventure, Action, Science Fiction",https://letterboxd.com/film/rogue-one-a-star-wars-story/
+9,The Handmaiden,Park Chan-wook,Kim Min-hee; Kim Tae-ri; Ha Jung-woo,"Thriller, Romance, Drama",https://letterboxd.com/film/the-handmaiden/
+10,Your Name.,Makoto Shinkai,Ryunosuke Kamiki; Mone Kamishiraishi; Ryo Narita,"Romance, Animation, Drama",https://letterboxd.com/film/your-name/
+11,War Dogs,Todd Phillips,Miles Teller; Jonah Hill; Ana de Armas,"Drama, Comedy, Crime",https://letterboxd.com/film/war-dogs-2016/
+12,Hacksaw Ridge,Mel Gibson,Andrew Garfield; Sam Worthington; Vince Vaughn,"War, Drama, History",https://letterboxd.com/film/hacksaw-ridge/
 13,A Silent Voice: The Movie,Naoko Yamada,Miyu Irino; Saori Hayami; Aoi Yuuki,"Romance, Animation, Drama",https://letterboxd.com/film/a-silent-voice-the-movie/
-14,War Dogs,Todd Phillips,Miles Teller; Jonah Hill; Ana de Armas,"Drama, Comedy, Crime",https://letterboxd.com/film/war-dogs-2016/
-15,Train to Busan,Yeon Sang-ho,Gong Yoo; Kim Su-an; Jung Yu-mi,"Thriller, Horror, Adventure, Action",https://letterboxd.com/film/train-to-busan/
+14,Rogue One: A Star Wars Story,Gareth Edwards,Felicity Jones; Diego Luna; Alan Tudyk,"Adventure, Action, Science Fiction",https://letterboxd.com/film/rogue-one-a-star-wars-story/
+15,Train to Busan,Yeon Sang-ho,Gong Yoo; Kim Su-an; Jung Yu-mi,"Thriller, Horror, Action",https://letterboxd.com/film/train-to-busan/
 16,The Edge of Seventeen,Kelly Fremon Craig,Hailee Steinfeld; Woody Harrelson; Haley Lu Richardson,"Drama, Comedy",https://letterboxd.com/film/the-edge-of-seventeen/
 17,Doctor Strange,Scott Derrickson,Benedict Cumberbatch; Chiwetel Ejiofor; Rachel McAdams,"Fantasy, Action, Adventure",https://letterboxd.com/film/doctor-strange-2016/
 18,Split,M. Night Shyamalan,James McAvoy; Anya Taylor-Joy; Haley Lu Richardson,"Horror, Thriller",https://letterboxd.com/film/split-2016/
@@ -24,8 +24,8 @@ rank,title,director,actors,genres,url
 23,Passengers,Morten Tyldum,Jennifer Lawrence; Chris Pratt; Michael Sheen,"Drama, Science Fiction, Romance",https://letterboxd.com/film/passengers-2016/
 24,Now You See Me 2,Jon M. Chu,Jesse Eisenberg; Mark Ruffalo; Woody Harrelson,"Thriller, Crime",https://letterboxd.com/film/now-you-see-me-2/
 25,Hidden Figures,Theodore Melfi,Taraji P. Henson; Octavia Spencer; Janelle Monáe,"Drama, History",https://letterboxd.com/film/hidden-figures/
-26,Suicide Squad,David Ayer,Will Smith; Jared Leto; Margot Robbie,"Action, Adventure, Fantasy",https://letterboxd.com/film/suicide-squad-2016/
-27,The Autopsy of Jane Doe,André Øvredal,Emile Hirsch; Brian Cox; Ophelia Lovibond,"Horror, Mystery",https://letterboxd.com/film/the-autopsy-of-jane-doe/
+26,The Autopsy of Jane Doe,André Øvredal,Emile Hirsch; Brian Cox; Ophelia Lovibond,"Horror, Mystery",https://letterboxd.com/film/the-autopsy-of-jane-doe/
+27,Suicide Squad,David Ayer,Will Smith; Jared Leto; Margot Robbie,"Action, Adventure, Fantasy",https://letterboxd.com/film/suicide-squad-2016/
 28,Kung Fu Panda 3,"Jennifer Yuh Nelson, Alessandro Carloni",Jack Black; Bryan Cranston; Dustin Hoffman,"Adventure, Comedy, Action, Family, Animation",https://letterboxd.com/film/kung-fu-panda-3/
 29,Terrifier,Damien Leone,David Howard Thornton; Jenna Kanell; Samantha Scaffidi,Horror,https://letterboxd.com/film/terrifier-2016/
 30,Sing,Garth Jennings,Matthew McConaughey; Reese Witherspoon; Seth MacFarlane,"Comedy, Music, Animation, Family",https://letterboxd.com/film/sing-2016/
@@ -43,9 +43,9 @@ rank,title,director,actors,genres,url
 42,My Life as a Zucchini,Claude Barras,Gaspard Schlatter; Sixtine Murat; Paulin Jaccoud,"Drama, Comedy, Animation",https://letterboxd.com/film/my-life-as-a-zucchini/
 43,A Cure for Wellness,Gore Verbinski,Dane DeHaan; Jason Isaacs; Mia Goth,"Mystery, Science Fiction, Horror",https://letterboxd.com/film/a-cure-for-wellness/
 44,Raw,Julia Ducournau,Garance Marillier; Ella Rumpf; Rabah Nait Oufella,"Drama, Horror",https://letterboxd.com/film/raw-2016/
-45,Popstar: Never Stop Never Stopping,"Akiva Schaffer, Jorma Taccone",Andy Samberg; Jorma Taccone; Akiva Schaffer,"Comedy, Music",https://letterboxd.com/film/popstar-never-stop-never-stopping/
+45,Batman v Superman: Dawn of Justice,Zack Snyder,Ben Affleck; Henry Cavill; Jesse Eisenberg,"Action, Fantasy, Adventure",https://letterboxd.com/film/batman-v-superman-dawn-of-justice/
 46,Shin Godzilla,"Shinji Higuchi, Hideaki Anno",Hiroki Hasegawa; Yutaka Takenouchi; Satomi Ishihara,"Action, Horror, Science Fiction",https://letterboxd.com/film/shin-godzilla/
-47,Silence,Martin Scorsese,Andrew Garfield; Adam Driver; Liam Neeson,"History, Drama",https://letterboxd.com/film/silence/
-48,Batman v Superman: Dawn of Justice,Zack Snyder,Ben Affleck; Henry Cavill; Jesse Eisenberg,"Action, Fantasy, Adventure",https://letterboxd.com/film/batman-v-superman-dawn-of-justice/
-49,Trolls,Mike Mitchell,Anna Kendrick; Justin Timberlake; Zooey Deschanel,"Fantasy, Animation, Comedy, Family, Adventure, Music",https://letterboxd.com/film/trolls/
+47,Trolls,Mike Mitchell,Anna Kendrick; Justin Timberlake; Zooey Deschanel,"Fantasy, Animation, Comedy, Family, Adventure, Music",https://letterboxd.com/film/trolls/
+48,Popstar: Never Stop Never Stopping,"Akiva Schaffer, Jorma Taccone",Andy Samberg; Jorma Taccone; Akiva Schaffer,"Comedy, Music",https://letterboxd.com/film/popstar-never-stop-never-stopping/
+49,Silence,Martin Scorsese,Andrew Garfield; Adam Driver; Liam Neeson,"History, Drama",https://letterboxd.com/film/silence/
 50,Central Intelligence,Rawson Marshall Thurber,Dwayne Johnson; Kevin Hart; Amy Ryan,"Comedy, Action",https://letterboxd.com/film/central-intelligence/

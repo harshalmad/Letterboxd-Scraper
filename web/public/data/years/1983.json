@@ -100,6 +100,18 @@
     },
     {
       "rank": 9,
+      "title": "Flashdance",
+      "url": "https://letterboxd.com/film/flashdance/",
+      "director": "Adrian Lyne",
+      "actors": [
+        "Jennifer Beals",
+        "Michael Nouri",
+        "Sunny Johnson"
+      ],
+      "genres": "Romance, Drama"
+    },
+    {
+      "rank": 10,
       "title": "Risky Business",
       "url": "https://letterboxd.com/film/risky-business/",
       "director": "Paul Brickman",
@@ -111,7 +123,7 @@
       "genres": "Drama, Comedy, Romance"
     },
     {
-      "rank": 10,
+      "rank": 11,
       "title": "Trading Places",
       "url": "https://letterboxd.com/film/trading-places/",
       "director": "John Landis",
@@ -123,7 +135,7 @@
       "genres": "Comedy"
     },
     {
-      "rank": 11,
+      "rank": 12,
       "title": "The Hunger",
       "url": "https://letterboxd.com/film/the-hunger/",
       "director": "Tony Scott",
@@ -133,18 +145,6 @@
         "Susan Sarandon"
       ],
       "genres": "Drama, Horror"
-    },
-    {
-      "rank": 12,
-      "title": "Flashdance",
-      "url": "https://letterboxd.com/film/flashdance/",
-      "director": "Adrian Lyne",
-      "actors": [
-        "Jennifer Beals",
-        "Michael Nouri",
-        "Sunny Johnson"
-      ],
-      "genres": "Romance, Drama"
     },
     {
       "rank": 13,
@@ -160,18 +160,6 @@
     },
     {
       "rank": 14,
-      "title": "Angst",
-      "url": "https://letterboxd.com/film/angst/",
-      "director": "Gerald Kargl",
-      "actors": [
-        "Erwin Leder",
-        "Robert Hunger-Bühler",
-        "Silvia Rabenreither"
-      ],
-      "genres": "Thriller, Horror, Crime"
-    },
-    {
-      "rank": 15,
       "title": "WarGames",
       "url": "https://letterboxd.com/film/wargames/",
       "director": "John Badham",
@@ -181,6 +169,18 @@
         "John Wood"
       ],
       "genres": "Thriller, Science Fiction, Drama"
+    },
+    {
+      "rank": 15,
+      "title": "Angst",
+      "url": "https://letterboxd.com/film/angst/",
+      "director": "Gerald Kargl",
+      "actors": [
+        "Erwin Leder",
+        "Robert Hunger-Bühler",
+        "Silvia Rabenreither"
+      ],
+      "genres": "Thriller, Horror, Crime"
     },
     {
       "rank": 16,
@@ -280,18 +280,6 @@
     },
     {
       "rank": 24,
-      "title": "Tender Mercies",
-      "url": "https://letterboxd.com/film/tender-mercies/",
-      "director": "Bruce Beresford",
-      "actors": [
-        "Robert Duvall",
-        "Tess Harper",
-        "Betty Buckley"
-      ],
-      "genres": "Music, Drama, Romance"
-    },
-    {
-      "rank": 25,
       "title": "Sans Soleil",
       "url": "https://letterboxd.com/film/sans-soleil/",
       "director": "Chris Marker",
@@ -303,7 +291,7 @@
       "genres": "Documentary"
     },
     {
-      "rank": 26,
+      "rank": 25,
       "title": "Local Hero",
       "url": "https://letterboxd.com/film/local-hero/",
       "director": "Bill Forsyth",
@@ -313,6 +301,18 @@
         "Denis Lawson"
       ],
       "genres": "Drama, Comedy"
+    },
+    {
+      "rank": 26,
+      "title": "Tender Mercies",
+      "url": "https://letterboxd.com/film/tender-mercies/",
+      "director": "Bruce Beresford",
+      "actors": [
+        "Robert Duvall",
+        "Tess Harper",
+        "Betty Buckley"
+      ],
+      "genres": "Music, Drama, Romance"
     },
     {
       "rank": 27,
@@ -376,6 +376,18 @@
     },
     {
       "rank": 32,
+      "title": "Pauline at the Beach",
+      "url": "https://letterboxd.com/film/pauline-at-the-beach/",
+      "director": "Éric Rohmer",
+      "actors": [
+        "Amanda Langlet",
+        "Arielle Dombasle",
+        "Pascal Greggory"
+      ],
+      "genres": "Romance, Drama, Comedy"
+    },
+    {
+      "rank": 33,
       "title": "L'Argent",
       "url": "https://letterboxd.com/film/largent-1983/",
       "director": "Robert Bresson",
@@ -387,7 +399,7 @@
       "genres": "Drama, Crime"
     },
     {
-      "rank": 33,
+      "rank": 34,
       "title": "El Sur",
       "url": "https://letterboxd.com/film/el-sur/",
       "director": "Víctor Erice",
@@ -397,18 +409,6 @@
         "Icíar Bollaín"
       ],
       "genres": "Drama"
-    },
-    {
-      "rank": 34,
-      "title": "Pauline at the Beach",
-      "url": "https://letterboxd.com/film/pauline-at-the-beach/",
-      "director": "Éric Rohmer",
-      "actors": [
-        "Amanda Langlet",
-        "Arielle Dombasle",
-        "Pascal Greggory"
-      ],
-      "genres": "Romance, Drama, Comedy"
     },
     {
       "rank": 35,
@@ -448,6 +448,18 @@
     },
     {
       "rank": 38,
+      "title": "Superman III",
+      "url": "https://letterboxd.com/film/superman-iii/",
+      "director": "Richard Lester",
+      "actors": [
+        "Christopher Reeve",
+        "Richard Pryor",
+        "Jackie Cooper"
+      ],
+      "genres": "Comedy, Adventure, Action, Science Fiction"
+    },
+    {
+      "rank": 39,
       "title": "Twilight Zone: The Movie",
       "url": "https://letterboxd.com/film/twilight-zone-the-movie/",
       "director": "John Landis, Joe Dante, Steven Spielberg, George Miller",
@@ -459,7 +471,7 @@
       "genres": "Science Fiction, Horror, Fantasy"
     },
     {
-      "rank": 39,
+      "rank": 40,
       "title": "The Boxer's Omen",
       "url": "https://letterboxd.com/film/the-boxers-omen/",
       "director": "Kuei Chih-hung",
@@ -469,18 +481,6 @@
         "Wai Ka-Man"
       ],
       "genres": "Action, Horror, Fantasy"
-    },
-    {
-      "rank": 40,
-      "title": "Superman III",
-      "url": "https://letterboxd.com/film/superman-iii/",
-      "director": "Richard Lester",
-      "actors": [
-        "Christopher Reeve",
-        "Richard Pryor",
-        "Jackie Cooper"
-      ],
-      "genres": "Comedy, Adventure, Action, Science Fiction"
     },
     {
       "rank": 41,
@@ -496,6 +496,17 @@
     },
     {
       "rank": 42,
+      "title": "Heroic Times",
+      "url": "https://letterboxd.com/film/heroic-times/",
+      "director": "József Gémes",
+      "actors": [
+        "Adrienne Csengery",
+        "Gyula Szabó"
+      ],
+      "genres": "History, Animation, War"
+    },
+    {
+      "rank": 43,
       "title": "The Right Stuff",
       "url": "https://letterboxd.com/film/the-right-stuff/",
       "director": "Philip Kaufman",
@@ -507,30 +518,7 @@
       "genres": "Drama, History, Adventure"
     },
     {
-      "rank": 43,
-      "title": "Heroic Times",
-      "url": "https://letterboxd.com/film/heroic-times/",
-      "director": "József Gémes",
-      "actors": [
-        "Adrienne Csengery",
-        "Gyula Szabó"
-      ],
-      "genres": "History, Animation, War"
-    },
-    {
       "rank": 44,
-      "title": "Rock & Rule",
-      "url": "https://letterboxd.com/film/rock-rule/",
-      "director": "Clive A. Smith",
-      "actors": [
-        "Don Francks",
-        "Lou Reed",
-        "Susan Roman"
-      ],
-      "genres": "Animation, Adventure, Fantasy"
-    },
-    {
-      "rank": 45,
       "title": "Jaws 3-D",
       "url": "https://letterboxd.com/film/jaws-3-d/",
       "director": "Joe Alves",
@@ -542,27 +530,27 @@
       "genres": "Horror, Thriller"
     },
     {
+      "rank": 45,
+      "title": "Rock & Rule",
+      "url": "https://letterboxd.com/film/rock-rule/",
+      "director": "Clive A. Smith",
+      "actors": [
+        "Don Francks",
+        "Lou Reed",
+        "Susan Roman"
+      ],
+      "genres": "Animation, Adventure, Fantasy"
+    },
+    {
       "rank": 46,
       "title": "Dimensions of Dialogue",
       "url": "https://letterboxd.com/film/dimensions-of-dialogue/",
       "director": "Jan Švankmajer",
       "actors": [],
-      "genres": "Animation, Comedy"
+      "genres": "Fantasy, Horror, Drama, Animation, Comedy"
     },
     {
       "rank": 47,
-      "title": "Silkwood",
-      "url": "https://letterboxd.com/film/silkwood/",
-      "director": "Mike Nichols",
-      "actors": [
-        "Meryl Streep",
-        "Kurt Russell",
-        "Cher"
-      ],
-      "genres": "Drama"
-    },
-    {
-      "rank": 48,
       "title": "Fire and Ice",
       "url": "https://letterboxd.com/film/fire-and-ice/",
       "director": "Ralph Bakshi",
@@ -572,6 +560,18 @@
         "Steve Sandor"
       ],
       "genres": "Animation, Adventure, Fantasy, Science Fiction"
+    },
+    {
+      "rank": 48,
+      "title": "Silkwood",
+      "url": "https://letterboxd.com/film/silkwood/",
+      "director": "Mike Nichols",
+      "actors": [
+        "Meryl Streep",
+        "Kurt Russell",
+        "Cher"
+      ],
+      "genres": "Drama"
     },
     {
       "rank": 49,
@@ -587,15 +587,15 @@
     },
     {
       "rank": 50,
-      "title": "Deathstalker",
-      "url": "https://letterboxd.com/film/deathstalker/",
-      "director": "James Sbardellati",
+      "title": "Krull",
+      "url": "https://letterboxd.com/film/krull/",
+      "director": "Peter Yates",
       "actors": [
-        "Rick Hill",
-        "Barbi Benton",
-        "Richard Brooker"
+        "Ken Marshall",
+        "Lysette Anthony",
+        "Freddie Jones"
       ],
-      "genres": "Fantasy, Action"
+      "genres": "Science Fiction, Action, Adventure, Fantasy"
     }
   ]
 }

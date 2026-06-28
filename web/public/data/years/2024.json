@@ -100,18 +100,6 @@
     },
     {
       "rank": 9,
-      "title": "The Life of Chuck",
-      "url": "https://letterboxd.com/film/the-life-of-chuck/",
-      "director": "Mike Flanagan",
-      "actors": [
-        "Tom Hiddleston",
-        "Benjamin Pajak",
-        "Nick Offerman"
-      ],
-      "genres": "Drama, Fantasy"
-    },
-    {
-      "rank": 10,
       "title": "Nosferatu",
       "url": "https://letterboxd.com/film/nosferatu-2024/",
       "director": "Robert Eggers",
@@ -123,19 +111,7 @@
       "genres": "Fantasy, Horror"
     },
     {
-      "rank": 11,
-      "title": "Conclave",
-      "url": "https://letterboxd.com/film/conclave/",
-      "director": "Edward Berger",
-      "actors": [
-        "Ralph Fiennes",
-        "Stanley Tucci",
-        "John Lithgow"
-      ],
-      "genres": "Drama, Thriller"
-    },
-    {
-      "rank": 12,
+      "rank": 10,
       "title": "The Wild Robot",
       "url": "https://letterboxd.com/film/the-wild-robot/",
       "director": "Chris Sanders",
@@ -145,6 +121,30 @@
         "Kit Connor"
       ],
       "genres": "Adventure, Animation, Family, Science Fiction"
+    },
+    {
+      "rank": 11,
+      "title": "The Life of Chuck",
+      "url": "https://letterboxd.com/film/the-life-of-chuck/",
+      "director": "Mike Flanagan",
+      "actors": [
+        "Tom Hiddleston",
+        "Benjamin Pajak",
+        "Nick Offerman"
+      ],
+      "genres": "Drama, Fantasy"
+    },
+    {
+      "rank": 12,
+      "title": "Conclave",
+      "url": "https://letterboxd.com/film/conclave/",
+      "director": "Edward Berger",
+      "actors": [
+        "Ralph Fiennes",
+        "Stanley Tucci",
+        "John Lithgow"
+      ],
+      "genres": "Drama, Thriller"
     },
     {
       "rank": 13,
@@ -204,18 +204,6 @@
     },
     {
       "rank": 18,
-      "title": "Trap",
-      "url": "https://letterboxd.com/film/trap-2024/",
-      "director": "M. Night Shyamalan",
-      "actors": [
-        "Josh Hartnett",
-        "Ariel Donoghue",
-        "Saleka Night Shyamalan"
-      ],
-      "genres": "Crime, Thriller, Horror"
-    },
-    {
-      "rank": 19,
       "title": "Look Back",
       "url": "https://letterboxd.com/film/look-back-2024/",
       "director": "Kiyotaka Oshiyama",
@@ -225,6 +213,18 @@
         "Yoichiro Saito"
       ],
       "genres": "Animation, Drama"
+    },
+    {
+      "rank": 19,
+      "title": "Trap",
+      "url": "https://letterboxd.com/film/trap-2024/",
+      "director": "M. Night Shyamalan",
+      "actors": [
+        "Josh Hartnett",
+        "Ariel Donoghue",
+        "Saleka Night Shyamalan"
+      ],
+      "genres": "Crime, Thriller, Horror"
     },
     {
       "rank": 20,
@@ -240,18 +240,6 @@
     },
     {
       "rank": 21,
-      "title": "We Live in Time",
-      "url": "https://letterboxd.com/film/we-live-in-time/",
-      "director": "John Crowley",
-      "actors": [
-        "Andrew Garfield",
-        "Florence Pugh",
-        "Grace Delaney"
-      ],
-      "genres": "Drama, Romance"
-    },
-    {
-      "rank": 22,
       "title": "Speak No Evil",
       "url": "https://letterboxd.com/film/speak-no-evil-2024/",
       "director": "James Watkins",
@@ -261,6 +249,18 @@
         "Scoot McNairy"
       ],
       "genres": "Thriller, Horror"
+    },
+    {
+      "rank": 22,
+      "title": "We Live in Time",
+      "url": "https://letterboxd.com/film/we-live-in-time/",
+      "director": "John Crowley",
+      "actors": [
+        "Andrew Garfield",
+        "Florence Pugh",
+        "Grace Delaney"
+      ],
+      "genres": "Drama, Romance"
     },
     {
       "rank": 23,
@@ -288,18 +288,6 @@
     },
     {
       "rank": 25,
-      "title": "We Bury the Dead",
-      "url": "https://letterboxd.com/film/we-bury-the-dead/",
-      "director": "Zak Hilditch",
-      "actors": [
-        "Daisy Ridley",
-        "Brenton Thwaites",
-        "Mark Coles Smith"
-      ],
-      "genres": "Thriller, Horror"
-    },
-    {
-      "rank": 26,
       "title": "Gladiator II",
       "url": "https://letterboxd.com/film/gladiator-ii/",
       "director": "Ridley Scott",
@@ -309,6 +297,18 @@
         "Pedro Pascal"
       ],
       "genres": "Drama, Action, Adventure"
+    },
+    {
+      "rank": 26,
+      "title": "We Bury the Dead",
+      "url": "https://letterboxd.com/film/we-bury-the-dead/",
+      "director": "Zak Hilditch",
+      "actors": [
+        "Daisy Ridley",
+        "Brenton Thwaites",
+        "Mark Coles Smith"
+      ],
+      "genres": "Thriller, Horror"
     },
     {
       "rank": 27,
@@ -432,18 +432,6 @@
     },
     {
       "rank": 37,
-      "title": "I'm Still Here",
-      "url": "https://letterboxd.com/film/im-still-here-2024/",
-      "director": "Walter Salles",
-      "actors": [
-        "Fernanda Torres",
-        "Fernanda Montenegro",
-        "Selton Mello"
-      ],
-      "genres": "Drama, History"
-    },
-    {
-      "rank": 38,
       "title": "Despicable Me 4",
       "url": "https://letterboxd.com/film/despicable-me-4/",
       "director": "Chris Renaud",
@@ -453,6 +441,18 @@
         "Will Ferrell"
       ],
       "genres": "Family, Action, Animation, Comedy, Science Fiction"
+    },
+    {
+      "rank": 38,
+      "title": "I'm Still Here",
+      "url": "https://letterboxd.com/film/im-still-here-2024/",
+      "director": "Walter Salles",
+      "actors": [
+        "Fernanda Torres",
+        "Fernanda Montenegro",
+        "Selton Mello"
+      ],
+      "genres": "Drama, History"
     },
     {
       "rank": 39,
@@ -502,18 +502,6 @@
     },
     {
       "rank": 43,
-      "title": "Butterfly",
-      "url": "https://letterboxd.com/film/butterfly-2024-1/",
-      "director": "Florence Miailhe",
-      "actors": [
-        "Fayçal Zafi",
-        "Jessica Jaouiche",
-        "Yassine Mestaoui"
-      ],
-      "genres": "Animation, Drama, History"
-    },
-    {
-      "rank": 44,
       "title": "Tarot",
       "url": "https://letterboxd.com/film/tarot-2024/",
       "director": "Spenser Cohen, Anna Halberg",
@@ -525,19 +513,7 @@
       "genres": "Horror"
     },
     {
-      "rank": 45,
-      "title": "Shelby Oaks",
-      "url": "https://letterboxd.com/film/shelby-oaks/",
-      "director": "Chris Stuckmann",
-      "actors": [
-        "Camille Sullivan",
-        "Sarah Durn",
-        "Brendan Sexton III"
-      ],
-      "genres": "Horror, Mystery"
-    },
-    {
-      "rank": 46,
+      "rank": 44,
       "title": "The Idea of You",
       "url": "https://letterboxd.com/film/the-idea-of-you-2024/",
       "director": "Michael Showalter",
@@ -547,6 +523,30 @@
         "Ella Rubin"
       ],
       "genres": "Drama, Romance, Comedy, Music"
+    },
+    {
+      "rank": 45,
+      "title": "Butterfly",
+      "url": "https://letterboxd.com/film/butterfly-2024-1/",
+      "director": "Florence Miailhe",
+      "actors": [
+        "Fayçal Zafi",
+        "Jessica Jaouiche",
+        "Yassine Mestaoui"
+      ],
+      "genres": "Animation, Drama, History"
+    },
+    {
+      "rank": 46,
+      "title": "Shelby Oaks",
+      "url": "https://letterboxd.com/film/shelby-oaks/",
+      "director": "Chris Stuckmann",
+      "actors": [
+        "Camille Sullivan",
+        "Sarah Durn",
+        "Brendan Sexton III"
+      ],
+      "genres": "Horror, Mystery"
     },
     {
       "rank": 47,

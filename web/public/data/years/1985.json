@@ -88,18 +88,6 @@
     },
     {
       "rank": 8,
-      "title": "Ran",
-      "url": "https://letterboxd.com/film/ran/",
-      "director": "Akira Kurosawa",
-      "actors": [
-        "Tatsuya Nakadai",
-        "Akira Terao",
-        "Jinpachi Nezu"
-      ],
-      "genres": "Drama, History, Action"
-    },
-    {
-      "rank": 9,
       "title": "The Goonies",
       "url": "https://letterboxd.com/film/the-goonies/",
       "director": "Richard Donner",
@@ -109,6 +97,18 @@
         "Jeff Cohen"
       ],
       "genres": "Adventure, Family, Comedy"
+    },
+    {
+      "rank": 9,
+      "title": "Ran",
+      "url": "https://letterboxd.com/film/ran/",
+      "director": "Akira Kurosawa",
+      "actors": [
+        "Tatsuya Nakadai",
+        "Akira Terao",
+        "Jinpachi Nezu"
+      ],
+      "genres": "Drama, History, Action"
     },
     {
       "rank": 10,
@@ -172,18 +172,6 @@
     },
     {
       "rank": 15,
-      "title": "Police Story",
-      "url": "https://letterboxd.com/film/police-story/",
-      "director": "Jackie Chan",
-      "actors": [
-        "Jackie Chan",
-        "Brigitte Lin",
-        "Maggie Cheung"
-      ],
-      "genres": "Comedy, Crime, Action"
-    },
-    {
-      "rank": 16,
       "title": "Desert Hearts",
       "url": "https://letterboxd.com/film/desert-hearts/",
       "director": "Donna Deitch",
@@ -193,6 +181,18 @@
         "Audra Lindley"
       ],
       "genres": "Drama, Romance"
+    },
+    {
+      "rank": 16,
+      "title": "Police Story",
+      "url": "https://letterboxd.com/film/police-story/",
+      "director": "Jackie Chan",
+      "actors": [
+        "Jackie Chan",
+        "Brigitte Lin",
+        "Maggie Cheung"
+      ],
+      "genres": "Comedy, Crime, Action"
     },
     {
       "rank": 17,
@@ -244,18 +244,6 @@
     },
     {
       "rank": 21,
-      "title": "Lost in America",
-      "url": "https://letterboxd.com/film/lost-in-america/",
-      "director": "Albert Brooks",
-      "actors": [
-        "Albert Brooks",
-        "Julie Hagerty",
-        "Michael Greene"
-      ],
-      "genres": "Comedy"
-    },
-    {
-      "rank": 22,
       "title": "Pee-wee's Big Adventure",
       "url": "https://letterboxd.com/film/pee-wees-big-adventure/",
       "director": "Tim Burton",
@@ -267,7 +255,7 @@
       "genres": "Adventure, Family, Comedy"
     },
     {
-      "rank": 23,
+      "rank": 22,
       "title": "The Stuff",
       "url": "https://letterboxd.com/film/the-stuff/",
       "director": "Larry Cohen",
@@ -279,7 +267,31 @@
       "genres": "Horror, Comedy, Science Fiction"
     },
     {
+      "rank": 23,
+      "title": "A Nightmare on Elm Street Part 2: Freddy's Revenge",
+      "url": "https://letterboxd.com/film/a-nightmare-on-elm-street-part-2-freddys-revenge/",
+      "director": "Jack Sholder",
+      "actors": [
+        "Robert Englund",
+        "Mark Patton",
+        "Kim Myers"
+      ],
+      "genres": "Horror"
+    },
+    {
       "rank": 24,
+      "title": "Lost in America",
+      "url": "https://letterboxd.com/film/lost-in-america/",
+      "director": "Albert Brooks",
+      "actors": [
+        "Albert Brooks",
+        "Julie Hagerty",
+        "Michael Greene"
+      ],
+      "genres": "Comedy"
+    },
+    {
+      "rank": 25,
       "title": "Legend",
       "url": "https://letterboxd.com/film/legend/",
       "director": "Ridley Scott",
@@ -291,7 +303,7 @@
       "genres": "Adventure, Fantasy"
     },
     {
-      "rank": 25,
+      "rank": 26,
       "title": "The Color Purple",
       "url": "https://letterboxd.com/film/the-color-purple/",
       "director": "Steven Spielberg",
@@ -301,18 +313,6 @@
         "Margaret Avery"
       ],
       "genres": "History, Drama"
-    },
-    {
-      "rank": 26,
-      "title": "A Nightmare on Elm Street Part 2: Freddy's Revenge",
-      "url": "https://letterboxd.com/film/a-nightmare-on-elm-street-part-2-freddys-revenge/",
-      "director": "Jack Sholder",
-      "actors": [
-        "Robert Englund",
-        "Mark Patton",
-        "Kim Myers"
-      ],
-      "genres": "Horror"
     },
     {
       "rank": 27,
@@ -376,6 +376,18 @@
     },
     {
       "rank": 32,
+      "title": "Day of the Dead",
+      "url": "https://letterboxd.com/film/day-of-the-dead/",
+      "director": "George A. Romero",
+      "actors": [
+        "Lori Cardille",
+        "Terry Alexander",
+        "Joseph Pilato"
+      ],
+      "genres": "Mystery, Drama, Horror"
+    },
+    {
+      "rank": 33,
       "title": "Mad Max Beyond Thunderdome",
       "url": "https://letterboxd.com/film/mad-max-beyond-thunderdome/",
       "director": "George Miller, George Ogilvie",
@@ -387,7 +399,7 @@
       "genres": "Science Fiction, Adventure, Action"
     },
     {
-      "rank": 33,
+      "rank": 34,
       "title": "Vampire Hunter D",
       "url": "https://letterboxd.com/film/vampire-hunter-d/",
       "director": "Toyoo Ashida",
@@ -397,18 +409,6 @@
         "Seizo Kato"
       ],
       "genres": "Fantasy, Animation, Horror"
-    },
-    {
-      "rank": 34,
-      "title": "Day of the Dead",
-      "url": "https://letterboxd.com/film/day-of-the-dead/",
-      "director": "George A. Romero",
-      "actors": [
-        "Lori Cardille",
-        "Terry Alexander",
-        "Joseph Pilato"
-      ],
-      "genres": "Mystery, Drama, Horror"
     },
     {
       "rank": 35,
@@ -460,15 +460,15 @@
     },
     {
       "rank": 39,
-      "title": "Taipei Story",
-      "url": "https://letterboxd.com/film/taipei-story/",
-      "director": "Edward Yang",
+      "title": "The Purple Rose of Cairo",
+      "url": "https://letterboxd.com/film/the-purple-rose-of-cairo/",
+      "director": "Woody Allen",
       "actors": [
-        "Tsai Chin",
-        "Hou Hsiao-hsien",
-        "Wu Nien-jen"
+        "Mia Farrow",
+        "Jeff Daniels",
+        "Danny Aiello"
       ],
-      "genres": "Drama"
+      "genres": "Comedy, Romance, Fantasy"
     },
     {
       "rank": 40,
@@ -484,15 +484,15 @@
     },
     {
       "rank": 41,
-      "title": "The Purple Rose of Cairo",
-      "url": "https://letterboxd.com/film/the-purple-rose-of-cairo/",
-      "director": "Woody Allen",
+      "title": "Taipei Story",
+      "url": "https://letterboxd.com/film/taipei-story/",
+      "director": "Edward Yang",
       "actors": [
-        "Mia Farrow",
-        "Jeff Daniels",
-        "Danny Aiello"
+        "Tsai Chin",
+        "Hou Hsiao-hsien",
+        "Wu Nien-jen"
       ],
-      "genres": "Comedy, Romance, Fantasy"
+      "genres": "Drama"
     },
     {
       "rank": 42,
@@ -544,18 +544,6 @@
     },
     {
       "rank": 46,
-      "title": "Teen Wolf",
-      "url": "https://letterboxd.com/film/teen-wolf/",
-      "director": "Rod Daniel",
-      "actors": [
-        "Michael J. Fox",
-        "James Hampton",
-        "Susan Ursitti"
-      ],
-      "genres": "Comedy, Romance, Fantasy"
-    },
-    {
-      "rank": 47,
       "title": "St. Elmo's Fire",
       "url": "https://letterboxd.com/film/st-elmos-fire/",
       "director": "Joel Schumacher",
@@ -565,6 +553,18 @@
         "Andrew McCarthy"
       ],
       "genres": "Romance, Drama, Comedy"
+    },
+    {
+      "rank": 47,
+      "title": "Teen Wolf",
+      "url": "https://letterboxd.com/film/teen-wolf/",
+      "director": "Rod Daniel",
+      "actors": [
+        "Michael J. Fox",
+        "James Hampton",
+        "Susan Ursitti"
+      ],
+      "genres": "Comedy, Romance, Fantasy"
     },
     {
       "rank": 48,
@@ -580,18 +580,6 @@
     },
     {
       "rank": 49,
-      "title": "The Official Story",
-      "url": "https://letterboxd.com/film/the-official-story/",
-      "director": "Luis Puenzo",
-      "actors": [
-        "Norma Aleandro",
-        "Héctor Alterio",
-        "Hugo Arana"
-      ],
-      "genres": "History, Drama"
-    },
-    {
-      "rank": 50,
       "title": "Just One of the Guys",
       "url": "https://letterboxd.com/film/just-one-of-the-guys/",
       "director": "Lisa Gottlieb",
@@ -601,6 +589,18 @@
         "Billy Jayne"
       ],
       "genres": "Comedy, Romance"
+    },
+    {
+      "rank": 50,
+      "title": "The Official Story",
+      "url": "https://letterboxd.com/film/the-official-story/",
+      "director": "Luis Puenzo",
+      "actors": [
+        "Norma Aleandro",
+        "Héctor Alterio",
+        "Hugo Arana"
+      ],
+      "genres": "History, Drama"
     }
   ]
 }

@@ -52,18 +52,6 @@
     },
     {
       "rank": 5,
-      "title": "Life of Brian",
-      "url": "https://letterboxd.com/film/life-of-brian/",
-      "director": "Terry Jones",
-      "actors": [
-        "Graham Chapman",
-        "John Cleese",
-        "Terry Gilliam"
-      ],
-      "genres": "Comedy"
-    },
-    {
-      "rank": 6,
       "title": "Rocky II",
       "url": "https://letterboxd.com/film/rocky-ii/",
       "director": "Sylvester Stallone",
@@ -73,6 +61,18 @@
         "Burt Young"
       ],
       "genres": "Drama"
+    },
+    {
+      "rank": 6,
+      "title": "Life of Brian",
+      "url": "https://letterboxd.com/film/life-of-brian/",
+      "director": "Terry Jones",
+      "actors": [
+        "Graham Chapman",
+        "John Cleese",
+        "Terry Gilliam"
+      ],
+      "genres": "Comedy"
     },
     {
       "rank": 7,
@@ -244,18 +244,6 @@
     },
     {
       "rank": 21,
-      "title": "Star Trek: The Motion Picture",
-      "url": "https://letterboxd.com/film/star-trek-the-motion-picture/",
-      "director": "Robert Wise",
-      "actors": [
-        "William Shatner",
-        "Leonard Nimoy",
-        "DeForest Kelley"
-      ],
-      "genres": "Mystery, Science Fiction, Adventure"
-    },
-    {
-      "rank": 22,
       "title": "The Jerk",
       "url": "https://letterboxd.com/film/the-jerk/",
       "director": "Carl Reiner",
@@ -265,6 +253,18 @@
         "Catlin Adams"
       ],
       "genres": "Comedy"
+    },
+    {
+      "rank": 22,
+      "title": "Star Trek: The Motion Picture",
+      "url": "https://letterboxd.com/film/star-trek-the-motion-picture/",
+      "director": "Robert Wise",
+      "actors": [
+        "William Shatner",
+        "Leonard Nimoy",
+        "DeForest Kelley"
+      ],
+      "genres": "Mystery, Science Fiction, Adventure"
     },
     {
       "rank": 23,
@@ -292,18 +292,6 @@
     },
     {
       "rank": 25,
-      "title": "French Fried Vacation 2",
-      "url": "https://letterboxd.com/film/french-fried-vacation-2/",
-      "director": "Patrice Leconte",
-      "actors": [
-        "Thierry Lhermitte",
-        "Michel Blanc",
-        "Christian Clavier"
-      ],
-      "genres": "Comedy"
-    },
-    {
-      "rank": 26,
       "title": "Zombie Flesh Eaters",
       "url": "https://letterboxd.com/film/zombie-flesh-eaters/",
       "director": "Lucio Fulci",
@@ -315,7 +303,7 @@
       "genres": "Horror"
     },
     {
-      "rank": 27,
+      "rank": 26,
       "title": "The Amityville Horror",
       "url": "https://letterboxd.com/film/the-amityville-horror/",
       "director": "Stuart Rosenberg",
@@ -325,6 +313,18 @@
         "Rod Steiger"
       ],
       "genres": "Horror"
+    },
+    {
+      "rank": 27,
+      "title": "French Fried Vacation 2",
+      "url": "https://letterboxd.com/film/french-fried-vacation-2/",
+      "director": "Patrice Leconte",
+      "actors": [
+        "Thierry Lhermitte",
+        "Michel Blanc",
+        "Christian Clavier"
+      ],
+      "genres": "Comedy"
     },
     {
       "rank": 28,
@@ -395,18 +395,6 @@
     },
     {
       "rank": 34,
-      "title": "Real Life",
-      "url": "https://letterboxd.com/film/real-life/",
-      "director": "Albert Brooks",
-      "actors": [
-        "Albert Brooks",
-        "Charles Grodin",
-        "Frances Lee McCain"
-      ],
-      "genres": "Comedy"
-    },
-    {
-      "rank": 35,
       "title": "1941",
       "url": "https://letterboxd.com/film/1941/",
       "director": "Steven Spielberg",
@@ -418,19 +406,19 @@
       "genres": "War, Comedy"
     },
     {
-      "rank": 36,
-      "title": "The Plumber",
-      "url": "https://letterboxd.com/film/the-plumber/",
-      "director": "Peter Weir",
+      "rank": 35,
+      "title": "Real Life",
+      "url": "https://letterboxd.com/film/real-life/",
+      "director": "Albert Brooks",
       "actors": [
-        "Ivar Kants",
-        "Judy Morris",
-        "Robert Coleby"
+        "Albert Brooks",
+        "Charles Grodin",
+        "Frances Lee McCain"
       ],
-      "genres": "Thriller, TV Movie, Drama"
+      "genres": "Comedy"
     },
     {
-      "rank": 37,
+      "rank": 36,
       "title": "The Driller Killer",
       "url": "https://letterboxd.com/film/the-driller-killer/",
       "director": "Abel Ferrara",
@@ -442,7 +430,7 @@
       "genres": "Horror"
     },
     {
-      "rank": 38,
+      "rank": 37,
       "title": "Breaking Away",
       "url": "https://letterboxd.com/film/breaking-away/",
       "director": "Peter Yates",
@@ -452,6 +440,18 @@
         "Daniel Stern"
       ],
       "genres": "Comedy, Drama"
+    },
+    {
+      "rank": 38,
+      "title": "The Plumber",
+      "url": "https://letterboxd.com/film/the-plumber/",
+      "director": "Peter Weir",
+      "actors": [
+        "Ivar Kants",
+        "Judy Morris",
+        "Robert Coleby"
+      ],
+      "genres": "Thriller, TV Movie, Drama"
     },
     {
       "rank": 39,
@@ -467,18 +467,6 @@
     },
     {
       "rank": 40,
-      "title": "Scum",
-      "url": "https://letterboxd.com/film/scum/",
-      "director": "Alan Clarke",
-      "actors": [
-        "Ray Winstone",
-        "Mick Ford",
-        "Julian Firth"
-      ],
-      "genres": "Crime, Drama"
-    },
-    {
-      "rank": 41,
       "title": "Camera Buff",
       "url": "https://letterboxd.com/film/camera-buff/",
       "director": "Krzysztof Kieślowski",
@@ -488,6 +476,18 @@
         "Ewa Pokas"
       ],
       "genres": "Drama"
+    },
+    {
+      "rank": 41,
+      "title": "Scum",
+      "url": "https://letterboxd.com/film/scum/",
+      "director": "Alan Clarke",
+      "actors": [
+        "Ray Winstone",
+        "Mick Ford",
+        "Julian Firth"
+      ],
+      "genres": "Crime, Drama"
     },
     {
       "rank": 42,
@@ -551,18 +551,6 @@
     },
     {
       "rank": 47,
-      "title": "The Man Who Stole the Sun",
-      "url": "https://letterboxd.com/film/the-man-who-stole-the-sun/",
-      "director": "Kazuhiko Hasegawa",
-      "actors": [
-        "Kenji Sawada",
-        "Bunta Sugawara",
-        "Kimiko Ikegami"
-      ],
-      "genres": "Drama, Thriller, Crime"
-    },
-    {
-      "rank": 48,
       "title": "Over the Edge",
       "url": "https://letterboxd.com/film/over-the-edge/",
       "director": "Jonathan Kaplan",
@@ -572,6 +560,18 @@
         "Matt Dillon"
       ],
       "genres": "Crime, Drama"
+    },
+    {
+      "rank": 48,
+      "title": "The Man Who Stole the Sun",
+      "url": "https://letterboxd.com/film/the-man-who-stole-the-sun/",
+      "director": "Kazuhiko Hasegawa",
+      "actors": [
+        "Kenji Sawada",
+        "Bunta Sugawara",
+        "Kimiko Ikegami"
+      ],
+      "genres": "Drama, Thriller, Crime"
     },
     {
       "rank": 49,

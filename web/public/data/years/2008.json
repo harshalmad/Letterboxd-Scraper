@@ -328,18 +328,6 @@
     },
     {
       "rank": 28,
-      "title": "Synecdoche, New York",
-      "url": "https://letterboxd.com/film/synecdoche-new-york/",
-      "director": "Charlie Kaufman",
-      "actors": [
-        "Philip Seymour Hoffman",
-        "Samantha Morton",
-        "Michelle Williams"
-      ],
-      "genres": "Drama"
-    },
-    {
-      "rank": 29,
       "title": "Gran Torino",
       "url": "https://letterboxd.com/film/gran-torino/",
       "director": "Clint Eastwood",
@@ -347,6 +335,18 @@
         "Clint Eastwood",
         "Christopher Carley",
         "Bee Vang"
+      ],
+      "genres": "Drama"
+    },
+    {
+      "rank": 29,
+      "title": "Synecdoche, New York",
+      "url": "https://letterboxd.com/film/synecdoche-new-york/",
+      "director": "Charlie Kaufman",
+      "actors": [
+        "Philip Seymour Hoffman",
+        "Samantha Morton",
+        "Michelle Williams"
       ],
       "genres": "Drama"
     },

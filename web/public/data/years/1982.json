@@ -136,18 +136,6 @@
     },
     {
       "rank": 12,
-      "title": "Tron",
-      "url": "https://letterboxd.com/film/tron/",
-      "director": "Steven Lisberger",
-      "actors": [
-        "Jeff Bridges",
-        "Bruce Boxleitner",
-        "David Warner"
-      ],
-      "genres": "Adventure, Action, Science Fiction"
-    },
-    {
-      "rank": 13,
       "title": "Friday the 13th Part III",
       "url": "https://letterboxd.com/film/friday-the-13th-part-iii/",
       "director": "Steve Miner",
@@ -157,6 +145,18 @@
         "Catherine Parks"
       ],
       "genres": "Thriller, Horror"
+    },
+    {
+      "rank": 13,
+      "title": "Tron",
+      "url": "https://letterboxd.com/film/tron/",
+      "director": "Steven Lisberger",
+      "actors": [
+        "Jeff Bridges",
+        "Bruce Boxleitner",
+        "David Warner"
+      ],
+      "genres": "Adventure, Action, Science Fiction"
     },
     {
       "rank": 14,
@@ -374,15 +374,15 @@
     },
     {
       "rank": 32,
-      "title": "Smithereens",
-      "url": "https://letterboxd.com/film/smithereens/",
-      "director": "Susan Seidelman",
+      "title": "Querelle",
+      "url": "https://letterboxd.com/film/querelle/",
+      "director": "Rainer Werner Fassbinder",
       "actors": [
-        "Susan Berman",
-        "Brad Rijn",
-        "Richard Hell"
+        "Brad Davis",
+        "Franco Nero",
+        "Jeanne Moreau"
       ],
-      "genres": "Romance, Drama, Music"
+      "genres": "Crime, Drama"
     },
     {
       "rank": 33,
@@ -398,30 +398,18 @@
     },
     {
       "rank": 34,
-      "title": "Querelle",
-      "url": "https://letterboxd.com/film/querelle/",
-      "director": "Rainer Werner Fassbinder",
+      "title": "Smithereens",
+      "url": "https://letterboxd.com/film/smithereens/",
+      "director": "Susan Seidelman",
       "actors": [
-        "Brad Davis",
-        "Franco Nero",
-        "Jeanne Moreau"
+        "Susan Berman",
+        "Brad Rijn",
+        "Richard Hell"
       ],
-      "genres": "Crime, Drama"
+      "genres": "Romance, Drama, Music"
     },
     {
       "rank": 35,
-      "title": "Evil Under the Sun",
-      "url": "https://letterboxd.com/film/evil-under-the-sun/",
-      "director": "Guy Hamilton",
-      "actors": [
-        "Peter Ustinov",
-        "James Mason",
-        "Sylvia Miles"
-      ],
-      "genres": "Drama, Crime, Thriller, Mystery"
-    },
-    {
-      "rank": 36,
       "title": "Creepshow",
       "url": "https://letterboxd.com/film/creepshow/",
       "director": "George A. Romero",
@@ -431,6 +419,18 @@
         "Fritz Weaver"
       ],
       "genres": "Comedy, Horror"
+    },
+    {
+      "rank": 36,
+      "title": "Evil Under the Sun",
+      "url": "https://letterboxd.com/film/evil-under-the-sun/",
+      "director": "Guy Hamilton",
+      "actors": [
+        "Peter Ustinov",
+        "James Mason",
+        "Sylvia Miles"
+      ],
+      "genres": "Drama, Crime, Thriller, Mystery"
     },
     {
       "rank": 37,
@@ -494,18 +494,6 @@
     },
     {
       "rank": 42,
-      "title": "The Last Horror Film",
-      "url": "https://letterboxd.com/film/the-last-horror-film/",
-      "director": "David Winters",
-      "actors": [
-        "Caroline Munro",
-        "Joe Spinell",
-        "Judd Hamilton"
-      ],
-      "genres": "Comedy, Horror"
-    },
-    {
-      "rank": 43,
       "title": "An Officer and a Gentleman",
       "url": "https://letterboxd.com/film/an-officer-and-a-gentleman/",
       "director": "Taylor Hackford",
@@ -517,19 +505,19 @@
       "genres": "Drama, Romance"
     },
     {
-      "rank": 44,
-      "title": "Gandhi",
-      "url": "https://letterboxd.com/film/gandhi/",
-      "director": "Richard Attenborough",
+      "rank": 43,
+      "title": "The Last Horror Film",
+      "url": "https://letterboxd.com/film/the-last-horror-film/",
+      "director": "David Winters",
       "actors": [
-        "Ben Kingsley",
-        "Candice Bergen",
-        "Edward Fox"
+        "Caroline Munro",
+        "Joe Spinell",
+        "Judd Hamilton"
       ],
-      "genres": "Drama, History"
+      "genres": "Comedy, Horror"
     },
     {
-      "rank": 45,
+      "rank": 44,
       "title": "Victor/Victoria",
       "url": "https://letterboxd.com/film/victor-victoria/",
       "director": "Blake Edwards",
@@ -539,6 +527,18 @@
         "Robert Preston"
       ],
       "genres": "Comedy, Romance, Music"
+    },
+    {
+      "rank": 45,
+      "title": "Gandhi",
+      "url": "https://letterboxd.com/film/gandhi/",
+      "director": "Richard Attenborough",
+      "actors": [
+        "Ben Kingsley",
+        "Candice Bergen",
+        "Edward Fox"
+      ],
+      "genres": "Drama, History"
     },
     {
       "rank": 46,
@@ -578,16 +578,6 @@
     },
     {
       "rank": 49,
-      "title": "Thunder",
-      "url": "https://letterboxd.com/film/thunder-1982/",
-      "director": "Takashi Ito",
-      "actors": [
-        "Seiko Nakano"
-      ],
-      "genres": "Fantasy, Animation, Mystery"
-    },
-    {
-      "rank": 50,
       "title": "The Living Dead Girl",
       "url": "https://letterboxd.com/film/the-living-dead-girl/",
       "director": "Jean Rollin",
@@ -597,6 +587,16 @@
         "Mike Marshall"
       ],
       "genres": "Horror"
+    },
+    {
+      "rank": 50,
+      "title": "Thunder",
+      "url": "https://letterboxd.com/film/thunder-1982/",
+      "director": "Takashi Ito",
+      "actors": [
+        "Seiko Nakano"
+      ],
+      "genres": "Fantasy, Animation, Mystery"
     }
   ]
 }

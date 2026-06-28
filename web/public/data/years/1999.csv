@@ -7,9 +7,9 @@ rank,title,director,actors,genres,url
 6,The Virgin Suicides,Sofia Coppola,Kirsten Dunst; Josh Hartnett; James Woods,"Romance, Drama",https://letterboxd.com/film/the-virgin-suicides/
 7,But I'm a Cheerleader,Jamie Babbit,Natasha Lyonne; Clea DuVall; Cathy Moriarty,"Romance, Drama, Comedy",https://letterboxd.com/film/but-im-a-cheerleader/
 8,Notting Hill,Roger Michell,Julia Roberts; Hugh Grant; Gina McKee,"Comedy, Romance",https://letterboxd.com/film/notting-hill/
-9,"Girl, Interrupted",James Mangold,Winona Ryder; Angelina Jolie; Clea DuVall,Drama,https://letterboxd.com/film/girl-interrupted/
-10,The Blair Witch Project,"Daniel Myrick, Eduardo Sánchez",Heather Donahue; Joshua Leonard; Michael C. Williams,"Mystery, Horror",https://letterboxd.com/film/the-blair-witch-project/
-11,Toy Story 2,John Lasseter,Tom Hanks; Tim Allen; Joan Cusack,"Comedy, Family, Animation",https://letterboxd.com/film/toy-story-2/
+9,Toy Story 2,John Lasseter,Tom Hanks; Tim Allen; Joan Cusack,"Comedy, Family, Animation",https://letterboxd.com/film/toy-story-2/
+10,"Girl, Interrupted",James Mangold,Winona Ryder; Angelina Jolie; Clea DuVall,Drama,https://letterboxd.com/film/girl-interrupted/
+11,The Blair Witch Project,"Daniel Myrick, Eduardo Sánchez",Heather Donahue; Joshua Leonard; Michael C. Williams,"Mystery, Horror",https://letterboxd.com/film/the-blair-witch-project/
 12,The Sixth Sense,M. Night Shyamalan,Bruce Willis; Haley Joel Osment; Toni Collette,"Thriller, Mystery, Horror, Drama",https://letterboxd.com/film/the-sixth-sense/
 13,The Green Mile,Frank Darabont,Tom Hanks; David Morse; Bonnie Hunt,"Drama, Crime, Fantasy",https://letterboxd.com/film/the-green-mile/
 14,Magnolia,Paul Thomas Anderson,Tom Cruise; Philip Baker Hall; Philip Seymour Hoffman,Drama,https://letterboxd.com/film/magnolia/
@@ -27,19 +27,19 @@ rank,title,director,actors,genres,url
 26,Tarzan,"Chris Buck, Kevin Lima",Tony Goldwyn; Minnie Driver; Glenn Close,"Family, Animation, Adventure",https://letterboxd.com/film/tarzan/
 27,Jawbreaker,Darren Stein,Rose McGowan; Rebecca Gayheart; Julie Benz,"Comedy, Thriller, Crime",https://letterboxd.com/film/jawbreaker/
 28,The Straight Story,David Lynch,Richard Farnsworth; Sissy Spacek; Jane Galloway Heitz,Drama,https://letterboxd.com/film/the-straight-story/
-29,Office Space,,,,https://letterboxd.com/film/office-space/
-30,Audition,Takashi Miike,Ryo Ishibashi; Eihi Shiina; Jun Kunimura,"Drama, Horror",https://letterboxd.com/film/audition/
+29,Audition,Takashi Miike,Ryo Ishibashi; Eihi Shiina; Jun Kunimura,"Drama, Horror",https://letterboxd.com/film/audition/
+30,Office Space,,,,https://letterboxd.com/film/office-space/
 31,Beau Travail,Claire Denis,Denis Lavant; Michel Subor; Grégoire Colin,Drama,https://letterboxd.com/film/beau-travail/
 32,Ghost Dog: The Way of the Samurai,Jim Jarmusch,Forest Whitaker; John Tormey; Cliff Gorman,"Crime, Drama",https://letterboxd.com/film/ghost-dog-the-way-of-the-samurai/
-33,Bleeder,Nicolas Winding Refn,Kim Bodnia; Mads Mikkelsen; Rikke Louise Andersson,"Drama, Crime",https://letterboxd.com/film/bleeder/
-34,Drive Me Crazy,John Schultz,Melissa Joan Hart; Adrian Grenier; Susan May Pratt,"Drama, Comedy, Romance",https://letterboxd.com/film/drive-me-crazy/
-35,Election,Alexander Payne,Matthew Broderick; Reese Witherspoon; Chris Klein,"Drama, Comedy",https://letterboxd.com/film/election/
-36,Double Jeopardy,Bruce Beresford,Tommy Lee Jones; Ashley Judd; Benjamin Weir,"Mystery, Thriller, Crime",https://letterboxd.com/film/double-jeopardy-1999/
+33,Drive Me Crazy,John Schultz,Melissa Joan Hart; Adrian Grenier; Susan May Pratt,"Drama, Comedy, Romance",https://letterboxd.com/film/drive-me-crazy/
+34,Double Jeopardy,Bruce Beresford,Tommy Lee Jones; Ashley Judd; Benjamin Weir,"Mystery, Thriller, Crime",https://letterboxd.com/film/double-jeopardy-1999/
+35,Bleeder,Nicolas Winding Refn,Kim Bodnia; Mads Mikkelsen; Rikke Louise Andersson,"Drama, Crime",https://letterboxd.com/film/bleeder/
+36,Election,Alexander Payne,Matthew Broderick; Reese Witherspoon; Chris Klein,"Drama, Comedy",https://letterboxd.com/film/election/
 37,Dogma,Kevin Smith,Ben Affleck; Matt Damon; Linda Fiorentino,"Adventure, Comedy, Fantasy",https://letterboxd.com/film/dogma/
 38,Never Been Kissed,Raja Gosnell,Drew Barrymore; David Arquette; Molly Shannon,"Drama, Comedy, Romance",https://letterboxd.com/film/never-been-kissed/
-39,"South Park: Bigger, Longer & Uncut",Trey Parker,Trey Parker; Matt Stone; Mary Kay Bergman,"Animation, Comedy",https://letterboxd.com/film/south-park-bigger-longer-uncut/
-40,Big Daddy,Dennis Dugan,Adam Sandler; Cole Sprouse; Dylan Sprouse,"Comedy, Drama",https://letterboxd.com/film/big-daddy/
-41,Go,Doug Liman,Sarah Polley; Timothy Olyphant; Katie Holmes,"Comedy, Crime, Thriller",https://letterboxd.com/film/go/
+39,Big Daddy,Dennis Dugan,Adam Sandler; Cole Sprouse; Dylan Sprouse,"Comedy, Drama",https://letterboxd.com/film/big-daddy/
+40,Go,Doug Liman,Sarah Polley; Timothy Olyphant; Katie Holmes,"Comedy, Crime, Thriller",https://letterboxd.com/film/go/
+41,"South Park: Bigger, Longer & Uncut",Trey Parker,Trey Parker; Matt Stone; Mary Kay Bergman,"Animation, Comedy",https://letterboxd.com/film/south-park-bigger-longer-uncut/
 42,Austin Powers: The Spy Who Shagged Me,Jay Roach,Mike Myers; Heather Graham; Verne Troyer,"Comedy, Crime, Adventure",https://letterboxd.com/film/austin-powers-the-spy-who-shagged-me/
 43,Bicentennial Man,Chris Columbus,Robin Williams; Embeth Davidtz; Sam Neill,"Science Fiction, Romance, Drama",https://letterboxd.com/film/bicentennial-man/
 44,The Insider,Michael Mann,Al Pacino; Russell Crowe; Christopher Plummer,"Drama, Thriller",https://letterboxd.com/film/the-insider/

@@ -292,15 +292,15 @@
     },
     {
       "rank": 25,
-      "title": "Primate",
-      "url": "https://letterboxd.com/film/primate-2025/",
-      "director": "Johannes Roberts",
+      "title": "Superman",
+      "url": "https://letterboxd.com/film/superman-2025/",
+      "director": "James Gunn",
       "actors": [
-        "Johnny Sequoyah",
-        "Jessica Alexander",
-        "Troy Kotsur"
+        "David Corenswet",
+        "Rachel Brosnahan",
+        "Nicholas Hoult"
       ],
-      "genres": "Horror, Thriller"
+      "genres": "Science Fiction, Adventure, Action"
     },
     {
       "rank": 26,
@@ -316,6 +316,18 @@
     },
     {
       "rank": 27,
+      "title": "Primate",
+      "url": "https://letterboxd.com/film/primate-2025/",
+      "director": "Johannes Roberts",
+      "actors": [
+        "Johnny Sequoyah",
+        "Jessica Alexander",
+        "Troy Kotsur"
+      ],
+      "genres": "Horror"
+    },
+    {
+      "rank": 28,
       "title": "Pillion",
       "url": "https://letterboxd.com/film/pillion-2025/",
       "director": "Harry Lighton",
@@ -325,18 +337,6 @@
         "Lesley Sharp"
       ],
       "genres": "Drama, Romance, Comedy"
-    },
-    {
-      "rank": 28,
-      "title": "Superman",
-      "url": "https://letterboxd.com/film/superman-2025/",
-      "director": "James Gunn",
-      "actors": [
-        "David Corenswet",
-        "Rachel Brosnahan",
-        "Nicholas Hoult"
-      ],
-      "genres": "Science Fiction, Adventure, Action"
     },
     {
       "rank": 29,
@@ -400,18 +400,6 @@
     },
     {
       "rank": 34,
-      "title": "Wicked: For Good",
-      "url": "https://letterboxd.com/film/wicked-for-good/",
-      "director": "Jon M. Chu",
-      "actors": [
-        "Cynthia Erivo",
-        "Ariana Grande",
-        "Jeff Goldblum"
-      ],
-      "genres": "Adventure, Fantasy, Romance"
-    },
-    {
-      "rank": 35,
       "title": "Together",
       "url": "https://letterboxd.com/film/together-2025/",
       "director": "Michael Shanks",
@@ -421,6 +409,18 @@
         "Damon Herriman"
       ],
       "genres": "Horror, Romance"
+    },
+    {
+      "rank": 35,
+      "title": "Wicked: For Good",
+      "url": "https://letterboxd.com/film/wicked-for-good/",
+      "director": "Jon M. Chu",
+      "actors": [
+        "Cynthia Erivo",
+        "Ariana Grande",
+        "Jeff Goldblum"
+      ],
+      "genres": "Adventure, Fantasy, Romance"
     },
     {
       "rank": 36,
@@ -568,18 +568,6 @@
     },
     {
       "rank": 48,
-      "title": "Roofman",
-      "url": "https://letterboxd.com/film/roofman/",
-      "director": "Derek Cianfrance",
-      "actors": [
-        "Channing Tatum",
-        "Kirsten Dunst",
-        "Ben Mendelsohn"
-      ],
-      "genres": "Comedy, Crime, Drama"
-    },
-    {
-      "rank": 49,
       "title": "Now You See Me: Now You Don't",
       "url": "https://letterboxd.com/film/now-you-see-me-now-you-dont-2025/",
       "director": "Ruben Fleischer",
@@ -589,6 +577,18 @@
         "Ariana Greenblatt"
       ],
       "genres": "Thriller, Crime"
+    },
+    {
+      "rank": 49,
+      "title": "Roofman",
+      "url": "https://letterboxd.com/film/roofman/",
+      "director": "Derek Cianfrance",
+      "actors": [
+        "Channing Tatum",
+        "Kirsten Dunst",
+        "Ben Mendelsohn"
+      ],
+      "genres": "Comedy, Crime, Drama"
     },
     {
       "rank": 50,

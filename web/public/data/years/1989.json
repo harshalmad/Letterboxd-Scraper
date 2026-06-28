@@ -340,18 +340,6 @@
     },
     {
       "rank": 29,
-      "title": "Mystery Train",
-      "url": "https://letterboxd.com/film/mystery-train/",
-      "director": "Jim Jarmusch",
-      "actors": [
-        "Youki Kudoh",
-        "Masatoshi Nagase",
-        "Screamin' Jay Hawkins"
-      ],
-      "genres": "Comedy"
-    },
-    {
-      "rank": 30,
       "title": "Uncle Buck",
       "url": "https://letterboxd.com/film/uncle-buck/",
       "director": "John Hughes",
@@ -363,7 +351,7 @@
       "genres": "Family, Drama, Comedy"
     },
     {
-      "rank": 31,
+      "rank": 30,
       "title": "Pet Sematary",
       "url": "https://letterboxd.com/film/pet-sematary/",
       "director": "Mary Lambert",
@@ -373,6 +361,18 @@
         "Denise Crosby"
       ],
       "genres": "Horror"
+    },
+    {
+      "rank": 31,
+      "title": "Mystery Train",
+      "url": "https://letterboxd.com/film/mystery-train/",
+      "director": "Jim Jarmusch",
+      "actors": [
+        "Youki Kudoh",
+        "Masatoshi Nagase",
+        "Screamin' Jay Hawkins"
+      ],
+      "genres": "Comedy"
     },
     {
       "rank": 32,
@@ -422,18 +422,6 @@
     },
     {
       "rank": 36,
-      "title": "Society",
-      "url": "https://letterboxd.com/film/society/",
-      "director": "Brian Yuzna",
-      "actors": [
-        "Billy Warlock",
-        "Connie Danese",
-        "Ben Slack"
-      ],
-      "genres": "Comedy, Horror, Mystery"
-    },
-    {
-      "rank": 37,
       "title": "The Karate Kid Part III",
       "url": "https://letterboxd.com/film/the-karate-kid-part-iii/",
       "director": "John G. Avildsen",
@@ -443,6 +431,18 @@
         "Robyn Lively"
       ],
       "genres": "Action, Drama, Family, Adventure"
+    },
+    {
+      "rank": 37,
+      "title": "Society",
+      "url": "https://letterboxd.com/film/society/",
+      "director": "Brian Yuzna",
+      "actors": [
+        "Billy Warlock",
+        "Connie Danese",
+        "Ben Slack"
+      ],
+      "genres": "Comedy, Horror, Mystery"
     },
     {
       "rank": 38,
@@ -482,30 +482,18 @@
     },
     {
       "rank": 41,
-      "title": "My Left Foot: The Story of Christy Brown",
-      "url": "https://letterboxd.com/film/my-left-foot-the-story-of-christy-brown/",
-      "director": "Jim Sheridan",
+      "title": "Driving Miss Daisy",
+      "url": "https://letterboxd.com/film/driving-miss-daisy/",
+      "director": "Bruce Beresford",
       "actors": [
-        "Daniel Day-Lewis",
-        "Brenda Fricker",
-        "Alison Whelan"
+        "Morgan Freeman",
+        "Jessica Tandy",
+        "Dan Aykroyd"
       ],
       "genres": "Drama"
     },
     {
       "rank": 42,
-      "title": "Lethal Weapon 2",
-      "url": "https://letterboxd.com/film/lethal-weapon-2/",
-      "director": "Richard Donner",
-      "actors": [
-        "Mel Gibson",
-        "Danny Glover",
-        "Joe Pesci"
-      ],
-      "genres": "Action, Crime, Thriller"
-    },
-    {
-      "rank": 43,
       "title": "Godzilla vs. Biollante",
       "url": "https://letterboxd.com/film/godzilla-vs-biollante/",
       "director": "Kazuki Ōmori",
@@ -517,14 +505,26 @@
       "genres": "Science Fiction, Horror, Action"
     },
     {
-      "rank": 44,
-      "title": "Driving Miss Daisy",
-      "url": "https://letterboxd.com/film/driving-miss-daisy/",
-      "director": "Bruce Beresford",
+      "rank": 43,
+      "title": "Lethal Weapon 2",
+      "url": "https://letterboxd.com/film/lethal-weapon-2/",
+      "director": "Richard Donner",
       "actors": [
-        "Morgan Freeman",
-        "Jessica Tandy",
-        "Dan Aykroyd"
+        "Mel Gibson",
+        "Danny Glover",
+        "Joe Pesci"
+      ],
+      "genres": "Action, Crime, Thriller"
+    },
+    {
+      "rank": 44,
+      "title": "My Left Foot: The Story of Christy Brown",
+      "url": "https://letterboxd.com/film/my-left-foot-the-story-of-christy-brown/",
+      "director": "Jim Sheridan",
+      "actors": [
+        "Daniel Day-Lewis",
+        "Brenda Fricker",
+        "Alison Whelan"
       ],
       "genres": "Drama"
     },
@@ -566,18 +566,6 @@
     },
     {
       "rank": 48,
-      "title": "A Nightmare on Elm Street: The Dream Child",
-      "url": "https://letterboxd.com/film/a-nightmare-on-elm-street-the-dream-child/",
-      "director": "Stephen Hopkins",
-      "actors": [
-        "Robert Englund",
-        "Lisa Wilcox",
-        "Erika Anderson"
-      ],
-      "genres": "Thriller, Horror"
-    },
-    {
-      "rank": 49,
       "title": "Weekend at Bernie's",
       "url": "https://letterboxd.com/film/weekend-at-bernies/",
       "director": "Ted Kotcheff",
@@ -589,16 +577,28 @@
       "genres": "Crime, Comedy"
     },
     {
-      "rank": 50,
-      "title": "Violent Cop",
-      "url": "https://letterboxd.com/film/violent-cop/",
-      "director": "Takeshi Kitano",
+      "rank": 49,
+      "title": "A Nightmare on Elm Street: The Dream Child",
+      "url": "https://letterboxd.com/film/a-nightmare-on-elm-street-the-dream-child/",
+      "director": "Stephen Hopkins",
       "actors": [
-        "Takeshi Kitano",
-        "Maiko Kawakami",
-        "Makoto Ashikawa"
+        "Robert Englund",
+        "Lisa Wilcox",
+        "Erika Anderson"
       ],
-      "genres": "Crime, Action, Drama, Thriller"
+      "genres": "Thriller, Horror"
+    },
+    {
+      "rank": 50,
+      "title": "Decalogue III",
+      "url": "https://letterboxd.com/film/decalogue-iii/",
+      "director": "Krzysztof Kieślowski",
+      "actors": [
+        "Daniel Olbrychski",
+        "Maria Pakulnis",
+        "Joanna Szczepkowska"
+      ],
+      "genres": "TV Movie, Drama, Romance"
     }
   ]
 }

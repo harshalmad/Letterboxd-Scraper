@@ -52,18 +52,6 @@
     },
     {
       "rank": 5,
-      "title": "Uncut Gems",
-      "url": "https://letterboxd.com/film/uncut-gems/",
-      "director": "Josh Safdie, Benny Safdie",
-      "actors": [
-        "Adam Sandler",
-        "LaKeith Stanfield",
-        "Julia Fox"
-      ],
-      "genres": "Crime, Thriller, Drama"
-    },
-    {
-      "rank": 6,
       "title": "Midsommar",
       "url": "https://letterboxd.com/film/midsommar/",
       "director": "Ari Aster",
@@ -73,6 +61,18 @@
         "William Jackson Harper"
       ],
       "genres": "Mystery, Drama, Horror"
+    },
+    {
+      "rank": 6,
+      "title": "Uncut Gems",
+      "url": "https://letterboxd.com/film/uncut-gems/",
+      "director": "Josh Safdie, Benny Safdie",
+      "actors": [
+        "Adam Sandler",
+        "LaKeith Stanfield",
+        "Julia Fox"
+      ],
+      "genres": "Crime, Thriller, Drama"
     },
     {
       "rank": 7,
@@ -136,6 +136,18 @@
     },
     {
       "rank": 12,
+      "title": "Toy Story 4",
+      "url": "https://letterboxd.com/film/toy-story-4/",
+      "director": "Josh Cooley",
+      "actors": [
+        "Tom Hanks",
+        "Tim Allen",
+        "Annie Potts"
+      ],
+      "genres": "Adventure, Animation, Comedy, Family"
+    },
+    {
+      "rank": 13,
       "title": "Waves",
       "url": "https://letterboxd.com/film/waves-2019/",
       "director": "Trey Edward Shults",
@@ -147,7 +159,7 @@
       "genres": "Romance, Drama"
     },
     {
-      "rank": 13,
+      "rank": 14,
       "title": "Joker",
       "url": "https://letterboxd.com/film/joker-2019/",
       "director": "Todd Phillips",
@@ -159,7 +171,7 @@
       "genres": "Drama, Thriller, Crime"
     },
     {
-      "rank": 14,
+      "rank": 15,
       "title": "Jojo Rabbit",
       "url": "https://letterboxd.com/film/jojo-rabbit/",
       "director": "Taika Waititi",
@@ -171,7 +183,7 @@
       "genres": "War, Comedy, Drama"
     },
     {
-      "rank": 15,
+      "rank": 16,
       "title": "The Lighthouse",
       "url": "https://letterboxd.com/film/the-lighthouse-2019/",
       "director": "Robert Eggers",
@@ -183,7 +195,7 @@
       "genres": "Thriller, Fantasy, Horror, Drama"
     },
     {
-      "rank": 16,
+      "rank": 17,
       "title": "It Chapter Two",
       "url": "https://letterboxd.com/film/it-chapter-two/",
       "director": "Andy Muschietti",
@@ -193,18 +205,6 @@
         "Bill Hader"
       ],
       "genres": "Drama, Thriller, Horror"
-    },
-    {
-      "rank": 17,
-      "title": "Toy Story 4",
-      "url": "https://letterboxd.com/film/toy-story-4/",
-      "director": "Josh Cooley",
-      "actors": [
-        "Tom Hanks",
-        "Tim Allen",
-        "Annie Potts"
-      ],
-      "genres": "Adventure, Animation, Comedy, Family"
     },
     {
       "rank": 18,
@@ -232,18 +232,6 @@
     },
     {
       "rank": 20,
-      "title": "Marriage Story",
-      "url": "https://letterboxd.com/film/marriage-story-2019/",
-      "director": "Noah Baumbach",
-      "actors": [
-        "Adam Driver",
-        "Scarlett Johansson",
-        "Laura Dern"
-      ],
-      "genres": "Drama"
-    },
-    {
-      "rank": 21,
       "title": "1917",
       "url": "https://letterboxd.com/film/1917/",
       "director": "Sam Mendes",
@@ -253,6 +241,18 @@
         "Mark Strong"
       ],
       "genres": "Drama, War, History"
+    },
+    {
+      "rank": 21,
+      "title": "Marriage Story",
+      "url": "https://letterboxd.com/film/marriage-story-2019/",
+      "director": "Noah Baumbach",
+      "actors": [
+        "Adam Driver",
+        "Scarlett Johansson",
+        "Laura Dern"
+      ],
+      "genres": "Drama"
     },
     {
       "rank": 22,
@@ -280,18 +280,6 @@
     },
     {
       "rank": 24,
-      "title": "The King",
-      "url": "https://letterboxd.com/film/the-king-2019/",
-      "director": "David Michôd",
-      "actors": [
-        "Timothée Chalamet",
-        "Joel Edgerton",
-        "Sean Harris"
-      ],
-      "genres": "War, Drama, History"
-    },
-    {
-      "rank": 25,
       "title": "Vivarium",
       "url": "https://letterboxd.com/film/vivarium/",
       "director": "Lorcan Finnegan",
@@ -301,6 +289,18 @@
         "Senan Jennings"
       ],
       "genres": "Mystery, Horror, Science Fiction"
+    },
+    {
+      "rank": 25,
+      "title": "The King",
+      "url": "https://letterboxd.com/film/the-king-2019/",
+      "director": "David Michôd",
+      "actors": [
+        "Timothée Chalamet",
+        "Joel Edgerton",
+        "Sean Harris"
+      ],
+      "genres": "War, Drama, History"
     },
     {
       "rank": 26,
@@ -544,18 +544,6 @@
     },
     {
       "rank": 46,
-      "title": "Klaus",
-      "url": "https://letterboxd.com/film/klaus/",
-      "director": "Sergio Pablos",
-      "actors": [
-        "Jason Schwartzman",
-        "J.K. Simmons",
-        "Rashida Jones"
-      ],
-      "genres": "Animation, Family, Comedy"
-    },
-    {
-      "rank": 47,
       "title": "Better Days",
       "url": "https://letterboxd.com/film/better-days-2019/",
       "director": "Derek Tsang Kwok-Cheung",
@@ -567,16 +555,28 @@
       "genres": "Romance, Crime, Drama"
     },
     {
-      "rank": 48,
-      "title": "Bacurau",
-      "url": "https://letterboxd.com/film/bacurau/",
-      "director": "Kleber Mendonça Filho, Juliano Dornelles",
+      "rank": 47,
+      "title": "Klaus",
+      "url": "https://letterboxd.com/film/klaus/",
+      "director": "Sergio Pablos",
       "actors": [
-        "Bárbara Colen",
-        "Thomás Aquino",
-        "Silvero Pereira"
+        "Jason Schwartzman",
+        "J.K. Simmons",
+        "Rashida Jones"
       ],
-      "genres": "Western, Thriller, Mystery"
+      "genres": "Animation, Family, Comedy"
+    },
+    {
+      "rank": 48,
+      "title": "Dark Phoenix",
+      "url": "https://letterboxd.com/film/dark-phoenix/",
+      "director": "Simon Kinberg",
+      "actors": [
+        "Sophie Turner",
+        "James McAvoy",
+        "Nicholas Hoult"
+      ],
+      "genres": "Science Fiction, Action, Adventure"
     },
     {
       "rank": 49,
@@ -592,15 +592,15 @@
     },
     {
       "rank": 50,
-      "title": "Dark Phoenix",
-      "url": "https://letterboxd.com/film/dark-phoenix/",
-      "director": "Simon Kinberg",
+      "title": "Bacurau",
+      "url": "https://letterboxd.com/film/bacurau/",
+      "director": "Kleber Mendonça Filho, Juliano Dornelles",
       "actors": [
-        "Sophie Turner",
-        "James McAvoy",
-        "Nicholas Hoult"
+        "Bárbara Colen",
+        "Thomás Aquino",
+        "Silvero Pereira"
       ],
-      "genres": "Science Fiction, Action, Adventure"
+      "genres": "Western, Thriller, Mystery"
     }
   ]
 }

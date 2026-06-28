@@ -1,8 +1,8 @@
 rank,title,director,actors,genres,url
-1,Beautiful Boy,Felix van Groeningen,Steve Carell; Timothée Chalamet; Maura Tierney,Drama,https://letterboxd.com/film/beautiful-boy-2018/
-2,Spider-Man: Into the Spider-Verse,"Bob Persichetti, Peter Ramsey, Rodney Rothman",Shameik Moore; Jake Johnson; Hailee Steinfeld,"Adventure, Animation, Action, Science Fiction",https://letterboxd.com/film/spider-man-into-the-spider-verse/
-3,To All the Boys I've Loved Before,Susan Johnson,Lana Condor; Noah Centineo; Israel Broussard,"Comedy, Romance",https://letterboxd.com/film/to-all-the-boys-ive-loved-before/
-4,Avengers: Infinity War,"Anthony Russo, Joe Russo",Robert Downey Jr.; Chris Evans; Chris Hemsworth,"Action, Science Fiction, Adventure",https://letterboxd.com/film/avengers-infinity-war/
+1,Spider-Man: Into the Spider-Verse,"Bob Persichetti, Peter Ramsey, Rodney Rothman",Shameik Moore; Jake Johnson; Hailee Steinfeld,"Adventure, Animation, Action, Science Fiction",https://letterboxd.com/film/spider-man-into-the-spider-verse/
+2,Beautiful Boy,Felix van Groeningen,Steve Carell; Timothée Chalamet; Maura Tierney,Drama,https://letterboxd.com/film/beautiful-boy-2018/
+3,Avengers: Infinity War,"Anthony Russo, Joe Russo",Robert Downey Jr.; Chris Evans; Chris Hemsworth,"Action, Science Fiction, Adventure",https://letterboxd.com/film/avengers-infinity-war/
+4,To All the Boys I've Loved Before,Susan Johnson,Lana Condor; Noah Centineo; Israel Broussard,"Comedy, Romance",https://letterboxd.com/film/to-all-the-boys-ive-loved-before/
 5,Hereditary,Ari Aster,Toni Collette; Alex Wolff; Gabriel Byrne,"Thriller, Horror, Mystery",https://letterboxd.com/film/hereditary/
 6,Isle of Dogs,Wes Anderson,Bryan Cranston; Koyu Rankin; Bob Balaban,"Comedy, Animation, Adventure",https://letterboxd.com/film/isle-of-dogs-2018/
 7,Green Book,Peter Farrelly,Viggo Mortensen; Mahershala Ali; Linda Cardellini,"Drama, History, Comedy",https://letterboxd.com/film/green-book/
@@ -11,14 +11,14 @@ rank,title,director,actors,genres,url
 10,Maze Runner: The Death Cure,Wes Ball,Dylan O'Brien; Kaya Scodelario; Thomas Brodie-Sangster,"Action, Science Fiction, Adventure, Thriller",https://letterboxd.com/film/maze-runner-the-death-cure/
 11,mid90s,Jonah Hill,Sunny Suljic; Katherine Waterston; Lucas Hedges,"Drama, Comedy",https://letterboxd.com/film/mid90s/
 12,Crazy Rich Asians,Jon M. Chu,Constance Wu; Henry Golding; Michelle Yeoh,"Romance, Comedy",https://letterboxd.com/film/crazy-rich-asians/
-13,BlacKkKlansman,Spike Lee,John David Washington; Adam Driver; Topher Grace,"Drama, History, Crime, Comedy",https://letterboxd.com/film/blackkklansman/
-14,Game Night,"John Francis Daley, Jonathan Goldstein",Jason Bateman; Rachel McAdams; Kyle Chandler,"Mystery, Comedy, Crime",https://letterboxd.com/film/game-night/
+13,Game Night,"John Francis Daley, Jonathan Goldstein",Jason Bateman; Rachel McAdams; Kyle Chandler,"Mystery, Comedy, Crime",https://letterboxd.com/film/game-night/
+14,BlacKkKlansman,Spike Lee,John David Washington; Adam Driver; Topher Grace,"Drama, History, Crime, Comedy",https://letterboxd.com/film/blackkklansman/
 15,Mamma Mia! Here We Go Again,Ol Parker,Amanda Seyfried; Lily James; Pierce Brosnan,"Comedy, Romance",https://letterboxd.com/film/mamma-mia-here-we-go-again/
 16,Ready Player One,Steven Spielberg,Tye Sheridan; Olivia Cooke; Ben Mendelsohn,"Science Fiction, Adventure, Action",https://letterboxd.com/film/ready-player-one/
 17,A Quiet Place,John Krasinski,Emily Blunt; John Krasinski; Millicent Simmonds,"Drama, Science Fiction, Horror",https://letterboxd.com/film/a-quiet-place-2018/
 18,The Kissing Booth,Vince Marcello,Joey King; Joel Courtney; Jacob Elordi,"Comedy, Romance",https://letterboxd.com/film/the-kissing-booth/
-19,Ocean's Eight,Gary Ross,Sandra Bullock; Cate Blanchett; Anne Hathaway,"Crime, Action, Comedy",https://letterboxd.com/film/oceans-eight/
-20,Set It Up,Claire Scanlon,Glen Powell; Zoey Deutch; Taye Diggs,"Comedy, Romance",https://letterboxd.com/film/set-it-up/
+19,Set It Up,Claire Scanlon,Glen Powell; Zoey Deutch; Taye Diggs,"Comedy, Romance",https://letterboxd.com/film/set-it-up/
+20,Ocean's Eight,Gary Ross,Sandra Bullock; Cate Blanchett; Anne Hathaway,"Crime, Action, Comedy",https://letterboxd.com/film/oceans-eight/
 21,Jurassic World: Fallen Kingdom,J. A. Bayona,Chris Pratt; Bryce Dallas Howard; Rafe Spall,"Adventure, Science Fiction, Thriller",https://letterboxd.com/film/jurassic-world-fallen-kingdom/
 22,Annihilation,Alex Garland,Natalie Portman; Jennifer Jason Leigh; Gina Rodriguez,"Science Fiction, Horror",https://letterboxd.com/film/annihilation/
 23,The Favourite,Yorgos Lanthimos,Emma Stone; Olivia Colman; Rachel Weisz,"Drama, Comedy, History",https://letterboxd.com/film/the-favourite/
@@ -34,8 +34,8 @@ rank,title,director,actors,genres,url
 33,The Nun,Corin Hardy,Taissa Farmiga; Demián Bichir; Bonnie Aarons,Horror,https://letterboxd.com/film/the-nun-2018/
 34,Solo: A Star Wars Story,Ron Howard,Alden Ehrenreich; Joonas Suotamo; Woody Harrelson,"Science Fiction, Adventure, Action",https://letterboxd.com/film/solo-a-star-wars-story/
 35,Gonjiam: Haunted Asylum,Jung Bum-shik,Wi Ha-jun; Park Ji-hyun; Oh Ah-yeon,"Horror, Mystery",https://letterboxd.com/film/gonjiam-haunted-asylum/
-36,Under the Silver Lake,David Robert Mitchell,Andrew Garfield; Riley Keough; Topher Grace,"Mystery, Crime, Drama",https://letterboxd.com/film/under-the-silver-lake/
-37,Suspiria,Luca Guadagnino,Dakota Johnson; Tilda Swinton; Mia Goth,"Horror, Mystery, Drama",https://letterboxd.com/film/suspiria-2018/
+36,Suspiria,Luca Guadagnino,Dakota Johnson; Tilda Swinton; Mia Goth,"Horror, Mystery, Drama",https://letterboxd.com/film/suspiria-2018/
+37,Under the Silver Lake,David Robert Mitchell,Andrew Garfield; Riley Keough; Topher Grace,"Mystery, Crime, Drama",https://letterboxd.com/film/under-the-silver-lake/
 38,Instant Family,Sean Anders,Mark Wahlberg; Rose Byrne; Allyn Rachel,"Drama, Comedy",https://letterboxd.com/film/instant-family/
 39,The House That Jack Built,Lars von Trier,Matt Dillon; Bruno Ganz; Uma Thurman,"Drama, Crime, Thriller, Horror",https://letterboxd.com/film/the-house-that-jack-built-2018/
 40,Creed II,Steven Caple Jr.,Michael B. Jordan; Sylvester Stallone; Tessa Thompson,"Drama, Action",https://letterboxd.com/film/creed-ii/
@@ -46,6 +46,6 @@ rank,title,director,actors,genres,url
 45,Eighth Grade,Bo Burnham,Elsie Fisher; Josh Hamilton; Emily Robinson,"Drama, Comedy",https://letterboxd.com/film/eighth-grade/
 46,The Meg,Jon Turteltaub,Jason Statham; Li Bingbing; Rainn Wilson,"Science Fiction, Horror, Action",https://letterboxd.com/film/the-meg/
 47,Shoplifters,Hirokazu Kore-eda,Lily Franky; Sakura Ando; Mayu Matsuoka,"Drama, Thriller, Crime",https://letterboxd.com/film/shoplifters/
-48,Fantastic Beasts: The Crimes of Grindelwald,David Yates,Eddie Redmayne; Katherine Waterston; Dan Fogler,"Fantasy, Adventure",https://letterboxd.com/film/fantastic-beasts-the-crimes-of-grindelwald/
-49,Searching,Aneesh Chaganty,John Cho; Michelle La; Debra Messing,"Drama, Thriller, Mystery",https://letterboxd.com/film/searching-2018/
+48,Searching,Aneesh Chaganty,John Cho; Michelle La; Debra Messing,"Drama, Thriller, Mystery",https://letterboxd.com/film/searching-2018/
+49,Fantastic Beasts: The Crimes of Grindelwald,David Yates,Eddie Redmayne; Katherine Waterston; Dan Fogler,"Fantasy, Adventure",https://letterboxd.com/film/fantastic-beasts-the-crimes-of-grindelwald/
 50,Mission: Impossible – Fallout,Christopher McQuarrie,Tom Cruise; Henry Cavill; Ving Rhames,"Action, Adventure",https://letterboxd.com/film/mission-impossible-fallout/

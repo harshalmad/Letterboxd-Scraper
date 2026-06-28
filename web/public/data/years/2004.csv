@@ -24,15 +24,15 @@ rank,title,director,actors,genres,url
 23,Troy,Wolfgang Petersen,Brad Pitt; Orlando Bloom; Eric Bana,"Action, History, War",https://letterboxd.com/film/troy/
 24,Shark Tale,"Bibo Bergeron, Rob Letterman, Vicky Jenson",Will Smith; Robert De Niro; Renée Zellweger,"Animation, Action, Comedy, Family",https://letterboxd.com/film/shark-tale/
 25,The Princess Diaries 2: Royal Engagement,Garry Marshall,Anne Hathaway; Julie Andrews; Héctor Elizondo,"Romance, Family, Drama, Comedy",https://letterboxd.com/film/the-princess-diaries-2-royal-engagement/
-26,EuroTrip,Jeff Schaffer,Scott Mechlowicz; Jacob Pitts; Michelle Trachtenberg,Comedy,https://letterboxd.com/film/eurotrip/
-27,Collateral,Michael Mann,Tom Cruise; Jamie Foxx; Jada Pinkett Smith,"Crime, Drama, Thriller",https://letterboxd.com/film/collateral/
+26,Collateral,Michael Mann,Tom Cruise; Jamie Foxx; Jada Pinkett Smith,"Crime, Drama, Thriller",https://letterboxd.com/film/collateral/
+27,EuroTrip,Jeff Schaffer,Scott Mechlowicz; Jacob Pitts; Michelle Trachtenberg,Comedy,https://letterboxd.com/film/eurotrip/
 28,Ocean's Twelve,Steven Soderbergh,George Clooney; Julia Roberts; Brad Pitt,"Crime, Thriller",https://letterboxd.com/film/oceans-twelve/
 29,Anchorman: The Legend of Ron Burgundy,Adam McKay,Will Ferrell; Christina Applegate; Paul Rudd,Comedy,https://letterboxd.com/film/anchorman-the-legend-of-ron-burgundy/
 30,The Passion of the Christ,Mel Gibson,Jim Caviezel; Maia Morgenstern; Christo Jivkov,Drama,https://letterboxd.com/film/the-passion-of-the-christ/
-31,The SpongeBob SquarePants Movie,Stephen Hillenburg,Tom Kenny; Clancy Brown; Rodger Bumpass,"Adventure, Comedy, Animation, Fantasy, Family",https://letterboxd.com/film/the-spongebob-squarepants-movie/
-32,D.E.B.S.,Angela Robinson,Sara Foster; Jordana Brewster; Meagan Good,"Action, Comedy, Romance",https://letterboxd.com/film/debs/
-33,Man on Fire,Tony Scott,Denzel Washington; Dakota Fanning; Christopher Walken,"Drama, Action, Thriller",https://letterboxd.com/film/man-on-fire-2004/
-34,Ella Enchanted,Tommy O'Haver,Anne Hathaway; Hugh Dancy; Cary Elwes,"Comedy, Fantasy, Family",https://letterboxd.com/film/ella-enchanted/
+31,D.E.B.S.,Angela Robinson,Sara Foster; Jordana Brewster; Meagan Good,"Action, Comedy, Romance",https://letterboxd.com/film/debs/
+32,The SpongeBob SquarePants Movie,Stephen Hillenburg,Tom Kenny; Clancy Brown; Rodger Bumpass,"Adventure, Comedy, Animation, Fantasy, Family",https://letterboxd.com/film/the-spongebob-squarepants-movie/
+33,Ella Enchanted,Tommy O'Haver,Anne Hathaway; Hugh Dancy; Cary Elwes,"Comedy, Fantasy, Family",https://letterboxd.com/film/ella-enchanted/
+34,Man on Fire,Tony Scott,Denzel Washington; Dakota Fanning; Christopher Walken,"Drama, Action, Thriller",https://letterboxd.com/film/man-on-fire-2004/
 35,The Machinist,Brad Anderson,Christian Bale; Jennifer Jason Leigh; Aitana Sánchez-Gijón,"Drama, Thriller",https://letterboxd.com/film/the-machinist/
 36,The Girl Next Door,Luke Greenfield,Emile Hirsch; Elisha Cuthbert; Timothy Olyphant,"Romance, Comedy",https://letterboxd.com/film/the-girl-next-door-2004/
 37,The Phantom of the Opera,Joel Schumacher,Gerard Butler; Emmy Rossum; Patrick Wilson,"Drama, Romance, Thriller",https://letterboxd.com/film/the-phantom-of-the-opera-2004/
@@ -40,12 +40,12 @@ rank,title,director,actors,genres,url
 39,Speak,Jessica Sharzer,Kristen Stewart; Elizabeth Perkins; Steve Zahn,Drama,https://letterboxd.com/film/speak/
 40,Sleepover,Joe Nussbaum,Alexa PenaVega; Mika Boorem; Jane Lynch,"Family, Comedy",https://letterboxd.com/film/sleepover/
 41,Million Dollar Baby,Clint Eastwood,Clint Eastwood; Hilary Swank; Morgan Freeman,Drama,https://letterboxd.com/film/million-dollar-baby/
-42,The Day After Tomorrow,Roland Emmerich,Dennis Quaid; Jake Gyllenhaal; Emmy Rossum,"Thriller, Science Fiction, Adventure",https://letterboxd.com/film/the-day-after-tomorrow/
-43,Closer,Mike Nichols,Jude Law; Natalie Portman; Julia Roberts,"Drama, Romance",https://letterboxd.com/film/closer/
-44,Swing Girls,Shinobu Yaguchi,Juri Ueno; Yuta Hiraoka; Shihori Kanjiya,"Comedy, Music",https://letterboxd.com/film/swing-girls/
-45,National Treasure,Jon Turteltaub,Nicolas Cage; Diane Kruger; Justin Bartha,"Mystery, Adventure, Action",https://letterboxd.com/film/national-treasure/
-46,Scooby-Doo 2: Monsters Unleashed,Raja Gosnell,Freddie Prinze Jr.; Sarah Michelle Gellar; Matthew Lillard,"Mystery, Comedy, Adventure",https://letterboxd.com/film/scooby-doo-2-monsters-unleashed/
-47,The Life Aquatic with Steve Zissou,Wes Anderson,Bill Murray; Owen Wilson; Cate Blanchett,"Comedy, Adventure, Drama",https://letterboxd.com/film/the-life-aquatic-with-steve-zissou/
-48,The Bourne Supremacy,Paul Greengrass,Matt Damon; Franka Potente; Brian Cox,"Drama, Action, Thriller",https://letterboxd.com/film/the-bourne-supremacy/
-49,Kamikaze Girls,Tetsuya Nakashima,Kyoko Fukada; Anna Tsuchiya; Hiroyuki Miyasako,Comedy,https://letterboxd.com/film/kamikaze-girls/
-50,Kung Fu Hustle,Stephen Chow,Stephen Chow; Yuen Qiu; Yuen Wah,"Comedy, Fantasy, Crime, Action",https://letterboxd.com/film/kung-fu-hustle/
+42,National Treasure,Jon Turteltaub,Nicolas Cage; Diane Kruger; Justin Bartha,"Mystery, Adventure, Action",https://letterboxd.com/film/national-treasure/
+43,Swing Girls,Shinobu Yaguchi,Juri Ueno; Yuta Hiraoka; Shihori Kanjiya,"Comedy, Music",https://letterboxd.com/film/swing-girls/
+44,The Day After Tomorrow,Roland Emmerich,Dennis Quaid; Jake Gyllenhaal; Emmy Rossum,"Thriller, Science Fiction, Adventure",https://letterboxd.com/film/the-day-after-tomorrow/
+45,Scooby-Doo 2: Monsters Unleashed,Raja Gosnell,Freddie Prinze Jr.; Sarah Michelle Gellar; Matthew Lillard,"Mystery, Comedy, Adventure",https://letterboxd.com/film/scooby-doo-2-monsters-unleashed/
+46,Closer,Mike Nichols,Jude Law; Natalie Portman; Julia Roberts,"Drama, Romance",https://letterboxd.com/film/closer/
+47,Kamikaze Girls,Tetsuya Nakashima,Kyoko Fukada; Anna Tsuchiya; Hiroyuki Miyasako,Comedy,https://letterboxd.com/film/kamikaze-girls/
+48,The Life Aquatic with Steve Zissou,Wes Anderson,Bill Murray; Owen Wilson; Cate Blanchett,"Comedy, Adventure, Drama",https://letterboxd.com/film/the-life-aquatic-with-steve-zissou/
+49,The Bourne Supremacy,Paul Greengrass,Matt Damon; Franka Potente; Brian Cox,"Drama, Action, Thriller",https://letterboxd.com/film/the-bourne-supremacy/
+50,Meet the Fockers,Jay Roach,Ben Stiller; Robert De Niro; Dustin Hoffman,"Comedy, Romance",https://letterboxd.com/film/meet-the-fockers/

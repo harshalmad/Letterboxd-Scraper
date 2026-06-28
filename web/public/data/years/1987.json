@@ -112,18 +112,6 @@
     },
     {
       "rank": 10,
-      "title": "Raising Arizona",
-      "url": "https://letterboxd.com/film/raising-arizona/",
-      "director": "Joel Coen",
-      "actors": [
-        "Nicolas Cage",
-        "Holly Hunter",
-        "Trey Wilson"
-      ],
-      "genres": "Crime, Comedy"
-    },
-    {
-      "rank": 11,
       "title": "Hellraiser",
       "url": "https://letterboxd.com/film/hellraiser/",
       "director": "Clive Barker",
@@ -133,6 +121,18 @@
         "Sean Chapman"
       ],
       "genres": "Thriller, Horror"
+    },
+    {
+      "rank": 11,
+      "title": "Raising Arizona",
+      "url": "https://letterboxd.com/film/raising-arizona/",
+      "director": "Joel Coen",
+      "actors": [
+        "Nicolas Cage",
+        "Holly Hunter",
+        "Trey Wilson"
+      ],
+      "genres": "Crime, Comedy"
     },
     {
       "rank": 12,
@@ -184,18 +184,6 @@
     },
     {
       "rank": 16,
-      "title": "The Running Man",
-      "url": "https://letterboxd.com/film/the-running-man/",
-      "director": "Paul Michael Glaser",
-      "actors": [
-        "Arnold Schwarzenegger",
-        "Richard Dawson",
-        "María Conchita Alonso"
-      ],
-      "genres": "Action, Thriller, Science Fiction"
-    },
-    {
-      "rank": 17,
       "title": "Withnail & I",
       "url": "https://letterboxd.com/film/withnail-i/",
       "director": "Bruce Robinson",
@@ -207,7 +195,31 @@
       "genres": "Comedy, Drama"
     },
     {
+      "rank": 17,
+      "title": "The Running Man",
+      "url": "https://letterboxd.com/film/the-running-man/",
+      "director": "Paul Michael Glaser",
+      "actors": [
+        "Arnold Schwarzenegger",
+        "Richard Dawson",
+        "María Conchita Alonso"
+      ],
+      "genres": "Action, Thriller, Science Fiction"
+    },
+    {
       "rank": 18,
+      "title": "Good Morning, Vietnam",
+      "url": "https://letterboxd.com/film/good-morning-vietnam/",
+      "director": "Barry Levinson",
+      "actors": [
+        "Robin Williams",
+        "Forest Whitaker",
+        "Tom T. Tran"
+      ],
+      "genres": "Comedy, Drama, War"
+    },
+    {
+      "rank": 19,
       "title": "Overboard",
       "url": "https://letterboxd.com/film/overboard/",
       "director": "Garry Marshall",
@@ -219,7 +231,7 @@
       "genres": "Romance, Comedy"
     },
     {
-      "rank": 19,
+      "rank": 20,
       "title": "Wall Street",
       "url": "https://letterboxd.com/film/wall-street/",
       "director": "Oliver Stone",
@@ -231,7 +243,7 @@
       "genres": "Crime, Drama"
     },
     {
-      "rank": 20,
+      "rank": 21,
       "title": "Lethal Weapon",
       "url": "https://letterboxd.com/film/lethal-weapon/",
       "director": "Richard Donner",
@@ -241,18 +253,6 @@
         "Gary Busey"
       ],
       "genres": "Crime, Action, Thriller"
-    },
-    {
-      "rank": 21,
-      "title": "Good Morning, Vietnam",
-      "url": "https://letterboxd.com/film/good-morning-vietnam/",
-      "director": "Barry Levinson",
-      "actors": [
-        "Robin Williams",
-        "Forest Whitaker",
-        "Tom T. Tran"
-      ],
-      "genres": "Comedy, Drama, War"
     },
     {
       "rank": 22,
@@ -448,15 +448,15 @@
     },
     {
       "rank": 38,
-      "title": "Near Dark",
-      "url": "https://letterboxd.com/film/near-dark/",
-      "director": "Kathryn Bigelow",
+      "title": "Adventures in Babysitting",
+      "url": "https://letterboxd.com/film/adventures-in-babysitting/",
+      "director": "Chris Columbus",
       "actors": [
-        "Adrian Pasdar",
-        "Jenny Wright",
-        "Lance Henriksen"
+        "Elisabeth Shue",
+        "Maia Brewton",
+        "Keith Coogan"
       ],
-      "genres": "Horror"
+      "genres": "Comedy"
     },
     {
       "rank": 39,
@@ -472,15 +472,15 @@
     },
     {
       "rank": 40,
-      "title": "Adventures in Babysitting",
-      "url": "https://letterboxd.com/film/adventures-in-babysitting/",
-      "director": "Chris Columbus",
+      "title": "Near Dark",
+      "url": "https://letterboxd.com/film/near-dark/",
+      "director": "Kathryn Bigelow",
       "actors": [
-        "Elisabeth Shue",
-        "Maia Brewton",
-        "Keith Coogan"
+        "Adrian Pasdar",
+        "Jenny Wright",
+        "Lance Henriksen"
       ],
-      "genres": "Comedy"
+      "genres": "Horror"
     },
     {
       "rank": 41,
@@ -508,6 +508,18 @@
     },
     {
       "rank": 43,
+      "title": "Walker",
+      "url": "https://letterboxd.com/film/walker/",
+      "director": "Alex Cox",
+      "actors": [
+        "Ed Harris",
+        "Richard Masur",
+        "René Auberjonois"
+      ],
+      "genres": "Drama, History, Western"
+    },
+    {
+      "rank": 44,
       "title": "A Better Tomorrow II",
       "url": "https://letterboxd.com/film/a-better-tomorrow-ii/",
       "director": "John Woo",
@@ -519,7 +531,7 @@
       "genres": "Crime, Thriller, Action"
     },
     {
-      "rank": 44,
+      "rank": 45,
       "title": "Beverly Hills Cop II",
       "url": "https://letterboxd.com/film/beverly-hills-cop-ii/",
       "director": "Tony Scott",
@@ -531,7 +543,7 @@
       "genres": "Action, Crime, Comedy"
     },
     {
-      "rank": 45,
+      "rank": 46,
       "title": "Throw Momma from the Train",
       "url": "https://letterboxd.com/film/throw-momma-from-the-train/",
       "director": "Danny DeVito",
@@ -543,7 +555,7 @@
       "genres": "Comedy, Thriller, Crime"
     },
     {
-      "rank": 46,
+      "rank": 47,
       "title": "Innerspace",
       "url": "https://letterboxd.com/film/innerspace/",
       "director": "Joe Dante",
@@ -553,18 +565,6 @@
         "Meg Ryan"
       ],
       "genres": "Action, Science Fiction, Comedy"
-    },
-    {
-      "rank": 47,
-      "title": "Walker",
-      "url": "https://letterboxd.com/film/walker/",
-      "director": "Alex Cox",
-      "actors": [
-        "Ed Harris",
-        "Richard Masur",
-        "René Auberjonois"
-      ],
-      "genres": "Drama, History, Western"
     },
     {
       "rank": 48,

@@ -3,8 +3,8 @@ rank,title,director,actors,genres,url
 2,How to Lose a Guy in 10 Days,Donald Petrie,Kate Hudson; Matthew McConaughey; Kathryn Hahn,"Comedy, Romance",https://letterboxd.com/film/how-to-lose-a-guy-in-10-days/
 3,Uptown Girls,Boaz Yakin,Brittany Murphy; Dakota Fanning; Marley Shelton,"Drama, Comedy",https://letterboxd.com/film/uptown-girls/
 4,The Lord of the Rings: The Return of the King,Peter Jackson,Elijah Wood; Ian McKellen; Viggo Mortensen,"Action, Fantasy, Adventure",https://letterboxd.com/film/the-lord-of-the-rings-the-return-of-the-king/
-5,Lost in Translation,Sofia Coppola,Bill Murray; Scarlett Johansson; Giovanni Ribisi,"Comedy, Romance, Drama",https://letterboxd.com/film/lost-in-translation/
-6,Oldboy,Park Chan-wook,Choi Min-sik; Yoo Ji-tae; Kang Hye-jung,"Thriller, Mystery",https://letterboxd.com/film/oldboy/
+5,Oldboy,Park Chan-wook,Choi Min-sik; Yoo Ji-tae; Kang Hye-jung,"Thriller, Mystery",https://letterboxd.com/film/oldboy/
+6,Lost in Translation,Sofia Coppola,Bill Murray; Scarlett Johansson; Giovanni Ribisi,"Comedy, Romance, Drama",https://letterboxd.com/film/lost-in-translation/
 7,Pirates of the Caribbean: The Curse of the Black Pearl,Gore Verbinski,Johnny Depp; Geoffrey Rush; Orlando Bloom,"Fantasy, Adventure, Action",https://letterboxd.com/film/pirates-of-the-caribbean-the-curse-of-the-black-pearl/
 8,Memories of Murder,Bong Joon Ho,Song Kang-ho; Kim Sang-kyung; Kim Roi-ha,"Thriller, Crime, Drama",https://letterboxd.com/film/memories-of-murder/
 9,School of Rock,Richard Linklater,Jack Black; Joan Cusack; Mike White,"Music, Family, Comedy",https://letterboxd.com/film/school-of-rock/
@@ -18,13 +18,13 @@ rank,title,director,actors,genres,url
 17,Elephant,Gus Van Sant,Alex Frost; Eric Deulen; John Robinson,"Crime, Drama",https://letterboxd.com/film/elephant-2003/
 18,X2,Bryan Singer,Hugh Jackman; Patrick Stewart; Ian McKellen,"Science Fiction, Action, Adventure",https://letterboxd.com/film/x2/
 19,Cheaper by the Dozen,Shawn Levy,Steve Martin; Bonnie Hunt; Hilary Duff,"Comedy, Family, Drama",https://letterboxd.com/film/cheaper-by-the-dozen-2003/
-20,Love Actually,Richard Curtis,Hugh Grant; Alan Rickman; Emma Thompson,"Romance, Drama, Comedy",https://letterboxd.com/film/love-actually/
-21,Mona Lisa Smile,Mike Newell,Julia Roberts; Kirsten Dunst; Julia Stiles,"Romance, History, Drama",https://letterboxd.com/film/mona-lisa-smile/
+20,Mona Lisa Smile,Mike Newell,Julia Roberts; Kirsten Dunst; Julia Stiles,"Romance, History, Drama",https://letterboxd.com/film/mona-lisa-smile/
+21,Love Actually,Richard Curtis,Hugh Grant; Alan Rickman; Emma Thompson,"Romance, Drama, Comedy",https://letterboxd.com/film/love-actually/
 22,Final Destination 2,David R. Ellis,Ali Larter; A.J. Cook; Michael Landes,"Mystery, Horror",https://letterboxd.com/film/final-destination-2/
 23,Big Fish,Tim Burton,Ewan McGregor; Albert Finney; Billy Crudup,"Drama, Fantasy, Adventure",https://letterboxd.com/film/big-fish/
 24,The Matrix Reloaded,"Lana Wachowski, Lilly Wachowski",Keanu Reeves; Laurence Fishburne; Carrie-Anne Moss,"Thriller, Science Fiction, Action, Adventure",https://letterboxd.com/film/the-matrix-reloaded/
-25,Brother Bear,"Aaron Blaise, Robert Walker",Joaquin Phoenix; Jeremy Suarez; Jason Raize,"Animation, Family, Adventure",https://letterboxd.com/film/brother-bear/
-26,The Cat in the Hat,Bo Welch,Mike Myers; Dakota Fanning; Spencer Breslin,"Comedy, Fantasy, Adventure, Family",https://letterboxd.com/film/the-cat-in-the-hat-2003/
+25,The Cat in the Hat,Bo Welch,Mike Myers; Dakota Fanning; Spencer Breslin,"Comedy, Fantasy, Adventure, Family",https://letterboxd.com/film/the-cat-in-the-hat-2003/
+26,Brother Bear,"Aaron Blaise, Robert Walker",Joaquin Phoenix; Jeremy Suarez; Jason Raize,"Animation, Family, Adventure",https://letterboxd.com/film/brother-bear/
 27,Master and Commander: The Far Side of the World,Peter Weir,Russell Crowe; Paul Bettany; James D'Arcy,"Adventure, Drama, War",https://letterboxd.com/film/master-and-commander-the-far-side-of-the-world/
 28,Identity,James Mangold,John Cusack; Ray Liotta; Amanda Peet,"Mystery, Thriller",https://letterboxd.com/film/identity/
 29,The Last Samurai,Edward Zwick,Tom Cruise; Ken Watanabe; Timothy Spall,"Drama, War, Action",https://letterboxd.com/film/the-last-samurai/
@@ -36,9 +36,9 @@ rank,title,director,actors,genres,url
 35,Dogville,Lars von Trier,Nicole Kidman; Paul Bettany; John Hurt,"Thriller, Crime, Drama",https://letterboxd.com/film/dogville/
 36,Something's Gotta Give,Nancy Meyers,Jack Nicholson; Diane Keaton; Keanu Reeves,"Romance, Comedy, Drama",https://letterboxd.com/film/somethings-gotta-give/
 37,The Room,Tommy Wiseau,Tommy Wiseau; Juliette Danielle; Greg Sestero,"Drama, Romance",https://letterboxd.com/film/the-room/
-38,A Mighty Wind,Christopher Guest,Bob Balaban; Christopher Guest; John Michael Higgins,"Comedy, Music",https://letterboxd.com/film/a-mighty-wind/
+38,House of 1000 Corpses,Rob Zombie,Sid Haig; Bill Moseley; Sheri Moon Zombie,Horror,https://letterboxd.com/film/house-of-1000-corpses/
 39,Wrong Turn,Rob Schmidt,Eliza Dushku; Desmond Harrington; Emmanuelle Chriqui,"Horror, Thriller",https://letterboxd.com/film/wrong-turn/
-40,House of 1000 Corpses,Rob Zombie,Sid Haig; Bill Moseley; Sheri Moon Zombie,Horror,https://letterboxd.com/film/house-of-1000-corpses/
+40,A Mighty Wind,Christopher Guest,Bob Balaban; Christopher Guest; John Michael Higgins,"Comedy, Music",https://letterboxd.com/film/a-mighty-wind/
 41,What a Girl Wants,Dennie Gordon,Amanda Bynes; Colin Firth; Kelly Preston,"Romance, Drama, Comedy, Family",https://letterboxd.com/film/what-a-girl-wants/
 42,The Texas Chainsaw Massacre,Marcus Nispel,Jessica Biel; Jonathan Tucker; Andrew Bryniarski,Horror,https://letterboxd.com/film/the-texas-chainsaw-massacre/
 43,"Good Bye, Lenin!",Wolfgang Becker,Daniel Brühl; Katrin Sass; Chulpan Khamatova,"Comedy, Drama",https://letterboxd.com/film/good-bye-lenin/
@@ -46,6 +46,6 @@ rank,title,director,actors,genres,url
 45,A Tale of Two Sisters,Kim Jee-woon,Lim Soo-jung; Moon Geun-young; Yum Jung-ah,"Mystery, Horror, Drama",https://letterboxd.com/film/a-tale-of-two-sisters/
 46,Old School,Todd Phillips,Luke Wilson; Will Ferrell; Vince Vaughn,Comedy,https://letterboxd.com/film/old-school/
 47,Honey,Bille Woodruff,Jessica Alba; Mekhi Phifer; Romeo,"Romance, Music, Drama",https://letterboxd.com/film/honey/
-48,Elf,Jon Favreau,Will Ferrell; James Caan; Bob Newhart,"Fantasy, Family, Comedy",https://letterboxd.com/film/elf/
-49,Down with Love,Peyton Reed,Renée Zellweger; Ewan McGregor; Sarah Paulson,"Romance, Comedy",https://letterboxd.com/film/down-with-love/
-50,Anger Management,Peter Segal,Adam Sandler; Jack Nicholson; Marisa Tomei,Comedy,https://letterboxd.com/film/anger-management/
+48,Down with Love,Peyton Reed,Renée Zellweger; Ewan McGregor; Sarah Paulson,"Romance, Comedy",https://letterboxd.com/film/down-with-love/
+49,Elf,Jon Favreau,Will Ferrell; James Caan; Bob Newhart,"Fantasy, Family, Comedy",https://letterboxd.com/film/elf/
+50,Daredevil,Mark Steven Johnson,Ben Affleck; Jennifer Garner; Colin Farrell,"Fantasy, Action",https://letterboxd.com/film/daredevil/

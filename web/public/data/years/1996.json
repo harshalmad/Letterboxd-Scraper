@@ -20,8 +20,8 @@
       "url": "https://letterboxd.com/film/scream/",
       "director": "Wes Craven",
       "actors": [
-        "Neve Campbell",
         "David Arquette",
+        "Neve Campbell",
         "Courteney Cox"
       ],
       "genres": "Mystery, Crime, Horror"
@@ -88,18 +88,6 @@
     },
     {
       "rank": 8,
-      "title": "Matilda",
-      "url": "https://letterboxd.com/film/matilda/",
-      "director": "Danny DeVito",
-      "actors": [
-        "Mara Wilson",
-        "Danny DeVito",
-        "Rhea Perlman"
-      ],
-      "genres": "Family, Comedy, Fantasy"
-    },
-    {
-      "rank": 9,
       "title": "The Birdcage",
       "url": "https://letterboxd.com/film/the-birdcage/",
       "director": "Mike Nichols",
@@ -109,6 +97,18 @@
         "Nathan Lane"
       ],
       "genres": "Comedy, Romance"
+    },
+    {
+      "rank": 9,
+      "title": "Matilda",
+      "url": "https://letterboxd.com/film/matilda/",
+      "director": "Danny DeVito",
+      "actors": [
+        "Mara Wilson",
+        "Danny DeVito",
+        "Rhea Perlman"
+      ],
+      "genres": "Family, Comedy, Fantasy"
     },
     {
       "rank": 10,
@@ -136,18 +136,6 @@
     },
     {
       "rank": 12,
-      "title": "Fear",
-      "url": "https://letterboxd.com/film/fear-1996/",
-      "director": "James Foley",
-      "actors": [
-        "Mark Wahlberg",
-        "Reese Witherspoon",
-        "William L. Petersen"
-      ],
-      "genres": "Thriller, Horror"
-    },
-    {
-      "rank": 13,
       "title": "Bound",
       "url": "https://letterboxd.com/film/bound/",
       "director": "Lana Wachowski, Lilly Wachowski",
@@ -159,7 +147,7 @@
       "genres": "Crime, Thriller, Drama"
     },
     {
-      "rank": 14,
+      "rank": 13,
       "title": "Sleepers",
       "url": "https://letterboxd.com/film/sleepers/",
       "director": "Barry Levinson",
@@ -169,6 +157,18 @@
         "Dustin Hoffman"
       ],
       "genres": "Drama, Crime, Thriller"
+    },
+    {
+      "rank": 14,
+      "title": "Fear",
+      "url": "https://letterboxd.com/film/fear-1996/",
+      "director": "James Foley",
+      "actors": [
+        "Mark Wahlberg",
+        "Reese Witherspoon",
+        "William L. Petersen"
+      ],
+      "genres": "Thriller, Horror"
     },
     {
       "rank": 15,
@@ -220,15 +220,15 @@
     },
     {
       "rank": 19,
-      "title": "Independence Day",
-      "url": "https://letterboxd.com/film/independence-day/",
-      "director": "Roland Emmerich",
+      "title": "The Watermelon Woman",
+      "url": "https://letterboxd.com/film/the-watermelon-woman/",
+      "director": "Cheryl Dunye",
       "actors": [
-        "Will Smith",
-        "Bill Pullman",
-        "Jeff Goldblum"
+        "Cheryl Dunye",
+        "Guinevere Turner",
+        "Valarie Walker"
       ],
-      "genres": "Science Fiction, Adventure, Action"
+      "genres": "Comedy, Drama, Romance"
     },
     {
       "rank": 20,
@@ -244,15 +244,15 @@
     },
     {
       "rank": 21,
-      "title": "The Watermelon Woman",
-      "url": "https://letterboxd.com/film/the-watermelon-woman/",
-      "director": "Cheryl Dunye",
+      "title": "Independence Day",
+      "url": "https://letterboxd.com/film/independence-day/",
+      "director": "Roland Emmerich",
       "actors": [
-        "Cheryl Dunye",
-        "Guinevere Turner",
-        "Valarie Walker"
+        "Will Smith",
+        "Bill Pullman",
+        "Jeff Goldblum"
       ],
-      "genres": "Comedy, Drama, Romance"
+      "genres": "Science Fiction, Adventure, Action"
     },
     {
       "rank": 22,
@@ -316,18 +316,6 @@
     },
     {
       "rank": 27,
-      "title": "The First Wives Club",
-      "url": "https://letterboxd.com/film/the-first-wives-club/",
-      "director": "Hugh Wilson",
-      "actors": [
-        "Goldie Hawn",
-        "Bette Midler",
-        "Diane Keaton"
-      ],
-      "genres": "Comedy"
-    },
-    {
-      "rank": 28,
       "title": "Mars Attacks!",
       "url": "https://letterboxd.com/film/mars-attacks/",
       "director": "Tim Burton",
@@ -339,19 +327,19 @@
       "genres": "Fantasy, Science Fiction, Comedy"
     },
     {
-      "rank": 29,
-      "title": "Bottle Rocket",
-      "url": "https://letterboxd.com/film/bottle-rocket-1996/",
-      "director": "Wes Anderson",
+      "rank": 28,
+      "title": "The First Wives Club",
+      "url": "https://letterboxd.com/film/the-first-wives-club/",
+      "director": "Hugh Wilson",
       "actors": [
-        "Luke Wilson",
-        "Owen Wilson",
-        "Robert Musgrave"
+        "Goldie Hawn",
+        "Bette Midler",
+        "Diane Keaton"
       ],
-      "genres": "Crime, Comedy, Drama"
+      "genres": "Comedy"
     },
     {
-      "rank": 30,
+      "rank": 29,
       "title": "The Rock",
       "url": "https://letterboxd.com/film/the-rock/",
       "director": "Michael Bay",
@@ -361,6 +349,18 @@
         "Ed Harris"
       ],
       "genres": "Thriller, Action, Adventure"
+    },
+    {
+      "rank": 30,
+      "title": "Bottle Rocket",
+      "url": "https://letterboxd.com/film/bottle-rocket-1996/",
+      "director": "Wes Anderson",
+      "actors": [
+        "Luke Wilson",
+        "Owen Wilson",
+        "Robert Musgrave"
+      ],
+      "genres": "Crime, Comedy, Drama"
     },
     {
       "rank": 31,
@@ -412,18 +412,6 @@
     },
     {
       "rank": 35,
-      "title": "The Daytrippers",
-      "url": "https://letterboxd.com/film/the-daytrippers/",
-      "director": "Greg Mottola",
-      "actors": [
-        "Hope Davis",
-        "Pat McNamara",
-        "Anne Meara"
-      ],
-      "genres": "Comedy, Drama"
-    },
-    {
-      "rank": 36,
       "title": "Don't Be a Menace to South Central While Drinking Your Juice in the Hood",
       "url": "https://letterboxd.com/film/dont-be-a-menace-to-south-central-while-drinking-your-juice-in-the-hood/",
       "director": "Paris Barclay",
@@ -433,6 +421,18 @@
         "Tracey Cherelle Jones"
       ],
       "genres": "Comedy"
+    },
+    {
+      "rank": 36,
+      "title": "The Daytrippers",
+      "url": "https://letterboxd.com/film/the-daytrippers/",
+      "director": "Greg Mottola",
+      "actors": [
+        "Hope Davis",
+        "Pat McNamara",
+        "Anne Meara"
+      ],
+      "genres": "Comedy, Drama"
     },
     {
       "rank": 37,
@@ -568,18 +568,6 @@
     },
     {
       "rank": 48,
-      "title": "Ransom",
-      "url": "https://letterboxd.com/film/ransom/",
-      "director": "Ron Howard",
-      "actors": [
-        "Mel Gibson",
-        "Rene Russo",
-        "Gary Sinise"
-      ],
-      "genres": "Action, Thriller"
-    },
-    {
-      "rank": 49,
       "title": "That Thing You Do!",
       "url": "https://letterboxd.com/film/that-thing-you-do/",
       "director": "Tom Hanks",
@@ -591,16 +579,28 @@
       "genres": "Music, Drama, Comedy"
     },
     {
-      "rank": 50,
-      "title": "Comrades, Almost a Love Story",
-      "url": "https://letterboxd.com/film/comrades-almost-a-love-story/",
-      "director": "Peter Chan Ho-Sun",
+      "rank": 49,
+      "title": "Ransom",
+      "url": "https://letterboxd.com/film/ransom/",
+      "director": "Ron Howard",
       "actors": [
-        "Maggie Cheung",
-        "Leon Lai Ming",
-        "Eric Tsang Chi-Wai"
+        "Mel Gibson",
+        "Rene Russo",
+        "Gary Sinise"
       ],
-      "genres": "Drama, Romance"
+      "genres": "Action, Thriller"
+    },
+    {
+      "rank": 50,
+      "title": "The People vs. Larry Flynt",
+      "url": "https://letterboxd.com/film/the-people-vs-larry-flynt/",
+      "director": "Miloš Forman",
+      "actors": [
+        "Woody Harrelson",
+        "Courtney Love",
+        "Edward Norton"
+      ],
+      "genres": "Drama"
     }
   ]
 }

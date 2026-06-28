@@ -148,18 +148,6 @@
     },
     {
       "rank": 13,
-      "title": "Pixote",
-      "url": "https://letterboxd.com/film/pixote/",
-      "director": "Héctor Babenco",
-      "actors": [
-        "Fernando Ramos da Silva",
-        "Jorge Julião",
-        "Gilberto Moura"
-      ],
-      "genres": "Drama, Crime"
-    },
-    {
-      "rank": 14,
       "title": "The Fog",
       "url": "https://letterboxd.com/film/the-fog/",
       "director": "John Carpenter",
@@ -171,19 +159,19 @@
       "genres": "Horror"
     },
     {
-      "rank": 15,
-      "title": "The Blue Lagoon",
-      "url": "https://letterboxd.com/film/the-blue-lagoon/",
-      "director": "Randal Kleiser",
+      "rank": 14,
+      "title": "Pixote",
+      "url": "https://letterboxd.com/film/pixote/",
+      "director": "Héctor Babenco",
       "actors": [
-        "Brooke Shields",
-        "Christopher Atkins",
-        "Leo McKern"
+        "Fernando Ramos da Silva",
+        "Jorge Julião",
+        "Gilberto Moura"
       ],
-      "genres": "Romance, Adventure, Drama"
+      "genres": "Drama, Crime"
     },
     {
-      "rank": 16,
+      "rank": 15,
       "title": "Cannibal Holocaust",
       "url": "https://letterboxd.com/film/cannibal-holocaust/",
       "director": "Ruggero Deodato",
@@ -193,6 +181,18 @@
         "Perry Pirkanen"
       ],
       "genres": "Horror"
+    },
+    {
+      "rank": 16,
+      "title": "The Blue Lagoon",
+      "url": "https://letterboxd.com/film/the-blue-lagoon/",
+      "director": "Randal Kleiser",
+      "actors": [
+        "Brooke Shields",
+        "Christopher Atkins",
+        "Leo McKern"
+      ],
+      "genres": "Romance, Adventure, Drama"
     },
     {
       "rank": 17,
@@ -252,18 +252,6 @@
     },
     {
       "rank": 22,
-      "title": "Night of the Juggler",
-      "url": "https://letterboxd.com/film/night-of-the-juggler/",
-      "director": "Robert Butler",
-      "actors": [
-        "James Brolin",
-        "Cliff Gorman",
-        "Richard S. Castellano"
-      ],
-      "genres": "Action, Crime, Thriller"
-    },
-    {
-      "rank": 23,
       "title": "Maniac",
       "url": "https://letterboxd.com/film/maniac-1980/",
       "director": "William Lustig",
@@ -275,7 +263,7 @@
       "genres": "Horror"
     },
     {
-      "rank": 24,
+      "rank": 23,
       "title": "Superman II",
       "url": "https://letterboxd.com/film/superman-ii/",
       "director": "Richard Lester",
@@ -287,19 +275,19 @@
       "genres": "Action, Adventure, Science Fiction"
     },
     {
-      "rank": 25,
-      "title": "Kagemusha",
-      "url": "https://letterboxd.com/film/kagemusha/",
-      "director": "Akira Kurosawa",
+      "rank": 24,
+      "title": "Night of the Juggler",
+      "url": "https://letterboxd.com/film/night-of-the-juggler/",
+      "director": "Robert Butler",
       "actors": [
-        "Tatsuya Nakadai",
-        "Tsutomu Yamazaki",
-        "Kenichi Hagiwara"
+        "James Brolin",
+        "Cliff Gorman",
+        "Richard S. Castellano"
       ],
-      "genres": "Action, Drama, War, History"
+      "genres": "Action, Crime, Thriller"
     },
     {
-      "rank": 26,
+      "rank": 25,
       "title": "The King and the Mockingbird",
       "url": "https://letterboxd.com/film/the-king-and-the-mockingbird/",
       "director": "Paul Grimault",
@@ -309,6 +297,18 @@
         "Agnès Viala"
       ],
       "genres": "Fantasy, Animation, Family"
+    },
+    {
+      "rank": 26,
+      "title": "Kagemusha",
+      "url": "https://letterboxd.com/film/kagemusha/",
+      "director": "Akira Kurosawa",
+      "actors": [
+        "Tatsuya Nakadai",
+        "Tsutomu Yamazaki",
+        "Kenichi Hagiwara"
+      ],
+      "genres": "Action, Drama, War, History"
     },
     {
       "rank": 27,
@@ -444,18 +444,6 @@
     },
     {
       "rank": 38,
-      "title": "Permanent Vacation",
-      "url": "https://letterboxd.com/film/permanent-vacation/",
-      "director": "Jim Jarmusch",
-      "actors": [
-        "Chris Parker",
-        "Leila Gastil",
-        "John Lurie"
-      ],
-      "genres": "Drama"
-    },
-    {
-      "rank": 39,
       "title": "Alligator",
       "url": "https://letterboxd.com/film/alligator/",
       "director": "Lewis Teague",
@@ -467,19 +455,19 @@
       "genres": "Thriller, Horror, Science Fiction"
     },
     {
-      "rank": 40,
-      "title": "Bubble Bath",
-      "url": "https://letterboxd.com/film/bubble-bath/",
-      "director": "György Kovásznai",
+      "rank": 39,
+      "title": "Permanent Vacation",
+      "url": "https://letterboxd.com/film/permanent-vacation/",
+      "director": "Jim Jarmusch",
       "actors": [
-        "Albert Antalffy",
-        "Katalin Bontovics",
-        "Katalin Dobos"
+        "Chris Parker",
+        "Leila Gastil",
+        "John Lurie"
       ],
-      "genres": "Drama, Comedy, Animation, Music"
+      "genres": "Drama"
     },
     {
-      "rank": 41,
+      "rank": 40,
       "title": "The Stunt Man",
       "url": "https://letterboxd.com/film/the-stunt-man/",
       "director": "Richard Rush",
@@ -489,6 +477,18 @@
         "Barbara Hershey"
       ],
       "genres": "Action, Thriller, Romance, Comedy, Drama"
+    },
+    {
+      "rank": 41,
+      "title": "Bubble Bath",
+      "url": "https://letterboxd.com/film/bubble-bath/",
+      "director": "György Kovásznai",
+      "actors": [
+        "Albert Antalffy",
+        "Katalin Bontovics",
+        "Katalin Dobos"
+      ],
+      "genres": "Drama, Comedy, Animation, Music"
     },
     {
       "rank": 42,
@@ -504,18 +504,6 @@
     },
     {
       "rank": 43,
-      "title": "Moscow Does Not Believe in Tears",
-      "url": "https://letterboxd.com/film/moscow-does-not-believe-in-tears/",
-      "director": "Vladimir Menshov",
-      "actors": [
-        "Vera Alentova",
-        "Aleksey Batalov",
-        "Irina Muravyova"
-      ],
-      "genres": "Romance, Comedy, Drama"
-    },
-    {
-      "rank": 44,
       "title": "The Gods Must Be Crazy",
       "url": "https://letterboxd.com/film/the-gods-must-be-crazy/",
       "director": "Jamie Uys",
@@ -525,6 +513,18 @@
         "N!xau"
       ],
       "genres": "Action, Comedy"
+    },
+    {
+      "rank": 44,
+      "title": "Moscow Does Not Believe in Tears",
+      "url": "https://letterboxd.com/film/moscow-does-not-believe-in-tears/",
+      "director": "Vladimir Menshov",
+      "actors": [
+        "Vera Alentova",
+        "Aleksey Batalov",
+        "Irina Muravyova"
+      ],
+      "genres": "Romance, Comedy, Drama"
     },
     {
       "rank": 45,
@@ -576,6 +576,18 @@
     },
     {
       "rank": 49,
+      "title": "The Under-Gifted",
+      "url": "https://letterboxd.com/film/the-under-gifted/",
+      "director": "Claude Zidi",
+      "actors": [
+        "Daniel Auteuil",
+        "Michel Galabru",
+        "Maria Pacôme"
+      ],
+      "genres": "Comedy"
+    },
+    {
+      "rank": 50,
       "title": "Urban Cowboy",
       "url": "https://letterboxd.com/film/urban-cowboy/",
       "director": "James Bridges",
@@ -585,18 +597,6 @@
         "Scott Glenn"
       ],
       "genres": "Romance, Drama, Western"
-    },
-    {
-      "rank": 50,
-      "title": "Forbidden Zone",
-      "url": "https://letterboxd.com/film/forbidden-zone/",
-      "director": "Richard Elfman",
-      "actors": [
-        "Hervé Villechaize",
-        "Susan Tyrrell",
-        "Matthew Bright"
-      ],
-      "genres": "Comedy, Fantasy, Music"
     }
   ]
 }

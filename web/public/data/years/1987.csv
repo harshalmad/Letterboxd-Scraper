@@ -8,18 +8,18 @@ rank,title,director,actors,genres,url
 7,Evil Dead II,Sam Raimi,Bruce Campbell; Sarah Berry; Dan Hicks,"Comedy, Fantasy, Horror",https://letterboxd.com/film/evil-dead-ii/
 8,The Lost Boys,Joel Schumacher,Jason Patric; Corey Haim; Dianne Wiest,"Thriller, Horror, Drama, Comedy, Romance",https://letterboxd.com/film/the-lost-boys/
 9,Spaceballs,Mel Brooks,Mel Brooks; John Candy; Rick Moranis,"Science Fiction, Comedy",https://letterboxd.com/film/spaceballs/
-10,Raising Arizona,Joel Coen,Nicolas Cage; Holly Hunter; Trey Wilson,"Crime, Comedy",https://letterboxd.com/film/raising-arizona/
-11,Hellraiser,Clive Barker,Andrew Robinson; Clare Higgins; Sean Chapman,"Thriller, Horror",https://letterboxd.com/film/hellraiser/
+10,Hellraiser,Clive Barker,Andrew Robinson; Clare Higgins; Sean Chapman,"Thriller, Horror",https://letterboxd.com/film/hellraiser/
+11,Raising Arizona,Joel Coen,Nicolas Cage; Holly Hunter; Trey Wilson,"Crime, Comedy",https://letterboxd.com/film/raising-arizona/
 12,The Untouchables,Brian De Palma,Kevin Costner; Sean Connery; Robert De Niro,"History, Thriller, Crime",https://letterboxd.com/film/the-untouchables/
 13,Where Is the Friend's House?,Abbas Kiarostami,Babek Ahmadpour; Ahmed Ahmadpour; Kheda Barech Defai,"Drama, Adventure",https://letterboxd.com/film/where-is-the-friends-house/
 14,Wings of Desire,Wim Wenders,Bruno Ganz; Solveig Dommartin; Otto Sander,"Drama, Fantasy, Romance",https://letterboxd.com/film/wings-of-desire/
 15,Maurice,James Ivory,James Wilby; Hugh Grant; Rupert Graves,"Drama, Romance",https://letterboxd.com/film/maurice/
-16,The Running Man,Paul Michael Glaser,Arnold Schwarzenegger; Richard Dawson; María Conchita Alonso,"Action, Thriller, Science Fiction",https://letterboxd.com/film/the-running-man/
-17,Withnail & I,Bruce Robinson,Richard E. Grant; Paul McGann; Richard Griffiths,"Comedy, Drama",https://letterboxd.com/film/withnail-i/
-18,Overboard,Garry Marshall,Goldie Hawn; Kurt Russell; Edward Herrmann,"Romance, Comedy",https://letterboxd.com/film/overboard/
-19,Wall Street,Oliver Stone,Michael Douglas; Charlie Sheen; Martin Sheen,"Crime, Drama",https://letterboxd.com/film/wall-street/
-20,Lethal Weapon,Richard Donner,Mel Gibson; Danny Glover; Gary Busey,"Crime, Action, Thriller",https://letterboxd.com/film/lethal-weapon/
-21,"Good Morning, Vietnam",Barry Levinson,Robin Williams; Forest Whitaker; Tom T. Tran,"Comedy, Drama, War",https://letterboxd.com/film/good-morning-vietnam/
+16,Withnail & I,Bruce Robinson,Richard E. Grant; Paul McGann; Richard Griffiths,"Comedy, Drama",https://letterboxd.com/film/withnail-i/
+17,The Running Man,Paul Michael Glaser,Arnold Schwarzenegger; Richard Dawson; María Conchita Alonso,"Action, Thriller, Science Fiction",https://letterboxd.com/film/the-running-man/
+18,"Good Morning, Vietnam",Barry Levinson,Robin Williams; Forest Whitaker; Tom T. Tran,"Comedy, Drama, War",https://letterboxd.com/film/good-morning-vietnam/
+19,Overboard,Garry Marshall,Goldie Hawn; Kurt Russell; Edward Herrmann,"Romance, Comedy",https://letterboxd.com/film/overboard/
+20,Wall Street,Oliver Stone,Michael Douglas; Charlie Sheen; Martin Sheen,"Crime, Drama",https://letterboxd.com/film/wall-street/
+21,Lethal Weapon,Richard Donner,Mel Gibson; Danny Glover; Gary Busey,"Crime, Action, Thriller",https://letterboxd.com/film/lethal-weapon/
 22,Masters of the Universe,Gary Goddard,Dolph Lundgren; Frank Langella; Meg Foster,"Thriller, Adventure, Action, Science Fiction, Fantasy",https://letterboxd.com/film/masters-of-the-universe/
 23,Empire of the Sun,Steven Spielberg,Christian Bale; John Malkovich; Miranda Richardson,"History, War, Drama",https://letterboxd.com/film/empire-of-the-sun/
 24,Fatal Attraction,Adrian Lyne,Michael Douglas; Glenn Close; Anne Archer,"Romance, Thriller, Drama",https://letterboxd.com/film/fatal-attraction/
@@ -36,16 +36,16 @@ rank,title,director,actors,genres,url
 35,The Witches of Eastwick,George Miller,Jack Nicholson; Cher; Susan Sarandon,"Fantasy, Horror, Comedy",https://letterboxd.com/film/the-witches-of-eastwick/
 36,Prince of Darkness,John Carpenter,Donald Pleasence; Lisa Blount; Victor Wong,Horror,https://letterboxd.com/film/prince-of-darkness/
 37,Au Revoir les Enfants,Louis Malle,Gaspard Manesse; Raphael Fejtö; Francine Racette,"Drama, War",https://letterboxd.com/film/au-revoir-les-enfants/
-38,Near Dark,Kathryn Bigelow,Adrian Pasdar; Jenny Wright; Lance Henriksen,Horror,https://letterboxd.com/film/near-dark/
+38,Adventures in Babysitting,Chris Columbus,Elisabeth Shue; Maia Brewton; Keith Coogan,Comedy,https://letterboxd.com/film/adventures-in-babysitting/
 39,Opera,Dario Argento,Cristina Marsillach; Ian Charleson; Urbano Barberini,"Thriller, Horror, Mystery",https://letterboxd.com/film/opera/
-40,Adventures in Babysitting,Chris Columbus,Elisabeth Shue; Maia Brewton; Keith Coogan,Comedy,https://letterboxd.com/film/adventures-in-babysitting/
+40,Near Dark,Kathryn Bigelow,Adrian Pasdar; Jenny Wright; Lance Henriksen,Horror,https://letterboxd.com/film/near-dark/
 41,A Chinese Ghost Story,Tony Ching Siu-Tung,Leslie Cheung; Joey Wong; Wu Ma,"Fantasy, Action, Horror",https://letterboxd.com/film/a-chinese-ghost-story/
 42,Law of Desire,Pedro Almodóvar,Eusebio Poncela; Carmen Maura; Antonio Banderas,"Comedy, Thriller, Romance, Drama",https://letterboxd.com/film/law-of-desire/
-43,A Better Tomorrow II,John Woo,Ti Lung; Leslie Cheung; Dean Shek Tin,"Crime, Thriller, Action",https://letterboxd.com/film/a-better-tomorrow-ii/
-44,Beverly Hills Cop II,Tony Scott,Eddie Murphy; Judge Reinhold; John Ashton,"Action, Crime, Comedy",https://letterboxd.com/film/beverly-hills-cop-ii/
-45,Throw Momma from the Train,Danny DeVito,Danny DeVito; Billy Crystal; Kim Greist,"Comedy, Thriller, Crime",https://letterboxd.com/film/throw-momma-from-the-train/
-46,Innerspace,Joe Dante,Dennis Quaid; Martin Short; Meg Ryan,"Action, Science Fiction, Comedy",https://letterboxd.com/film/innerspace/
-47,Walker,Alex Cox,Ed Harris; Richard Masur; René Auberjonois,"Drama, History, Western",https://letterboxd.com/film/walker/
+43,Walker,Alex Cox,Ed Harris; Richard Masur; René Auberjonois,"Drama, History, Western",https://letterboxd.com/film/walker/
+44,A Better Tomorrow II,John Woo,Ti Lung; Leslie Cheung; Dean Shek Tin,"Crime, Thriller, Action",https://letterboxd.com/film/a-better-tomorrow-ii/
+45,Beverly Hills Cop II,Tony Scott,Eddie Murphy; Judge Reinhold; John Ashton,"Action, Crime, Comedy",https://letterboxd.com/film/beverly-hills-cop-ii/
+46,Throw Momma from the Train,Danny DeVito,Danny DeVito; Billy Crystal; Kim Greist,"Comedy, Thriller, Crime",https://letterboxd.com/film/throw-momma-from-the-train/
+47,Innerspace,Joe Dante,Dennis Quaid; Martin Short; Meg Ryan,"Action, Science Fiction, Comedy",https://letterboxd.com/film/innerspace/
 48,3 Men and a Baby,Leonard Nimoy,Tom Selleck; Steve Guttenberg; Ted Danson,Comedy,https://letterboxd.com/film/3-men-and-a-baby/
 49,No Way Out,Roger Donaldson,Kevin Costner; Gene Hackman; Sean Young,"Thriller, Drama",https://letterboxd.com/film/no-way-out-1987/
 50,Baby Boom,Charles Shyer,Diane Keaton; Sam Shepard; Harold Ramis,"Drama, Comedy, Romance",https://letterboxd.com/film/baby-boom/

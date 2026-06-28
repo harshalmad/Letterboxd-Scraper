@@ -196,18 +196,6 @@
     },
     {
       "rank": 17,
-      "title": "Blade",
-      "url": "https://letterboxd.com/film/blade/",
-      "director": "Stephen Norrington",
-      "actors": [
-        "Wesley Snipes",
-        "Stephen Dorff",
-        "Kris Kristofferson"
-      ],
-      "genres": "Action, Horror"
-    },
-    {
-      "rank": 18,
       "title": "A Bug's Life",
       "url": "https://letterboxd.com/film/a-bugs-life/",
       "director": "John Lasseter",
@@ -217,6 +205,18 @@
         "Julia Louis-Dreyfus"
       ],
       "genres": "Animation, Adventure, Comedy, Family"
+    },
+    {
+      "rank": 18,
+      "title": "Blade",
+      "url": "https://letterboxd.com/film/blade/",
+      "director": "Stephen Norrington",
+      "actors": [
+        "Wesley Snipes",
+        "Stephen Dorff",
+        "Kris Kristofferson"
+      ],
+      "genres": "Action, Horror"
     },
     {
       "rank": 19,
@@ -364,6 +364,18 @@
     },
     {
       "rank": 31,
+      "title": "Pleasantville",
+      "url": "https://letterboxd.com/film/pleasantville/",
+      "director": "Gary Ross",
+      "actors": [
+        "Tobey Maguire",
+        "Reese Witherspoon",
+        "William H. Macy"
+      ],
+      "genres": "Comedy, Fantasy, Drama"
+    },
+    {
+      "rank": 32,
       "title": "Lock, Stock and Two Smoking Barrels",
       "url": "https://letterboxd.com/film/lock-stock-and-two-smoking-barrels/",
       "director": "Guy Ritchie",
@@ -375,7 +387,7 @@
       "genres": "Crime, Comedy"
     },
     {
-      "rank": 32,
+      "rank": 33,
       "title": "The Wedding Singer",
       "url": "https://letterboxd.com/film/the-wedding-singer/",
       "director": "Frank Coraci",
@@ -385,18 +397,6 @@
         "Christine Taylor"
       ],
       "genres": "Romance, Comedy"
-    },
-    {
-      "rank": 33,
-      "title": "Pleasantville",
-      "url": "https://letterboxd.com/film/pleasantville/",
-      "director": "Gary Ross",
-      "actors": [
-        "Tobey Maguire",
-        "Reese Witherspoon",
-        "William H. Macy"
-      ],
-      "genres": "Comedy, Fantasy, Drama"
     },
     {
       "rank": 34,
@@ -436,18 +436,6 @@
     },
     {
       "rank": 37,
-      "title": "The Thin Red Line",
-      "url": "https://letterboxd.com/film/the-thin-red-line/",
-      "director": "Terrence Malick",
-      "actors": [
-        "Jim Caviezel",
-        "Nick Nolte",
-        "Sean Penn"
-      ],
-      "genres": "History, War, Drama"
-    },
-    {
-      "rank": 38,
       "title": "A Simple Plan",
       "url": "https://letterboxd.com/film/a-simple-plan/",
       "director": "Sam Raimi",
@@ -459,19 +447,19 @@
       "genres": "Crime, Drama, Thriller"
     },
     {
-      "rank": 39,
-      "title": "Urban Legend",
-      "url": "https://letterboxd.com/film/urban-legend/",
-      "director": "Jamie Blanks",
+      "rank": 38,
+      "title": "The Thin Red Line",
+      "url": "https://letterboxd.com/film/the-thin-red-line/",
+      "director": "Terrence Malick",
       "actors": [
-        "Alicia Witt",
-        "Jared Leto",
-        "Rebecca Gayheart"
+        "Jim Caviezel",
+        "Nick Nolte",
+        "Sean Penn"
       ],
-      "genres": "Horror, Mystery"
+      "genres": "History, War, Drama"
     },
     {
-      "rank": 40,
+      "rank": 39,
       "title": "Cowboy Bebop",
       "url": "https://letterboxd.com/film/cowboy-bebop/",
       "director": "Ikuro Sato, Kunihiro Mori, Yoshiyuki Takei, Hirokazu Yamada, Tetsuya Watanabe, Shinichiro Watanabe",
@@ -481,6 +469,18 @@
         "Megumi Hayashibara"
       ],
       "genres": "Western, Animation"
+    },
+    {
+      "rank": 40,
+      "title": "Urban Legend",
+      "url": "https://letterboxd.com/film/urban-legend/",
+      "director": "Jamie Blanks",
+      "actors": [
+        "Alicia Witt",
+        "Jared Leto",
+        "Rebecca Gayheart"
+      ],
+      "genres": "Horror, Mystery"
     },
     {
       "rank": 41,

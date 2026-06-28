@@ -81,8 +81,8 @@
       "director": "Dan Gilroy",
       "actors": [
         "Jake Gyllenhaal",
-        "Riz Ahmed",
-        "Rene Russo"
+        "Rene Russo",
+        "Riz Ahmed"
       ],
       "genres": "Crime, Drama, Thriller"
     },
@@ -172,18 +172,6 @@
     },
     {
       "rank": 15,
-      "title": "Birdman or (The Unexpected Virtue of Ignorance)",
-      "url": "https://letterboxd.com/film/birdman-or-the-unexpected-virtue-of-ignorance/",
-      "director": "Alejandro G. Iñárritu",
-      "actors": [
-        "Michael Keaton",
-        "Emma Stone",
-        "Zach Galifianakis"
-      ],
-      "genres": "Drama, Comedy"
-    },
-    {
-      "rank": 16,
       "title": "How to Train Your Dragon 2",
       "url": "https://letterboxd.com/film/how-to-train-your-dragon-2/",
       "director": "Dean DeBlois",
@@ -193,6 +181,18 @@
         "Gerard Butler"
       ],
       "genres": "Animation, Adventure, Action, Fantasy, Family"
+    },
+    {
+      "rank": 16,
+      "title": "Birdman or (The Unexpected Virtue of Ignorance)",
+      "url": "https://letterboxd.com/film/birdman-or-the-unexpected-virtue-of-ignorance/",
+      "director": "Alejandro G. Iñárritu",
+      "actors": [
+        "Michael Keaton",
+        "Emma Stone",
+        "Zach Galifianakis"
+      ],
+      "genres": "Drama, Comedy"
     },
     {
       "rank": 17,
@@ -220,18 +220,6 @@
     },
     {
       "rank": 19,
-      "title": "Love, Rosie",
-      "url": "https://letterboxd.com/film/love-rosie/",
-      "director": "Christian Ditter",
-      "actors": [
-        "Lily Collins",
-        "Sam Claflin",
-        "Christian Cooke"
-      ],
-      "genres": "Drama, Romance, Comedy"
-    },
-    {
-      "rank": 20,
       "title": "As Above, So Below",
       "url": "https://letterboxd.com/film/as-above-so-below-2014/",
       "director": "John Erick Dowdle",
@@ -241,6 +229,18 @@
         "Edwin Hodge"
       ],
       "genres": "Horror, Thriller"
+    },
+    {
+      "rank": 20,
+      "title": "Love, Rosie",
+      "url": "https://letterboxd.com/film/love-rosie/",
+      "director": "Christian Ditter",
+      "actors": [
+        "Lily Collins",
+        "Sam Claflin",
+        "Christian Cooke"
+      ],
+      "genres": "Drama, Romance, Comedy"
     },
     {
       "rank": 21,
@@ -256,18 +256,6 @@
     },
     {
       "rank": 22,
-      "title": "Fury",
-      "url": "https://letterboxd.com/film/fury-2014/",
-      "director": "David Ayer",
-      "actors": [
-        "Brad Pitt",
-        "Shia LaBeouf",
-        "Logan Lerman"
-      ],
-      "genres": "War, Drama, Action"
-    },
-    {
-      "rank": 23,
       "title": "Kingsman: The Secret Service",
       "url": "https://letterboxd.com/film/kingsman-the-secret-service/",
       "director": "Matthew Vaughn",
@@ -277,6 +265,18 @@
         "Samuel L. Jackson"
       ],
       "genres": "Action, Comedy, Crime, Adventure"
+    },
+    {
+      "rank": 23,
+      "title": "Fury",
+      "url": "https://letterboxd.com/film/fury-2014/",
+      "director": "David Ayer",
+      "actors": [
+        "Brad Pitt",
+        "Shia LaBeouf",
+        "Logan Lerman"
+      ],
+      "genres": "War, Drama, Action"
     },
     {
       "rank": 24,
@@ -436,18 +436,6 @@
     },
     {
       "rank": 37,
-      "title": "Boyhood",
-      "url": "https://letterboxd.com/film/boyhood/",
-      "director": "Richard Linklater",
-      "actors": [
-        "Ellar Coltrane",
-        "Patricia Arquette",
-        "Ethan Hawke"
-      ],
-      "genres": "Drama"
-    },
-    {
-      "rank": 38,
       "title": "Tusk",
       "url": "https://letterboxd.com/film/tusk-2014/",
       "director": "Kevin Smith",
@@ -457,6 +445,18 @@
         "Genesis Rodriguez"
       ],
       "genres": "Horror, Comedy"
+    },
+    {
+      "rank": 38,
+      "title": "Boyhood",
+      "url": "https://letterboxd.com/film/boyhood/",
+      "director": "Richard Linklater",
+      "actors": [
+        "Ellar Coltrane",
+        "Patricia Arquette",
+        "Ethan Hawke"
+      ],
+      "genres": "Drama"
     },
     {
       "rank": 39,

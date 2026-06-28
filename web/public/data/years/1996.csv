@@ -1,40 +1,40 @@
 rank,title,director,actors,genres,url
 1,Fargo,Joel Coen,Frances McDormand; William H. Macy; Steve Buscemi,"Crime, Comedy, Drama, Thriller",https://letterboxd.com/film/fargo/
-2,Scream,Wes Craven,Neve Campbell; David Arquette; Courteney Cox,"Mystery, Crime, Horror",https://letterboxd.com/film/scream/
+2,Scream,Wes Craven,David Arquette; Neve Campbell; Courteney Cox,"Mystery, Crime, Horror",https://letterboxd.com/film/scream/
 3,Trainspotting,Danny Boyle,Ewan McGregor; Ewen Bremner; Jonny Lee Miller,"Crime, Drama",https://letterboxd.com/film/trainspotting/
 4,Primal Fear,Gregory Hoblit,Richard Gere; Laura Linney; Edward Norton,"Crime, Drama, Thriller",https://letterboxd.com/film/primal-fear/
 5,Romeo + Juliet,Baz Luhrmann,Leonardo DiCaprio; Claire Danes; Jesse Bradford,"Romance, Drama",https://letterboxd.com/film/romeo-juliet-1996/
 6,Crash,David Cronenberg,James Spader; Holly Hunter; Elias Koteas,"Thriller, Drama",https://letterboxd.com/film/crash/
 7,Jerry Maguire,Cameron Crowe,Tom Cruise; Renée Zellweger; Cuba Gooding Jr.,"Comedy, Romance, Drama",https://letterboxd.com/film/jerry-maguire/
-8,Matilda,Danny DeVito,Mara Wilson; Danny DeVito; Rhea Perlman,"Family, Comedy, Fantasy",https://letterboxd.com/film/matilda/
-9,The Birdcage,Mike Nichols,Robin Williams; Gene Hackman; Nathan Lane,"Comedy, Romance",https://letterboxd.com/film/the-birdcage/
+8,The Birdcage,Mike Nichols,Robin Williams; Gene Hackman; Nathan Lane,"Comedy, Romance",https://letterboxd.com/film/the-birdcage/
+9,Matilda,Danny DeVito,Mara Wilson; Danny DeVito; Rhea Perlman,"Family, Comedy, Fantasy",https://letterboxd.com/film/matilda/
 10,A Time to Kill,Joel Schumacher,Matthew McConaughey; Sandra Bullock; Samuel L. Jackson,"Thriller, Drama, Crime",https://letterboxd.com/film/a-time-to-kill-1996/
 11,The Craft,Andrew Fleming,Robin Tunney; Fairuza Balk; Neve Campbell,"Horror, Fantasy, Drama",https://letterboxd.com/film/the-craft/
-12,Fear,James Foley,Mark Wahlberg; Reese Witherspoon; William L. Petersen,"Thriller, Horror",https://letterboxd.com/film/fear-1996/
-13,Bound,"Lana Wachowski, Lilly Wachowski",Gina Gershon; Jennifer Tilly; Joe Pantoliano,"Crime, Thriller, Drama",https://letterboxd.com/film/bound/
-14,Sleepers,Barry Levinson,Kevin Bacon; Robert De Niro; Dustin Hoffman,"Drama, Crime, Thriller",https://letterboxd.com/film/sleepers/
+12,Bound,"Lana Wachowski, Lilly Wachowski",Gina Gershon; Jennifer Tilly; Joe Pantoliano,"Crime, Thriller, Drama",https://letterboxd.com/film/bound/
+13,Sleepers,Barry Levinson,Kevin Bacon; Robert De Niro; Dustin Hoffman,"Drama, Crime, Thriller",https://letterboxd.com/film/sleepers/
+14,Fear,James Foley,Mark Wahlberg; Reese Witherspoon; William L. Petersen,"Thriller, Horror",https://letterboxd.com/film/fear-1996/
 15,Mission: Impossible,Brian De Palma,Tom Cruise; Jon Voight; Emmanuelle Béart,"Thriller, Action, Adventure",https://letterboxd.com/film/mission-impossible/
 16,From Dusk Till Dawn,Robert Rodriguez,George Clooney; Quentin Tarantino; Harvey Keitel,"Horror, Crime, Action",https://letterboxd.com/film/from-dusk-till-dawn/
 17,Waiting for Guffman,Christopher Guest,Christopher Guest; Eugene Levy; Fred Willard,"Music, Comedy",https://letterboxd.com/film/waiting-for-guffman/
 18,The Hunchback of Notre Dame,"Gary Trousdale, Kirk Wise",Tom Hulce; Demi Moore; Kevin Kline,"Drama, Family, Animation",https://letterboxd.com/film/the-hunchback-of-notre-dame-1996/
-19,Independence Day,Roland Emmerich,Will Smith; Bill Pullman; Jeff Goldblum,"Science Fiction, Adventure, Action",https://letterboxd.com/film/independence-day/
+19,The Watermelon Woman,Cheryl Dunye,Cheryl Dunye; Guinevere Turner; Valarie Walker,"Comedy, Drama, Romance",https://letterboxd.com/film/the-watermelon-woman/
 20,Happy Gilmore,Dennis Dugan,Adam Sandler; Christopher McDonald; Julie Bowen,Comedy,https://letterboxd.com/film/happy-gilmore/
-21,The Watermelon Woman,Cheryl Dunye,Cheryl Dunye; Guinevere Turner; Valarie Walker,"Comedy, Drama, Romance",https://letterboxd.com/film/the-watermelon-woman/
+21,Independence Day,Roland Emmerich,Will Smith; Bill Pullman; Jeff Goldblum,"Science Fiction, Adventure, Action",https://letterboxd.com/film/independence-day/
 22,Thesis,Alejandro Amenábar,Ana Torrent; Fele Martínez; Eduardo Noriega,"Thriller, Horror",https://letterboxd.com/film/thesis/
 23,Pusher,Nicolas Winding Refn,Kim Bodnia; Mads Mikkelsen; Laura Drasbæk,"Action, Crime, Drama",https://letterboxd.com/film/pusher/
 24,Space Jam,Joe Pytka,Michael Jordan; Wayne Knight; Theresa Randle,"Family, Fantasy, Comedy, Animation, Science Fiction",https://letterboxd.com/film/space-jam/
 25,Twister,Jan de Bont,Helen Hunt; Bill Paxton; Jami Gertz,"Adventure, Action, Drama",https://letterboxd.com/film/twister/
 26,Hard Eight,Paul Thomas Anderson,Philip Baker Hall; John C. Reilly; Gwyneth Paltrow,"Drama, Crime",https://letterboxd.com/film/hard-eight/
-27,The First Wives Club,Hugh Wilson,Goldie Hawn; Bette Midler; Diane Keaton,Comedy,https://letterboxd.com/film/the-first-wives-club/
-28,Mars Attacks!,Tim Burton,Jack Nicholson; Glenn Close; Annette Bening,"Fantasy, Science Fiction, Comedy",https://letterboxd.com/film/mars-attacks/
-29,Bottle Rocket,Wes Anderson,Luke Wilson; Owen Wilson; Robert Musgrave,"Crime, Comedy, Drama",https://letterboxd.com/film/bottle-rocket-1996/
-30,The Rock,Michael Bay,Sean Connery; Nicolas Cage; Ed Harris,"Thriller, Action, Adventure",https://letterboxd.com/film/the-rock/
+27,Mars Attacks!,Tim Burton,Jack Nicholson; Glenn Close; Annette Bening,"Fantasy, Science Fiction, Comedy",https://letterboxd.com/film/mars-attacks/
+28,The First Wives Club,Hugh Wilson,Goldie Hawn; Bette Midler; Diane Keaton,Comedy,https://letterboxd.com/film/the-first-wives-club/
+29,The Rock,Michael Bay,Sean Connery; Nicolas Cage; Ed Harris,"Thriller, Action, Adventure",https://letterboxd.com/film/the-rock/
+30,Bottle Rocket,Wes Anderson,Luke Wilson; Owen Wilson; Robert Musgrave,"Crime, Comedy, Drama",https://letterboxd.com/film/bottle-rocket-1996/
 31,Lost and Found,Lee Chi-Ngai,Takeshi Kaneshiro; Kelly Chen Hui-Lin; Michael Wong,"Romance, Drama",https://letterboxd.com/film/lost-and-found-1996/
 32,A Summer's Tale,Éric Rohmer,Melvil Poupaud; Amanda Langlet; Gwenaëlle Simon,"Comedy, Romance, Drama",https://letterboxd.com/film/a-summers-tale/
 33,Muppet Treasure Island,Brian Henson,Tim Curry; Billy Connolly; Jennifer Saunders,"Family, Comedy, Adventure",https://letterboxd.com/film/muppet-treasure-island/
 34,The Cable Guy,Ben Stiller,Jim Carrey; Matthew Broderick; Leslie Mann,"Thriller, Comedy, Drama",https://letterboxd.com/film/the-cable-guy/
-35,The Daytrippers,Greg Mottola,Hope Davis; Pat McNamara; Anne Meara,"Comedy, Drama",https://letterboxd.com/film/the-daytrippers/
-36,Don't Be a Menace to South Central While Drinking Your Juice in the Hood,Paris Barclay,Shawn Wayans; Marlon Wayans; Tracey Cherelle Jones,Comedy,https://letterboxd.com/film/dont-be-a-menace-to-south-central-while-drinking-your-juice-in-the-hood/
+35,Don't Be a Menace to South Central While Drinking Your Juice in the Hood,Paris Barclay,Shawn Wayans; Marlon Wayans; Tracey Cherelle Jones,Comedy,https://letterboxd.com/film/dont-be-a-menace-to-south-central-while-drinking-your-juice-in-the-hood/
+36,The Daytrippers,Greg Mottola,Hope Davis; Pat McNamara; Anne Meara,"Comedy, Drama",https://letterboxd.com/film/the-daytrippers/
 37,Breaking the Waves,Lars von Trier,Emily Watson; Stellan Skarsgård; Katrin Cartlidge,"Drama, Romance",https://letterboxd.com/film/breaking-the-waves/
 38,James and the Giant Peach,Henry Selick,Paul Terry; Miriam Margolyes; Joanna Lumley,"Adventure, Fantasy, Family, Animation",https://letterboxd.com/film/james-and-the-giant-peach/
 39,Swingers,Doug Liman,Jon Favreau; Vince Vaughn; Ron Livingston,"Drama, Comedy",https://letterboxd.com/film/swingers/
@@ -46,6 +46,6 @@ rank,title,director,actors,genres,url
 45,Picnic,Shunji Iwai,Chara; Tadanobu Asano; Koichi Hashizume,"Drama, Adventure",https://letterboxd.com/film/picnic-1996/
 46,Set It Off,F. Gary Gray,Jada Pinkett Smith; Queen Latifah; Vivica A. Fox,"Crime, Romance, Action, Drama, Thriller",https://letterboxd.com/film/set-it-off/
 47,A Moment of Innocence,Mohsen Makhmalbaf,Mirhadi Tayebi; Mohsen Makhmalbaf; Ali Bakhsi,"Drama, Comedy",https://letterboxd.com/film/a-moment-of-innocence/
-48,Ransom,Ron Howard,Mel Gibson; Rene Russo; Gary Sinise,"Action, Thriller",https://letterboxd.com/film/ransom/
-49,That Thing You Do!,Tom Hanks,Tom Hanks; Tom Everett Scott; Liv Tyler,"Music, Drama, Comedy",https://letterboxd.com/film/that-thing-you-do/
-50,"Comrades, Almost a Love Story",Peter Chan Ho-Sun,Maggie Cheung; Leon Lai Ming; Eric Tsang Chi-Wai,"Drama, Romance",https://letterboxd.com/film/comrades-almost-a-love-story/
+48,That Thing You Do!,Tom Hanks,Tom Hanks; Tom Everett Scott; Liv Tyler,"Music, Drama, Comedy",https://letterboxd.com/film/that-thing-you-do/
+49,Ransom,Ron Howard,Mel Gibson; Rene Russo; Gary Sinise,"Action, Thriller",https://letterboxd.com/film/ransom/
+50,The People vs. Larry Flynt,Miloš Forman,Woody Harrelson; Courtney Love; Edward Norton,Drama,https://letterboxd.com/film/the-people-vs-larry-flynt/

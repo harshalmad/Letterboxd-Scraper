@@ -268,18 +268,6 @@
     },
     {
       "rank": 23,
-      "title": "Nineteen Eighty-Four",
-      "url": "https://letterboxd.com/film/nineteen-eighty-four-1984/",
-      "director": "Michael Radford",
-      "actors": [
-        "John Hurt",
-        "Richard Burton",
-        "Suzanna Hamilton"
-      ],
-      "genres": "Drama, Science Fiction, Thriller"
-    },
-    {
-      "rank": 24,
       "title": "Threads",
       "url": "https://letterboxd.com/film/threads/",
       "director": "Mick Jackson",
@@ -289,6 +277,18 @@
         "David Brierly"
       ],
       "genres": "Drama, War, Science Fiction"
+    },
+    {
+      "rank": 24,
+      "title": "Nineteen Eighty-Four",
+      "url": "https://letterboxd.com/film/nineteen-eighty-four-1984/",
+      "director": "Michael Radford",
+      "actors": [
+        "John Hurt",
+        "Richard Burton",
+        "Suzanna Hamilton"
+      ],
+      "genres": "Drama, Science Fiction, Thriller"
     },
     {
       "rank": 25,
@@ -484,6 +484,18 @@
     },
     {
       "rank": 41,
+      "title": "Supergirl",
+      "url": "https://letterboxd.com/film/supergirl/",
+      "director": "Jeannot Szwarc",
+      "actors": [
+        "Helen Slater",
+        "Faye Dunaway",
+        "Peter O'Toole"
+      ],
+      "genres": "Action, Fantasy, Adventure, Science Fiction"
+    },
+    {
+      "rank": 42,
       "title": "Red Dawn",
       "url": "https://letterboxd.com/film/red-dawn/",
       "director": "John Milius",
@@ -495,7 +507,7 @@
       "genres": "Thriller, Action, Drama, War"
     },
     {
-      "rank": 42,
+      "rank": 43,
       "title": "The Natural",
       "url": "https://letterboxd.com/film/the-natural/",
       "director": "Barry Levinson",
@@ -507,31 +519,7 @@
       "genres": "Drama"
     },
     {
-      "rank": 43,
-      "title": "Night of the Comet",
-      "url": "https://letterboxd.com/film/night-of-the-comet/",
-      "director": "Thom Eberhardt",
-      "actors": [
-        "Catherine Mary Stewart",
-        "Robert Beltran",
-        "Kelli Maroney"
-      ],
-      "genres": "Science Fiction, Comedy, Horror"
-    },
-    {
       "rank": 44,
-      "title": "Crimes of Passion",
-      "url": "https://letterboxd.com/film/crimes-of-passion/",
-      "director": "Ken Russell",
-      "actors": [
-        "Kathleen Turner",
-        "Anthony Perkins",
-        "John Laughlin"
-      ],
-      "genres": "Thriller, Crime, Drama"
-    },
-    {
-      "rank": 45,
       "title": "Another Country",
       "url": "https://letterboxd.com/film/another-country/",
       "director": "Marek Kanievska",
@@ -543,31 +531,31 @@
       "genres": "Drama, Romance"
     },
     {
-      "rank": 46,
-      "title": "Shanghai Blues",
-      "url": "https://letterboxd.com/film/shanghai-blues/",
-      "director": "Tsui Hark",
+      "rank": 45,
+      "title": "Night of the Comet",
+      "url": "https://letterboxd.com/film/night-of-the-comet/",
+      "director": "Thom Eberhardt",
       "actors": [
-        "Kenny Bee",
-        "Sylvia Chang",
-        "Sally Yip Sin-Man"
+        "Catherine Mary Stewart",
+        "Robert Beltran",
+        "Kelli Maroney"
       ],
-      "genres": "Romance, Comedy"
+      "genres": "Science Fiction, Comedy, Horror"
+    },
+    {
+      "rank": 46,
+      "title": "Crimes of Passion",
+      "url": "https://letterboxd.com/film/crimes-of-passion/",
+      "director": "Ken Russell",
+      "actors": [
+        "Kathleen Turner",
+        "Anthony Perkins",
+        "John Laughlin"
+      ],
+      "genres": "Thriller, Crime, Drama"
     },
     {
       "rank": 47,
-      "title": "The Hit",
-      "url": "https://letterboxd.com/film/the-hit-1984/",
-      "director": "Stephen Frears",
-      "actors": [
-        "John Hurt",
-        "Terence Stamp",
-        "Tim Roth"
-      ],
-      "genres": "Drama, Crime, Thriller"
-    },
-    {
-      "rank": 48,
       "title": "The Return of Godzilla",
       "url": "https://letterboxd.com/film/the-return-of-godzilla/",
       "director": "Koji Hashimoto",
@@ -577,6 +565,18 @@
         "Yasuko Sawaguchi"
       ],
       "genres": "Action, Horror, Science Fiction"
+    },
+    {
+      "rank": 48,
+      "title": "Shanghai Blues",
+      "url": "https://letterboxd.com/film/shanghai-blues/",
+      "director": "Tsui Hark",
+      "actors": [
+        "Kenny Bee",
+        "Sylvia Chang",
+        "Sally Yip Sin-Man"
+      ],
+      "genres": "Romance, Comedy"
     },
     {
       "rank": 49,
