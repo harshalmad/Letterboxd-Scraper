@@ -52,18 +52,6 @@
     },
     {
       "rank": 5,
-      "title": "Shiva Baby",
-      "url": "https://letterboxd.com/film/shiva-baby-2020/",
-      "director": "Emma Seligman",
-      "actors": [
-        "Rachel Sennott",
-        "Molly Gordon",
-        "Polly Draper"
-      ],
-      "genres": "Comedy, Drama"
-    },
-    {
-      "rank": 6,
       "title": "Hamilton",
       "url": "https://letterboxd.com/film/hamilton-2020/",
       "director": "Thomas Kail",
@@ -73,6 +61,18 @@
         "Renée Elise Goldsberry"
       ],
       "genres": "Drama, History"
+    },
+    {
+      "rank": 6,
+      "title": "Shiva Baby",
+      "url": "https://letterboxd.com/film/shiva-baby-2020/",
+      "director": "Emma Seligman",
+      "actors": [
+        "Rachel Sennott",
+        "Molly Gordon",
+        "Polly Draper"
+      ],
+      "genres": "Comedy, Drama"
     },
     {
       "rank": 7,
@@ -108,7 +108,7 @@
         "Morena Baccarin",
         "David Denman"
       ],
-      "genres": "Action, Science Fiction, Thriller, Adventure"
+      "genres": "Action, Science Fiction, Thriller"
     },
     {
       "rank": 10,
@@ -123,18 +123,6 @@
     },
     {
       "rank": 11,
-      "title": "Another Round",
-      "url": "https://letterboxd.com/film/another-round/",
-      "director": "Thomas Vinterberg",
-      "actors": [
-        "Mads Mikkelsen",
-        "Thomas Bo Larsen",
-        "Magnus Millang"
-      ],
-      "genres": "Drama, Comedy"
-    },
-    {
-      "rank": 12,
       "title": "Dinner in America",
       "url": "https://letterboxd.com/film/dinner-in-america/",
       "director": "Adam Rehmeier",
@@ -144,6 +132,18 @@
         "Pat Healy"
       ],
       "genres": "Comedy, Romance, Music"
+    },
+    {
+      "rank": 12,
+      "title": "Another Round",
+      "url": "https://letterboxd.com/film/another-round/",
+      "director": "Thomas Vinterberg",
+      "actors": [
+        "Mads Mikkelsen",
+        "Thomas Bo Larsen",
+        "Magnus Millang"
+      ],
+      "genres": "Drama, Comedy"
     },
     {
       "rank": 13,
@@ -171,18 +171,6 @@
     },
     {
       "rank": 15,
-      "title": "Promising Young Woman",
-      "url": "https://letterboxd.com/film/promising-young-woman/",
-      "director": "Emerald Fennell",
-      "actors": [
-        "Carey Mulligan",
-        "Bo Burnham",
-        "Alison Brie"
-      ],
-      "genres": "Crime, Drama, Thriller"
-    },
-    {
-      "rank": 16,
       "title": "The Invisible Man",
       "url": "https://letterboxd.com/film/the-invisible-man-2020/",
       "director": "Leigh Whannell",
@@ -194,19 +182,19 @@
       "genres": "Science Fiction, Horror, Thriller"
     },
     {
-      "rank": 17,
-      "title": "I'm Thinking of Ending Things",
-      "url": "https://letterboxd.com/film/im-thinking-of-ending-things/",
-      "director": "Charlie Kaufman",
+      "rank": 16,
+      "title": "Promising Young Woman",
+      "url": "https://letterboxd.com/film/promising-young-woman/",
+      "director": "Emerald Fennell",
       "actors": [
-        "Jesse Plemons",
-        "Jessie Buckley",
-        "Toni Collette"
+        "Carey Mulligan",
+        "Bo Burnham",
+        "Alison Brie"
       ],
-      "genres": "Fantasy, Thriller, Mystery, Drama"
+      "genres": "Crime, Drama, Thriller"
     },
     {
-      "rank": 18,
+      "rank": 17,
       "title": "A Quiet Place Part II",
       "url": "https://letterboxd.com/film/a-quiet-place-part-ii/",
       "director": "John Krasinski",
@@ -216,6 +204,18 @@
         "Millicent Simmonds"
       ],
       "genres": "Science Fiction, Horror, Thriller"
+    },
+    {
+      "rank": 18,
+      "title": "I'm Thinking of Ending Things",
+      "url": "https://letterboxd.com/film/im-thinking-of-ending-things/",
+      "director": "Charlie Kaufman",
+      "actors": [
+        "Jesse Plemons",
+        "Jessie Buckley",
+        "Toni Collette"
+      ],
+      "genres": "Fantasy, Thriller, Mystery, Drama"
     },
     {
       "rank": 19,
@@ -298,18 +298,6 @@
     },
     {
       "rank": 26,
-      "title": "The Half of It",
-      "url": "https://letterboxd.com/film/the-half-of-it/",
-      "director": "Alice Wu",
-      "actors": [
-        "Leah Lewis",
-        "Daniel Diemer",
-        "Alexxis Lemire"
-      ],
-      "genres": "Romance, Comedy, Drama"
-    },
-    {
-      "rank": 27,
       "title": "The Hunt",
       "url": "https://letterboxd.com/film/the-hunt-2020/",
       "director": "Craig Zobel",
@@ -321,19 +309,7 @@
       "genres": "Thriller, Action, Horror"
     },
     {
-      "rank": 28,
-      "title": "Minari",
-      "url": "https://letterboxd.com/film/minari/",
-      "director": "Lee Isaac Chung",
-      "actors": [
-        "Steven Yeun",
-        "Han Ye-ri",
-        "Youn Yuh-jung"
-      ],
-      "genres": "Drama"
-    },
-    {
-      "rank": 29,
+      "rank": 27,
       "title": "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)",
       "url": "https://letterboxd.com/film/birds-of-prey-and-the-fantabulous-emancipation-of-one-harley-quinn/",
       "director": "Cathy Yan",
@@ -343,6 +319,30 @@
         "Mary Elizabeth Winstead"
       ],
       "genres": "Action, Crime"
+    },
+    {
+      "rank": 28,
+      "title": "The Half of It",
+      "url": "https://letterboxd.com/film/the-half-of-it/",
+      "director": "Alice Wu",
+      "actors": [
+        "Leah Lewis",
+        "Daniel Diemer",
+        "Alexxis Lemire"
+      ],
+      "genres": "Romance, Comedy, Drama"
+    },
+    {
+      "rank": 29,
+      "title": "Minari",
+      "url": "https://letterboxd.com/film/minari/",
+      "director": "Lee Isaac Chung",
+      "actors": [
+        "Steven Yeun",
+        "Han Ye-ri",
+        "Youn Yuh-jung"
+      ],
+      "genres": "Drama"
     },
     {
       "rank": 30,
@@ -382,15 +382,15 @@
     },
     {
       "rank": 33,
-      "title": "Euphoria: Trouble Don't Last Always",
-      "url": "https://letterboxd.com/film/euphoria-trouble-dont-last-always/",
-      "director": "Sam Levinson",
+      "title": "Love and Monsters",
+      "url": "https://letterboxd.com/film/love-and-monsters/",
+      "director": "Michael Matthews",
       "actors": [
-        "Zendaya",
-        "Colman Domingo",
-        "Hunter Schafer"
+        "Dylan O'Brien",
+        "Jessica Henwick",
+        "Michael Rooker"
       ],
-      "genres": "Drama"
+      "genres": "Comedy, Adventure, Fantasy"
     },
     {
       "rank": 34,
@@ -406,30 +406,18 @@
     },
     {
       "rank": 35,
-      "title": "Love and Monsters",
-      "url": "https://letterboxd.com/film/love-and-monsters/",
-      "director": "Michael Matthews",
+      "title": "Euphoria: Trouble Don't Last Always",
+      "url": "https://letterboxd.com/film/euphoria-trouble-dont-last-always/",
+      "director": "Sam Levinson",
       "actors": [
-        "Dylan O'Brien",
-        "Jessica Henwick",
-        "Michael Rooker"
+        "Zendaya",
+        "Colman Domingo",
+        "Hunter Schafer"
       ],
-      "genres": "Comedy, Adventure, Fantasy"
+      "genres": "Drama"
     },
     {
       "rank": 36,
-      "title": "Little Fish",
-      "url": "https://letterboxd.com/film/little-fish-2020/",
-      "director": "Chad Hartigan",
-      "actors": [
-        "Olivia Cooke",
-        "Jack O'Connell",
-        "Soko"
-      ],
-      "genres": "Science Fiction, Drama, Romance"
-    },
-    {
-      "rank": 37,
       "title": "The Call",
       "url": "https://letterboxd.com/film/the-call-2020-3/",
       "director": "Lee Chung-hyun",
@@ -439,6 +427,18 @@
         "Kim Sung-ryung"
       ],
       "genres": "Thriller, Mystery, Science Fiction"
+    },
+    {
+      "rank": 37,
+      "title": "Little Fish",
+      "url": "https://letterboxd.com/film/little-fish-2020/",
+      "director": "Chad Hartigan",
+      "actors": [
+        "Olivia Cooke",
+        "Jack O'Connell",
+        "Soko"
+      ],
+      "genres": "Science Fiction, Drama, Romance"
     },
     {
       "rank": 38,
@@ -466,14 +466,6 @@
     },
     {
       "rank": 40,
-      "title": "If Anything Happens I Love You",
-      "url": "https://letterboxd.com/film/if-anything-happens-i-love-you/",
-      "director": "Will McCormack, Michael Govier",
-      "actors": [],
-      "genres": "Drama, Animation"
-    },
-    {
-      "rank": 41,
       "title": "Summer of 85",
       "url": "https://letterboxd.com/film/summer-of-85/",
       "director": "François Ozon",
@@ -485,31 +477,15 @@
       "genres": "Romance, Drama"
     },
     {
+      "rank": 41,
+      "title": "If Anything Happens I Love You",
+      "url": "https://letterboxd.com/film/if-anything-happens-i-love-you/",
+      "director": "Will McCormack, Michael Govier",
+      "actors": [],
+      "genres": "Drama, Animation"
+    },
+    {
       "rank": 42,
-      "title": "365 Days",
-      "url": "https://letterboxd.com/film/365-days-2020/",
-      "director": "Barbara Białowąs, Tomasz Mandes",
-      "actors": [
-        "Anna-Maria Sieklucka",
-        "Michele Morrone",
-        "Bronisław Wrocławski"
-      ],
-      "genres": "Drama, Romance, Crime"
-    },
-    {
-      "rank": 43,
-      "title": "True Beauty",
-      "url": "https://letterboxd.com/film/true-beauty/",
-      "director": "Kim Sang-hyub",
-      "actors": [
-        "Mun Ka-young",
-        "Cha Eun-woo",
-        "Hwang In-yeop"
-      ],
-      "genres": "Comedy, Drama"
-    },
-    {
-      "rank": 44,
       "title": "#Alive",
       "url": "https://letterboxd.com/film/alive-2020/",
       "director": "Cho Il",
@@ -519,6 +495,30 @@
         "Lee Hyun-wook"
       ],
       "genres": "Action, Horror, Science Fiction"
+    },
+    {
+      "rank": 43,
+      "title": "True Beauty",
+      "url": "https://letterboxd.com/film/true-beauty/",
+      "director": "Kim Sang-hyub",
+      "actors": [
+        "Mun Ka-young",
+        "Cha Eun-woo",
+        "Hwang In-youp"
+      ],
+      "genres": "Comedy, Drama"
+    },
+    {
+      "rank": 44,
+      "title": "365 Days",
+      "url": "https://letterboxd.com/film/365-days-2020/",
+      "director": "Barbara Białowąs, Tomasz Mandes",
+      "actors": [
+        "Anna-Maria Sieklucka",
+        "Michele Morrone",
+        "Bronisław Wrocławski"
+      ],
+      "genres": "Drama, Romance, Crime"
     },
     {
       "rank": 45,
@@ -570,6 +570,18 @@
     },
     {
       "rank": 49,
+      "title": "His House",
+      "url": "https://letterboxd.com/film/his-house/",
+      "director": "Remi Weekes",
+      "actors": [
+        "Ṣọpẹ́ Dìrísù",
+        "Wunmi Mosaku",
+        "Malaika Wakoli-Abigaba"
+      ],
+      "genres": "Horror, Drama"
+    },
+    {
+      "rank": 50,
       "title": "I Care a Lot",
       "url": "https://letterboxd.com/film/i-care-a-lot/",
       "director": "J Blakeson",
@@ -579,18 +591,6 @@
         "Eiza González"
       ],
       "genres": "Drama, Crime, Thriller, Comedy"
-    },
-    {
-      "rank": 50,
-      "title": "Extraction",
-      "url": "https://letterboxd.com/film/extraction-2020/",
-      "director": "Sam Hargrave",
-      "actors": [
-        "Chris Hemsworth",
-        "Rudhraksh Jaiswal",
-        "Randeep Hooda"
-      ],
-      "genres": "Thriller, Action"
     }
   ]
 }

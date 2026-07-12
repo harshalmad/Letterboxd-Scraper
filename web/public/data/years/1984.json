@@ -76,18 +76,6 @@
     },
     {
       "rank": 7,
-      "title": "Ghostbusters",
-      "url": "https://letterboxd.com/film/ghostbusters/",
-      "director": "Ivan Reitman",
-      "actors": [
-        "Bill Murray",
-        "Dan Aykroyd",
-        "Sigourney Weaver"
-      ],
-      "genres": "Comedy, Fantasy"
-    },
-    {
-      "rank": 8,
       "title": "A Nightmare on Elm Street",
       "url": "https://letterboxd.com/film/a-nightmare-on-elm-street/",
       "director": "Wes Craven",
@@ -97,6 +85,18 @@
         "Robert Englund"
       ],
       "genres": "Horror"
+    },
+    {
+      "rank": 8,
+      "title": "Ghostbusters",
+      "url": "https://letterboxd.com/film/ghostbusters/",
+      "director": "Ivan Reitman",
+      "actors": [
+        "Bill Murray",
+        "Dan Aykroyd",
+        "Sigourney Weaver"
+      ],
+      "genres": "Comedy, Fantasy"
     },
     {
       "rank": 9,
@@ -196,6 +196,18 @@
     },
     {
       "rank": 17,
+      "title": "Repo Man",
+      "url": "https://letterboxd.com/film/repo-man/",
+      "director": "Alex Cox",
+      "actors": [
+        "Emilio Estevez",
+        "Harry Dean Stanton",
+        "Tracey Walter"
+      ],
+      "genres": "Comedy, Science Fiction"
+    },
+    {
+      "rank": 18,
       "title": "Body Double",
       "url": "https://letterboxd.com/film/body-double/",
       "director": "Brian De Palma",
@@ -207,7 +219,7 @@
       "genres": "Crime, Thriller, Mystery"
     },
     {
-      "rank": 18,
+      "rank": 19,
       "title": "Blood Simple",
       "url": "https://letterboxd.com/film/blood-simple/",
       "director": "Joel Coen",
@@ -217,18 +229,6 @@
         "Dan Hedaya"
       ],
       "genres": "Thriller, Crime, Drama"
-    },
-    {
-      "rank": 19,
-      "title": "Repo Man",
-      "url": "https://letterboxd.com/film/repo-man/",
-      "director": "Alex Cox",
-      "actors": [
-        "Emilio Estevez",
-        "Harry Dean Stanton",
-        "Tracey Walter"
-      ],
-      "genres": "Comedy, Science Fiction"
     },
     {
       "rank": 20,
@@ -244,18 +244,6 @@
     },
     {
       "rank": 21,
-      "title": "Beverly Hills Cop",
-      "url": "https://letterboxd.com/film/beverly-hills-cop/",
-      "director": "Martin Brest",
-      "actors": [
-        "Eddie Murphy",
-        "Judge Reinhold",
-        "John Ashton"
-      ],
-      "genres": "Crime, Action, Comedy"
-    },
-    {
-      "rank": 22,
       "title": "Friday the 13th: The Final Chapter",
       "url": "https://letterboxd.com/film/friday-the-13th-the-final-chapter/",
       "director": "Joseph Zito",
@@ -265,6 +253,18 @@
         "Joan Freeman"
       ],
       "genres": "Thriller, Horror"
+    },
+    {
+      "rank": 22,
+      "title": "Beverly Hills Cop",
+      "url": "https://letterboxd.com/film/beverly-hills-cop/",
+      "director": "Martin Brest",
+      "actors": [
+        "Eddie Murphy",
+        "Judge Reinhold",
+        "John Ashton"
+      ],
+      "genres": "Crime, Action, Comedy"
     },
     {
       "rank": 23,
@@ -352,18 +352,6 @@
     },
     {
       "rank": 30,
-      "title": "C.H.U.D.",
-      "url": "https://letterboxd.com/film/chud/",
-      "director": "Douglas Cheek",
-      "actors": [
-        "John Heard",
-        "Daniel Stern",
-        "Christopher Curry"
-      ],
-      "genres": "Horror, Science Fiction"
-    },
-    {
-      "rank": 31,
       "title": "Starman",
       "url": "https://letterboxd.com/film/starman/",
       "director": "John Carpenter",
@@ -375,19 +363,19 @@
       "genres": "Drama, Romance, Science Fiction"
     },
     {
-      "rank": 32,
-      "title": "The Toxic Avenger",
-      "url": "https://letterboxd.com/film/the-toxic-avenger/",
-      "director": "Lloyd Kaufman, Michael Herz",
+      "rank": 31,
+      "title": "C.H.U.D.",
+      "url": "https://letterboxd.com/film/chud/",
+      "director": "Douglas Cheek",
       "actors": [
-        "Andree Maranda",
-        "Mitch Cohen",
-        "Jennifer Prichard"
+        "John Heard",
+        "Daniel Stern",
+        "Christopher Curry"
       ],
-      "genres": "Comedy, Science Fiction, Action, Horror"
+      "genres": "Horror, Science Fiction"
     },
     {
-      "rank": 33,
+      "rank": 32,
       "title": "Police Academy",
       "url": "https://letterboxd.com/film/police-academy/",
       "director": "Hugh Wilson",
@@ -397,6 +385,18 @@
         "G.W. Bailey"
       ],
       "genres": "Crime, Comedy"
+    },
+    {
+      "rank": 33,
+      "title": "The Toxic Avenger",
+      "url": "https://letterboxd.com/film/the-toxic-avenger/",
+      "director": "Lloyd Kaufman, Michael Herz",
+      "actors": [
+        "Andree Maranda",
+        "Mitch Cohen",
+        "Jennifer Prichard"
+      ],
+      "genres": "Comedy, Science Fiction, Action, Horror"
     },
     {
       "rank": 34,
@@ -424,6 +424,18 @@
     },
     {
       "rank": 36,
+      "title": "Supergirl",
+      "url": "https://letterboxd.com/film/supergirl/",
+      "director": "Jeannot Szwarc",
+      "actors": [
+        "Helen Slater",
+        "Faye Dunaway",
+        "Peter O'Toole"
+      ],
+      "genres": "Action, Fantasy, Adventure, Science Fiction"
+    },
+    {
+      "rank": 37,
       "title": "Twenty Years Later",
       "url": "https://letterboxd.com/film/twenty-years-later/",
       "director": "Eduardo Coutinho",
@@ -433,18 +445,6 @@
         "Ferreira Gullar"
       ],
       "genres": "History, Documentary"
-    },
-    {
-      "rank": 37,
-      "title": "Star Trek III: The Search for Spock",
-      "url": "https://letterboxd.com/film/star-trek-iii-the-search-for-spock/",
-      "director": "Leonard Nimoy",
-      "actors": [
-        "William Shatner",
-        "DeForest Kelley",
-        "James Doohan"
-      ],
-      "genres": "Science Fiction, Action, Thriller, Adventure"
     },
     {
       "rank": 38,
@@ -460,6 +460,18 @@
     },
     {
       "rank": 39,
+      "title": "Star Trek III: The Search for Spock",
+      "url": "https://letterboxd.com/film/star-trek-iii-the-search-for-spock/",
+      "director": "Leonard Nimoy",
+      "actors": [
+        "William Shatner",
+        "DeForest Kelley",
+        "James Doohan"
+      ],
+      "genres": "Science Fiction, Action, Thriller, Adventure"
+    },
+    {
+      "rank": 40,
       "title": "Love Streams",
       "url": "https://letterboxd.com/film/love-streams/",
       "director": "John Cassavetes",
@@ -471,7 +483,7 @@
       "genres": "Drama"
     },
     {
-      "rank": 40,
+      "rank": 41,
       "title": "Streets of Fire",
       "url": "https://letterboxd.com/film/streets-of-fire/",
       "director": "Walter Hill",
@@ -481,18 +493,6 @@
         "Rick Moranis"
       ],
       "genres": "Action"
-    },
-    {
-      "rank": 41,
-      "title": "Supergirl",
-      "url": "https://letterboxd.com/film/supergirl/",
-      "director": "Jeannot Szwarc",
-      "actors": [
-        "Helen Slater",
-        "Faye Dunaway",
-        "Peter O'Toole"
-      ],
-      "genres": "Action, Fantasy, Adventure, Science Fiction"
     },
     {
       "rank": 42,
@@ -520,18 +520,6 @@
     },
     {
       "rank": 44,
-      "title": "Another Country",
-      "url": "https://letterboxd.com/film/another-country/",
-      "director": "Marek Kanievska",
-      "actors": [
-        "Rupert Everett",
-        "Colin Firth",
-        "Michael Jenn"
-      ],
-      "genres": "Drama, Romance"
-    },
-    {
-      "rank": 45,
       "title": "Night of the Comet",
       "url": "https://letterboxd.com/film/night-of-the-comet/",
       "director": "Thom Eberhardt",
@@ -543,7 +531,7 @@
       "genres": "Science Fiction, Comedy, Horror"
     },
     {
-      "rank": 46,
+      "rank": 45,
       "title": "Crimes of Passion",
       "url": "https://letterboxd.com/film/crimes-of-passion/",
       "director": "Ken Russell",
@@ -553,6 +541,18 @@
         "John Laughlin"
       ],
       "genres": "Thriller, Crime, Drama"
+    },
+    {
+      "rank": 46,
+      "title": "Another Country",
+      "url": "https://letterboxd.com/film/another-country/",
+      "director": "Marek Kanievska",
+      "actors": [
+        "Rupert Everett",
+        "Colin Firth",
+        "Michael Jenn"
+      ],
+      "genres": "Drama, Romance"
     },
     {
       "rank": 47,

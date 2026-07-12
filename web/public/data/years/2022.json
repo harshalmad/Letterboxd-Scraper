@@ -28,18 +28,6 @@
     },
     {
       "rank": 3,
-      "title": "Avatar: The Way of Water",
-      "url": "https://letterboxd.com/film/avatar-the-way-of-water/",
-      "director": "James Cameron",
-      "actors": [
-        "Sam Worthington",
-        "Zoe Saldaña",
-        "Sigourney Weaver"
-      ],
-      "genres": "Science Fiction, Action, Adventure"
-    },
-    {
-      "rank": 4,
       "title": "The Batman",
       "url": "https://letterboxd.com/film/the-batman/",
       "director": "Matt Reeves",
@@ -49,6 +37,18 @@
         "Jeffrey Wright"
       ],
       "genres": "Crime, Mystery, Thriller"
+    },
+    {
+      "rank": 4,
+      "title": "Avatar: The Way of Water",
+      "url": "https://letterboxd.com/film/avatar-the-way-of-water/",
+      "director": "James Cameron",
+      "actors": [
+        "Sam Worthington",
+        "Zoe Saldaña",
+        "Sigourney Weaver"
+      ],
+      "genres": "Science Fiction, Action, Adventure"
     },
     {
       "rank": 5,
@@ -160,6 +160,18 @@
     },
     {
       "rank": 14,
+      "title": "Enola Holmes 2",
+      "url": "https://letterboxd.com/film/enola-holmes-2/",
+      "director": "Harry Bradbeer",
+      "actors": [
+        "Millie Bobby Brown",
+        "Henry Cavill",
+        "David Thewlis"
+      ],
+      "genres": "Adventure, Crime, Mystery"
+    },
+    {
+      "rank": 15,
       "title": "Scream",
       "url": "https://letterboxd.com/film/scream-2022/",
       "director": "Tyler Gillett, Matt Bettinelli-Olpin",
@@ -171,7 +183,7 @@
       "genres": "Mystery, Horror"
     },
     {
-      "rank": 15,
+      "rank": 16,
       "title": "Bodies Bodies Bodies",
       "url": "https://letterboxd.com/film/bodies-bodies-bodies/",
       "director": "Halina Reijn",
@@ -183,7 +195,7 @@
       "genres": "Comedy, Horror, Mystery"
     },
     {
-      "rank": 16,
+      "rank": 17,
       "title": "Close",
       "url": "https://letterboxd.com/film/close-2022/",
       "director": "Lukas Dhont",
@@ -193,18 +205,6 @@
         "Émilie Dequenne"
       ],
       "genres": "Drama"
-    },
-    {
-      "rank": 17,
-      "title": "Puss in Boots: The Last Wish",
-      "url": "https://letterboxd.com/film/puss-in-boots-the-last-wish/",
-      "director": "Joel Crawford",
-      "actors": [
-        "Antonio Banderas",
-        "Salma Hayek Pinault",
-        "Harvey Guillén"
-      ],
-      "genres": "Animation, Family, Fantasy, Comedy, Adventure"
     },
     {
       "rank": 18,
@@ -232,15 +232,15 @@
     },
     {
       "rank": 20,
-      "title": "Babylon",
-      "url": "https://letterboxd.com/film/babylon-2022/",
-      "director": "Damien Chazelle",
+      "title": "Puss in Boots: The Last Wish",
+      "url": "https://letterboxd.com/film/puss-in-boots-the-last-wish/",
+      "director": "Joel Crawford",
       "actors": [
-        "Diego Calva",
-        "Margot Robbie",
-        "Brad Pitt"
+        "Antonio Banderas",
+        "Salma Hayek Pinault",
+        "Harvey Guillén"
       ],
-      "genres": "Comedy, Drama"
+      "genres": "Animation, Family, Fantasy, Comedy, Adventure"
     },
     {
       "rank": 21,
@@ -252,7 +252,7 @@
         "Harry Styles",
         "Chris Pine"
       ],
-      "genres": "Mystery, Science Fiction, Horror, Thriller"
+      "genres": "Horror, Mystery, Science Fiction, Thriller"
     },
     {
       "rank": 22,
@@ -268,6 +268,18 @@
     },
     {
       "rank": 23,
+      "title": "Babylon",
+      "url": "https://letterboxd.com/film/babylon-2022/",
+      "director": "Damien Chazelle",
+      "actors": [
+        "Diego Calva",
+        "Margot Robbie",
+        "Brad Pitt"
+      ],
+      "genres": "Comedy, Drama"
+    },
+    {
+      "rank": 24,
       "title": "Fall",
       "url": "https://letterboxd.com/film/fall-2022/",
       "director": "Scott Mann",
@@ -279,7 +291,7 @@
       "genres": "Thriller"
     },
     {
-      "rank": 24,
+      "rank": 25,
       "title": "Doctor Strange in the Multiverse of Madness",
       "url": "https://letterboxd.com/film/doctor-strange-in-the-multiverse-of-madness/",
       "director": "Sam Raimi",
@@ -291,24 +303,12 @@
       "genres": "Fantasy, Action, Adventure"
     },
     {
-      "rank": 25,
+      "rank": 26,
       "title": "The Backrooms (Found Footage)",
       "url": "https://letterboxd.com/film/the-backrooms-found-footage/",
       "director": "Kane Parsons",
       "actors": [],
       "genres": "Science Fiction, Mystery, Horror"
-    },
-    {
-      "rank": 26,
-      "title": "Enola Holmes 2",
-      "url": "https://letterboxd.com/film/enola-holmes-2/",
-      "director": "Harry Bradbeer",
-      "actors": [
-        "Millie Bobby Brown",
-        "Henry Cavill",
-        "David Thewlis"
-      ],
-      "genres": "Adventure, Crime, Mystery"
     },
     {
       "rank": 27,
@@ -336,18 +336,6 @@
     },
     {
       "rank": 29,
-      "title": "Triangle of Sadness",
-      "url": "https://letterboxd.com/film/triangle-of-sadness/",
-      "director": "Ruben Östlund",
-      "actors": [
-        "Harris Dickinson",
-        "Charlbi Dean",
-        "Dolly de Leon"
-      ],
-      "genres": "Drama, Comedy"
-    },
-    {
-      "rank": 30,
       "title": "Incantation",
       "url": "https://letterboxd.com/film/incantation-2022/",
       "director": "Kevin Ko",
@@ -359,16 +347,28 @@
       "genres": "Horror"
     },
     {
-      "rank": 31,
-      "title": "The Banshees of Inisherin",
-      "url": "https://letterboxd.com/film/the-banshees-of-inisherin/",
-      "director": "Martin McDonagh",
+      "rank": 30,
+      "title": "Triangle of Sadness",
+      "url": "https://letterboxd.com/film/triangle-of-sadness/",
+      "director": "Ruben Östlund",
       "actors": [
-        "Colin Farrell",
-        "Brendan Gleeson",
-        "Kerry Condon"
+        "Harris Dickinson",
+        "Charlbi Dean",
+        "Dolly de Leon"
       ],
-      "genres": "Comedy, Drama"
+      "genres": "Drama, Comedy"
+    },
+    {
+      "rank": 31,
+      "title": "The Northman",
+      "url": "https://letterboxd.com/film/the-northman/",
+      "director": "Robert Eggers",
+      "actors": [
+        "Alexander Skarsgård",
+        "Nicole Kidman",
+        "Claes Bang"
+      ],
+      "genres": "Adventure, Action, Fantasy"
     },
     {
       "rank": 32,
@@ -384,30 +384,18 @@
     },
     {
       "rank": 33,
-      "title": "The Northman",
-      "url": "https://letterboxd.com/film/the-northman/",
-      "director": "Robert Eggers",
+      "title": "The Banshees of Inisherin",
+      "url": "https://letterboxd.com/film/the-banshees-of-inisherin/",
+      "director": "Martin McDonagh",
       "actors": [
-        "Alexander Skarsgård",
-        "Nicole Kidman",
-        "Claes Bang"
+        "Colin Farrell",
+        "Brendan Gleeson",
+        "Kerry Condon"
       ],
-      "genres": "Adventure, Action, Fantasy"
+      "genres": "Comedy, Drama"
     },
     {
       "rank": 34,
-      "title": "Decision to Leave",
-      "url": "https://letterboxd.com/film/decision-to-leave/",
-      "director": "Park Chan-wook",
-      "actors": [
-        "Tang Wei",
-        "Park Hae-il",
-        "Lee Jung-hyun"
-      ],
-      "genres": "Mystery, Thriller, Romance"
-    },
-    {
-      "rank": 35,
       "title": "Fresh",
       "url": "https://letterboxd.com/film/fresh-2022/",
       "director": "Mimi Cave",
@@ -419,19 +407,19 @@
       "genres": "Horror, Thriller, Comedy"
     },
     {
-      "rank": 36,
-      "title": "20th Century Girl",
-      "url": "https://letterboxd.com/film/20th-century-girl/",
-      "director": "Bang Woo-ri",
+      "rank": 35,
+      "title": "Decision to Leave",
+      "url": "https://letterboxd.com/film/decision-to-leave/",
+      "director": "Park Chan-wook",
       "actors": [
-        "Kim You-jung",
-        "Byeon Woo-seok",
-        "Park Jung-woo"
+        "Tang Wei",
+        "Park Hae-il",
+        "Lee Jung-hyun"
       ],
-      "genres": "Drama, Romance"
+      "genres": "Mystery, Thriller, Romance"
     },
     {
-      "rank": 37,
+      "rank": 36,
       "title": "Thor: Love and Thunder",
       "url": "https://letterboxd.com/film/thor-love-and-thunder/",
       "director": "Taika Waititi",
@@ -441,6 +429,18 @@
         "Christian Bale"
       ],
       "genres": "Action, Fantasy, Comedy"
+    },
+    {
+      "rank": 37,
+      "title": "20th Century Girl",
+      "url": "https://letterboxd.com/film/20th-century-girl/",
+      "director": "Bang Woo-ri",
+      "actors": [
+        "Kim You-jung",
+        "Byeon Woo-seok",
+        "Park Jung-woo"
+      ],
+      "genres": "Drama, Romance"
     },
     {
       "rank": 38,
@@ -504,15 +504,15 @@
     },
     {
       "rank": 43,
-      "title": "Do Revenge",
-      "url": "https://letterboxd.com/film/do-revenge/",
-      "director": "Jennifer Kaytin Robinson",
+      "title": "Purple Hearts",
+      "url": "https://letterboxd.com/film/purple-hearts-2022/",
+      "director": "Elizabeth Allen Rosenbaum",
       "actors": [
-        "Camila Mendes",
-        "Maya Hawke",
-        "Austin Abrams"
+        "Sofia Carson",
+        "Nicholas Galitzine",
+        "John Harlan Kim"
       ],
-      "genres": "Thriller, Comedy, Romance"
+      "genres": "Drama, Romance"
     },
     {
       "rank": 44,
@@ -528,15 +528,15 @@
     },
     {
       "rank": 45,
-      "title": "Purple Hearts",
-      "url": "https://letterboxd.com/film/purple-hearts-2022/",
-      "director": "Elizabeth Allen Rosenbaum",
+      "title": "Do Revenge",
+      "url": "https://letterboxd.com/film/do-revenge/",
+      "director": "Jennifer Kaytin Robinson",
       "actors": [
-        "Sofia Carson",
-        "Nicholas Galitzine",
-        "John Harlan Kim"
+        "Camila Mendes",
+        "Maya Hawke",
+        "Austin Abrams"
       ],
-      "genres": "Drama, Romance"
+      "genres": "Thriller, Comedy, Romance"
     },
     {
       "rank": 46,
@@ -564,15 +564,15 @@
     },
     {
       "rank": 48,
-      "title": "Where the Crawdads Sing",
-      "url": "https://letterboxd.com/film/where-the-crawdads-sing/",
-      "director": "Olivia Newman",
+      "title": "Minions: The Rise of Gru",
+      "url": "https://letterboxd.com/film/minions-the-rise-of-gru/",
+      "director": "Kyle Balda",
       "actors": [
-        "Daisy Edgar-Jones",
-        "Taylor John Smith",
-        "Harris Dickinson"
+        "Steve Carell",
+        "Pierre Coffin",
+        "Alan Arkin"
       ],
-      "genres": "Mystery, Drama, Romance"
+      "genres": "Science Fiction, Family, Crime, Animation, Comedy"
     },
     {
       "rank": 49,
@@ -588,15 +588,15 @@
     },
     {
       "rank": 50,
-      "title": "Hundreds of Beavers",
-      "url": "https://letterboxd.com/film/hundreds-of-beavers/",
-      "director": "Mike Cheslik",
+      "title": "Where the Crawdads Sing",
+      "url": "https://letterboxd.com/film/where-the-crawdads-sing/",
+      "director": "Olivia Newman",
       "actors": [
-        "Ryland Brickson Cole Tews",
-        "Olivia Graves",
-        "Doug Mancheski"
+        "Daisy Edgar-Jones",
+        "Taylor John Smith",
+        "Harris Dickinson"
       ],
-      "genres": "Adventure, Comedy"
+      "genres": "Mystery, Drama, Romance"
     }
   ]
 }

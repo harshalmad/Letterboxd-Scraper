@@ -20,32 +20,32 @@ rank,title,director,actors,genres,url
 19,Cry-Baby,John Waters,Johnny Depp; Amy Locane; Susan Tyrrell,"Comedy, Romance",https://letterboxd.com/film/cry-baby/
 20,Days of Thunder,Tony Scott,Tom Cruise; Robert Duvall; Nicole Kidman,"Drama, Adventure, Action",https://letterboxd.com/film/days-of-thunder/
 21,It,Tommy Lee Wallace,Tim Curry; Harry Anderson; Dennis Christopher,"Mystery, Drama, Horror",https://letterboxd.com/film/it-1990/
-22,Predator 2,Stephen Hopkins,Danny Glover; Gary Busey; Rubén Blades,"Action, Science Fiction, Thriller",https://letterboxd.com/film/predator-2/
-23,Days of Being Wild,Wong Kar-Wai,Leslie Cheung; Maggie Cheung; Andy Lau,"Drama, Romance, Crime",https://letterboxd.com/film/ah-fei-jing-juen/
-24,Tremors,Ron Underwood,Kevin Bacon; Fred Ward; Finn Carter,"Horror, Science Fiction, Comedy",https://letterboxd.com/film/tremors/
-25,Kindergarten Cop,Ivan Reitman,Arnold Schwarzenegger; Penelope Ann Miller; Pamela Reed,Comedy,https://letterboxd.com/film/kindergarten-cop/
-26,Rocky V,John G. Avildsen,Sylvester Stallone; Talia Shire; Burt Young,Drama,https://letterboxd.com/film/rocky-v/
+22,Tremors,Ron Underwood,Kevin Bacon; Fred Ward; Finn Carter,"Horror, Science Fiction, Comedy",https://letterboxd.com/film/tremors/
+23,Rocky V,John G. Avildsen,Sylvester Stallone; Talia Shire; Burt Young,Drama,https://letterboxd.com/film/rocky-v/
+24,Predator 2,Stephen Hopkins,Danny Glover; Gary Busey; Rubén Blades,"Action, Science Fiction, Thriller",https://letterboxd.com/film/predator-2/
+25,Days of Being Wild,Wong Kar-Wai,Leslie Cheung; Maggie Cheung; Andy Lau,"Drama, Romance, Crime",https://letterboxd.com/film/ah-fei-jing-juen/
+26,Kindergarten Cop,Ivan Reitman,Arnold Schwarzenegger; Penelope Ann Miller; Pamela Reed,Comedy,https://letterboxd.com/film/kindergarten-cop/
 27,The Hunt for Red October,John McTiernan,Sean Connery; Alec Baldwin; Scott Glenn,"Thriller, Action",https://letterboxd.com/film/the-hunt-for-red-october/
-28,Dances with Wolves,Kevin Costner,Kevin Costner; Mary McDonnell; Graham Greene,"Western, Drama, Adventure",https://letterboxd.com/film/dances-with-wolves/
-29,Postcards from the Edge,Mike Nichols,Meryl Streep; Shirley MacLaine; Dennis Quaid,"Comedy, Drama",https://letterboxd.com/film/postcards-from-the-edge/
-30,Teenage Mutant Ninja Turtles,Steve Barron,Brian Tochi; Josh Pais; Corey Feldman,"Comedy, Family, Science Fiction, Action, Adventure",https://letterboxd.com/film/teenage-mutant-ninja-turtles/
-31,Miller's Crossing,Joel Coen,Gabriel Byrne; Marcia Gay Harden; John Turturro,"Drama, Thriller, Crime",https://letterboxd.com/film/millers-crossing/
-32,Bullet in the Head,John Woo,Tony Leung Chiu-wai; Jacky Cheung Hok-Yau; Waise Lee Chi-Hung,"Crime, War, Thriller, Action",https://letterboxd.com/film/bullet-in-the-head/
+28,Postcards from the Edge,Mike Nichols,Meryl Streep; Shirley MacLaine; Dennis Quaid,"Comedy, Drama",https://letterboxd.com/film/postcards-from-the-edge/
+29,Dances with Wolves,Kevin Costner,Kevin Costner; Mary McDonnell; Graham Greene,"Western, Drama, Adventure",https://letterboxd.com/film/dances-with-wolves/
+30,Bullet in the Head,John Woo,Tony Leung Chiu-wai; Jacky Cheung Hok-Yau; Waise Lee Chi-Hung,"Crime, War, Thriller, Action",https://letterboxd.com/film/bullet-in-the-head/
+31,Teenage Mutant Ninja Turtles,Steve Barron,Brian Tochi; Josh Pais; Corey Feldman,"Comedy, Family, Science Fiction, Action, Adventure",https://letterboxd.com/film/teenage-mutant-ninja-turtles/
+32,Miller's Crossing,Joel Coen,Gabriel Byrne; Marcia Gay Harden; John Turturro,"Drama, Thriller, Crime",https://letterboxd.com/film/millers-crossing/
 33,Child's Play 2,John Lafia,Alex Vincent; Brad Dourif; Christine Elise,Horror,https://letterboxd.com/film/childs-play-2/
 34,Die Hard 2,Renny Harlin,Bruce Willis; Bonnie Bedelia; William Sadler,"Action, Thriller",https://letterboxd.com/film/die-hard-2/
 35,Gremlins 2: The New Batch,Joe Dante,Zach Galligan; Phoebe Cates; John Glover,"Comedy, Fantasy, Horror",https://letterboxd.com/film/gremlins-2-the-new-batch/
 36,Darkman,Sam Raimi,Liam Neeson; Frances McDormand; Colin Friels,"Action, Thriller, Science Fiction",https://letterboxd.com/film/darkman/
 37,Slacker,Richard Linklater,Richard Linklater; Rudy Basquez; Jean Caffeine,"Comedy, Drama",https://letterboxd.com/film/slacker/
 38,Lord of the Flies,Harry Hook,Balthazar Getty; Chris Furrh; Danuel Pipoly,"Drama, Thriller, Adventure",https://letterboxd.com/film/lord-of-the-flies-1990/
-39,Green Card,Peter Weir,Gérard Depardieu; Andie MacDowell; Bebe Neuwirth,"Comedy, Drama, Romance",https://letterboxd.com/film/green-card/
-40,The Witches,Nicolas Roeg,Jasen Fisher; Mai Zetterling; Anjelica Huston,"Horror, Family, Fantasy",https://letterboxd.com/film/the-witches/
-41,The Exorcist III,William Peter Blatty,George C. Scott; Ed Flanders; Brad Dourif,"Horror, Mystery",https://letterboxd.com/film/the-exorcist-iii/
-42,Metropolitan,Whit Stillman,Edward Clements; Chris Eigeman; Taylor Nichols,"Romance, Comedy, Drama",https://letterboxd.com/film/metropolitan/
-43,Dick Tracy,Warren Beatty,Warren Beatty; Al Pacino; Madonna,"Comedy, Adventure, Crime",https://letterboxd.com/film/dick-tracy/
-44,Presumed Innocent,Alan J. Pakula,Harrison Ford; Brian Dennehy; Raúl Juliá,"Mystery, Thriller, Crime",https://letterboxd.com/film/presumed-innocent/
-45,RoboCop 2,Irvin Kershner,Peter Weller; Nancy Allen; Tom Noonan,"Science Fiction, Action, Thriller",https://letterboxd.com/film/robocop-2/
-46,Bad Influence,Curtis Hanson,James Spader; Rob Lowe; Lisa Zane,Thriller,https://letterboxd.com/film/bad-influence/
-47,State of Grace,Phil Joanou,Sean Penn; Ed Harris; Gary Oldman,"Thriller, Drama, Crime",https://letterboxd.com/film/state-of-grace/
-48,The Match Factory Girl,Aki Kaurismäki,Kati Outinen; Elina Salo; Esko Nikkari,Drama,https://letterboxd.com/film/the-match-factory-girl/
-49,Troll 2,Claudio Fragasso,Michael Stephenson; George Hardy; Margo Prey,"Fantasy, Horror",https://letterboxd.com/film/troll-2/
-50,Nikita,Luc Besson,Anne Parillaud; Jean-Hugues Anglade; Tchéky Karyo,"Action, Thriller",https://letterboxd.com/film/nikita/
+39,The Witches,Nicolas Roeg,Jasen Fisher; Mai Zetterling; Anjelica Huston,"Horror, Family, Fantasy",https://letterboxd.com/film/the-witches/
+40,Green Card,Peter Weir,Gérard Depardieu; Andie MacDowell; Bebe Neuwirth,"Comedy, Drama, Romance",https://letterboxd.com/film/green-card/
+41,Pacific Heights,John Schlesinger,Melanie Griffith; Matthew Modine; Michael Keaton,"Thriller, Mystery, Drama",https://letterboxd.com/film/pacific-heights/
+42,The Exorcist III,William Peter Blatty,George C. Scott; Ed Flanders; Brad Dourif,"Horror, Mystery",https://letterboxd.com/film/the-exorcist-iii/
+43,Metropolitan,Whit Stillman,Edward Clements; Chris Eigeman; Taylor Nichols,"Romance, Comedy, Drama",https://letterboxd.com/film/metropolitan/
+44,Bad Influence,Curtis Hanson,James Spader; Rob Lowe; Lisa Zane,Thriller,https://letterboxd.com/film/bad-influence/
+45,Dick Tracy,Warren Beatty,Warren Beatty; Al Pacino; Madonna,"Comedy, Adventure, Crime",https://letterboxd.com/film/dick-tracy/
+46,RoboCop 2,Irvin Kershner,Peter Weller; Nancy Allen; Tom Noonan,"Science Fiction, Action, Thriller",https://letterboxd.com/film/robocop-2/
+47,Presumed Innocent,Alan J. Pakula,Harrison Ford; Brian Dennehy; Raúl Juliá,"Mystery, Thriller, Crime",https://letterboxd.com/film/presumed-innocent/
+48,State of Grace,Phil Joanou,Sean Penn; Ed Harris; Gary Oldman,"Thriller, Drama, Crime",https://letterboxd.com/film/state-of-grace/
+49,The Match Factory Girl,Aki Kaurismäki,Kati Outinen; Elina Salo; Esko Nikkari,Drama,https://letterboxd.com/film/the-match-factory-girl/
+50,White Palace,Luis Mandoki,Susan Sarandon; James Spader; Kathy Bates,"Drama, Romance",https://letterboxd.com/film/white-palace/

@@ -52,18 +52,6 @@
     },
     {
       "rank": 5,
-      "title": "Michael Jackson's Thriller",
-      "url": "https://letterboxd.com/film/michael-jacksons-thriller/",
-      "director": "John Landis",
-      "actors": [
-        "Michael Jackson",
-        "Ola Ray",
-        "Vincent Price"
-      ],
-      "genres": "Thriller, Horror, Music"
-    },
-    {
-      "rank": 6,
       "title": "Sleepaway Camp",
       "url": "https://letterboxd.com/film/sleepaway-camp/",
       "director": "Robert Hiltzik",
@@ -73,6 +61,18 @@
         "Paul DeAngelo"
       ],
       "genres": "Horror"
+    },
+    {
+      "rank": 6,
+      "title": "Michael Jackson's Thriller",
+      "url": "https://letterboxd.com/film/michael-jacksons-thriller/",
+      "director": "John Landis",
+      "actors": [
+        "Michael Jackson",
+        "Ola Ray",
+        "Vincent Price"
+      ],
+      "genres": "Thriller, Horror, Music"
     },
     {
       "rank": 7,
@@ -124,18 +124,6 @@
     },
     {
       "rank": 11,
-      "title": "Trading Places",
-      "url": "https://letterboxd.com/film/trading-places/",
-      "director": "John Landis",
-      "actors": [
-        "Dan Aykroyd",
-        "Eddie Murphy",
-        "Ralph Bellamy"
-      ],
-      "genres": "Comedy"
-    },
-    {
-      "rank": 12,
       "title": "The Hunger",
       "url": "https://letterboxd.com/film/the-hunger/",
       "director": "Tony Scott",
@@ -145,6 +133,18 @@
         "Susan Sarandon"
       ],
       "genres": "Drama, Horror"
+    },
+    {
+      "rank": 12,
+      "title": "Trading Places",
+      "url": "https://letterboxd.com/film/trading-places/",
+      "director": "John Landis",
+      "actors": [
+        "Dan Aykroyd",
+        "Eddie Murphy",
+        "Ralph Bellamy"
+      ],
+      "genres": "Comedy"
     },
     {
       "rank": 13,
@@ -256,18 +256,6 @@
     },
     {
       "rank": 22,
-      "title": "Merry Christmas, Mr. Lawrence",
-      "url": "https://letterboxd.com/film/merry-christmas-mr-lawrence/",
-      "director": "Nagisa Ōshima",
-      "actors": [
-        "David Bowie",
-        "Tom Conti",
-        "Ryuichi Sakamoto"
-      ],
-      "genres": "War, Drama, History"
-    },
-    {
-      "rank": 23,
       "title": "Terms of Endearment",
       "url": "https://letterboxd.com/film/terms-of-endearment/",
       "director": "James L. Brooks",
@@ -279,19 +267,19 @@
       "genres": "Comedy, Drama"
     },
     {
-      "rank": 24,
-      "title": "Sans Soleil",
-      "url": "https://letterboxd.com/film/sans-soleil/",
-      "director": "Chris Marker",
+      "rank": 23,
+      "title": "Merry Christmas, Mr. Lawrence",
+      "url": "https://letterboxd.com/film/merry-christmas-mr-lawrence/",
+      "director": "Nagisa Ōshima",
       "actors": [
-        "Florence Delay",
-        "Amílcar Cabral",
-        "Arielle Dombasle"
+        "David Bowie",
+        "Tom Conti",
+        "Ryuichi Sakamoto"
       ],
-      "genres": "Documentary"
+      "genres": "War, Drama, History"
     },
     {
-      "rank": 25,
+      "rank": 24,
       "title": "Local Hero",
       "url": "https://letterboxd.com/film/local-hero/",
       "director": "Bill Forsyth",
@@ -303,31 +291,19 @@
       "genres": "Drama, Comedy"
     },
     {
+      "rank": 25,
+      "title": "Sans Soleil",
+      "url": "https://letterboxd.com/film/sans-soleil/",
+      "director": "Chris Marker",
+      "actors": [
+        "Florence Delay",
+        "Amílcar Cabral",
+        "Arielle Dombasle"
+      ],
+      "genres": "Documentary"
+    },
+    {
       "rank": 26,
-      "title": "Tender Mercies",
-      "url": "https://letterboxd.com/film/tender-mercies/",
-      "director": "Bruce Beresford",
-      "actors": [
-        "Robert Duvall",
-        "Tess Harper",
-        "Betty Buckley"
-      ],
-      "genres": "Music, Drama, Romance"
-    },
-    {
-      "rank": 27,
-      "title": "Psycho II",
-      "url": "https://letterboxd.com/film/psycho-ii/",
-      "director": "Richard Franklin",
-      "actors": [
-        "Anthony Perkins",
-        "Meg Tilly",
-        "Vera Miles"
-      ],
-      "genres": "Thriller, Crime, Mystery, Horror"
-    },
-    {
-      "rank": 28,
       "title": "A Girl, She Is 100%",
       "url": "https://letterboxd.com/film/a-girl-she-is-100/",
       "director": "Naoto Yamakawa",
@@ -339,19 +315,31 @@
       "genres": "Romance, Comedy, Drama"
     },
     {
-      "rank": 29,
-      "title": "Born in Flames",
-      "url": "https://letterboxd.com/film/born-in-flames/",
-      "director": "Lizzie Borden",
+      "rank": 27,
+      "title": "Psycho II",
+      "url": "https://letterboxd.com/film/psycho-ii/",
+      "director": "Richard Franklin",
       "actors": [
-        "Honey",
-        "Adele Bertei",
-        "Jean Satterfield"
+        "Anthony Perkins",
+        "Meg Tilly",
+        "Vera Miles"
       ],
-      "genres": "Science Fiction, Drama"
+      "genres": "Thriller, Mystery, Horror"
     },
     {
-      "rank": 30,
+      "rank": 28,
+      "title": "Tender Mercies",
+      "url": "https://letterboxd.com/film/tender-mercies/",
+      "director": "Bruce Beresford",
+      "actors": [
+        "Robert Duvall",
+        "Tess Harper",
+        "Betty Buckley"
+      ],
+      "genres": "Music, Drama, Romance"
+    },
+    {
+      "rank": 29,
       "title": "National Lampoon's Vacation",
       "url": "https://letterboxd.com/film/national-lampoons-vacation/",
       "director": "Harold Ramis",
@@ -363,19 +351,19 @@
       "genres": "Comedy, Adventure"
     },
     {
-      "rank": 31,
-      "title": "Cujo",
-      "url": "https://letterboxd.com/film/cujo/",
-      "director": "Lewis Teague",
+      "rank": 30,
+      "title": "Born in Flames",
+      "url": "https://letterboxd.com/film/born-in-flames/",
+      "director": "Lizzie Borden",
       "actors": [
-        "Dee Wallace",
-        "Danny Pintauro",
-        "Daniel Hugh Kelly"
+        "Honey",
+        "Adele Bertei",
+        "Jean Satterfield"
       ],
-      "genres": "Horror, Drama"
+      "genres": "Science Fiction, Drama"
     },
     {
-      "rank": 32,
+      "rank": 31,
       "title": "Pauline at the Beach",
       "url": "https://letterboxd.com/film/pauline-at-the-beach/",
       "director": "Éric Rohmer",
@@ -385,6 +373,18 @@
         "Pascal Greggory"
       ],
       "genres": "Romance, Drama, Comedy"
+    },
+    {
+      "rank": 32,
+      "title": "Cujo",
+      "url": "https://letterboxd.com/film/cujo/",
+      "director": "Lewis Teague",
+      "actors": [
+        "Dee Wallace",
+        "Danny Pintauro",
+        "Daniel Hugh Kelly"
+      ],
+      "genres": "Horror, Drama"
     },
     {
       "rank": 33,
@@ -424,15 +424,15 @@
     },
     {
       "rank": 36,
-      "title": "Dark Habits",
-      "url": "https://letterboxd.com/film/dark-habits/",
-      "director": "Pedro Almodóvar",
+      "title": "Superman III",
+      "url": "https://letterboxd.com/film/superman-iii/",
+      "director": "Richard Lester",
       "actors": [
-        "Cristina Sánchez Pascual",
-        "Will More",
-        "Laura Cepeda"
+        "Christopher Reeve",
+        "Richard Pryor",
+        "Jackie Cooper"
       ],
-      "genres": "Comedy, Drama"
+      "genres": "Comedy, Adventure, Action, Science Fiction"
     },
     {
       "rank": 37,
@@ -448,15 +448,15 @@
     },
     {
       "rank": 38,
-      "title": "Superman III",
-      "url": "https://letterboxd.com/film/superman-iii/",
-      "director": "Richard Lester",
+      "title": "Dark Habits",
+      "url": "https://letterboxd.com/film/dark-habits/",
+      "director": "Pedro Almodóvar",
       "actors": [
-        "Christopher Reeve",
-        "Richard Pryor",
-        "Jackie Cooper"
+        "Cristina Sánchez Pascual",
+        "Will More",
+        "Laura Cepeda"
       ],
-      "genres": "Comedy, Adventure, Action, Science Fiction"
+      "genres": "Comedy, Drama"
     },
     {
       "rank": 39,
@@ -472,6 +472,18 @@
     },
     {
       "rank": 40,
+      "title": "Jaws 3-D",
+      "url": "https://letterboxd.com/film/jaws-3-d/",
+      "director": "Joe Alves",
+      "actors": [
+        "Dennis Quaid",
+        "Bess Armstrong",
+        "Simon MacCorkindale"
+      ],
+      "genres": "Horror, Thriller"
+    },
+    {
+      "rank": 41,
       "title": "The Boxer's Omen",
       "url": "https://letterboxd.com/film/the-boxers-omen/",
       "director": "Kuei Chih-hung",
@@ -483,7 +495,7 @@
       "genres": "Action, Horror, Fantasy"
     },
     {
-      "rank": 41,
+      "rank": 42,
       "title": "A Nos Amours",
       "url": "https://letterboxd.com/film/a-nos-amours/",
       "director": "Maurice Pialat",
@@ -495,7 +507,7 @@
       "genres": "Drama, Romance"
     },
     {
-      "rank": 42,
+      "rank": 43,
       "title": "Heroic Times",
       "url": "https://letterboxd.com/film/heroic-times/",
       "director": "József Gémes",
@@ -506,7 +518,7 @@
       "genres": "History, Animation, War"
     },
     {
-      "rank": 43,
+      "rank": 44,
       "title": "The Right Stuff",
       "url": "https://letterboxd.com/film/the-right-stuff/",
       "director": "Philip Kaufman",
@@ -516,18 +528,6 @@
         "Ed Harris"
       ],
       "genres": "Drama, History, Adventure"
-    },
-    {
-      "rank": 44,
-      "title": "Jaws 3-D",
-      "url": "https://letterboxd.com/film/jaws-3-d/",
-      "director": "Joe Alves",
-      "actors": [
-        "Dennis Quaid",
-        "Bess Armstrong",
-        "Simon MacCorkindale"
-      ],
-      "genres": "Horror, Thriller"
     },
     {
       "rank": 45,
@@ -575,18 +575,6 @@
     },
     {
       "rank": 49,
-      "title": "Eddie and the Cruisers",
-      "url": "https://letterboxd.com/film/eddie-and-the-cruisers/",
-      "director": "Martin Davidson",
-      "actors": [
-        "Tom Berenger",
-        "Michael Paré",
-        "Joe Pantoliano"
-      ],
-      "genres": "Drama, Music"
-    },
-    {
-      "rank": 50,
       "title": "Krull",
       "url": "https://letterboxd.com/film/krull/",
       "director": "Peter Yates",
@@ -596,6 +584,18 @@
         "Freddie Jones"
       ],
       "genres": "Science Fiction, Action, Adventure, Fantasy"
+    },
+    {
+      "rank": 50,
+      "title": "Barefoot Gen",
+      "url": "https://letterboxd.com/film/barefoot-gen/",
+      "director": "Mori Masaki",
+      "actors": [
+        "Issei Miyazaki",
+        "Masaki Kouda",
+        "Seiko Nakano"
+      ],
+      "genres": "Animation, History, War, Drama"
     }
   ]
 }

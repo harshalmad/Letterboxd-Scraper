@@ -20,8 +20,8 @@
       "url": "https://letterboxd.com/film/scream/",
       "director": "Wes Craven",
       "actors": [
-        "David Arquette",
         "Neve Campbell",
+        "David Arquette",
         "Courteney Cox"
       ],
       "genres": "Mystery, Crime, Horror"
@@ -76,18 +76,6 @@
     },
     {
       "rank": 7,
-      "title": "Jerry Maguire",
-      "url": "https://letterboxd.com/film/jerry-maguire/",
-      "director": "Cameron Crowe",
-      "actors": [
-        "Tom Cruise",
-        "Renée Zellweger",
-        "Cuba Gooding Jr."
-      ],
-      "genres": "Comedy, Romance, Drama"
-    },
-    {
-      "rank": 8,
       "title": "The Birdcage",
       "url": "https://letterboxd.com/film/the-birdcage/",
       "director": "Mike Nichols",
@@ -97,6 +85,18 @@
         "Nathan Lane"
       ],
       "genres": "Comedy, Romance"
+    },
+    {
+      "rank": 8,
+      "title": "Jerry Maguire",
+      "url": "https://letterboxd.com/film/jerry-maguire/",
+      "director": "Cameron Crowe",
+      "actors": [
+        "Tom Cruise",
+        "Renée Zellweger",
+        "Cuba Gooding Jr."
+      ],
+      "genres": "Comedy, Romance, Drama"
     },
     {
       "rank": 9,
@@ -136,15 +136,15 @@
     },
     {
       "rank": 12,
-      "title": "Bound",
-      "url": "https://letterboxd.com/film/bound/",
-      "director": "Lana Wachowski, Lilly Wachowski",
+      "title": "Independence Day",
+      "url": "https://letterboxd.com/film/independence-day/",
+      "director": "Roland Emmerich",
       "actors": [
-        "Gina Gershon",
-        "Jennifer Tilly",
-        "Joe Pantoliano"
+        "Will Smith",
+        "Bill Pullman",
+        "Jeff Goldblum"
       ],
-      "genres": "Crime, Thriller, Drama"
+      "genres": "Science Fiction, Adventure, Action"
     },
     {
       "rank": 13,
@@ -160,6 +160,18 @@
     },
     {
       "rank": 14,
+      "title": "Bound",
+      "url": "https://letterboxd.com/film/bound/",
+      "director": "Lana Wachowski, Lilly Wachowski",
+      "actors": [
+        "Gina Gershon",
+        "Jennifer Tilly",
+        "Joe Pantoliano"
+      ],
+      "genres": "Crime, Thriller, Drama"
+    },
+    {
+      "rank": 15,
       "title": "Fear",
       "url": "https://letterboxd.com/film/fear-1996/",
       "director": "James Foley",
@@ -171,7 +183,7 @@
       "genres": "Thriller, Horror"
     },
     {
-      "rank": 15,
+      "rank": 16,
       "title": "Mission: Impossible",
       "url": "https://letterboxd.com/film/mission-impossible/",
       "director": "Brian De Palma",
@@ -183,7 +195,7 @@
       "genres": "Thriller, Action, Adventure"
     },
     {
-      "rank": 16,
+      "rank": 17,
       "title": "From Dusk Till Dawn",
       "url": "https://letterboxd.com/film/from-dusk-till-dawn/",
       "director": "Robert Rodriguez",
@@ -195,31 +207,7 @@
       "genres": "Horror, Crime, Action"
     },
     {
-      "rank": 17,
-      "title": "Waiting for Guffman",
-      "url": "https://letterboxd.com/film/waiting-for-guffman/",
-      "director": "Christopher Guest",
-      "actors": [
-        "Christopher Guest",
-        "Eugene Levy",
-        "Fred Willard"
-      ],
-      "genres": "Music, Comedy"
-    },
-    {
       "rank": 18,
-      "title": "The Hunchback of Notre Dame",
-      "url": "https://letterboxd.com/film/the-hunchback-of-notre-dame-1996/",
-      "director": "Gary Trousdale, Kirk Wise",
-      "actors": [
-        "Tom Hulce",
-        "Demi Moore",
-        "Kevin Kline"
-      ],
-      "genres": "Drama, Family, Animation"
-    },
-    {
-      "rank": 19,
       "title": "The Watermelon Woman",
       "url": "https://letterboxd.com/film/the-watermelon-woman/",
       "director": "Cheryl Dunye",
@@ -231,31 +219,31 @@
       "genres": "Comedy, Drama, Romance"
     },
     {
-      "rank": 20,
-      "title": "Happy Gilmore",
-      "url": "https://letterboxd.com/film/happy-gilmore/",
-      "director": "Dennis Dugan",
+      "rank": 19,
+      "title": "The Hunchback of Notre Dame",
+      "url": "https://letterboxd.com/film/the-hunchback-of-notre-dame-1996/",
+      "director": "Gary Trousdale, Kirk Wise",
       "actors": [
-        "Adam Sandler",
-        "Christopher McDonald",
-        "Julie Bowen"
+        "Tom Hulce",
+        "Demi Moore",
+        "Kevin Kline"
       ],
-      "genres": "Comedy"
+      "genres": "Drama, Family, Animation"
+    },
+    {
+      "rank": 20,
+      "title": "Waiting for Guffman",
+      "url": "https://letterboxd.com/film/waiting-for-guffman/",
+      "director": "Christopher Guest",
+      "actors": [
+        "Christopher Guest",
+        "Eugene Levy",
+        "Fred Willard"
+      ],
+      "genres": "Music, Comedy"
     },
     {
       "rank": 21,
-      "title": "Independence Day",
-      "url": "https://letterboxd.com/film/independence-day/",
-      "director": "Roland Emmerich",
-      "actors": [
-        "Will Smith",
-        "Bill Pullman",
-        "Jeff Goldblum"
-      ],
-      "genres": "Science Fiction, Adventure, Action"
-    },
-    {
-      "rank": 22,
       "title": "Thesis",
       "url": "https://letterboxd.com/film/thesis/",
       "director": "Alejandro Amenábar",
@@ -265,6 +253,18 @@
         "Eduardo Noriega"
       ],
       "genres": "Thriller, Horror"
+    },
+    {
+      "rank": 22,
+      "title": "Happy Gilmore",
+      "url": "https://letterboxd.com/film/happy-gilmore/",
+      "director": "Dennis Dugan",
+      "actors": [
+        "Adam Sandler",
+        "Christopher McDonald",
+        "Julie Bowen"
+      ],
+      "genres": "Comedy"
     },
     {
       "rank": 23,
@@ -304,18 +304,6 @@
     },
     {
       "rank": 26,
-      "title": "Hard Eight",
-      "url": "https://letterboxd.com/film/hard-eight/",
-      "director": "Paul Thomas Anderson",
-      "actors": [
-        "Philip Baker Hall",
-        "John C. Reilly",
-        "Gwyneth Paltrow"
-      ],
-      "genres": "Drama, Crime"
-    },
-    {
-      "rank": 27,
       "title": "Mars Attacks!",
       "url": "https://letterboxd.com/film/mars-attacks/",
       "director": "Tim Burton",
@@ -325,6 +313,18 @@
         "Annette Bening"
       ],
       "genres": "Fantasy, Science Fiction, Comedy"
+    },
+    {
+      "rank": 27,
+      "title": "Hard Eight",
+      "url": "https://letterboxd.com/film/hard-eight/",
+      "director": "Paul Thomas Anderson",
+      "actors": [
+        "Philip Baker Hall",
+        "John C. Reilly",
+        "Gwyneth Paltrow"
+      ],
+      "genres": "Drama, Crime"
     },
     {
       "rank": 28,
@@ -364,18 +364,6 @@
     },
     {
       "rank": 31,
-      "title": "Lost and Found",
-      "url": "https://letterboxd.com/film/lost-and-found-1996/",
-      "director": "Lee Chi-Ngai",
-      "actors": [
-        "Takeshi Kaneshiro",
-        "Kelly Chen Hui-Lin",
-        "Michael Wong"
-      ],
-      "genres": "Romance, Drama"
-    },
-    {
-      "rank": 32,
       "title": "A Summer's Tale",
       "url": "https://letterboxd.com/film/a-summers-tale/",
       "director": "Éric Rohmer",
@@ -385,6 +373,18 @@
         "Gwenaëlle Simon"
       ],
       "genres": "Comedy, Romance, Drama"
+    },
+    {
+      "rank": 32,
+      "title": "Lost and Found",
+      "url": "https://letterboxd.com/film/lost-and-found-1996/",
+      "director": "Lee Chi-Ngai",
+      "actors": [
+        "Takeshi Kaneshiro",
+        "Kelly Chen Hui-Lin",
+        "Michael Wong"
+      ],
+      "genres": "Romance, Drama"
     },
     {
       "rank": 33,
@@ -520,18 +520,6 @@
     },
     {
       "rank": 44,
-      "title": "The Mirror Has Two Faces",
-      "url": "https://letterboxd.com/film/the-mirror-has-two-faces/",
-      "director": "Barbra Streisand",
-      "actors": [
-        "Barbra Streisand",
-        "Jeff Bridges",
-        "Pierce Brosnan"
-      ],
-      "genres": "Romance, Comedy, Drama"
-    },
-    {
-      "rank": 45,
       "title": "Picnic",
       "url": "https://letterboxd.com/film/picnic-1996/",
       "director": "Shunji Iwai",
@@ -541,6 +529,18 @@
         "Koichi Hashizume"
       ],
       "genres": "Drama, Adventure"
+    },
+    {
+      "rank": 45,
+      "title": "The Mirror Has Two Faces",
+      "url": "https://letterboxd.com/film/the-mirror-has-two-faces/",
+      "director": "Barbra Streisand",
+      "actors": [
+        "Barbra Streisand",
+        "Jeff Bridges",
+        "Pierce Brosnan"
+      ],
+      "genres": "Romance, Comedy, Drama"
     },
     {
       "rank": 46,
@@ -568,30 +568,6 @@
     },
     {
       "rank": 48,
-      "title": "That Thing You Do!",
-      "url": "https://letterboxd.com/film/that-thing-you-do/",
-      "director": "Tom Hanks",
-      "actors": [
-        "Tom Hanks",
-        "Tom Everett Scott",
-        "Liv Tyler"
-      ],
-      "genres": "Music, Drama, Comedy"
-    },
-    {
-      "rank": 49,
-      "title": "Ransom",
-      "url": "https://letterboxd.com/film/ransom/",
-      "director": "Ron Howard",
-      "actors": [
-        "Mel Gibson",
-        "Rene Russo",
-        "Gary Sinise"
-      ],
-      "genres": "Action, Thriller"
-    },
-    {
-      "rank": 50,
       "title": "The People vs. Larry Flynt",
       "url": "https://letterboxd.com/film/the-people-vs-larry-flynt/",
       "director": "Miloš Forman",
@@ -601,6 +577,30 @@
         "Edward Norton"
       ],
       "genres": "Drama"
+    },
+    {
+      "rank": 49,
+      "title": "Beautiful Thing",
+      "url": "https://letterboxd.com/film/beautiful-thing/",
+      "director": "Hettie Macdonald",
+      "actors": [
+        "Glen Berry",
+        "Scott Neal",
+        "Linda Henry"
+      ],
+      "genres": "Comedy, Romance, Drama"
+    },
+    {
+      "rank": 50,
+      "title": "That Thing You Do!",
+      "url": "https://letterboxd.com/film/that-thing-you-do/",
+      "director": "Tom Hanks",
+      "actors": [
+        "Tom Hanks",
+        "Tom Everett Scott",
+        "Liv Tyler"
+      ],
+      "genres": "Music, Drama, Comedy"
     }
   ]
 }

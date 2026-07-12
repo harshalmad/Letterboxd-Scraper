@@ -124,30 +124,18 @@
     },
     {
       "rank": 11,
-      "title": "The Life of Chuck",
-      "url": "https://letterboxd.com/film/the-life-of-chuck/",
-      "director": "Mike Flanagan",
+      "title": "Deadpool & Wolverine",
+      "url": "https://letterboxd.com/film/deadpool-wolverine/",
+      "director": "Shawn Levy",
       "actors": [
-        "Tom Hiddleston",
-        "Benjamin Pajak",
-        "Nick Offerman"
+        "Ryan Reynolds",
+        "Hugh Jackman",
+        "Emma Corrin"
       ],
-      "genres": "Drama, Fantasy"
+      "genres": "Science Fiction, Action, Comedy"
     },
     {
       "rank": 12,
-      "title": "Conclave",
-      "url": "https://letterboxd.com/film/conclave/",
-      "director": "Edward Berger",
-      "actors": [
-        "Ralph Fiennes",
-        "Stanley Tucci",
-        "John Lithgow"
-      ],
-      "genres": "Drama, Thriller"
-    },
-    {
-      "rank": 13,
       "title": "Longlegs",
       "url": "https://letterboxd.com/film/longlegs/",
       "director": "Osgood Perkins",
@@ -159,16 +147,28 @@
       "genres": "Crime, Horror, Mystery"
     },
     {
-      "rank": 14,
-      "title": "Deadpool & Wolverine",
-      "url": "https://letterboxd.com/film/deadpool-wolverine/",
-      "director": "Shawn Levy",
+      "rank": 13,
+      "title": "Conclave",
+      "url": "https://letterboxd.com/film/conclave/",
+      "director": "Edward Berger",
       "actors": [
-        "Ryan Reynolds",
-        "Hugh Jackman",
-        "Emma Corrin"
+        "Ralph Fiennes",
+        "Stanley Tucci",
+        "John Lithgow"
       ],
-      "genres": "Science Fiction, Action, Comedy"
+      "genres": "Drama, Thriller"
+    },
+    {
+      "rank": 14,
+      "title": "The Life of Chuck",
+      "url": "https://letterboxd.com/film/the-life-of-chuck/",
+      "director": "Mike Flanagan",
+      "actors": [
+        "Tom Hiddleston",
+        "Benjamin Pajak",
+        "Nick Offerman"
+      ],
+      "genres": "Drama, Fantasy"
     },
     {
       "rank": 15,
@@ -196,14 +196,6 @@
     },
     {
       "rank": 17,
-      "title": "Flow",
-      "url": "https://letterboxd.com/film/flow-2024/",
-      "director": "Gints Zilbalodis",
-      "actors": [],
-      "genres": "Family, Animation, Adventure, Fantasy"
-    },
-    {
-      "rank": 18,
       "title": "Look Back",
       "url": "https://letterboxd.com/film/look-back-2024/",
       "director": "Kiyotaka Oshiyama",
@@ -213,6 +205,14 @@
         "Yoichiro Saito"
       ],
       "genres": "Animation, Drama"
+    },
+    {
+      "rank": 18,
+      "title": "Flow",
+      "url": "https://letterboxd.com/film/flow-2024/",
+      "director": "Gints Zilbalodis",
+      "actors": [],
+      "genres": "Family, Animation, Adventure, Fantasy"
     },
     {
       "rank": 19,
@@ -276,18 +276,6 @@
     },
     {
       "rank": 24,
-      "title": "Abigail",
-      "url": "https://letterboxd.com/film/abigail-2024/",
-      "director": "Tyler Gillett, Matt Bettinelli-Olpin",
-      "actors": [
-        "Melissa Barrera",
-        "Dan Stevens",
-        "Alisha Weir"
-      ],
-      "genres": "Horror, Thriller"
-    },
-    {
-      "rank": 25,
       "title": "Gladiator II",
       "url": "https://letterboxd.com/film/gladiator-ii/",
       "director": "Ridley Scott",
@@ -297,6 +285,18 @@
         "Pedro Pascal"
       ],
       "genres": "Drama, Action, Adventure"
+    },
+    {
+      "rank": 25,
+      "title": "Abigail",
+      "url": "https://letterboxd.com/film/abigail-2024/",
+      "director": "Tyler Gillett, Matt Bettinelli-Olpin",
+      "actors": [
+        "Melissa Barrera",
+        "Dan Stevens",
+        "Alisha Weir"
+      ],
+      "genres": "Horror, Thriller"
     },
     {
       "rank": 26,
@@ -312,18 +312,6 @@
     },
     {
       "rank": 27,
-      "title": "Two People Exchanging Saliva",
-      "url": "https://letterboxd.com/film/two-people-exchanging-saliva/",
-      "director": "Alexandre Singh, Natalie Musteata",
-      "actors": [
-        "Zar Amir Ebrahimi",
-        "Luàna Bajrami",
-        "Aurélie Boquien"
-      ],
-      "genres": "Science Fiction, Fantasy, Drama"
-    },
-    {
-      "rank": 28,
       "title": "A Complete Unknown",
       "url": "https://letterboxd.com/film/a-complete-unknown/",
       "director": "James Mangold",
@@ -335,19 +323,19 @@
       "genres": "Drama, Music"
     },
     {
-      "rank": 29,
-      "title": "Friendship",
-      "url": "https://letterboxd.com/film/friendship-2024/",
-      "director": "Andrew DeYoung",
+      "rank": 28,
+      "title": "Two People Exchanging Saliva",
+      "url": "https://letterboxd.com/film/two-people-exchanging-saliva/",
+      "director": "Alexandre Singh, Natalie Musteata",
       "actors": [
-        "Tim Robinson",
-        "Paul Rudd",
-        "Kate Mara"
+        "Zar Amir Ebrahimi",
+        "Luàna Bajrami",
+        "Aurélie Boquien"
       ],
-      "genres": "Comedy, Drama"
+      "genres": "Science Fiction, Fantasy, Drama"
     },
     {
-      "rank": 30,
+      "rank": 29,
       "title": "It Ends with Us",
       "url": "https://letterboxd.com/film/it-ends-with-us/",
       "director": "Justin Baldoni",
@@ -357,6 +345,18 @@
         "Jenny Slate"
       ],
       "genres": "Drama, Romance"
+    },
+    {
+      "rank": 30,
+      "title": "Friendship",
+      "url": "https://letterboxd.com/film/friendship-2024/",
+      "director": "Andrew DeYoung",
+      "actors": [
+        "Tim Robinson",
+        "Paul Rudd",
+        "Kate Mara"
+      ],
+      "genres": "Comedy, Drama"
     },
     {
       "rank": 31,
@@ -384,18 +384,6 @@
     },
     {
       "rank": 33,
-      "title": "Babygirl",
-      "url": "https://letterboxd.com/film/babygirl-2024/",
-      "director": "Halina Reijn",
-      "actors": [
-        "Nicole Kidman",
-        "Harris Dickinson",
-        "Antonio Banderas"
-      ],
-      "genres": "Thriller, Romance"
-    },
-    {
-      "rank": 34,
       "title": "Twisters",
       "url": "https://letterboxd.com/film/twisters/",
       "director": "Lee Isaac Chung",
@@ -407,16 +395,28 @@
       "genres": "Thriller, Action"
     },
     {
-      "rank": 35,
-      "title": "A Quiet Place: Day One",
-      "url": "https://letterboxd.com/film/a-quiet-place-day-one/",
-      "director": "Michael Sarnoski",
+      "rank": 34,
+      "title": "Babygirl",
+      "url": "https://letterboxd.com/film/babygirl-2024/",
+      "director": "Halina Reijn",
       "actors": [
-        "Lupita Nyong'o",
-        "Joseph Quinn",
-        "Alex Wolff"
+        "Nicole Kidman",
+        "Harris Dickinson",
+        "Antonio Banderas"
       ],
-      "genres": "Horror, Thriller, Science Fiction"
+      "genres": "Thriller, Romance"
+    },
+    {
+      "rank": 35,
+      "title": "Despicable Me 4",
+      "url": "https://letterboxd.com/film/despicable-me-4/",
+      "director": "Chris Renaud",
+      "actors": [
+        "Steve Carell",
+        "Kristen Wiig",
+        "Will Ferrell"
+      ],
+      "genres": "Family, Action, Animation, Comedy, Science Fiction"
     },
     {
       "rank": 36,
@@ -432,30 +432,18 @@
     },
     {
       "rank": 37,
-      "title": "Despicable Me 4",
-      "url": "https://letterboxd.com/film/despicable-me-4/",
-      "director": "Chris Renaud",
+      "title": "A Quiet Place: Day One",
+      "url": "https://letterboxd.com/film/a-quiet-place-day-one/",
+      "director": "Michael Sarnoski",
       "actors": [
-        "Steve Carell",
-        "Kristen Wiig",
-        "Will Ferrell"
+        "Lupita Nyong'o",
+        "Joseph Quinn",
+        "Alex Wolff"
       ],
-      "genres": "Family, Action, Animation, Comedy, Science Fiction"
+      "genres": "Horror, Thriller, Science Fiction"
     },
     {
       "rank": 38,
-      "title": "I'm Still Here",
-      "url": "https://letterboxd.com/film/im-still-here-2024/",
-      "director": "Walter Salles",
-      "actors": [
-        "Fernanda Torres",
-        "Fernanda Montenegro",
-        "Selton Mello"
-      ],
-      "genres": "Drama, History"
-    },
-    {
-      "rank": 39,
       "title": "Queer",
       "url": "https://letterboxd.com/film/queer-2024/",
       "director": "Luca Guadagnino",
@@ -465,6 +453,18 @@
         "Jason Schwartzman"
       ],
       "genres": "Romance, Drama"
+    },
+    {
+      "rank": 39,
+      "title": "I'm Still Here",
+      "url": "https://letterboxd.com/film/im-still-here-2024/",
+      "director": "Walter Salles",
+      "actors": [
+        "Fernanda Torres",
+        "Fernanda Montenegro",
+        "Selton Mello"
+      ],
+      "genres": "Drama, History"
     },
     {
       "rank": 40,
@@ -492,13 +492,15 @@
     },
     {
       "rank": 42,
-      "title": "Retirement Plan",
-      "url": "https://letterboxd.com/film/retirement-plan/",
-      "director": "John Kelly",
+      "title": "The Idea of You",
+      "url": "https://letterboxd.com/film/the-idea-of-you-2024/",
+      "director": "Michael Showalter",
       "actors": [
-        "Domhnall Gleeson"
+        "Anne Hathaway",
+        "Nicholas Galitzine",
+        "Ella Rubin"
       ],
-      "genres": "Animation"
+      "genres": "Drama, Romance, Comedy, Music"
     },
     {
       "rank": 43,
@@ -514,42 +516,6 @@
     },
     {
       "rank": 44,
-      "title": "The Idea of You",
-      "url": "https://letterboxd.com/film/the-idea-of-you-2024/",
-      "director": "Michael Showalter",
-      "actors": [
-        "Anne Hathaway",
-        "Nicholas Galitzine",
-        "Ella Rubin"
-      ],
-      "genres": "Drama, Romance, Comedy, Music"
-    },
-    {
-      "rank": 45,
-      "title": "Butterfly",
-      "url": "https://letterboxd.com/film/butterfly-2024-1/",
-      "director": "Florence Miailhe",
-      "actors": [
-        "Fayçal Zafi",
-        "Jessica Jaouiche",
-        "Yassine Mestaoui"
-      ],
-      "genres": "Animation, Drama, History"
-    },
-    {
-      "rank": 46,
-      "title": "Shelby Oaks",
-      "url": "https://letterboxd.com/film/shelby-oaks/",
-      "director": "Chris Stuckmann",
-      "actors": [
-        "Camille Sullivan",
-        "Sarah Durn",
-        "Brendan Sexton III"
-      ],
-      "genres": "Horror, Mystery"
-    },
-    {
-      "rank": 47,
       "title": "How to Make Millions Before Grandma Dies",
       "url": "https://letterboxd.com/film/how-to-make-millions-before-grandma-dies/",
       "director": "Pat Boonnitipat",
@@ -561,7 +527,29 @@
       "genres": "Drama"
     },
     {
-      "rank": 48,
+      "rank": 45,
+      "title": "Shelby Oaks",
+      "url": "https://letterboxd.com/film/shelby-oaks/",
+      "director": "Chris Stuckmann",
+      "actors": [
+        "Camille Sullivan",
+        "Sarah Durn",
+        "Brendan Sexton III"
+      ],
+      "genres": "Horror, Mystery"
+    },
+    {
+      "rank": 46,
+      "title": "Retirement Plan",
+      "url": "https://letterboxd.com/film/retirement-plan/",
+      "director": "John Kelly",
+      "actors": [
+        "Domhnall Gleeson"
+      ],
+      "genres": "Animation"
+    },
+    {
+      "rank": 47,
       "title": "Beetlejuice Beetlejuice",
       "url": "https://letterboxd.com/film/beetlejuice-beetlejuice/",
       "director": "Tim Burton",
@@ -573,16 +561,28 @@
       "genres": "Comedy, Fantasy"
     },
     {
-      "rank": 49,
-      "title": "Jane Austen's Period Drama",
-      "url": "https://letterboxd.com/film/jane-austens-period-drama/",
-      "director": "Julia Aks, Steve Pinder",
+      "rank": 48,
+      "title": "Butterfly",
+      "url": "https://letterboxd.com/film/butterfly-2024-1/",
+      "director": "Florence Miailhe",
       "actors": [
-        "Julia Aks",
-        "Ta'imua",
-        "Samantha Smart"
+        "Fayçal Zafi",
+        "Jessica Jaouiche",
+        "Yassine Mestaoui"
       ],
-      "genres": "Romance, Comedy, History"
+      "genres": "Animation, Drama, History"
+    },
+    {
+      "rank": 49,
+      "title": "Dìdi (弟弟)",
+      "url": "https://letterboxd.com/film/didi-2024/",
+      "director": "Sean Wang",
+      "actors": [
+        "Izaac Wang",
+        "Joan Chen",
+        "Shirley Chen"
+      ],
+      "genres": "Comedy, Drama"
     },
     {
       "rank": 50,

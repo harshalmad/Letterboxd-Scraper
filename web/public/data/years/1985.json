@@ -220,18 +220,6 @@
     },
     {
       "rank": 19,
-      "title": "Vagabond",
-      "url": "https://letterboxd.com/film/vagabond/",
-      "director": "Agnès Varda",
-      "actors": [
-        "Sandrine Bonnaire",
-        "Macha Méril",
-        "Yolande Moreau"
-      ],
-      "genres": "Drama"
-    },
-    {
-      "rank": 20,
       "title": "The Return of the Living Dead",
       "url": "https://letterboxd.com/film/the-return-of-the-living-dead/",
       "director": "Dan O'Bannon",
@@ -241,6 +229,18 @@
         "Don Calfa"
       ],
       "genres": "Science Fiction, Comedy, Horror"
+    },
+    {
+      "rank": 20,
+      "title": "Vagabond",
+      "url": "https://letterboxd.com/film/vagabond/",
+      "director": "Agnès Varda",
+      "actors": [
+        "Sandrine Bonnaire",
+        "Macha Méril",
+        "Yolande Moreau"
+      ],
+      "genres": "Drama"
     },
     {
       "rank": 21,
@@ -256,6 +256,18 @@
     },
     {
       "rank": 22,
+      "title": "A Nightmare on Elm Street Part 2: Freddy's Revenge",
+      "url": "https://letterboxd.com/film/a-nightmare-on-elm-street-part-2-freddys-revenge/",
+      "director": "Jack Sholder",
+      "actors": [
+        "Mark Patton",
+        "Robert Englund",
+        "Kim Myers"
+      ],
+      "genres": "Horror"
+    },
+    {
+      "rank": 23,
       "title": "The Stuff",
       "url": "https://letterboxd.com/film/the-stuff/",
       "director": "Larry Cohen",
@@ -267,31 +279,7 @@
       "genres": "Horror, Comedy, Science Fiction"
     },
     {
-      "rank": 23,
-      "title": "A Nightmare on Elm Street Part 2: Freddy's Revenge",
-      "url": "https://letterboxd.com/film/a-nightmare-on-elm-street-part-2-freddys-revenge/",
-      "director": "Jack Sholder",
-      "actors": [
-        "Robert Englund",
-        "Mark Patton",
-        "Kim Myers"
-      ],
-      "genres": "Horror"
-    },
-    {
       "rank": 24,
-      "title": "Lost in America",
-      "url": "https://letterboxd.com/film/lost-in-america/",
-      "director": "Albert Brooks",
-      "actors": [
-        "Albert Brooks",
-        "Julie Hagerty",
-        "Michael Greene"
-      ],
-      "genres": "Comedy"
-    },
-    {
-      "rank": 25,
       "title": "Legend",
       "url": "https://letterboxd.com/film/legend/",
       "director": "Ridley Scott",
@@ -303,7 +291,7 @@
       "genres": "Adventure, Fantasy"
     },
     {
-      "rank": 26,
+      "rank": 25,
       "title": "The Color Purple",
       "url": "https://letterboxd.com/film/the-color-purple/",
       "director": "Steven Spielberg",
@@ -315,19 +303,19 @@
       "genres": "History, Drama"
     },
     {
-      "rank": 27,
-      "title": "A View to a Kill",
-      "url": "https://letterboxd.com/film/a-view-to-a-kill/",
-      "director": "John Glen",
+      "rank": 26,
+      "title": "Lost in America",
+      "url": "https://letterboxd.com/film/lost-in-america/",
+      "director": "Albert Brooks",
       "actors": [
-        "Roger Moore",
-        "Tanya Roberts",
-        "Christopher Walken"
+        "Albert Brooks",
+        "Julie Hagerty",
+        "Michael Greene"
       ],
-      "genres": "Action, Adventure, Thriller"
+      "genres": "Comedy"
     },
     {
-      "rank": 28,
+      "rank": 27,
       "title": "Friday the 13th: A New Beginning",
       "url": "https://letterboxd.com/film/friday-the-13th-a-new-beginning/",
       "director": "Danny Steinmann",
@@ -337,6 +325,18 @@
         "John Robert Dixon"
       ],
       "genres": "Thriller, Horror"
+    },
+    {
+      "rank": 28,
+      "title": "A View to a Kill",
+      "url": "https://letterboxd.com/film/a-view-to-a-kill/",
+      "director": "John Glen",
+      "actors": [
+        "Roger Moore",
+        "Tanya Roberts",
+        "Christopher Walken"
+      ],
+      "genres": "Action, Adventure, Thriller"
     },
     {
       "rank": 29,
@@ -352,18 +352,6 @@
     },
     {
       "rank": 30,
-      "title": "Phenomena",
-      "url": "https://letterboxd.com/film/phenomena/",
-      "director": "Dario Argento",
-      "actors": [
-        "Jennifer Connelly",
-        "Daria Nicolodi",
-        "Fiore Argento"
-      ],
-      "genres": "Horror, Thriller"
-    },
-    {
-      "rank": 31,
       "title": "Fright Night",
       "url": "https://letterboxd.com/film/fright-night/",
       "director": "Tom Holland",
@@ -375,7 +363,7 @@
       "genres": "Comedy, Horror"
     },
     {
-      "rank": 32,
+      "rank": 31,
       "title": "Day of the Dead",
       "url": "https://letterboxd.com/film/day-of-the-dead/",
       "director": "George A. Romero",
@@ -385,6 +373,18 @@
         "Joseph Pilato"
       ],
       "genres": "Mystery, Drama, Horror"
+    },
+    {
+      "rank": 32,
+      "title": "Phenomena",
+      "url": "https://letterboxd.com/film/phenomena/",
+      "director": "Dario Argento",
+      "actors": [
+        "Jennifer Connelly",
+        "Daria Nicolodi",
+        "Fiore Argento"
+      ],
+      "genres": "Horror, Thriller"
     },
     {
       "rank": 33,
@@ -448,18 +448,6 @@
     },
     {
       "rank": 38,
-      "title": "Waiting for the Hearse",
-      "url": "https://letterboxd.com/film/waiting-for-the-hearse/",
-      "director": "Alejandro Doria",
-      "actors": [
-        "Luis Brandoni",
-        "China Zorrilla",
-        "Antonio Gasalla"
-      ],
-      "genres": "Comedy"
-    },
-    {
-      "rank": 39,
       "title": "The Purple Rose of Cairo",
       "url": "https://letterboxd.com/film/the-purple-rose-of-cairo/",
       "director": "Woody Allen",
@@ -471,7 +459,7 @@
       "genres": "Comedy, Romance, Fantasy"
     },
     {
-      "rank": 40,
+      "rank": 39,
       "title": "Desperately Seeking Susan",
       "url": "https://letterboxd.com/film/desperately-seeking-susan/",
       "director": "Susan Seidelman",
@@ -481,6 +469,18 @@
         "Aidan Quinn"
       ],
       "genres": "Crime, Comedy"
+    },
+    {
+      "rank": 40,
+      "title": "Waiting for the Hearse",
+      "url": "https://letterboxd.com/film/waiting-for-the-hearse/",
+      "director": "Alejandro Doria",
+      "actors": [
+        "Luis Brandoni",
+        "China Zorrilla",
+        "Antonio Gasalla"
+      ],
+      "genres": "Comedy"
     },
     {
       "rank": 41,
@@ -513,8 +513,8 @@
       "director": "John Hughes",
       "actors": [
         "Anthony Michael Hall",
-        "Kelly LeBrock",
-        "Ilan Mitchell-Smith"
+        "Ilan Mitchell-Smith",
+        "Kelly LeBrock"
       ],
       "genres": "Romance, Fantasy, Comedy, Science Fiction"
     },
@@ -592,15 +592,15 @@
     },
     {
       "rank": 50,
-      "title": "The Official Story",
-      "url": "https://letterboxd.com/film/the-official-story/",
-      "director": "Luis Puenzo",
+      "title": "My Beautiful Laundrette",
+      "url": "https://letterboxd.com/film/my-beautiful-laundrette/",
+      "director": "Stephen Frears",
       "actors": [
-        "Norma Aleandro",
-        "Héctor Alterio",
-        "Hugo Arana"
+        "Gordon Warnecke",
+        "Daniel Day-Lewis",
+        "Roshan Seth"
       ],
-      "genres": "History, Drama"
+      "genres": "Romance, Comedy, Drama"
     }
   ]
 }

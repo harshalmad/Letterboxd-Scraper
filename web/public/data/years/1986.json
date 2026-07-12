@@ -184,18 +184,6 @@
     },
     {
       "rank": 16,
-      "title": "Highlander",
-      "url": "https://letterboxd.com/film/highlander/",
-      "director": "Russell Mulcahy",
-      "actors": [
-        "Christopher Lambert",
-        "Roxanne Hart",
-        "Clancy Brown"
-      ],
-      "genres": "Action, Adventure, Fantasy"
-    },
-    {
-      "rank": 17,
       "title": "The Texas Chainsaw Massacre 2",
       "url": "https://letterboxd.com/film/the-texas-chainsaw-massacre-2/",
       "director": "Tobe Hooper",
@@ -205,6 +193,18 @@
         "Jim Siedow"
       ],
       "genres": "Comedy, Horror"
+    },
+    {
+      "rank": 17,
+      "title": "Highlander",
+      "url": "https://letterboxd.com/film/highlander/",
+      "director": "Russell Mulcahy",
+      "actors": [
+        "Christopher Lambert",
+        "Roxanne Hart",
+        "Clancy Brown"
+      ],
+      "genres": "Action, Adventure, Fantasy"
     },
     {
       "rank": 18,
@@ -352,18 +352,6 @@
     },
     {
       "rank": 30,
-      "title": "She's Gotta Have It",
-      "url": "https://letterboxd.com/film/shes-gotta-have-it/",
-      "director": "Spike Lee",
-      "actors": [
-        "Tracy Camilla Johns",
-        "Tommy Redmond Hicks",
-        "John Canada Terrell"
-      ],
-      "genres": "Comedy, Romance"
-    },
-    {
-      "rank": 31,
       "title": "Down by Law",
       "url": "https://letterboxd.com/film/down-by-law/",
       "director": "Jim Jarmusch",
@@ -373,6 +361,18 @@
         "Roberto Benigni"
       ],
       "genres": "Comedy, Drama, Crime"
+    },
+    {
+      "rank": 31,
+      "title": "She's Gotta Have It",
+      "url": "https://letterboxd.com/film/shes-gotta-have-it/",
+      "director": "Spike Lee",
+      "actors": [
+        "Tracy Camilla Johns",
+        "Tommy Redmond Hicks",
+        "John Canada Terrell"
+      ],
+      "genres": "Comedy, Romance"
     },
     {
       "rank": 32,
@@ -424,30 +424,6 @@
     },
     {
       "rank": 36,
-      "title": "Betty Blue",
-      "url": "https://letterboxd.com/film/betty-blue/",
-      "director": "Jean-Jacques Beineix",
-      "actors": [
-        "Jean-Hugues Anglade",
-        "Béatrice Dalle",
-        "Gérard Darmon"
-      ],
-      "genres": "Romance, Drama"
-    },
-    {
-      "rank": 37,
-      "title": "Heartburn",
-      "url": "https://letterboxd.com/film/heartburn/",
-      "director": "Mike Nichols",
-      "actors": [
-        "Meryl Streep",
-        "Jack Nicholson",
-        "Jeff Daniels"
-      ],
-      "genres": "Comedy, Drama, Romance"
-    },
-    {
-      "rank": 38,
       "title": "Chopping Mall",
       "url": "https://letterboxd.com/film/chopping-mall/",
       "director": "Jim Wynorski",
@@ -459,7 +435,19 @@
       "genres": "Science Fiction, Horror"
     },
     {
-      "rank": 39,
+      "rank": 37,
+      "title": "Betty Blue",
+      "url": "https://letterboxd.com/film/betty-blue/",
+      "director": "Jean-Jacques Beineix",
+      "actors": [
+        "Jean-Hugues Anglade",
+        "Béatrice Dalle",
+        "Gérard Darmon"
+      ],
+      "genres": "Romance, Drama"
+    },
+    {
+      "rank": 38,
       "title": "When the Wind Blows",
       "url": "https://letterboxd.com/film/when-the-wind-blows/",
       "director": "Jimmy T. Murakami",
@@ -469,6 +457,18 @@
         "Robin Houston"
       ],
       "genres": "War, Animation, Drama"
+    },
+    {
+      "rank": 39,
+      "title": "Heartburn",
+      "url": "https://letterboxd.com/film/heartburn/",
+      "director": "Mike Nichols",
+      "actors": [
+        "Meryl Streep",
+        "Jack Nicholson",
+        "Jeff Daniels"
+      ],
+      "genres": "Comedy, Drama, Romance"
     },
     {
       "rank": 40,
@@ -508,18 +508,6 @@
     },
     {
       "rank": 43,
-      "title": "Star Trek IV: The Voyage Home",
-      "url": "https://letterboxd.com/film/star-trek-iv-the-voyage-home/",
-      "director": "Leonard Nimoy",
-      "actors": [
-        "William Shatner",
-        "Leonard Nimoy",
-        "DeForest Kelley"
-      ],
-      "genres": "Science Fiction, Adventure"
-    },
-    {
-      "rank": 44,
       "title": "Caravaggio",
       "url": "https://letterboxd.com/film/caravaggio/",
       "director": "Derek Jarman",
@@ -529,6 +517,18 @@
         "Garry Cooper"
       ],
       "genres": "History, Romance, Drama"
+    },
+    {
+      "rank": 44,
+      "title": "Star Trek IV: The Voyage Home",
+      "url": "https://letterboxd.com/film/star-trek-iv-the-voyage-home/",
+      "director": "Leonard Nimoy",
+      "actors": [
+        "William Shatner",
+        "Leonard Nimoy",
+        "DeForest Kelley"
+      ],
+      "genres": "Science Fiction, Adventure"
     },
     {
       "rank": 45,
@@ -544,18 +544,6 @@
     },
     {
       "rank": 46,
-      "title": "52 Pick-Up",
-      "url": "https://letterboxd.com/film/52-pick-up/",
-      "director": "John Frankenheimer",
-      "actors": [
-        "Roy Scheider",
-        "Ann-Margret",
-        "Vanity"
-      ],
-      "genres": "Thriller, Crime"
-    },
-    {
-      "rank": 47,
       "title": "Hoosiers",
       "url": "https://letterboxd.com/film/hoosiers/",
       "director": "David Anspaugh",
@@ -567,19 +555,7 @@
       "genres": "Family, Drama"
     },
     {
-      "rank": 48,
-      "title": "The Mission",
-      "url": "https://letterboxd.com/film/the-mission/",
-      "director": "Roland Joffé",
-      "actors": [
-        "Robert De Niro",
-        "Jeremy Irons",
-        "Ray McAnally"
-      ],
-      "genres": "Drama, Adventure, Action, History"
-    },
-    {
-      "rank": 49,
+      "rank": 47,
       "title": "Poison for the Fairies",
       "url": "https://letterboxd.com/film/poison-for-the-fairies/",
       "director": "Carlos Enrique Taboada",
@@ -589,6 +565,30 @@
         "Leonor Llausás"
       ],
       "genres": "Fantasy, Horror"
+    },
+    {
+      "rank": 48,
+      "title": "52 Pick-Up",
+      "url": "https://letterboxd.com/film/52-pick-up/",
+      "director": "John Frankenheimer",
+      "actors": [
+        "Roy Scheider",
+        "Ann-Margret",
+        "Vanity"
+      ],
+      "genres": "Thriller, Crime"
+    },
+    {
+      "rank": 49,
+      "title": "The Mission",
+      "url": "https://letterboxd.com/film/the-mission/",
+      "director": "Roland Joffé",
+      "actors": [
+        "Robert De Niro",
+        "Jeremy Irons",
+        "Ray McAnally"
+      ],
+      "genres": "Drama, Adventure, Action, History"
     },
     {
       "rank": 50,

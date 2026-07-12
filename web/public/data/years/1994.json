@@ -316,18 +316,6 @@
     },
     {
       "rank": 27,
-      "title": "Legends of the Fall",
-      "url": "https://letterboxd.com/film/legends-of-the-fall/",
-      "director": "Edward Zwick",
-      "actors": [
-        "Brad Pitt",
-        "Anthony Hopkins",
-        "Aidan Quinn"
-      ],
-      "genres": "Romance, Drama, Western, War"
-    },
-    {
-      "rank": 28,
       "title": "Reality Bites",
       "url": "https://letterboxd.com/film/reality-bites/",
       "director": "Ben Stiller",
@@ -339,19 +327,19 @@
       "genres": "Romance, Comedy, Drama"
     },
     {
-      "rank": 29,
-      "title": "True Lies",
-      "url": "https://letterboxd.com/film/true-lies/",
-      "director": "James Cameron",
+      "rank": 28,
+      "title": "Legends of the Fall",
+      "url": "https://letterboxd.com/film/legends-of-the-fall/",
+      "director": "Edward Zwick",
       "actors": [
-        "Arnold Schwarzenegger",
-        "Jamie Lee Curtis",
-        "Tom Arnold"
+        "Brad Pitt",
+        "Anthony Hopkins",
+        "Aidan Quinn"
       ],
-      "genres": "Thriller, Action"
+      "genres": "Romance, Drama, Western, War"
     },
     {
-      "rank": 30,
+      "rank": 29,
       "title": "The Little Rascals",
       "url": "https://letterboxd.com/film/the-little-rascals/",
       "director": "Penelope Spheeris",
@@ -361,6 +349,18 @@
         "Travis Tedford"
       ],
       "genres": "Romance, Comedy, Family"
+    },
+    {
+      "rank": 30,
+      "title": "True Lies",
+      "url": "https://letterboxd.com/film/true-lies/",
+      "director": "James Cameron",
+      "actors": [
+        "Arnold Schwarzenegger",
+        "Jamie Lee Curtis",
+        "Tom Arnold"
+      ],
+      "genres": "Thriller, Action"
     },
     {
       "rank": 31,
@@ -388,18 +388,6 @@
     },
     {
       "rank": 33,
-      "title": "Satantango",
-      "url": "https://letterboxd.com/film/satantango/",
-      "director": "Béla Tarr",
-      "actors": [
-        "Mihály Víg",
-        "Putyi Horváth",
-        "Székely B. Miklós"
-      ],
-      "genres": "Drama"
-    },
-    {
-      "rank": 34,
       "title": "Heavenly Creatures",
       "url": "https://letterboxd.com/film/heavenly-creatures/",
       "director": "Peter Jackson",
@@ -411,19 +399,19 @@
       "genres": "Drama, Fantasy"
     },
     {
-      "rank": 35,
-      "title": "Naked Gun 33⅓: The Final Insult",
-      "url": "https://letterboxd.com/film/naked-gun-33-the-final-insult/",
-      "director": "Peter Segal",
+      "rank": 34,
+      "title": "Satantango",
+      "url": "https://letterboxd.com/film/satantango/",
+      "director": "Béla Tarr",
       "actors": [
-        "Leslie Nielsen",
-        "Priscilla Presley",
-        "George Kennedy"
+        "Mihály Víg",
+        "Putyi Horváth",
+        "Székely B. Miklós"
       ],
-      "genres": "Comedy, Crime"
+      "genres": "Drama"
     },
     {
-      "rank": 36,
+      "rank": 35,
       "title": "Stargate",
       "url": "https://letterboxd.com/film/stargate/",
       "director": "Roland Emmerich",
@@ -433,6 +421,18 @@
         "Jaye Davidson"
       ],
       "genres": "Action, Adventure, Science Fiction"
+    },
+    {
+      "rank": 36,
+      "title": "Naked Gun 33⅓: The Final Insult",
+      "url": "https://letterboxd.com/film/naked-gun-33-the-final-insult/",
+      "director": "Peter Segal",
+      "actors": [
+        "Leslie Nielsen",
+        "Priscilla Presley",
+        "George Kennedy"
+      ],
+      "genres": "Comedy, Crime"
     },
     {
       "rank": 37,
@@ -508,18 +508,6 @@
     },
     {
       "rank": 43,
-      "title": "Dream Lover",
-      "url": "https://letterboxd.com/film/dream-lover/",
-      "director": "Nicholas Kazan",
-      "actors": [
-        "James Spader",
-        "Mädchen Amick",
-        "Fredric Lehne"
-      ],
-      "genres": "Drama, Thriller, Mystery"
-    },
-    {
-      "rank": 44,
       "title": "Quiz Show",
       "url": "https://letterboxd.com/film/quiz-show/",
       "director": "Robert Redford",
@@ -531,7 +519,7 @@
       "genres": "Drama, History"
     },
     {
-      "rank": 45,
+      "rank": 44,
       "title": "Wes Craven's New Nightmare",
       "url": "https://letterboxd.com/film/wes-cravens-new-nightmare/",
       "director": "Wes Craven",
@@ -543,7 +531,7 @@
       "genres": "Fantasy, Mystery, Horror"
     },
     {
-      "rank": 46,
+      "rank": 45,
       "title": "Baby's Day Out",
       "url": "https://letterboxd.com/film/babys-day-out/",
       "director": "Patrick Read Johnson",
@@ -555,19 +543,7 @@
       "genres": "Comedy, Adventure, Family, Crime"
     },
     {
-      "rank": 47,
-      "title": "Disclosure",
-      "url": "https://letterboxd.com/film/disclosure/",
-      "director": "Barry Levinson",
-      "actors": [
-        "Michael Douglas",
-        "Demi Moore",
-        "Donald Sutherland"
-      ],
-      "genres": "Crime, Drama, Thriller"
-    },
-    {
-      "rank": 48,
+      "rank": 46,
       "title": "D2: The Mighty Ducks",
       "url": "https://letterboxd.com/film/d2-the-mighty-ducks/",
       "director": "Sam Weisman",
@@ -579,7 +555,43 @@
       "genres": "Action, Family, Comedy, Drama"
     },
     {
+      "rank": 47,
+      "title": "Cemetery Man",
+      "url": "https://letterboxd.com/film/cemetery-man/",
+      "director": "Michele Soavi",
+      "actors": [
+        "Rupert Everett",
+        "François Hadji-Lazaro",
+        "Anna Falchi"
+      ],
+      "genres": "Comedy, Horror"
+    },
+    {
+      "rank": 48,
+      "title": "Disclosure",
+      "url": "https://letterboxd.com/film/disclosure/",
+      "director": "Barry Levinson",
+      "actors": [
+        "Michael Douglas",
+        "Demi Moore",
+        "Donald Sutherland"
+      ],
+      "genres": "Crime, Drama, Thriller"
+    },
+    {
       "rank": 49,
+      "title": "Crooklyn",
+      "url": "https://letterboxd.com/film/crooklyn/",
+      "director": "Spike Lee",
+      "actors": [
+        "Alfre Woodard",
+        "Delroy Lindo",
+        "David Patrick Kelly"
+      ],
+      "genres": "Drama, Comedy"
+    },
+    {
+      "rank": 50,
       "title": "Hoop Dreams",
       "url": "https://letterboxd.com/film/hoop-dreams/",
       "director": "Steve James",
@@ -589,18 +601,6 @@
         "Gene Pingatore"
       ],
       "genres": "Documentary"
-    },
-    {
-      "rank": 50,
-      "title": "Street Fighter",
-      "url": "https://letterboxd.com/film/street-fighter/",
-      "director": "Steven E. de Souza",
-      "actors": [
-        "Jean-Claude Van Damme",
-        "Raúl Juliá",
-        "Kylie Minogue"
-      ],
-      "genres": "Fantasy, Comedy, Action"
     }
   ]
 }

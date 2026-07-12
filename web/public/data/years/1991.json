@@ -132,7 +132,7 @@
         "Diane Keaton",
         "Kimberly Williams-Paisley"
       ],
-      "genres": "Drama, Romance, Comedy"
+      "genres": "Romance, Comedy"
     },
     {
       "rank": 12,
@@ -172,18 +172,6 @@
     },
     {
       "rank": 15,
-      "title": "Barton Fink",
-      "url": "https://letterboxd.com/film/barton-fink/",
-      "director": "Joel Coen",
-      "actors": [
-        "John Turturro",
-        "John Goodman",
-        "Judy Davis"
-      ],
-      "genres": "Thriller, Drama, Comedy"
-    },
-    {
-      "rank": 16,
       "title": "The Double Life of Véronique",
       "url": "https://letterboxd.com/film/the-double-life-of-veronique/",
       "director": "Krzysztof Kieślowski",
@@ -193,6 +181,18 @@
         "Philippe Volter"
       ],
       "genres": "Fantasy, Drama"
+    },
+    {
+      "rank": 16,
+      "title": "Barton Fink",
+      "url": "https://letterboxd.com/film/barton-fink/",
+      "director": "Joel Coen",
+      "actors": [
+        "John Turturro",
+        "John Goodman",
+        "Judy Davis"
+      ],
+      "genres": "Thriller, Drama, Comedy"
     },
     {
       "rank": 17,
@@ -328,18 +328,6 @@
     },
     {
       "rank": 28,
-      "title": "Teenage Mutant Ninja Turtles II: The Secret of the Ooze",
-      "url": "https://letterboxd.com/film/teenage-mutant-ninja-turtles-ii-the-secret-of-the-ooze/",
-      "director": "Michael Pressman",
-      "actors": [
-        "Brian Tochi",
-        "Laurie Faso",
-        "Robbie Rist"
-      ],
-      "genres": "Comedy, Family, Science Fiction, Action, Adventure"
-    },
-    {
-      "rank": 29,
       "title": "Frankie and Johnny",
       "url": "https://letterboxd.com/film/frankie-and-johnny-1991/",
       "director": "Garry Marshall",
@@ -351,7 +339,31 @@
       "genres": "Drama, Romance, Comedy"
     },
     {
+      "rank": 29,
+      "title": "Teenage Mutant Ninja Turtles II: The Secret of the Ooze",
+      "url": "https://letterboxd.com/film/teenage-mutant-ninja-turtles-ii-the-secret-of-the-ooze/",
+      "director": "Michael Pressman",
+      "actors": [
+        "Brian Tochi",
+        "Laurie Faso",
+        "Robbie Rist"
+      ],
+      "genres": "Comedy, Family, Science Fiction, Action, Adventure"
+    },
+    {
       "rank": 30,
+      "title": "Not Without My Daughter",
+      "url": "https://letterboxd.com/film/not-without-my-daughter/",
+      "director": "Brian Gilbert",
+      "actors": [
+        "Sally Field",
+        "Alfred Molina",
+        "Sheila Rosenthal"
+      ],
+      "genres": "Thriller, Drama"
+    },
+    {
+      "rank": 31,
       "title": "Raise the Red Lantern",
       "url": "https://letterboxd.com/film/raise-the-red-lantern/",
       "director": "Zhang Yimou",
@@ -361,18 +373,6 @@
         "Cao Cuifen"
       ],
       "genres": "Drama"
-    },
-    {
-      "rank": 31,
-      "title": "Hearts of Darkness: A Filmmaker's Apocalypse",
-      "url": "https://letterboxd.com/film/hearts-of-darkness-a-filmmakers-apocalypse/",
-      "director": "Fax Bahr, George Hickenlooper, Eleanor Coppola",
-      "actors": [
-        "Francis Ford Coppola",
-        "Eleanor Coppola",
-        "John Milius"
-      ],
-      "genres": "Documentary"
     },
     {
       "rank": 32,
@@ -412,6 +412,18 @@
     },
     {
       "rank": 35,
+      "title": "Hearts of Darkness: A Filmmaker's Apocalypse",
+      "url": "https://letterboxd.com/film/hearts-of-darkness-a-filmmakers-apocalypse/",
+      "director": "Fax Bahr, George Hickenlooper, Eleanor Coppola",
+      "actors": [
+        "Francis Ford Coppola",
+        "Eleanor Coppola",
+        "John Milius"
+      ],
+      "genres": "Documentary"
+    },
+    {
+      "rank": 36,
       "title": "High Heels",
       "url": "https://letterboxd.com/film/high-heels/",
       "director": "Pedro Almodóvar",
@@ -423,7 +435,7 @@
       "genres": "Comedy, Drama, Crime"
     },
     {
-      "rank": 36,
+      "rank": 37,
       "title": "Child's Play 3",
       "url": "https://letterboxd.com/film/childs-play-3/",
       "director": "Jack Bender",
@@ -433,18 +445,6 @@
         "Perrey Reeves"
       ],
       "genres": "Horror, Thriller"
-    },
-    {
-      "rank": 37,
-      "title": "Not Without My Daughter",
-      "url": "https://letterboxd.com/film/not-without-my-daughter/",
-      "director": "Brian Gilbert",
-      "actors": [
-        "Sally Field",
-        "Alfred Molina",
-        "Sheila Rosenthal"
-      ],
-      "genres": "Thriller, Drama"
     },
     {
       "rank": 38,
@@ -460,18 +460,6 @@
     },
     {
       "rank": 39,
-      "title": "The Last Boy Scout",
-      "url": "https://letterboxd.com/film/the-last-boy-scout/",
-      "director": "Tony Scott",
-      "actors": [
-        "Bruce Willis",
-        "Damon Wayans",
-        "Chelsea Field"
-      ],
-      "genres": "Action, Thriller"
-    },
-    {
-      "rank": 40,
       "title": "Bill & Ted's Bogus Journey",
       "url": "https://letterboxd.com/film/bill-teds-bogus-journey/",
       "director": "Peter Hewitt",
@@ -483,19 +471,19 @@
       "genres": "Science Fiction, Adventure, Comedy"
     },
     {
-      "rank": 41,
-      "title": "Dogfight",
-      "url": "https://letterboxd.com/film/dogfight/",
-      "director": "Nancy Savoca",
+      "rank": 40,
+      "title": "The Last Boy Scout",
+      "url": "https://letterboxd.com/film/the-last-boy-scout/",
+      "director": "Tony Scott",
       "actors": [
-        "River Phoenix",
-        "Lili Taylor",
-        "Richard Panebianco"
+        "Bruce Willis",
+        "Damon Wayans",
+        "Chelsea Field"
       ],
-      "genres": "Romance, Drama"
+      "genres": "Action, Thriller"
     },
     {
-      "rank": 42,
+      "rank": 41,
       "title": "What About Bob?",
       "url": "https://letterboxd.com/film/what-about-bob/",
       "director": "Frank Oz",
@@ -505,6 +493,18 @@
         "Julie Hagerty"
       ],
       "genres": "Comedy"
+    },
+    {
+      "rank": 42,
+      "title": "Dogfight",
+      "url": "https://letterboxd.com/film/dogfight/",
+      "director": "Nancy Savoca",
+      "actors": [
+        "River Phoenix",
+        "Lili Taylor",
+        "Richard Panebianco"
+      ],
+      "genres": "Romance, Drama"
     },
     {
       "rank": 43,
@@ -522,7 +522,7 @@
       "rank": 44,
       "title": "Riki-Oh: The Story of Ricky",
       "url": "https://letterboxd.com/film/riki-oh-the-story-of-ricky/",
-      "director": "Lam Nai-choi",
+      "director": "Lam Nai-Choi",
       "actors": [
         "Louis Fan Siu-Wong",
         "Fan Mei-Sheng",
@@ -536,8 +536,8 @@
       "url": "https://letterboxd.com/film/freddys-dead-the-final-nightmare/",
       "director": "Rachel Talalay",
       "actors": [
-        "Robert Englund",
         "Lisa Zane",
+        "Robert Englund",
         "Shon Greenblatt"
       ],
       "genres": "Thriller, Horror, Comedy"
@@ -568,6 +568,18 @@
     },
     {
       "rank": 48,
+      "title": "Don't Tell Mom the Babysitter's Dead",
+      "url": "https://letterboxd.com/film/dont-tell-mom-the-babysitters-dead/",
+      "director": "Stephen Herek",
+      "actors": [
+        "Christina Applegate",
+        "Joanna Cassidy",
+        "John Getz"
+      ],
+      "genres": "Comedy, Family"
+    },
+    {
+      "rank": 49,
       "title": "The People Under the Stairs",
       "url": "https://letterboxd.com/film/the-people-under-the-stairs/",
       "director": "Wes Craven",
@@ -579,7 +591,7 @@
       "genres": "Comedy, Thriller, Horror"
     },
     {
-      "rank": 49,
+      "rank": 50,
       "title": "Daughters of the Dust",
       "url": "https://letterboxd.com/film/daughters-of-the-dust/",
       "director": "Julie Dash",
@@ -589,18 +601,6 @@
         "Barbara O. Jones"
       ],
       "genres": "Drama, Romance"
-    },
-    {
-      "rank": 50,
-      "title": "Drop Dead Fred",
-      "url": "https://letterboxd.com/film/drop-dead-fred/",
-      "director": "Ate de Jong",
-      "actors": [
-        "Phoebe Cates",
-        "Rik Mayall",
-        "Marsha Mason"
-      ],
-      "genres": "Comedy, Drama, Fantasy, Family"
     }
   ]
 }

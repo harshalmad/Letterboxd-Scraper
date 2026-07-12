@@ -252,18 +252,6 @@
     },
     {
       "rank": 22,
-      "title": "Maniac",
-      "url": "https://letterboxd.com/film/maniac-1980/",
-      "director": "William Lustig",
-      "actors": [
-        "Joe Spinell",
-        "Caroline Munro",
-        "Abigail Clayton"
-      ],
-      "genres": "Horror"
-    },
-    {
-      "rank": 23,
       "title": "Superman II",
       "url": "https://letterboxd.com/film/superman-ii/",
       "director": "Richard Lester",
@@ -273,6 +261,18 @@
         "Terence Stamp"
       ],
       "genres": "Action, Adventure, Science Fiction"
+    },
+    {
+      "rank": 23,
+      "title": "Maniac",
+      "url": "https://letterboxd.com/film/maniac-1980/",
+      "director": "William Lustig",
+      "actors": [
+        "Joe Spinell",
+        "Caroline Munro",
+        "Abigail Clayton"
+      ],
+      "genres": "Horror"
     },
     {
       "rank": 24,
@@ -324,18 +324,6 @@
     },
     {
       "rank": 28,
-      "title": "American Gigolo",
-      "url": "https://letterboxd.com/film/american-gigolo/",
-      "director": "Paul Schrader",
-      "actors": [
-        "Richard Gere",
-        "Lauren Hutton",
-        "Héctor Elizondo"
-      ],
-      "genres": "Mystery, Crime, Drama"
-    },
-    {
-      "rank": 29,
       "title": "Flash Gordon",
       "url": "https://letterboxd.com/film/flash-gordon-1980/",
       "director": "Mike Hodges",
@@ -347,19 +335,19 @@
       "genres": "Action, Adventure, Science Fiction"
     },
     {
-      "rank": 30,
-      "title": "Prom Night",
-      "url": "https://letterboxd.com/film/prom-night/",
-      "director": "Paul Lynch",
+      "rank": 29,
+      "title": "American Gigolo",
+      "url": "https://letterboxd.com/film/american-gigolo/",
+      "director": "Paul Schrader",
       "actors": [
-        "Leslie Nielsen",
-        "Jamie Lee Curtis",
-        "Casey Stevens"
+        "Richard Gere",
+        "Lauren Hutton",
+        "Héctor Elizondo"
       ],
-      "genres": "Mystery, Horror"
+      "genres": "Mystery, Crime, Drama"
     },
     {
-      "rank": 31,
+      "rank": 30,
       "title": "The Changeling",
       "url": "https://letterboxd.com/film/the-changeling/",
       "director": "Peter Medak",
@@ -369,6 +357,18 @@
         "Melvyn Douglas"
       ],
       "genres": "Horror"
+    },
+    {
+      "rank": 31,
+      "title": "Prom Night",
+      "url": "https://letterboxd.com/film/prom-night/",
+      "director": "Paul Lynch",
+      "actors": [
+        "Leslie Nielsen",
+        "Jamie Lee Curtis",
+        "Casey Stevens"
+      ],
+      "genres": "Mystery, Horror"
     },
     {
       "rank": 32,
@@ -384,18 +384,6 @@
     },
     {
       "rank": 33,
-      "title": "Out of the Blue",
-      "url": "https://letterboxd.com/film/out-of-the-blue/",
-      "director": "Dennis Hopper",
-      "actors": [
-        "Linda Manz",
-        "Dennis Hopper",
-        "Sharon Farrell"
-      ],
-      "genres": "Drama"
-    },
-    {
-      "rank": 34,
       "title": "Xanadu",
       "url": "https://letterboxd.com/film/xanadu/",
       "director": "Robert Greenwald",
@@ -405,6 +393,18 @@
         "Michael Beck"
       ],
       "genres": "Fantasy, Romance, Science Fiction"
+    },
+    {
+      "rank": 34,
+      "title": "Out of the Blue",
+      "url": "https://letterboxd.com/film/out-of-the-blue/",
+      "director": "Dennis Hopper",
+      "actors": [
+        "Linda Manz",
+        "Dennis Hopper",
+        "Sharon Farrell"
+      ],
+      "genres": "Drama"
     },
     {
       "rank": 35,
@@ -468,18 +468,6 @@
     },
     {
       "rank": 40,
-      "title": "The Stunt Man",
-      "url": "https://letterboxd.com/film/the-stunt-man/",
-      "director": "Richard Rush",
-      "actors": [
-        "Peter O'Toole",
-        "Steve Railsback",
-        "Barbara Hershey"
-      ],
-      "genres": "Action, Thriller, Romance, Comedy, Drama"
-    },
-    {
-      "rank": 41,
       "title": "Bubble Bath",
       "url": "https://letterboxd.com/film/bubble-bath/",
       "director": "György Kovásznai",
@@ -491,7 +479,7 @@
       "genres": "Drama, Comedy, Animation, Music"
     },
     {
-      "rank": 42,
+      "rank": 41,
       "title": "Gloria",
       "url": "https://letterboxd.com/film/gloria/",
       "director": "John Cassavetes",
@@ -501,6 +489,18 @@
         "Julie Carmen"
       ],
       "genres": "Thriller, Drama, Crime"
+    },
+    {
+      "rank": 42,
+      "title": "The Stunt Man",
+      "url": "https://letterboxd.com/film/the-stunt-man/",
+      "director": "Richard Rush",
+      "actors": [
+        "Peter O'Toole",
+        "Steve Railsback",
+        "Barbara Hershey"
+      ],
+      "genres": "Action, Thriller, Romance, Comedy, Drama"
     },
     {
       "rank": 43,
@@ -552,18 +552,6 @@
     },
     {
       "rank": 47,
-      "title": "Motel Hell",
-      "url": "https://letterboxd.com/film/motel-hell/",
-      "director": "Kevin Connor",
-      "actors": [
-        "Rory Calhoun",
-        "Paul Linke",
-        "Nancy Parsons"
-      ],
-      "genres": "Horror, Comedy"
-    },
-    {
-      "rank": 48,
       "title": "Heaven's Gate",
       "url": "https://letterboxd.com/film/heavens-gate/",
       "director": "Michael Cimino",
@@ -573,6 +561,18 @@
         "John Hurt"
       ],
       "genres": "Drama, Western, History"
+    },
+    {
+      "rank": 48,
+      "title": "Motel Hell",
+      "url": "https://letterboxd.com/film/motel-hell/",
+      "director": "Kevin Connor",
+      "actors": [
+        "Rory Calhoun",
+        "Paul Linke",
+        "Nancy Parsons"
+      ],
+      "genres": "Horror, Comedy"
     },
     {
       "rank": 49,

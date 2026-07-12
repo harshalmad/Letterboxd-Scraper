@@ -28,18 +28,6 @@
     },
     {
       "rank": 3,
-      "title": "Mulan",
-      "url": "https://letterboxd.com/film/mulan/",
-      "director": "Tony Bancroft, Barry Cook",
-      "actors": [
-        "Ming-Na Wen",
-        "Eddie Murphy",
-        "BD Wong"
-      ],
-      "genres": "Family, Animation, Adventure"
-    },
-    {
-      "rank": 4,
       "title": "The Parent Trap",
       "url": "https://letterboxd.com/film/the-parent-trap-1998/",
       "director": "Nancy Meyers",
@@ -49,6 +37,18 @@
         "Natasha Richardson"
       ],
       "genres": "Family, Romance, Comedy"
+    },
+    {
+      "rank": 4,
+      "title": "Mulan",
+      "url": "https://letterboxd.com/film/mulan/",
+      "director": "Tony Bancroft, Barry Cook",
+      "actors": [
+        "Ming-Na Wen",
+        "Eddie Murphy",
+        "BD Wong"
+      ],
+      "genres": "Family, Animation, Adventure"
     },
     {
       "rank": 5,
@@ -88,18 +88,6 @@
     },
     {
       "rank": 8,
-      "title": "You've Got Mail",
-      "url": "https://letterboxd.com/film/youve-got-mail/",
-      "director": "Nora Ephron",
-      "actors": [
-        "Meg Ryan",
-        "Tom Hanks",
-        "Greg Kinnear"
-      ],
-      "genres": "Romance, Comedy"
-    },
-    {
-      "rank": 9,
       "title": "Practical Magic",
       "url": "https://letterboxd.com/film/practical-magic/",
       "director": "Griffin Dunne",
@@ -109,6 +97,18 @@
         "Stockard Channing"
       ],
       "genres": "Fantasy, Comedy, Romance"
+    },
+    {
+      "rank": 9,
+      "title": "You've Got Mail",
+      "url": "https://letterboxd.com/film/youve-got-mail/",
+      "director": "Nora Ephron",
+      "actors": [
+        "Meg Ryan",
+        "Tom Hanks",
+        "Greg Kinnear"
+      ],
+      "genres": "Romance, Comedy"
     },
     {
       "rank": 10,
@@ -172,18 +172,6 @@
     },
     {
       "rank": 15,
-      "title": "Rushmore",
-      "url": "https://letterboxd.com/film/rushmore/",
-      "director": "Wes Anderson",
-      "actors": [
-        "Jason Schwartzman",
-        "Bill Murray",
-        "Olivia Williams"
-      ],
-      "genres": "Comedy, Drama"
-    },
-    {
-      "rank": 16,
       "title": "There's Something About Mary",
       "url": "https://letterboxd.com/film/theres-something-about-mary/",
       "director": "Peter Farrelly, Bobby Farrelly",
@@ -193,6 +181,18 @@
         "Ben Stiller"
       ],
       "genres": "Comedy, Romance"
+    },
+    {
+      "rank": 16,
+      "title": "Rushmore",
+      "url": "https://letterboxd.com/film/rushmore/",
+      "director": "Wes Anderson",
+      "actors": [
+        "Jason Schwartzman",
+        "Bill Murray",
+        "Olivia Williams"
+      ],
+      "genres": "Comedy, Drama"
     },
     {
       "rank": 17,
@@ -268,6 +268,18 @@
     },
     {
       "rank": 23,
+      "title": "Following",
+      "url": "https://letterboxd.com/film/following/",
+      "director": "Christopher Nolan",
+      "actors": [
+        "Jeremy Theobald",
+        "Alex Haw",
+        "Lucy Russell"
+      ],
+      "genres": "Drama, Thriller"
+    },
+    {
+      "rank": 24,
       "title": "Central Station",
       "url": "https://letterboxd.com/film/central-station/",
       "director": "Walter Salles",
@@ -279,7 +291,7 @@
       "genres": "Drama"
     },
     {
-      "rank": 24,
+      "rank": 25,
       "title": "Ring",
       "url": "https://letterboxd.com/film/ring-1998/",
       "director": "Hideo Nakata",
@@ -289,18 +301,6 @@
         "Rikiya Ôtaka"
       ],
       "genres": "Thriller, Horror"
-    },
-    {
-      "rank": 25,
-      "title": "Following",
-      "url": "https://letterboxd.com/film/following/",
-      "director": "Christopher Nolan",
-      "actors": [
-        "Jeremy Theobald",
-        "Alex Haw",
-        "Lucy Russell"
-      ],
-      "genres": "Drama, Thriller"
     },
     {
       "rank": 26,
@@ -340,30 +340,6 @@
     },
     {
       "rank": 29,
-      "title": "Happiness",
-      "url": "https://letterboxd.com/film/happiness/",
-      "director": "Todd Solondz",
-      "actors": [
-        "Jane Adams",
-        "Philip Seymour Hoffman",
-        "Dylan Baker"
-      ],
-      "genres": "Drama, Comedy"
-    },
-    {
-      "rank": 30,
-      "title": "Armageddon",
-      "url": "https://letterboxd.com/film/armageddon/",
-      "director": "Michael Bay",
-      "actors": [
-        "Bruce Willis",
-        "Billy Bob Thornton",
-        "Ben Affleck"
-      ],
-      "genres": "Action, Adventure, Science Fiction"
-    },
-    {
-      "rank": 31,
       "title": "Pleasantville",
       "url": "https://letterboxd.com/film/pleasantville/",
       "director": "Gary Ross",
@@ -375,19 +351,31 @@
       "genres": "Comedy, Fantasy, Drama"
     },
     {
-      "rank": 32,
-      "title": "Lock, Stock and Two Smoking Barrels",
-      "url": "https://letterboxd.com/film/lock-stock-and-two-smoking-barrels/",
-      "director": "Guy Ritchie",
+      "rank": 30,
+      "title": "Happiness",
+      "url": "https://letterboxd.com/film/happiness/",
+      "director": "Todd Solondz",
       "actors": [
-        "Vinnie Jones",
-        "Jason Flemyng",
-        "Dexter Fletcher"
+        "Jane Adams",
+        "Philip Seymour Hoffman",
+        "Dylan Baker"
       ],
-      "genres": "Crime, Comedy"
+      "genres": "Drama, Comedy"
     },
     {
-      "rank": 33,
+      "rank": 31,
+      "title": "Armageddon",
+      "url": "https://letterboxd.com/film/armageddon/",
+      "director": "Michael Bay",
+      "actors": [
+        "Bruce Willis",
+        "Billy Bob Thornton",
+        "Ben Affleck"
+      ],
+      "genres": "Action, Adventure, Science Fiction"
+    },
+    {
+      "rank": 32,
       "title": "The Wedding Singer",
       "url": "https://letterboxd.com/film/the-wedding-singer/",
       "director": "Frank Coraci",
@@ -397,6 +385,18 @@
         "Christine Taylor"
       ],
       "genres": "Romance, Comedy"
+    },
+    {
+      "rank": 33,
+      "title": "Lock, Stock and Two Smoking Barrels",
+      "url": "https://letterboxd.com/film/lock-stock-and-two-smoking-barrels/",
+      "director": "Guy Ritchie",
+      "actors": [
+        "Vinnie Jones",
+        "Jason Flemyng",
+        "Dexter Fletcher"
+      ],
+      "genres": "Crime, Comedy"
     },
     {
       "rank": 34,
@@ -412,18 +412,6 @@
     },
     {
       "rank": 35,
-      "title": "The Man in the Iron Mask",
-      "url": "https://letterboxd.com/film/the-man-in-the-iron-mask-1998/",
-      "director": "Randall Wallace",
-      "actors": [
-        "Leonardo DiCaprio",
-        "Gabriel Byrne",
-        "Jeremy Irons"
-      ],
-      "genres": "Drama, Action, Adventure"
-    },
-    {
-      "rank": 36,
       "title": "Dark City",
       "url": "https://letterboxd.com/film/dark-city-1998/",
       "director": "Alex Proyas",
@@ -435,19 +423,19 @@
       "genres": "Mystery, Science Fiction"
     },
     {
-      "rank": 37,
-      "title": "A Simple Plan",
-      "url": "https://letterboxd.com/film/a-simple-plan/",
-      "director": "Sam Raimi",
+      "rank": 36,
+      "title": "The Man in the Iron Mask",
+      "url": "https://letterboxd.com/film/the-man-in-the-iron-mask-1998/",
+      "director": "Randall Wallace",
       "actors": [
-        "Billy Bob Thornton",
-        "Bill Paxton",
-        "Bridget Fonda"
+        "Leonardo DiCaprio",
+        "Gabriel Byrne",
+        "Jeremy Irons"
       ],
-      "genres": "Crime, Drama, Thriller"
+      "genres": "Drama, Action, Adventure"
     },
     {
-      "rank": 38,
+      "rank": 37,
       "title": "The Thin Red Line",
       "url": "https://letterboxd.com/film/the-thin-red-line/",
       "director": "Terrence Malick",
@@ -457,6 +445,18 @@
         "Sean Penn"
       ],
       "genres": "History, War, Drama"
+    },
+    {
+      "rank": 38,
+      "title": "A Simple Plan",
+      "url": "https://letterboxd.com/film/a-simple-plan/",
+      "director": "Sam Raimi",
+      "actors": [
+        "Billy Bob Thornton",
+        "Bill Paxton",
+        "Bridget Fonda"
+      ],
+      "genres": "Crime, Drama, Thriller"
     },
     {
       "rank": 39,
@@ -484,18 +484,6 @@
     },
     {
       "rank": 41,
-      "title": "Pi",
-      "url": "https://letterboxd.com/film/pi/",
-      "director": "Darren Aronofsky",
-      "actors": [
-        "Sean Gullette",
-        "Mark Margolis",
-        "Ben Shenkman"
-      ],
-      "genres": "Drama, Mystery, Thriller"
-    },
-    {
-      "rank": 42,
       "title": "Velvet Goldmine",
       "url": "https://letterboxd.com/film/velvet-goldmine/",
       "director": "Todd Haynes",
@@ -505,6 +493,18 @@
         "Toni Collette"
       ],
       "genres": "Drama, Music"
+    },
+    {
+      "rank": 42,
+      "title": "Pi",
+      "url": "https://letterboxd.com/film/pi/",
+      "director": "Darren Aronofsky",
+      "actors": [
+        "Sean Gullette",
+        "Mark Margolis",
+        "Ben Shenkman"
+      ],
+      "genres": "Drama, Mystery, Thriller"
     },
     {
       "rank": 43,
@@ -520,18 +520,6 @@
     },
     {
       "rank": 44,
-      "title": "The Dinner Game",
-      "url": "https://letterboxd.com/film/the-dinner-game/",
-      "director": "Francis Veber",
-      "actors": [
-        "Jacques Villeret",
-        "Thierry Lhermitte",
-        "Francis Huster"
-      ],
-      "genres": "Comedy"
-    },
-    {
-      "rank": 45,
       "title": "Bride of Chucky",
       "url": "https://letterboxd.com/film/bride-of-chucky/",
       "director": "Ronny Yu",
@@ -541,6 +529,18 @@
         "Katherine Heigl"
       ],
       "genres": "Comedy, Horror"
+    },
+    {
+      "rank": 45,
+      "title": "The Dinner Game",
+      "url": "https://letterboxd.com/film/the-dinner-game/",
+      "director": "Francis Veber",
+      "actors": [
+        "Jacques Villeret",
+        "Thierry Lhermitte",
+        "Francis Huster"
+      ],
+      "genres": "Comedy"
     },
     {
       "rank": 46,
@@ -556,15 +556,15 @@
     },
     {
       "rank": 47,
-      "title": "Stepmom",
-      "url": "https://letterboxd.com/film/stepmom/",
-      "director": "Chris Columbus",
+      "title": "Scooby-Doo on Zombie Island",
+      "url": "https://letterboxd.com/film/scooby-doo-on-zombie-island/",
+      "director": "Jim Stenstrum",
       "actors": [
-        "Julia Roberts",
-        "Susan Sarandon",
-        "Ed Harris"
+        "Scott Innes",
+        "Billy West",
+        "Mary Kay Bergman"
       ],
-      "genres": "Comedy, Romance, Drama"
+      "genres": "Mystery, Animation, Family, Horror"
     },
     {
       "rank": 48,
@@ -580,27 +580,27 @@
     },
     {
       "rank": 49,
-      "title": "Scooby-Doo on Zombie Island",
-      "url": "https://letterboxd.com/film/scooby-doo-on-zombie-island/",
-      "director": "Jim Stenstrum",
+      "title": "Stepmom",
+      "url": "https://letterboxd.com/film/stepmom/",
+      "director": "Chris Columbus",
       "actors": [
-        "Scott Innes",
-        "Billy West",
-        "Mary Kay Bergman"
+        "Julia Roberts",
+        "Susan Sarandon",
+        "Ed Harris"
       ],
-      "genres": "Mystery, Animation, Family, Horror"
+      "genres": "Comedy, Romance, Drama"
     },
     {
       "rank": 50,
-      "title": "The Negotiator",
-      "url": "https://letterboxd.com/film/the-negotiator/",
-      "director": "F. Gary Gray",
+      "title": "Fallen",
+      "url": "https://letterboxd.com/film/fallen-1998/",
+      "director": "Gregory Hoblit",
       "actors": [
-        "Samuel L. Jackson",
-        "Kevin Spacey",
-        "David Morse"
+        "Denzel Washington",
+        "John Goodman",
+        "Donald Sutherland"
       ],
-      "genres": "Action, Thriller, Drama, Crime"
+      "genres": "Thriller, Drama, Crime"
     }
   ]
 }

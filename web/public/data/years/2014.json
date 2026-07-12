@@ -76,18 +76,6 @@
     },
     {
       "rank": 7,
-      "title": "Nightcrawler",
-      "url": "https://letterboxd.com/film/nightcrawler/",
-      "director": "Dan Gilroy",
-      "actors": [
-        "Jake Gyllenhaal",
-        "Rene Russo",
-        "Riz Ahmed"
-      ],
-      "genres": "Crime, Drama, Thriller"
-    },
-    {
-      "rank": 8,
       "title": "Guardians of the Galaxy",
       "url": "https://letterboxd.com/film/guardians-of-the-galaxy/",
       "director": "James Gunn",
@@ -97,6 +85,18 @@
         "Dave Bautista"
       ],
       "genres": "Adventure, Action, Science Fiction"
+    },
+    {
+      "rank": 8,
+      "title": "Nightcrawler",
+      "url": "https://letterboxd.com/film/nightcrawler/",
+      "director": "Dan Gilroy",
+      "actors": [
+        "Jake Gyllenhaal",
+        "Rene Russo",
+        "Riz Ahmed"
+      ],
+      "genres": "Crime, Drama, Thriller"
     },
     {
       "rank": 9,
@@ -184,18 +184,6 @@
     },
     {
       "rank": 16,
-      "title": "Birdman or (The Unexpected Virtue of Ignorance)",
-      "url": "https://letterboxd.com/film/birdman-or-the-unexpected-virtue-of-ignorance/",
-      "director": "Alejandro G. Iñárritu",
-      "actors": [
-        "Michael Keaton",
-        "Emma Stone",
-        "Zach Galifianakis"
-      ],
-      "genres": "Drama, Comedy"
-    },
-    {
-      "rank": 17,
       "title": "Big Hero 6",
       "url": "https://letterboxd.com/film/big-hero-6/",
       "director": "Don Hall, Chris Williams",
@@ -205,6 +193,18 @@
         "Daniel Henney"
       ],
       "genres": "Science Fiction, Comedy, Action, Family, Animation, Adventure"
+    },
+    {
+      "rank": 17,
+      "title": "Birdman or (The Unexpected Virtue of Ignorance)",
+      "url": "https://letterboxd.com/film/birdman-or-the-unexpected-virtue-of-ignorance/",
+      "director": "Alejandro G. Iñárritu",
+      "actors": [
+        "Michael Keaton",
+        "Emma Stone",
+        "Zach Galifianakis"
+      ],
+      "genres": "Drama, Comedy"
     },
     {
       "rank": 18,
@@ -256,15 +256,15 @@
     },
     {
       "rank": 22,
-      "title": "Kingsman: The Secret Service",
-      "url": "https://letterboxd.com/film/kingsman-the-secret-service/",
-      "director": "Matthew Vaughn",
+      "title": "It Follows",
+      "url": "https://letterboxd.com/film/it-follows/",
+      "director": "David Robert Mitchell",
       "actors": [
-        "Taron Egerton",
-        "Colin Firth",
-        "Samuel L. Jackson"
+        "Maika Monroe",
+        "Keir Gilchrist",
+        "Daniel Zovatto"
       ],
-      "genres": "Action, Comedy, Crime, Adventure"
+      "genres": "Horror, Mystery"
     },
     {
       "rank": 23,
@@ -280,15 +280,15 @@
     },
     {
       "rank": 24,
-      "title": "It Follows",
-      "url": "https://letterboxd.com/film/it-follows/",
-      "director": "David Robert Mitchell",
+      "title": "Kingsman: The Secret Service",
+      "url": "https://letterboxd.com/film/kingsman-the-secret-service/",
+      "director": "Matthew Vaughn",
       "actors": [
-        "Maika Monroe",
-        "Keir Gilchrist",
-        "Daniel Zovatto"
+        "Taron Egerton",
+        "Colin Firth",
+        "Samuel L. Jackson"
       ],
-      "genres": "Horror, Mystery"
+      "genres": "Action, Comedy, Crime, Adventure"
     },
     {
       "rank": 25,
@@ -328,18 +328,6 @@
     },
     {
       "rank": 28,
-      "title": "The Book of Life",
-      "url": "https://letterboxd.com/film/the-book-of-life-2014/",
-      "director": "Jorge R. Gutierrez",
-      "actors": [
-        "Diego Luna",
-        "Channing Tatum",
-        "Zoe Saldaña"
-      ],
-      "genres": "Animation, Fantasy, Family"
-    },
-    {
-      "rank": 29,
       "title": "X-Men: Days of Future Past",
       "url": "https://letterboxd.com/film/x-men-days-of-future-past/",
       "director": "Bryan Singer",
@@ -351,19 +339,19 @@
       "genres": "Action, Science Fiction, Adventure"
     },
     {
-      "rank": 30,
-      "title": "The Imitation Game",
-      "url": "https://letterboxd.com/film/the-imitation-game/",
-      "director": "Morten Tyldum",
+      "rank": 29,
+      "title": "The Book of Life",
+      "url": "https://letterboxd.com/film/the-book-of-life-2014/",
+      "director": "Jorge R. Gutierrez",
       "actors": [
-        "Benedict Cumberbatch",
-        "Keira Knightley",
-        "Matthew Goode"
+        "Diego Luna",
+        "Channing Tatum",
+        "Zoe Saldaña"
       ],
-      "genres": "Drama, War, Thriller, History"
+      "genres": "Animation, Fantasy, Family"
     },
     {
-      "rank": 31,
+      "rank": 30,
       "title": "Edge of Tomorrow",
       "url": "https://letterboxd.com/film/edge-of-tomorrow/",
       "director": "Doug Liman",
@@ -375,7 +363,7 @@
       "genres": "Science Fiction, Action"
     },
     {
-      "rank": 32,
+      "rank": 31,
       "title": "Lucy",
       "url": "https://letterboxd.com/film/lucy-2014/",
       "director": "Luc Besson",
@@ -385,6 +373,18 @@
         "Choi Min-sik"
       ],
       "genres": "Action, Science Fiction"
+    },
+    {
+      "rank": 32,
+      "title": "The Imitation Game",
+      "url": "https://letterboxd.com/film/the-imitation-game/",
+      "director": "Morten Tyldum",
+      "actors": [
+        "Benedict Cumberbatch",
+        "Keira Knightley",
+        "Matthew Goode"
+      ],
+      "genres": "Drama, War, Thriller, History"
     },
     {
       "rank": 33,
@@ -412,18 +412,6 @@
     },
     {
       "rank": 35,
-      "title": "The Interview",
-      "url": "https://letterboxd.com/film/the-interview-2014/",
-      "director": "Evan Goldberg, Seth Rogen",
-      "actors": [
-        "James Franco",
-        "Seth Rogen",
-        "Lizzy Caplan"
-      ],
-      "genres": "Comedy, Action"
-    },
-    {
-      "rank": 36,
       "title": "Maleficent",
       "url": "https://letterboxd.com/film/maleficent/",
       "director": "Robert Stromberg",
@@ -433,6 +421,18 @@
         "Imelda Staunton"
       ],
       "genres": "Romance, Fantasy, Action, Adventure, Family"
+    },
+    {
+      "rank": 36,
+      "title": "The Interview",
+      "url": "https://letterboxd.com/film/the-interview-2014/",
+      "director": "Evan Goldberg, Seth Rogen",
+      "actors": [
+        "James Franco",
+        "Seth Rogen",
+        "Lizzy Caplan"
+      ],
+      "genres": "Comedy, Action"
     },
     {
       "rank": 37,
@@ -448,6 +448,18 @@
     },
     {
       "rank": 38,
+      "title": "Blended",
+      "url": "https://letterboxd.com/film/blended/",
+      "director": "Frank Coraci",
+      "actors": [
+        "Adam Sandler",
+        "Drew Barrymore",
+        "Kevin Nealon"
+      ],
+      "genres": "Comedy, Romance"
+    },
+    {
+      "rank": 39,
       "title": "Boyhood",
       "url": "https://letterboxd.com/film/boyhood/",
       "director": "Richard Linklater",
@@ -459,7 +471,7 @@
       "genres": "Drama"
     },
     {
-      "rank": 39,
+      "rank": 40,
       "title": "Dawn of the Planet of the Apes",
       "url": "https://letterboxd.com/film/dawn-of-the-planet-of-the-apes/",
       "director": "Matt Reeves",
@@ -469,18 +481,6 @@
         "Toby Kebbell"
       ],
       "genres": "Action, Thriller, Science Fiction, Drama"
-    },
-    {
-      "rank": 40,
-      "title": "Blended",
-      "url": "https://letterboxd.com/film/blended/",
-      "director": "Frank Coraci",
-      "actors": [
-        "Adam Sandler",
-        "Drew Barrymore",
-        "Kevin Nealon"
-      ],
-      "genres": "Comedy, Romance"
     },
     {
       "rank": 41,

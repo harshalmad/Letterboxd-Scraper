@@ -100,18 +100,6 @@
     },
     {
       "rank": 9,
-      "title": "Us",
-      "url": "https://letterboxd.com/film/us-2019/",
-      "director": "Jordan Peele",
-      "actors": [
-        "Lupita Nyong'o",
-        "Winston Duke",
-        "Elisabeth Moss"
-      ],
-      "genres": "Horror, Mystery"
-    },
-    {
-      "rank": 10,
       "title": "Spider-Man: Far From Home",
       "url": "https://letterboxd.com/film/spider-man-far-from-home/",
       "director": "Jon Watts",
@@ -123,19 +111,7 @@
       "genres": "Science Fiction, Adventure, Action"
     },
     {
-      "rank": 11,
-      "title": "Portrait of a Lady on Fire",
-      "url": "https://letterboxd.com/film/portrait-of-a-lady-on-fire/",
-      "director": "Céline Sciamma",
-      "actors": [
-        "Noémie Merlant",
-        "Adèle Haenel",
-        "Luàna Bajrami"
-      ],
-      "genres": "Drama, Romance"
-    },
-    {
-      "rank": 12,
+      "rank": 10,
       "title": "Toy Story 4",
       "url": "https://letterboxd.com/film/toy-story-4/",
       "director": "Josh Cooley",
@@ -145,6 +121,30 @@
         "Annie Potts"
       ],
       "genres": "Adventure, Animation, Comedy, Family"
+    },
+    {
+      "rank": 11,
+      "title": "Us",
+      "url": "https://letterboxd.com/film/us-2019/",
+      "director": "Jordan Peele",
+      "actors": [
+        "Lupita Nyong'o",
+        "Winston Duke",
+        "Elisabeth Moss"
+      ],
+      "genres": "Horror, Mystery"
+    },
+    {
+      "rank": 12,
+      "title": "Portrait of a Lady on Fire",
+      "url": "https://letterboxd.com/film/portrait-of-a-lady-on-fire/",
+      "director": "Céline Sciamma",
+      "actors": [
+        "Noémie Merlant",
+        "Adèle Haenel",
+        "Luàna Bajrami"
+      ],
+      "genres": "Drama, Romance"
     },
     {
       "rank": 13,
@@ -228,7 +228,7 @@
         "Christian Bale",
         "Jon Bernthal"
       ],
-      "genres": "Drama, History"
+      "genres": "Drama, Action, History"
     },
     {
       "rank": 20,
@@ -268,18 +268,6 @@
     },
     {
       "rank": 23,
-      "title": "Star Wars: The Rise of Skywalker",
-      "url": "https://letterboxd.com/film/star-wars-the-rise-of-skywalker/",
-      "director": "J.J. Abrams",
-      "actors": [
-        "Carrie Fisher",
-        "Mark Hamill",
-        "Daisy Ridley"
-      ],
-      "genres": "Adventure, Action, Science Fiction"
-    },
-    {
-      "rank": 24,
       "title": "Vivarium",
       "url": "https://letterboxd.com/film/vivarium/",
       "director": "Lorcan Finnegan",
@@ -289,6 +277,18 @@
         "Senan Jennings"
       ],
       "genres": "Mystery, Horror, Science Fiction"
+    },
+    {
+      "rank": 24,
+      "title": "Star Wars: The Rise of Skywalker",
+      "url": "https://letterboxd.com/film/star-wars-the-rise-of-skywalker/",
+      "director": "J.J. Abrams",
+      "actors": [
+        "Carrie Fisher",
+        "Mark Hamill",
+        "Daisy Ridley"
+      ],
+      "genres": "Adventure, Action, Science Fiction"
     },
     {
       "rank": 25,
@@ -340,18 +340,6 @@
     },
     {
       "rank": 29,
-      "title": "Chernobyl",
-      "url": "https://letterboxd.com/film/chernobyl/",
-      "director": "Johan Renck",
-      "actors": [
-        "Jared Harris",
-        "Stellan Skarsgård",
-        "Emily Watson"
-      ],
-      "genres": "Drama"
-    },
-    {
-      "rank": 30,
       "title": "Booksmart",
       "url": "https://letterboxd.com/film/booksmart/",
       "director": "Olivia Wilde",
@@ -361,6 +349,18 @@
         "Jessica Williams"
       ],
       "genres": "Comedy"
+    },
+    {
+      "rank": 30,
+      "title": "Chernobyl",
+      "url": "https://letterboxd.com/film/chernobyl/",
+      "director": "Johan Renck",
+      "actors": [
+        "Jared Harris",
+        "Stellan Skarsgård",
+        "Emily Watson"
+      ],
+      "genres": "Drama"
     },
     {
       "rank": 31,
@@ -388,18 +388,6 @@
     },
     {
       "rank": 33,
-      "title": "The Irishman",
-      "url": "https://letterboxd.com/film/the-irishman-2019/",
-      "director": "Martin Scorsese",
-      "actors": [
-        "Robert De Niro",
-        "Al Pacino",
-        "Joe Pesci"
-      ],
-      "genres": "History, Drama, Crime"
-    },
-    {
-      "rank": 34,
       "title": "John Wick: Chapter 3 – Parabellum",
       "url": "https://letterboxd.com/film/john-wick-chapter-3-parabellum/",
       "director": "Chad Stahelski",
@@ -411,7 +399,7 @@
       "genres": "Action, Crime, Thriller"
     },
     {
-      "rank": 35,
+      "rank": 34,
       "title": "The Platform",
       "url": "https://letterboxd.com/film/the-platform/",
       "director": "Galder Gaztelu-Urrutia",
@@ -421,6 +409,18 @@
         "Zorion Eguileor"
       ],
       "genres": "Thriller, Drama, Science Fiction"
+    },
+    {
+      "rank": 35,
+      "title": "The Irishman",
+      "url": "https://letterboxd.com/film/the-irishman-2019/",
+      "director": "Martin Scorsese",
+      "actors": [
+        "Robert De Niro",
+        "Al Pacino",
+        "Joe Pesci"
+      ],
+      "genres": "History, Drama, Crime"
     },
     {
       "rank": 36,
@@ -440,8 +440,8 @@
       "url": "https://letterboxd.com/film/zombieland-double-tap/",
       "director": "Ruben Fleischer",
       "actors": [
-        "Woody Harrelson",
         "Jesse Eisenberg",
+        "Woody Harrelson",
         "Emma Stone"
       ],
       "genres": "Horror, Comedy"
@@ -544,6 +544,18 @@
     },
     {
       "rank": 46,
+      "title": "The Hustle",
+      "url": "https://letterboxd.com/film/the-hustle-2019/",
+      "director": "Chris Addison",
+      "actors": [
+        "Rebel Wilson",
+        "Anne Hathaway",
+        "Alex Sharp"
+      ],
+      "genres": "Crime, Comedy"
+    },
+    {
+      "rank": 47,
       "title": "Better Days",
       "url": "https://letterboxd.com/film/better-days-2019/",
       "director": "Derek Tsang Kwok-Cheung",
@@ -555,7 +567,7 @@
       "genres": "Romance, Crime, Drama"
     },
     {
-      "rank": 47,
+      "rank": 48,
       "title": "Klaus",
       "url": "https://letterboxd.com/film/klaus/",
       "director": "Sergio Pablos",
@@ -567,7 +579,7 @@
       "genres": "Animation, Family, Comedy"
     },
     {
-      "rank": 48,
+      "rank": 49,
       "title": "Dark Phoenix",
       "url": "https://letterboxd.com/film/dark-phoenix/",
       "director": "Simon Kinberg",
@@ -579,28 +591,16 @@
       "genres": "Science Fiction, Action, Adventure"
     },
     {
-      "rank": 49,
-      "title": "Doctor Sleep",
-      "url": "https://letterboxd.com/film/doctor-sleep/",
-      "director": "Mike Flanagan",
-      "actors": [
-        "Ewan McGregor",
-        "Rebecca Ferguson",
-        "Kyliegh Curran"
-      ],
-      "genres": "Horror, Fantasy"
-    },
-    {
       "rank": 50,
-      "title": "Bacurau",
-      "url": "https://letterboxd.com/film/bacurau/",
-      "director": "Kleber Mendonça Filho, Juliano Dornelles",
+      "title": "Descendants 3",
+      "url": "https://letterboxd.com/film/descendants-3/",
+      "director": "Kenny Ortega",
       "actors": [
-        "Bárbara Colen",
-        "Thomás Aquino",
-        "Silvero Pereira"
+        "Dove Cameron",
+        "Sofia Carson",
+        "Sarah Jeffery"
       ],
-      "genres": "Western, Thriller, Mystery"
+      "genres": "Family, Music, Adventure, TV Movie, Fantasy"
     }
   ]
 }

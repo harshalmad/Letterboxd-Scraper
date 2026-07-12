@@ -52,6 +52,18 @@
     },
     {
       "rank": 5,
+      "title": "Evil Dead II",
+      "url": "https://letterboxd.com/film/evil-dead-ii/",
+      "director": "Sam Raimi",
+      "actors": [
+        "Bruce Campbell",
+        "Sarah Berry",
+        "Dan Hicks"
+      ],
+      "genres": "Comedy, Fantasy, Horror"
+    },
+    {
+      "rank": 6,
       "title": "Predator",
       "url": "https://letterboxd.com/film/predator/",
       "director": "John McTiernan",
@@ -63,7 +75,7 @@
       "genres": "Thriller, Adventure, Science Fiction, Action"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "RoboCop",
       "url": "https://letterboxd.com/film/robocop/",
       "director": "Paul Verhoeven",
@@ -73,18 +85,6 @@
         "Dan O'Herlihy"
       ],
       "genres": "Action, Thriller, Science Fiction"
-    },
-    {
-      "rank": 7,
-      "title": "Evil Dead II",
-      "url": "https://letterboxd.com/film/evil-dead-ii/",
-      "director": "Sam Raimi",
-      "actors": [
-        "Bruce Campbell",
-        "Sarah Berry",
-        "Dan Hicks"
-      ],
-      "genres": "Comedy, Fantasy, Horror"
     },
     {
       "rank": 8,
@@ -220,30 +220,18 @@
     },
     {
       "rank": 19,
-      "title": "Overboard",
-      "url": "https://letterboxd.com/film/overboard/",
-      "director": "Garry Marshall",
+      "title": "Masters of the Universe",
+      "url": "https://letterboxd.com/film/masters-of-the-universe/",
+      "director": "Gary Goddard",
       "actors": [
-        "Goldie Hawn",
-        "Kurt Russell",
-        "Edward Herrmann"
+        "Dolph Lundgren",
+        "Frank Langella",
+        "Meg Foster"
       ],
-      "genres": "Romance, Comedy"
+      "genres": "Thriller, Adventure, Action, Science Fiction, Fantasy"
     },
     {
       "rank": 20,
-      "title": "Wall Street",
-      "url": "https://letterboxd.com/film/wall-street/",
-      "director": "Oliver Stone",
-      "actors": [
-        "Michael Douglas",
-        "Charlie Sheen",
-        "Martin Sheen"
-      ],
-      "genres": "Crime, Drama"
-    },
-    {
-      "rank": 21,
       "title": "Lethal Weapon",
       "url": "https://letterboxd.com/film/lethal-weapon/",
       "director": "Richard Donner",
@@ -255,16 +243,28 @@
       "genres": "Crime, Action, Thriller"
     },
     {
-      "rank": 22,
-      "title": "Masters of the Universe",
-      "url": "https://letterboxd.com/film/masters-of-the-universe/",
-      "director": "Gary Goddard",
+      "rank": 21,
+      "title": "Wall Street",
+      "url": "https://letterboxd.com/film/wall-street/",
+      "director": "Oliver Stone",
       "actors": [
-        "Dolph Lundgren",
-        "Frank Langella",
-        "Meg Foster"
+        "Michael Douglas",
+        "Charlie Sheen",
+        "Martin Sheen"
       ],
-      "genres": "Thriller, Adventure, Action, Science Fiction, Fantasy"
+      "genres": "Crime, Drama"
+    },
+    {
+      "rank": 22,
+      "title": "Overboard",
+      "url": "https://letterboxd.com/film/overboard/",
+      "director": "Garry Marshall",
+      "actors": [
+        "Goldie Hawn",
+        "Kurt Russell",
+        "Edward Herrmann"
+      ],
+      "genres": "Romance, Comedy"
     },
     {
       "rank": 23,
@@ -376,6 +376,18 @@
     },
     {
       "rank": 32,
+      "title": "The Witches of Eastwick",
+      "url": "https://letterboxd.com/film/the-witches-of-eastwick/",
+      "director": "George Miller",
+      "actors": [
+        "Jack Nicholson",
+        "Cher",
+        "Susan Sarandon"
+      ],
+      "genres": "Fantasy, Horror, Comedy"
+    },
+    {
+      "rank": 33,
       "title": "Angel Heart",
       "url": "https://letterboxd.com/film/angel-heart/",
       "director": "Alan Parker",
@@ -385,18 +397,6 @@
         "Lisa Bonet"
       ],
       "genres": "Horror, Mystery"
-    },
-    {
-      "rank": 33,
-      "title": "The Last Emperor",
-      "url": "https://letterboxd.com/film/the-last-emperor/",
-      "director": "Bernardo Bertolucci",
-      "actors": [
-        "John Lone",
-        "Joan Chen",
-        "Peter O'Toole"
-      ],
-      "genres": "Drama, History"
     },
     {
       "rank": 34,
@@ -412,15 +412,15 @@
     },
     {
       "rank": 35,
-      "title": "The Witches of Eastwick",
-      "url": "https://letterboxd.com/film/the-witches-of-eastwick/",
-      "director": "George Miller",
+      "title": "The Last Emperor",
+      "url": "https://letterboxd.com/film/the-last-emperor/",
+      "director": "Bernardo Bertolucci",
       "actors": [
-        "Jack Nicholson",
-        "Cher",
-        "Susan Sarandon"
+        "John Lone",
+        "Joan Chen",
+        "Peter O'Toole"
       ],
-      "genres": "Fantasy, Horror, Comedy"
+      "genres": "Drama, History"
     },
     {
       "rank": 36,
@@ -436,6 +436,18 @@
     },
     {
       "rank": 37,
+      "title": "Walker",
+      "url": "https://letterboxd.com/film/walker/",
+      "director": "Alex Cox",
+      "actors": [
+        "Ed Harris",
+        "Richard Masur",
+        "René Auberjonois"
+      ],
+      "genres": "Drama, History, Western"
+    },
+    {
+      "rank": 38,
       "title": "Au Revoir les Enfants",
       "url": "https://letterboxd.com/film/au-revoir-les-enfants/",
       "director": "Louis Malle",
@@ -447,7 +459,7 @@
       "genres": "Drama, War"
     },
     {
-      "rank": 38,
+      "rank": 39,
       "title": "Adventures in Babysitting",
       "url": "https://letterboxd.com/film/adventures-in-babysitting/",
       "director": "Chris Columbus",
@@ -459,7 +471,7 @@
       "genres": "Comedy"
     },
     {
-      "rank": 39,
+      "rank": 40,
       "title": "Opera",
       "url": "https://letterboxd.com/film/opera/",
       "director": "Dario Argento",
@@ -471,7 +483,7 @@
       "genres": "Thriller, Horror, Mystery"
     },
     {
-      "rank": 40,
+      "rank": 41,
       "title": "Near Dark",
       "url": "https://letterboxd.com/film/near-dark/",
       "director": "Kathryn Bigelow",
@@ -481,18 +493,6 @@
         "Lance Henriksen"
       ],
       "genres": "Horror"
-    },
-    {
-      "rank": 41,
-      "title": "A Chinese Ghost Story",
-      "url": "https://letterboxd.com/film/a-chinese-ghost-story/",
-      "director": "Tony Ching Siu-Tung",
-      "actors": [
-        "Leslie Cheung",
-        "Joey Wong",
-        "Wu Ma"
-      ],
-      "genres": "Fantasy, Action, Horror"
     },
     {
       "rank": 42,
@@ -508,15 +508,15 @@
     },
     {
       "rank": 43,
-      "title": "Walker",
-      "url": "https://letterboxd.com/film/walker/",
-      "director": "Alex Cox",
+      "title": "A Chinese Ghost Story",
+      "url": "https://letterboxd.com/film/a-chinese-ghost-story/",
+      "director": "Tony Ching Siu-Tung",
       "actors": [
-        "Ed Harris",
-        "Richard Masur",
-        "René Auberjonois"
+        "Leslie Cheung",
+        "Joey Wong",
+        "Wu Ma"
       ],
-      "genres": "Drama, History, Western"
+      "genres": "Fantasy, Action, Horror"
     },
     {
       "rank": 44,
@@ -580,6 +580,18 @@
     },
     {
       "rank": 49,
+      "title": "Mannequin",
+      "url": "https://letterboxd.com/film/mannequin-1987/",
+      "director": "Michael Gottlieb",
+      "actors": [
+        "Andrew McCarthy",
+        "Kim Cattrall",
+        "Estelle Getty"
+      ],
+      "genres": "Fantasy, Romance, Comedy"
+    },
+    {
+      "rank": 50,
       "title": "No Way Out",
       "url": "https://letterboxd.com/film/no-way-out-1987/",
       "director": "Roger Donaldson",
@@ -589,18 +601,6 @@
         "Sean Young"
       ],
       "genres": "Thriller, Drama"
-    },
-    {
-      "rank": 50,
-      "title": "Baby Boom",
-      "url": "https://letterboxd.com/film/baby-boom/",
-      "director": "Charles Shyer",
-      "actors": [
-        "Diane Keaton",
-        "Sam Shepard",
-        "Harold Ramis"
-      ],
-      "genres": "Drama, Comedy, Romance"
     }
   ]
 }

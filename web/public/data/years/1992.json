@@ -64,18 +64,6 @@
     },
     {
       "rank": 6,
-      "title": "Aladdin",
-      "url": "https://letterboxd.com/film/aladdin/",
-      "director": "John Musker, Ron Clements",
-      "actors": [
-        "Scott Weinger",
-        "Robin Williams",
-        "Linda Larkin"
-      ],
-      "genres": "Fantasy, Adventure, Romance, Family, Animation"
-    },
-    {
-      "rank": 7,
       "title": "Death Becomes Her",
       "url": "https://letterboxd.com/film/death-becomes-her/",
       "director": "Robert Zemeckis",
@@ -85,6 +73,18 @@
         "Bruce Willis"
       ],
       "genres": "Comedy, Fantasy, Horror"
+    },
+    {
+      "rank": 7,
+      "title": "Aladdin",
+      "url": "https://letterboxd.com/film/aladdin/",
+      "director": "John Musker, Ron Clements",
+      "actors": [
+        "Scott Weinger",
+        "Robin Williams",
+        "Linda Larkin"
+      ],
+      "genres": "Fantasy, Adventure, Romance, Family, Animation"
     },
     {
       "rank": 8,
@@ -124,6 +124,18 @@
     },
     {
       "rank": 11,
+      "title": "Army of Darkness",
+      "url": "https://letterboxd.com/film/army-of-darkness/",
+      "director": "Sam Raimi",
+      "actors": [
+        "Bruce Campbell",
+        "Embeth Davidtz",
+        "Marcus Gilbert"
+      ],
+      "genres": "Comedy, Fantasy, Horror"
+    },
+    {
+      "rank": 12,
       "title": "Home Alone 2: Lost in New York",
       "url": "https://letterboxd.com/film/home-alone-2-lost-in-new-york/",
       "director": "Chris Columbus",
@@ -135,7 +147,7 @@
       "genres": "Family, Comedy, Adventure"
     },
     {
-      "rank": 12,
+      "rank": 13,
       "title": "Unforgiven",
       "url": "https://letterboxd.com/film/unforgiven/",
       "director": "Clint Eastwood",
@@ -147,7 +159,7 @@
       "genres": "Western"
     },
     {
-      "rank": 13,
+      "rank": 14,
       "title": "Malcolm X",
       "url": "https://letterboxd.com/film/malcolm-x-1992/",
       "director": "Spike Lee",
@@ -159,7 +171,7 @@
       "genres": "History, Drama"
     },
     {
-      "rank": 14,
+      "rank": 15,
       "title": "Batman Returns",
       "url": "https://letterboxd.com/film/batman-returns/",
       "director": "Tim Burton",
@@ -169,18 +181,6 @@
         "Michelle Pfeiffer"
       ],
       "genres": "Fantasy, Action"
-    },
-    {
-      "rank": 15,
-      "title": "Army of Darkness",
-      "url": "https://letterboxd.com/film/army-of-darkness/",
-      "director": "Sam Raimi",
-      "actors": [
-        "Bruce Campbell",
-        "Embeth Davidtz",
-        "Marcus Gilbert"
-      ],
-      "genres": "Comedy, Fantasy, Horror"
     },
     {
       "rank": 16,
@@ -220,28 +220,6 @@
     },
     {
       "rank": 19,
-      "title": "Lessons of Darkness",
-      "url": "https://letterboxd.com/film/lessons-of-darkness/",
-      "director": "Werner Herzog",
-      "actors": [
-        "Werner Herzog"
-      ],
-      "genres": "Documentary, TV Movie, War"
-    },
-    {
-      "rank": 20,
-      "title": "The Bodyguard",
-      "url": "https://letterboxd.com/film/the-bodyguard-1992/",
-      "director": "Mick Jackson",
-      "actors": [
-        "Kevin Costner",
-        "Whitney Houston",
-        "Gary Kemp"
-      ],
-      "genres": "Drama, Action, Romance"
-    },
-    {
-      "rank": 21,
       "title": "A League of Their Own",
       "url": "https://letterboxd.com/film/a-league-of-their-own/",
       "director": "Penny Marshall",
@@ -251,6 +229,28 @@
         "Lori Petty"
       ],
       "genres": "Comedy, Drama"
+    },
+    {
+      "rank": 20,
+      "title": "Lessons of Darkness",
+      "url": "https://letterboxd.com/film/lessons-of-darkness/",
+      "director": "Werner Herzog",
+      "actors": [
+        "Werner Herzog"
+      ],
+      "genres": "Documentary, TV Movie, War"
+    },
+    {
+      "rank": 21,
+      "title": "The Bodyguard",
+      "url": "https://letterboxd.com/film/the-bodyguard-1992/",
+      "director": "Mick Jackson",
+      "actors": [
+        "Kevin Costner",
+        "Whitney Houston",
+        "Gary Kemp"
+      ],
+      "genres": "Drama, Action, Romance"
     },
     {
       "rank": 22,
@@ -266,6 +266,18 @@
     },
     {
       "rank": 23,
+      "title": "The Last of the Mohicans",
+      "url": "https://letterboxd.com/film/the-last-of-the-mohicans-1992/",
+      "director": "Michael Mann",
+      "actors": [
+        "Daniel Day-Lewis",
+        "Madeleine Stowe",
+        "Jodhi May"
+      ],
+      "genres": "Drama, War, History"
+    },
+    {
+      "rank": 24,
       "title": "The Player",
       "url": "https://letterboxd.com/film/the-player/",
       "director": "Robert Altman",
@@ -275,18 +287,6 @@
         "Fred Ward"
       ],
       "genres": "Mystery, Drama, Thriller, Crime, Comedy"
-    },
-    {
-      "rank": 24,
-      "title": "The Last of the Mohicans",
-      "url": "https://letterboxd.com/film/the-last-of-the-mohicans-1992/",
-      "director": "Michael Mann",
-      "actors": [
-        "Daniel Day-Lewis",
-        "Madeleine Stowe",
-        "Jodhi May"
-      ],
-      "genres": "Romance, Action, War, History"
     },
     {
       "rank": 25,
@@ -338,6 +338,18 @@
     },
     {
       "rank": 29,
+      "title": "Single White Female",
+      "url": "https://letterboxd.com/film/single-white-female/",
+      "director": "Barbet Schroeder",
+      "actors": [
+        "Bridget Fonda",
+        "Jennifer Jason Leigh",
+        "Steven Weber"
+      ],
+      "genres": "Horror, Thriller"
+    },
+    {
+      "rank": 30,
       "title": "The Cutting Edge",
       "url": "https://letterboxd.com/film/the-cutting-edge/",
       "director": "Paul Michael Glaser",
@@ -349,7 +361,7 @@
       "genres": "Comedy, Romance, Drama"
     },
     {
-      "rank": 30,
+      "rank": 31,
       "title": "Braindead",
       "url": "https://letterboxd.com/film/braindead-1992/",
       "director": "Peter Jackson",
@@ -359,18 +371,6 @@
         "Elizabeth Moody"
       ],
       "genres": "Comedy, Horror"
-    },
-    {
-      "rank": 31,
-      "title": "Single White Female",
-      "url": "https://letterboxd.com/film/single-white-female/",
-      "director": "Barbet Schroeder",
-      "actors": [
-        "Bridget Fonda",
-        "Jennifer Jason Leigh",
-        "Steven Weber"
-      ],
-      "genres": "Horror, Thriller"
     },
     {
       "rank": 32,
@@ -398,18 +398,6 @@
     },
     {
       "rank": 34,
-      "title": "Cronos",
-      "url": "https://letterboxd.com/film/cronos/",
-      "director": "Guillermo del Toro",
-      "actors": [
-        "Federico Luppi",
-        "Ron Perlman",
-        "Claudio Brook"
-      ],
-      "genres": "Horror, Thriller, Drama"
-    },
-    {
-      "rank": 35,
       "title": "Bad Lieutenant",
       "url": "https://letterboxd.com/film/bad-lieutenant/",
       "director": "Abel Ferrara",
@@ -419,6 +407,18 @@
         "Stella Keitel"
       ],
       "genres": "Drama, Crime"
+    },
+    {
+      "rank": 35,
+      "title": "Cronos",
+      "url": "https://letterboxd.com/film/cronos/",
+      "director": "Guillermo del Toro",
+      "actors": [
+        "Federico Luppi",
+        "Ron Perlman",
+        "Claudio Brook"
+      ],
+      "genres": "Horror, Thriller, Drama"
     },
     {
       "rank": 36,
@@ -542,18 +542,6 @@
     },
     {
       "rank": 46,
-      "title": "Sleepwalkers",
-      "url": "https://letterboxd.com/film/sleepwalkers/",
-      "director": "Mick Garris",
-      "actors": [
-        "Brian Krause",
-        "Mädchen Amick",
-        "Alice Krige"
-      ],
-      "genres": "Fantasy, Thriller, Horror"
-    },
-    {
-      "rank": 47,
       "title": "Under Siege",
       "url": "https://letterboxd.com/film/under-siege/",
       "director": "Andrew Davis",
@@ -565,19 +553,7 @@
       "genres": "Thriller, Action"
     },
     {
-      "rank": 48,
-      "title": "Of Mice and Men",
-      "url": "https://letterboxd.com/film/of-mice-and-men-1992/",
-      "director": "Gary Sinise",
-      "actors": [
-        "John Malkovich",
-        "Gary Sinise",
-        "Ray Walston"
-      ],
-      "genres": "Drama"
-    },
-    {
-      "rank": 49,
+      "rank": 47,
       "title": "Man Bites Dog",
       "url": "https://letterboxd.com/film/man-bites-dog/",
       "director": "Rémy Belvaux, André Bonzel, Benoît Poelvoorde",
@@ -587,6 +563,30 @@
         "André Bonzel"
       ],
       "genres": "Comedy, Crime"
+    },
+    {
+      "rank": 48,
+      "title": "Sleepwalkers",
+      "url": "https://letterboxd.com/film/sleepwalkers/",
+      "director": "Mick Garris",
+      "actors": [
+        "Brian Krause",
+        "Mädchen Amick",
+        "Alice Krige"
+      ],
+      "genres": "Fantasy, Thriller, Horror"
+    },
+    {
+      "rank": 49,
+      "title": "Of Mice and Men",
+      "url": "https://letterboxd.com/film/of-mice-and-men-1992/",
+      "director": "Gary Sinise",
+      "actors": [
+        "John Malkovich",
+        "Gary Sinise",
+        "Ray Walston"
+      ],
+      "genres": "Drama"
     },
     {
       "rank": 50,
