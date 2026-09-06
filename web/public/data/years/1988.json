@@ -40,18 +40,6 @@
     },
     {
       "rank": 4,
-      "title": "Rain Man",
-      "url": "https://letterboxd.com/film/rain-man/",
-      "director": "Barry Levinson",
-      "actors": [
-        "Dustin Hoffman",
-        "Tom Cruise",
-        "Valeria Golino"
-      ],
-      "genres": "Drama"
-    },
-    {
-      "rank": 5,
       "title": "Cinema Paradiso",
       "url": "https://letterboxd.com/film/cinema-paradiso/",
       "director": "Giuseppe Tornatore",
@@ -61,6 +49,18 @@
         "Marco Leonardi"
       ],
       "genres": "Drama, Romance"
+    },
+    {
+      "rank": 5,
+      "title": "Rain Man",
+      "url": "https://letterboxd.com/film/rain-man/",
+      "director": "Barry Levinson",
+      "actors": [
+        "Dustin Hoffman",
+        "Tom Cruise",
+        "Valeria Golino"
+      ],
+      "genres": "Drama"
     },
     {
       "rank": 6,
@@ -88,54 +88,6 @@
     },
     {
       "rank": 8,
-      "title": "They Live",
-      "url": "https://letterboxd.com/film/they-live/",
-      "director": "John Carpenter",
-      "actors": [
-        "Roddy Piper",
-        "Keith David",
-        "Meg Foster"
-      ],
-      "genres": "Thriller, Action, Science Fiction"
-    },
-    {
-      "rank": 9,
-      "title": "Women on the Verge of a Nervous Breakdown",
-      "url": "https://letterboxd.com/film/women-on-the-verge-of-a-nervous-breakdown/",
-      "director": "Pedro Almodóvar",
-      "actors": [
-        "Carmen Maura",
-        "Antonio Banderas",
-        "Julieta Serrano"
-      ],
-      "genres": "Drama, Comedy"
-    },
-    {
-      "rank": 10,
-      "title": "The Naked Gun: From the Files of Police Squad!",
-      "url": "https://letterboxd.com/film/the-naked-gun-from-the-files-of-police-squad/",
-      "director": "David Zucker",
-      "actors": [
-        "Leslie Nielsen",
-        "Priscilla Presley",
-        "Ricardo Montalban"
-      ],
-      "genres": "Crime, Comedy"
-    },
-    {
-      "rank": 11,
-      "title": "The Vanishing",
-      "url": "https://letterboxd.com/film/the-vanishing/",
-      "director": "George Sluizer",
-      "actors": [
-        "Bernard-Pierre Donnadieu",
-        "Gene Bervoets",
-        "Johanna ter Steege"
-      ],
-      "genres": "Mystery, Horror, Thriller"
-    },
-    {
-      "rank": 12,
       "title": "Who Framed Roger Rabbit",
       "url": "https://letterboxd.com/film/who-framed-roger-rabbit/",
       "director": "Robert Zemeckis",
@@ -147,14 +99,62 @@
       "genres": "Fantasy, Animation, Crime, Comedy"
     },
     {
+      "rank": 9,
+      "title": "They Live",
+      "url": "https://letterboxd.com/film/they-live/",
+      "director": "John Carpenter",
+      "actors": [
+        "Roddy Piper",
+        "Keith David",
+        "Meg Foster"
+      ],
+      "genres": "Thriller, Action, Science Fiction"
+    },
+    {
+      "rank": 10,
+      "title": "The Vanishing",
+      "url": "https://letterboxd.com/film/the-vanishing/",
+      "director": "George Sluizer",
+      "actors": [
+        "Bernard-Pierre Donnadieu",
+        "Gene Bervoets",
+        "Johanna ter Steege"
+      ],
+      "genres": "Mystery, Horror, Thriller"
+    },
+    {
+      "rank": 11,
+      "title": "Women on the Verge of a Nervous Breakdown",
+      "url": "https://letterboxd.com/film/women-on-the-verge-of-a-nervous-breakdown/",
+      "director": "Pedro Almodóvar",
+      "actors": [
+        "Carmen Maura",
+        "Antonio Banderas",
+        "Julieta Serrano"
+      ],
+      "genres": "Drama, Comedy"
+    },
+    {
+      "rank": 12,
+      "title": "The Naked Gun: From the Files of Police Squad!",
+      "url": "https://letterboxd.com/film/the-naked-gun-from-the-files-of-police-squad/",
+      "director": "David Zucker",
+      "actors": [
+        "Leslie Nielsen",
+        "Priscilla Presley",
+        "Ricardo Montalban"
+      ],
+      "genres": "Crime, Comedy"
+    },
+    {
       "rank": 13,
       "title": "Child's Play",
       "url": "https://letterboxd.com/film/childs-play/",
       "director": "Tom Holland",
       "actors": [
+        "Alex Vincent",
         "Catherine Hicks",
-        "Chris Sarandon",
-        "Alex Vincent"
+        "Brad Dourif"
       ],
       "genres": "Horror"
     },
@@ -184,18 +184,6 @@
     },
     {
       "rank": 16,
-      "title": "Twins",
-      "url": "https://letterboxd.com/film/twins/",
-      "director": "Ivan Reitman",
-      "actors": [
-        "Arnold Schwarzenegger",
-        "Danny DeVito",
-        "Kelly Preston"
-      ],
-      "genres": "Comedy"
-    },
-    {
-      "rank": 17,
       "title": "Mississippi Burning",
       "url": "https://letterboxd.com/film/mississippi-burning/",
       "director": "Alan Parker",
@@ -207,7 +195,7 @@
       "genres": "Crime, Thriller, Mystery, Drama"
     },
     {
-      "rank": 18,
+      "rank": 17,
       "title": "Elvira: Mistress of the Dark",
       "url": "https://letterboxd.com/film/elvira-mistress-of-the-dark/",
       "director": "James Signorelli",
@@ -219,19 +207,19 @@
       "genres": "Fantasy, Comedy, Horror"
     },
     {
-      "rank": 19,
-      "title": "Dead Ringers",
-      "url": "https://letterboxd.com/film/dead-ringers/",
-      "director": "David Cronenberg",
+      "rank": 18,
+      "title": "Twins",
+      "url": "https://letterboxd.com/film/twins/",
+      "director": "Ivan Reitman",
       "actors": [
-        "Jeremy Irons",
-        "Geneviève Bujold",
-        "Heidi von Palleske"
+        "Arnold Schwarzenegger",
+        "Danny DeVito",
+        "Kelly Preston"
       ],
-      "genres": "Thriller, Horror"
+      "genres": "Comedy"
     },
     {
-      "rank": 20,
+      "rank": 19,
       "title": "The Last Temptation of Christ",
       "url": "https://letterboxd.com/film/the-last-temptation-of-christ/",
       "director": "Martin Scorsese",
@@ -241,6 +229,18 @@
         "Paul Greco"
       ],
       "genres": "Drama"
+    },
+    {
+      "rank": 20,
+      "title": "Dead Ringers",
+      "url": "https://letterboxd.com/film/dead-ringers/",
+      "director": "David Cronenberg",
+      "actors": [
+        "Jeremy Irons",
+        "Geneviève Bujold",
+        "Heidi von Palleske"
+      ],
+      "genres": "Thriller, Horror"
     },
     {
       "rank": 21,
@@ -256,18 +256,6 @@
     },
     {
       "rank": 22,
-      "title": "Moonwalker",
-      "url": "https://letterboxd.com/film/moonwalker/",
-      "director": "Colin Chilvers, Will Vinton, Jerry Kramer, Jim Blashfield",
-      "actors": [
-        "Michael Jackson",
-        "Joe Pesci",
-        "Sean Ono Lennon"
-      ],
-      "genres": "Fantasy, Music"
-    },
-    {
-      "rank": 23,
       "title": "A Fish Called Wanda",
       "url": "https://letterboxd.com/film/a-fish-called-wanda/",
       "director": "Charles Crichton",
@@ -279,43 +267,19 @@
       "genres": "Crime, Comedy"
     },
     {
+      "rank": 23,
+      "title": "Mystic Pizza",
+      "url": "https://letterboxd.com/film/mystic-pizza/",
+      "director": "Donald Petrie",
+      "actors": [
+        "Julia Roberts",
+        "Annabeth Gish",
+        "Lili Taylor"
+      ],
+      "genres": "Drama, Comedy, Romance"
+    },
+    {
       "rank": 24,
-      "title": "Bloodsport",
-      "url": "https://letterboxd.com/film/bloodsport/",
-      "director": "Newt Arnold",
-      "actors": [
-        "Jean-Claude Van Damme",
-        "Donald Gibb",
-        "Leah Ayres"
-      ],
-      "genres": "Drama, Action, Thriller"
-    },
-    {
-      "rank": 25,
-      "title": "Midnight Run",
-      "url": "https://letterboxd.com/film/midnight-run/",
-      "director": "Martin Brest",
-      "actors": [
-        "Robert De Niro",
-        "Charles Grodin",
-        "Yaphet Kotto"
-      ],
-      "genres": "Thriller, Crime, Comedy"
-    },
-    {
-      "rank": 26,
-      "title": "Coming to America",
-      "url": "https://letterboxd.com/film/coming-to-america/",
-      "director": "John Landis",
-      "actors": [
-        "Eddie Murphy",
-        "Arsenio Hall",
-        "Shari Headley"
-      ],
-      "genres": "Romance, Comedy"
-    },
-    {
-      "rank": 27,
       "title": "Hellbound: Hellraiser II",
       "url": "https://letterboxd.com/film/hellbound-hellraiser-ii/",
       "director": "Tony Randel",
@@ -327,16 +291,52 @@
       "genres": "Horror, Thriller"
     },
     {
-      "rank": 28,
-      "title": "Mystic Pizza",
-      "url": "https://letterboxd.com/film/mystic-pizza/",
-      "director": "Donald Petrie",
+      "rank": 25,
+      "title": "Bloodsport",
+      "url": "https://letterboxd.com/film/bloodsport/",
+      "director": "Newt Arnold",
       "actors": [
-        "Julia Roberts",
-        "Annabeth Gish",
-        "Lili Taylor"
+        "Jean-Claude Van Damme",
+        "Donald Gibb",
+        "Leah Ayres"
       ],
-      "genres": "Drama, Comedy, Romance"
+      "genres": "Drama, Action"
+    },
+    {
+      "rank": 26,
+      "title": "Midnight Run",
+      "url": "https://letterboxd.com/film/midnight-run/",
+      "director": "Martin Brest",
+      "actors": [
+        "Robert De Niro",
+        "Charles Grodin",
+        "Yaphet Kotto"
+      ],
+      "genres": "Thriller, Crime, Comedy"
+    },
+    {
+      "rank": 27,
+      "title": "Moonwalker",
+      "url": "https://letterboxd.com/film/moonwalker/",
+      "director": "Colin Chilvers, Will Vinton, Jerry Kramer, Jim Blashfield",
+      "actors": [
+        "Michael Jackson",
+        "Joe Pesci",
+        "Sean Ono Lennon"
+      ],
+      "genres": "Fantasy, Music"
+    },
+    {
+      "rank": 28,
+      "title": "Coming to America",
+      "url": "https://letterboxd.com/film/coming-to-america/",
+      "director": "John Landis",
+      "actors": [
+        "Eddie Murphy",
+        "Arsenio Hall",
+        "Shari Headley"
+      ],
+      "genres": "Romance, Comedy"
     },
     {
       "rank": 29,
@@ -352,15 +352,15 @@
     },
     {
       "rank": 30,
-      "title": "Miracle Mile",
-      "url": "https://letterboxd.com/film/miracle-mile/",
-      "director": "Steve De Jarnatt",
+      "title": "Married to the Mob",
+      "url": "https://letterboxd.com/film/married-to-the-mob/",
+      "director": "Jonathan Demme",
       "actors": [
-        "Anthony Edwards",
-        "Mare Winningham",
-        "John Agar"
+        "Michelle Pfeiffer",
+        "Alec Baldwin",
+        "Dean Stockwell"
       ],
-      "genres": "Thriller, Comedy, Science Fiction"
+      "genres": "Crime, Comedy, Romance"
     },
     {
       "rank": 31,
@@ -388,6 +388,18 @@
     },
     {
       "rank": 33,
+      "title": "Miracle Mile",
+      "url": "https://letterboxd.com/film/miracle-mile/",
+      "director": "Steve De Jarnatt",
+      "actors": [
+        "Anthony Edwards",
+        "Mare Winningham",
+        "John Agar"
+      ],
+      "genres": "Thriller, Comedy, Science Fiction, Romance"
+    },
+    {
+      "rank": 34,
       "title": "A Short Film About Killing",
       "url": "https://letterboxd.com/film/a-short-film-about-killing/",
       "director": "Krzysztof Kieślowski",
@@ -399,7 +411,7 @@
       "genres": "Crime, Drama"
     },
     {
-      "rank": 34,
+      "rank": 35,
       "title": "The Land Before Time",
       "url": "https://letterboxd.com/film/the-land-before-time/",
       "director": "Don Bluth",
@@ -408,10 +420,10 @@
         "Candace Hutson",
         "Will Ryan"
       ],
-      "genres": "Adventure, Family, Animation"
+      "genres": "Drama, Adventure, Family, Animation"
     },
     {
-      "rank": 35,
+      "rank": 36,
       "title": "Friday the 13th Part VII - The New Blood",
       "url": "https://letterboxd.com/film/friday-the-13th-part-vii-the-new-blood/",
       "director": "John Carl Buechler",
@@ -421,18 +433,6 @@
         "Terry Kiser"
       ],
       "genres": "Horror, Thriller"
-    },
-    {
-      "rank": 36,
-      "title": "Dangerous Liaisons",
-      "url": "https://letterboxd.com/film/dangerous-liaisons/",
-      "director": "Stephen Frears",
-      "actors": [
-        "Glenn Close",
-        "John Malkovich",
-        "Michelle Pfeiffer"
-      ],
-      "genres": "Drama, Romance"
     },
     {
       "rank": 37,
@@ -446,66 +446,30 @@
     },
     {
       "rank": 38,
-      "title": "Married to the Mob",
-      "url": "https://letterboxd.com/film/married-to-the-mob/",
-      "director": "Jonathan Demme",
+      "title": "Dangerous Liaisons",
+      "url": "https://letterboxd.com/film/dangerous-liaisons/",
+      "director": "Stephen Frears",
       "actors": [
-        "Michelle Pfeiffer",
-        "Matthew Modine",
-        "Dean Stockwell"
+        "Glenn Close",
+        "John Malkovich",
+        "Michelle Pfeiffer"
       ],
-      "genres": "Crime, Comedy, Romance"
+      "genres": "Drama, Romance"
     },
     {
       "rank": 39,
-      "title": "Dirty Rotten Scoundrels",
-      "url": "https://letterboxd.com/film/dirty-rotten-scoundrels/",
-      "director": "Frank Oz",
+      "title": "The Blob",
+      "url": "https://letterboxd.com/film/the-blob-1988/",
+      "director": "Chuck Russell",
       "actors": [
-        "Steve Martin",
-        "Michael Caine",
-        "Glenne Headly"
+        "Kevin Dillon",
+        "Shawnee Smith",
+        "Donovan Leitch"
       ],
-      "genres": "Comedy, Crime"
+      "genres": "Science Fiction, Thriller, Horror"
     },
     {
       "rank": 40,
-      "title": "Maniac Cop",
-      "url": "https://letterboxd.com/film/maniac-cop/",
-      "director": "William Lustig",
-      "actors": [
-        "Tom Atkins",
-        "Bruce Campbell",
-        "Laurene Landon"
-      ],
-      "genres": "Horror, Mystery, Action, Crime"
-    },
-    {
-      "rank": 41,
-      "title": "Working Girl",
-      "url": "https://letterboxd.com/film/working-girl/",
-      "director": "Mike Nichols",
-      "actors": [
-        "Melanie Griffith",
-        "Harrison Ford",
-        "Sigourney Weaver"
-      ],
-      "genres": "Drama, Comedy, Romance"
-    },
-    {
-      "rank": 42,
-      "title": "As Tears Go By",
-      "url": "https://letterboxd.com/film/as-tears-go-by/",
-      "director": "Wong Kar-Wai",
-      "actors": [
-        "Andy Lau",
-        "Maggie Cheung",
-        "Jacky Cheung Hok-Yau"
-      ],
-      "genres": "Drama, Crime, Romance"
-    },
-    {
-      "rank": 43,
       "title": "Vampire's Kiss",
       "url": "https://letterboxd.com/film/vampires-kiss/",
       "director": "Robert Bierman",
@@ -517,55 +481,31 @@
       "genres": "Fantasy, Horror, Comedy"
     },
     {
-      "rank": 44,
-      "title": "Willow",
-      "url": "https://letterboxd.com/film/willow/",
-      "director": "Ron Howard",
+      "rank": 41,
+      "title": "Dirty Rotten Scoundrels",
+      "url": "https://letterboxd.com/film/dirty-rotten-scoundrels/",
+      "director": "Frank Oz",
       "actors": [
-        "Warwick Davis",
-        "Val Kilmer",
-        "Joanne Whalley"
+        "Steve Martin",
+        "Michael Caine",
+        "Glenne Headly"
       ],
-      "genres": "Adventure, Action, Fantasy"
+      "genres": "Comedy, Crime"
     },
     {
-      "rank": 45,
-      "title": "The Blob",
-      "url": "https://letterboxd.com/film/the-blob-1988/",
-      "director": "Chuck Russell",
+      "rank": 42,
+      "title": "Working Girl",
+      "url": "https://letterboxd.com/film/working-girl/",
+      "director": "Mike Nichols",
       "actors": [
-        "Kevin Dillon",
-        "Shawnee Smith",
-        "Donovan Leitch"
+        "Melanie Griffith",
+        "Harrison Ford",
+        "Sigourney Weaver"
       ],
-      "genres": "Science Fiction, Action, Horror"
+      "genres": "Drama, Comedy, Romance"
     },
     {
-      "rank": 46,
-      "title": "Running on Empty",
-      "url": "https://letterboxd.com/film/running-on-empty-1988/",
-      "director": "Sidney Lumet",
-      "actors": [
-        "Christine Lahti",
-        "River Phoenix",
-        "Judd Hirsch"
-      ],
-      "genres": "Drama, Romance, Crime"
-    },
-    {
-      "rank": 47,
-      "title": "Beaches",
-      "url": "https://letterboxd.com/film/beaches/",
-      "director": "Garry Marshall",
-      "actors": [
-        "Bette Midler",
-        "Barbara Hershey",
-        "John Heard"
-      ],
-      "genres": "Drama, Comedy"
-    },
-    {
-      "rank": 48,
+      "rank": 43,
       "title": "Bull Durham",
       "url": "https://letterboxd.com/film/bull-durham/",
       "director": "Ron Shelton",
@@ -577,19 +517,7 @@
       "genres": "Romance, Comedy"
     },
     {
-      "rank": 49,
-      "title": "Oliver & Company",
-      "url": "https://letterboxd.com/film/oliver-company/",
-      "director": "George Scribner",
-      "actors": [
-        "Joey Lawrence",
-        "Billy Joel",
-        "Cheech Marin"
-      ],
-      "genres": "Family, Animation, Comedy"
-    },
-    {
-      "rank": 50,
+      "rank": 44,
       "title": "A Nightmare on Elm Street 4: The Dream Master",
       "url": "https://letterboxd.com/film/a-nightmare-on-elm-street-4-the-dream-master/",
       "director": "Renny Harlin",
@@ -599,6 +527,78 @@
         "Danny Hassel"
       ],
       "genres": "Thriller, Horror"
+    },
+    {
+      "rank": 45,
+      "title": "Beaches",
+      "url": "https://letterboxd.com/film/beaches/",
+      "director": "Garry Marshall",
+      "actors": [
+        "Bette Midler",
+        "Barbara Hershey",
+        "John Heard"
+      ],
+      "genres": "Drama, Comedy"
+    },
+    {
+      "rank": 46,
+      "title": "Willow",
+      "url": "https://letterboxd.com/film/willow/",
+      "director": "Ron Howard",
+      "actors": [
+        "Warwick Davis",
+        "Val Kilmer",
+        "Joanne Whalley"
+      ],
+      "genres": "Adventure, Action, Fantasy"
+    },
+    {
+      "rank": 47,
+      "title": "Maniac Cop",
+      "url": "https://letterboxd.com/film/maniac-cop/",
+      "director": "William Lustig",
+      "actors": [
+        "Tom Atkins",
+        "Bruce Campbell",
+        "Laurene Landon"
+      ],
+      "genres": "Horror, Mystery, Action, Crime"
+    },
+    {
+      "rank": 48,
+      "title": "As Tears Go By",
+      "url": "https://letterboxd.com/film/as-tears-go-by/",
+      "director": "Wong Kar-Wai",
+      "actors": [
+        "Andy Lau",
+        "Maggie Cheung",
+        "Jacky Cheung Hok-Yau"
+      ],
+      "genres": "Drama, Crime, Romance"
+    },
+    {
+      "rank": 49,
+      "title": "Running on Empty",
+      "url": "https://letterboxd.com/film/running-on-empty-1988/",
+      "director": "Sidney Lumet",
+      "actors": [
+        "Christine Lahti",
+        "River Phoenix",
+        "Judd Hirsch"
+      ],
+      "genres": "Drama, Romance, Crime"
+    },
+    {
+      "rank": 50,
+      "title": "Oliver & Company",
+      "url": "https://letterboxd.com/film/oliver-company/",
+      "director": "George Scribner",
+      "actors": [
+        "Joey Lawrence",
+        "Billy Joel",
+        "Cheech Marin"
+      ],
+      "genres": "Family, Animation, Comedy"
     }
   ]
 }

@@ -80,8 +80,8 @@
       "url": "https://letterboxd.com/film/annie-hall/",
       "director": "Woody Allen",
       "actors": [
-        "Woody Allen",
         "Diane Keaton",
+        "Woody Allen",
         "Tony Roberts"
       ],
       "genres": "Drama, Romance, Comedy"
@@ -100,18 +100,6 @@
     },
     {
       "rank": 9,
-      "title": "The Spy Who Loved Me",
-      "url": "https://letterboxd.com/film/the-spy-who-loved-me/",
-      "director": "Lewis Gilbert",
-      "actors": [
-        "Roger Moore",
-        "Barbara Bach",
-        "Curd Jürgens"
-      ],
-      "genres": "Thriller, Action, Adventure"
-    },
-    {
-      "rank": 10,
       "title": "Smokey and the Bandit",
       "url": "https://letterboxd.com/film/smokey-and-the-bandit/",
       "director": "Hal Needham",
@@ -121,6 +109,18 @@
         "Jerry Reed"
       ],
       "genres": "Adventure, Action, Comedy"
+    },
+    {
+      "rank": 10,
+      "title": "The Spy Who Loved Me",
+      "url": "https://letterboxd.com/film/the-spy-who-loved-me/",
+      "director": "Lewis Gilbert",
+      "actors": [
+        "Roger Moore",
+        "Barbara Bach",
+        "Curd Jürgens"
+      ],
+      "genres": "Thriller, Action, Adventure"
     },
     {
       "rank": 11,
@@ -184,18 +184,6 @@
     },
     {
       "rank": 16,
-      "title": "Slap Shot",
-      "url": "https://letterboxd.com/film/slap-shot/",
-      "director": "George Roy Hill",
-      "actors": [
-        "Paul Newman",
-        "Strother Martin",
-        "Michael Ontkean"
-      ],
-      "genres": "Comedy, Drama"
-    },
-    {
-      "rank": 17,
       "title": "The Hobbit",
       "url": "https://letterboxd.com/film/the-hobbit/",
       "director": "Jules Bass, Arthur Rankin, Jr.",
@@ -207,19 +195,7 @@
       "genres": "Fantasy, Family, Animation, TV Movie, Adventure"
     },
     {
-      "rank": 18,
-      "title": "The Last Wave",
-      "url": "https://letterboxd.com/film/the-last-wave/",
-      "director": "Peter Weir",
-      "actors": [
-        "Richard Chamberlain",
-        "Olivia Hamnett",
-        "David Gulpilil"
-      ],
-      "genres": "Drama, Fantasy, Mystery"
-    },
-    {
-      "rank": 19,
+      "rank": 17,
       "title": "The Hills Have Eyes",
       "url": "https://letterboxd.com/film/the-hills-have-eyes/",
       "director": "Wes Craven",
@@ -231,19 +207,19 @@
       "genres": "Horror"
     },
     {
-      "rank": 20,
-      "title": "The American Friend",
-      "url": "https://letterboxd.com/film/the-american-friend/",
-      "director": "Wim Wenders",
+      "rank": 18,
+      "title": "Slap Shot",
+      "url": "https://letterboxd.com/film/slap-shot/",
+      "director": "George Roy Hill",
       "actors": [
-        "Dennis Hopper",
-        "Bruno Ganz",
-        "Lisa Kreuzer"
+        "Paul Newman",
+        "Strother Martin",
+        "Michael Ontkean"
       ],
-      "genres": "Crime, Drama, Thriller"
+      "genres": "Comedy, Drama"
     },
     {
-      "rank": 21,
+      "rank": 19,
       "title": "The Many Adventures of Winnie the Pooh",
       "url": "https://letterboxd.com/film/the-many-adventures-of-winnie-the-pooh/",
       "director": "John Lounsbery, Wolfgang Reitherman",
@@ -255,19 +231,7 @@
       "genres": "Adventure, Animation, Family"
     },
     {
-      "rank": 22,
-      "title": "One Sings, the Other Doesn't",
-      "url": "https://letterboxd.com/film/one-sings-the-other-doesnt/",
-      "director": "Agnès Varda",
-      "actors": [
-        "Thérèse Liotard",
-        "Valérie Mairesse",
-        "Robert Dadiès"
-      ],
-      "genres": "Music, Drama"
-    },
-    {
-      "rank": 23,
+      "rank": 20,
       "title": "Wizards",
       "url": "https://letterboxd.com/film/wizards/",
       "director": "Ralph Bakshi",
@@ -279,19 +243,43 @@
       "genres": "Fantasy, Animation, Science Fiction"
     },
     {
-      "rank": 24,
-      "title": "Untitled 77-A",
-      "url": "https://letterboxd.com/film/untitled-77-a/",
-      "director": "Han Okhi",
+      "rank": 21,
+      "title": "The American Friend",
+      "url": "https://letterboxd.com/film/the-american-friend/",
+      "director": "Wim Wenders",
       "actors": [
-        "Kim Yong-sik",
-        "Kwak Myoung-ok",
-        "Son Sung-Kwon"
+        "Dennis Hopper",
+        "Bruno Ganz",
+        "Lisa Kreuzer"
       ],
-      "genres": "Drama"
+      "genres": "Crime, Drama, Thriller"
     },
     {
-      "rank": 25,
+      "rank": 22,
+      "title": "The Last Wave",
+      "url": "https://letterboxd.com/film/the-last-wave/",
+      "director": "Peter Weir",
+      "actors": [
+        "Richard Chamberlain",
+        "Olivia Hamnett",
+        "David Gulpilil"
+      ],
+      "genres": "Drama, Fantasy, Mystery"
+    },
+    {
+      "rank": 23,
+      "title": "One Sings, the Other Doesn't",
+      "url": "https://letterboxd.com/film/one-sings-the-other-doesnt/",
+      "director": "Agnès Varda",
+      "actors": [
+        "Thérèse Liotard",
+        "Valérie Mairesse",
+        "Robert Dadiès"
+      ],
+      "genres": "Music, Drama"
+    },
+    {
+      "rank": 24,
       "title": "Alucarda",
       "url": "https://letterboxd.com/film/alucarda/",
       "director": "Juan López Moctezuma",
@@ -303,7 +291,7 @@
       "genres": "Horror"
     },
     {
-      "rank": 26,
+      "rank": 25,
       "title": "The Devil, Probably",
       "url": "https://letterboxd.com/film/the-devil-probably/",
       "director": "Robert Bresson",
@@ -315,55 +303,7 @@
       "genres": "Drama"
     },
     {
-      "rank": 27,
-      "title": "The Duellists",
-      "url": "https://letterboxd.com/film/the-duellists/",
-      "director": "Ridley Scott",
-      "actors": [
-        "Keith Carradine",
-        "Harvey Keitel",
-        "Albert Finney"
-      ],
-      "genres": "Drama, War"
-    },
-    {
-      "rank": 28,
-      "title": "High Anxiety",
-      "url": "https://letterboxd.com/film/high-anxiety/",
-      "director": "Mel Brooks",
-      "actors": [
-        "Mel Brooks",
-        "Madeline Kahn",
-        "Cloris Leachman"
-      ],
-      "genres": "Thriller, Mystery, Comedy"
-    },
-    {
-      "rank": 29,
-      "title": "Desperate Living",
-      "url": "https://letterboxd.com/film/desperate-living/",
-      "director": "John Waters",
-      "actors": [
-        "Liz Renay",
-        "Mink Stole",
-        "Susan Lowe"
-      ],
-      "genres": "Comedy, Crime"
-    },
-    {
-      "rank": 30,
-      "title": "Stroszek",
-      "url": "https://letterboxd.com/film/stroszek/",
-      "director": "Werner Herzog",
-      "actors": [
-        "Bruno S.",
-        "Eva Mattes",
-        "Clemens Scheitz"
-      ],
-      "genres": "Drama"
-    },
-    {
-      "rank": 31,
+      "rank": 26,
       "title": "New York, New York",
       "url": "https://letterboxd.com/film/new-york-new-york/",
       "director": "Martin Scorsese",
@@ -375,7 +315,43 @@
       "genres": "Drama, Music, Romance"
     },
     {
-      "rank": 32,
+      "rank": 27,
+      "title": "Desperate Living",
+      "url": "https://letterboxd.com/film/desperate-living/",
+      "director": "John Waters",
+      "actors": [
+        "Liz Renay",
+        "Mink Stole",
+        "Susan Lowe"
+      ],
+      "genres": "Comedy, Crime"
+    },
+    {
+      "rank": 28,
+      "title": "The Duellists",
+      "url": "https://letterboxd.com/film/the-duellists/",
+      "director": "Ridley Scott",
+      "actors": [
+        "Keith Carradine",
+        "Harvey Keitel",
+        "Albert Finney"
+      ],
+      "genres": "Drama, War"
+    },
+    {
+      "rank": 29,
+      "title": "Untitled 77-A",
+      "url": "https://letterboxd.com/film/untitled-77-a/",
+      "director": "Han Okhi",
+      "actors": [
+        "Kim Yong-sik",
+        "Kwak Myoung-ok",
+        "Son Sung-Kwon"
+      ],
+      "genres": "Drama"
+    },
+    {
+      "rank": 30,
       "title": "Martin",
       "url": "https://letterboxd.com/film/martin/",
       "director": "George A. Romero",
@@ -385,6 +361,30 @@
         "Christine Forrest"
       ],
       "genres": "Drama, Horror"
+    },
+    {
+      "rank": 31,
+      "title": "High Anxiety",
+      "url": "https://letterboxd.com/film/high-anxiety/",
+      "director": "Mel Brooks",
+      "actors": [
+        "Mel Brooks",
+        "Madeline Kahn",
+        "Cloris Leachman"
+      ],
+      "genres": "Crime, Thriller, Mystery, Comedy"
+    },
+    {
+      "rank": 32,
+      "title": "Stroszek",
+      "url": "https://letterboxd.com/film/stroszek/",
+      "director": "Werner Herzog",
+      "actors": [
+        "Bruno S.",
+        "Eva Mattes",
+        "Clemens Scheitz"
+      ],
+      "genres": "Drama"
     },
     {
       "rank": 33,
@@ -412,18 +412,6 @@
     },
     {
       "rank": 35,
-      "title": "Exorcist II: The Heretic",
-      "url": "https://letterboxd.com/film/exorcist-ii-the-heretic/",
-      "director": "John Boorman",
-      "actors": [
-        "Richard Burton",
-        "Linda Blair",
-        "Louise Fletcher"
-      ],
-      "genres": "Horror"
-    },
-    {
-      "rank": 36,
       "title": "That Obscure Object of Desire",
       "url": "https://letterboxd.com/film/that-obscure-object-of-desire/",
       "director": "Luis Buñuel",
@@ -435,19 +423,19 @@
       "genres": "Drama, Comedy, Romance"
     },
     {
-      "rank": 37,
-      "title": "Shock",
-      "url": "https://letterboxd.com/film/shock-1977/",
-      "director": "Mario Bava",
+      "rank": 36,
+      "title": "Exorcist II: The Heretic",
+      "url": "https://letterboxd.com/film/exorcist-ii-the-heretic/",
+      "director": "John Boorman",
       "actors": [
-        "Daria Nicolodi",
-        "John Steiner",
-        "David Colin Jr."
+        "Richard Burton",
+        "Linda Blair",
+        "Louise Fletcher"
       ],
       "genres": "Horror"
     },
     {
-      "rank": 38,
+      "rank": 37,
       "title": "Rolling Thunder",
       "url": "https://letterboxd.com/film/rolling-thunder/",
       "director": "John Flynn",
@@ -456,10 +444,10 @@
         "Tommy Lee Jones",
         "Linda Haynes"
       ],
-      "genres": "Drama, Thriller"
+      "genres": "Drama, Action, Crime, Thriller"
     },
     {
-      "rank": 39,
+      "rank": 38,
       "title": "Pumping Iron",
       "url": "https://letterboxd.com/film/pumping-iron/",
       "director": "George Butler, Robert Fiore",
@@ -471,7 +459,7 @@
       "genres": "Documentary"
     },
     {
-      "rank": 40,
+      "rank": 39,
       "title": "The Girl with the Red Scarf",
       "url": "https://letterboxd.com/film/the-girl-with-the-red-scarf/",
       "director": "Atıf Yılmaz",
@@ -483,16 +471,28 @@
       "genres": "Drama, Romance"
     },
     {
-      "rank": 41,
-      "title": "Lucio Flavio",
-      "url": "https://letterboxd.com/film/lucio-flavio/",
-      "director": "Héctor Babenco",
+      "rank": 40,
+      "title": "Shock",
+      "url": "https://letterboxd.com/film/shock-1977/",
+      "director": "Mario Bava",
       "actors": [
-        "Reginaldo Faria",
-        "Ana Maria Magalhães",
-        "Paulo César Peréio"
+        "Ángel Aranda",
+        "Sandra Alberti",
+        "Mariana Karr"
       ],
-      "genres": "Crime, Drama"
+      "genres": "Horror"
+    },
+    {
+      "rank": 41,
+      "title": "Iphigenia",
+      "url": "https://letterboxd.com/film/iphigenia/",
+      "director": "Mihalis Kakogiannis",
+      "actors": [
+        "Irene Papas",
+        "Kostas Kazakos",
+        "Kostas Karras"
+      ],
+      "genres": "Action, Drama"
     },
     {
       "rank": 42,
@@ -520,6 +520,18 @@
     },
     {
       "rank": 44,
+      "title": "The Psychic",
+      "url": "https://letterboxd.com/film/the-psychic/",
+      "director": "Lucio Fulci",
+      "actors": [
+        "Jennifer O'Neill",
+        "Gabriele Ferzetti",
+        "Marc Porel"
+      ],
+      "genres": "Thriller, Mystery, Horror"
+    },
+    {
+      "rank": 45,
       "title": "La Soufrière: Waiting for an Inevitable Catastrophe",
       "url": "https://letterboxd.com/film/la-soufriere-waiting-for-an-inevitable-catastrophe/",
       "director": "Werner Herzog",
@@ -531,7 +543,19 @@
       "genres": "Documentary"
     },
     {
-      "rank": 45,
+      "rank": 46,
+      "title": "Lucio Flavio",
+      "url": "https://letterboxd.com/film/lucio-flavio/",
+      "director": "Héctor Babenco",
+      "actors": [
+        "Reginaldo Faria",
+        "Ana Maria Magalhães",
+        "Paulo César Peréio"
+      ],
+      "genres": "Crime, Drama"
+    },
+    {
+      "rank": 47,
       "title": "Man of Marble",
       "url": "https://letterboxd.com/film/man-of-marble/",
       "director": "Andrzej Wajda",
@@ -541,30 +565,6 @@
         "Tadeusz Łomnicki"
       ],
       "genres": "Drama"
-    },
-    {
-      "rank": 46,
-      "title": "Office Romance",
-      "url": "https://letterboxd.com/film/office-romance/",
-      "director": "Eldar Ryazanov",
-      "actors": [
-        "Alisa Freyndlikh",
-        "Andrey Myagkov",
-        "Svetlana Nemolyaeva"
-      ],
-      "genres": "Comedy, Romance"
-    },
-    {
-      "rank": 47,
-      "title": "The Psychic",
-      "url": "https://letterboxd.com/film/the-psychic/",
-      "director": "Lucio Fulci",
-      "actors": [
-        "Jennifer O'Neill",
-        "Gabriele Ferzetti",
-        "Marc Porel"
-      ],
-      "genres": "Thriller, Mystery, Horror"
     },
     {
       "rank": 48,
@@ -592,15 +592,15 @@
     },
     {
       "rank": 50,
-      "title": "Perfumed Nightmare",
-      "url": "https://letterboxd.com/film/perfumed-nightmare/",
-      "director": "Kidlat Tahimik",
+      "title": "Office Romance",
+      "url": "https://letterboxd.com/film/office-romance/",
+      "director": "Eldar Ryazanov",
       "actors": [
-        "Kidlat Tahimik",
-        "Mang Fely",
-        "Dolores Santamaria"
+        "Alisa Freyndlikh",
+        "Andrey Myagkov",
+        "Svetlana Nemolyaeva"
       ],
-      "genres": "Documentary, Comedy"
+      "genres": "Comedy, Romance"
     }
   ]
 }

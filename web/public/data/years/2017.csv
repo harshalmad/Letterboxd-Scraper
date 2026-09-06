@@ -1,51 +1,51 @@
 rank,title,director,actors,genres,url
-1,Call Me by Your Name,Luca Guadagnino,Timothée Chalamet; Armie Hammer; Michael Stuhlbarg,"Romance, Drama",https://letterboxd.com/film/call-me-by-your-name/
-2,Get Out,Jordan Peele,Daniel Kaluuya; Allison Williams; Catherine Keener,"Horror, Mystery, Thriller",https://letterboxd.com/film/get-out-2017/
+1,Spider-Man: Homecoming,Jon Watts,Tom Holland; Michael Keaton; Robert Downey Jr.,"Action, Adventure, Science Fiction",https://letterboxd.com/film/spider-man-homecoming/
+2,Call Me by Your Name,Luca Guadagnino,Timothée Chalamet; Armie Hammer; Michael Stuhlbarg,"Romance, Drama",https://letterboxd.com/film/call-me-by-your-name/
 3,Lady Bird,Greta Gerwig,Saoirse Ronan; Laurie Metcalf; Tracy Letts,"Comedy, Drama",https://letterboxd.com/film/lady-bird/
-4,Spider-Man: Homecoming,Jon Watts,Tom Holland; Michael Keaton; Robert Downey Jr.,"Action, Adventure, Science Fiction",https://letterboxd.com/film/spider-man-homecoming/
+4,Get Out,Jordan Peele,Daniel Kaluuya; Allison Williams; Catherine Keener,"Horror, Mystery, Thriller",https://letterboxd.com/film/get-out-2017/
 5,It,Andy Muschietti,Jaeden Martell; Jeremy Ray Taylor; Sophia Lillis,"Drama, Thriller, Horror",https://letterboxd.com/film/it-2017/
-6,Baby Driver,Edgar Wright,Ansel Elgort; Kevin Spacey; Lily James,"Crime, Action",https://letterboxd.com/film/baby-driver/
+6,Guardians of the Galaxy Vol. 2,James Gunn,Chris Pratt; Zoe Saldaña; Dave Bautista,"Action, Science Fiction, Adventure",https://letterboxd.com/film/guardians-of-the-galaxy-vol-2/
 7,Coco,Lee Unkrich,Anthony Gonzalez; Gael García Bernal; Benjamin Bratt,"Adventure, Animation, Music, Family",https://letterboxd.com/film/coco-2017/
-8,Blade Runner 2049,Denis Villeneuve,Ryan Gosling; Harrison Ford; Ana de Armas,"Science Fiction, Drama",https://letterboxd.com/film/blade-runner-2049/
-9,The Lego Batman Movie,Chris McKay,Will Arnett; Michael Cera; Rosario Dawson,"Comedy, Animation, Family, Action",https://letterboxd.com/film/the-lego-batman-movie/
-10,The Greatest Showman,Michael Gracey,Hugh Jackman; Zac Efron; Michelle Williams,Drama,https://letterboxd.com/film/the-greatest-showman/
-11,Guardians of the Galaxy Vol. 2,James Gunn,Chris Pratt; Zoe Saldaña; Dave Bautista,"Action, Science Fiction, Adventure",https://letterboxd.com/film/guardians-of-the-galaxy-vol-2/
-12,Good Time,"Benny Safdie, Josh Safdie",Robert Pattinson; Benny Safdie; Buddy Duress,"Drama, Crime, Thriller",https://letterboxd.com/film/good-time/
-13,The Florida Project,Sean Baker,Brooklynn Prince; Bria Vinaite; Willem Dafoe,Drama,https://letterboxd.com/film/the-florida-project/
-14,Thor: Ragnarok,Taika Waititi,Chris Hemsworth; Mark Ruffalo; Tom Hiddleston,"Comedy, Science Fiction, Action",https://letterboxd.com/film/thor-ragnarok/
-15,Phantom Thread,Paul Thomas Anderson,Daniel Day-Lewis; Vicky Krieps; Lesley Manville,"Drama, Romance",https://letterboxd.com/film/phantom-thread/
-16,"I, Tonya",Craig Gillespie,Margot Robbie; Sebastian Stan; Allison Janney,"Drama, Comedy",https://letterboxd.com/film/i-tonya/
-17,Dunkirk,Christopher Nolan,Fionn Whitehead; Tom Hardy; Mark Rylance,"Action, Drama, War",https://letterboxd.com/film/dunkirk-2017/
-18,Jumanji: Welcome to the Jungle,Jake Kasdan,Dwayne Johnson; Kevin Hart; Jack Black,"Action, Comedy, Fantasy, Adventure",https://letterboxd.com/film/jumanji-welcome-to-the-jungle/
+8,Baby Driver,Edgar Wright,Ansel Elgort; Kevin Spacey; Lily James,"Crime, Action",https://letterboxd.com/film/baby-driver/
+9,Blade Runner 2049,Denis Villeneuve,Ryan Gosling; Harrison Ford; Ana de Armas,"Science Fiction, Drama",https://letterboxd.com/film/blade-runner-2049/
+10,Thor: Ragnarok,Taika Waititi,Chris Hemsworth; Mark Ruffalo; Tom Hiddleston,"Comedy, Adventure, Science Fiction, Action",https://letterboxd.com/film/thor-ragnarok/
+11,The Lego Batman Movie,Chris McKay,Will Arnett; Michael Cera; Rosario Dawson,"Comedy, Animation, Family, Action",https://letterboxd.com/film/the-lego-batman-movie/
+12,The Greatest Showman,Michael Gracey,Hugh Jackman; Zac Efron; Michelle Williams,Drama,https://letterboxd.com/film/the-greatest-showman/
+13,Dunkirk,Christopher Nolan,Fionn Whitehead; Tom Hardy; Mark Rylance,"Action, Drama, War",https://letterboxd.com/film/dunkirk-2017/
+14,The Florida Project,Sean Baker,Brooklynn Prince; Bria Vinaite; Willem Dafoe,Drama,https://letterboxd.com/film/the-florida-project/
+15,Good Time,"Benny Safdie, Josh Safdie",Robert Pattinson; Benny Safdie; Buddy Duress,"Drama, Crime, Thriller",https://letterboxd.com/film/good-time/
+16,Phantom Thread,Paul Thomas Anderson,Daniel Day-Lewis; Vicky Krieps; Lesley Manville,"Drama, Romance",https://letterboxd.com/film/phantom-thread/
+17,"I, Tonya",Craig Gillespie,Margot Robbie; Sebastian Stan; Allison Janney,"Drama, Comedy",https://letterboxd.com/film/i-tonya/
+18,Jumanji: Welcome to the Jungle,Jake Kasdan,Dwayne Johnson; Kevin Hart; Jack Black,"Comedy, Fantasy, Adventure",https://letterboxd.com/film/jumanji-welcome-to-the-jungle/
 19,Star Wars: The Last Jedi,Rian Johnson,Mark Hamill; Carrie Fisher; Adam Driver,"Adventure, Action, Science Fiction",https://letterboxd.com/film/star-wars-the-last-jedi/
 20,The Ritual,David Bruckner,Rafe Spall; Arsher Ali; Robert James-Collier,"Horror, Mystery",https://letterboxd.com/film/the-ritual-2017/
-21,"Three Billboards Outside Ebbing, Missouri",Martin McDonagh,Frances McDormand; Woody Harrelson; Sam Rockwell,"Crime, Drama",https://letterboxd.com/film/three-billboards-outside-ebbing-missouri/
-22,The Killing of a Sacred Deer,Yorgos Lanthimos,Colin Farrell; Nicole Kidman; Barry Keoghan,"Mystery, Drama, Thriller",https://letterboxd.com/film/the-killing-of-a-sacred-deer/
-23,The Shape of Water,Guillermo del Toro,Sally Hawkins; Michael Shannon; Richard Jenkins,"Fantasy, Drama, Romance",https://letterboxd.com/film/the-shape-of-water/
-24,John Wick: Chapter 2,Chad Stahelski,Keanu Reeves; Common; Laurence Fishburne,"Crime, Action, Thriller",https://letterboxd.com/film/john-wick-chapter-2/
-25,Creep 2,Patrick Brice,Mark Duplass; Desiree Akhavan; Karan Soni,"Thriller, Horror",https://letterboxd.com/film/creep-2/
-26,Cars 3,Brian Fee,Owen Wilson; Cristela Alonzo; Chris Cooper,"Family, Drama, Animation",https://letterboxd.com/film/cars-3/
-27,Wonder,Stephen Chbosky,Jacob Tremblay; Julia Roberts; Owen Wilson,"Drama, Family",https://letterboxd.com/film/wonder-2017/
-28,mother!,Darren Aronofsky,Jennifer Lawrence; Javier Bardem; Ed Harris,"Drama, Horror",https://letterboxd.com/film/mother-2017/
-29,Paddington 2,Paul King,Ben Whishaw; Sally Hawkins; Hugh Bonneville,"Comedy, Family, Adventure",https://letterboxd.com/film/paddington-2/
-30,Logan,James Mangold,Hugh Jackman; Dafne Keen; Patrick Stewart,"Drama, Science Fiction, Action",https://letterboxd.com/film/logan-2017/
-31,Marrowbone,Sergio G. Sánchez,George MacKay; Anya Taylor-Joy; Charlie Heaton,"Thriller, Horror, Mystery",https://letterboxd.com/film/marrowbone/
-32,Pitch Perfect 3,Trish Sie,Anna Kendrick; Rebel Wilson; Brittany Snow,"Music, Comedy",https://letterboxd.com/film/pitch-perfect-3/
-33,Despicable Me 3,"Kyle Balda, Pierre Coffin",Steve Carell; Kristen Wiig; Trey Parker,"Action, Animation, Adventure, Comedy, Family",https://letterboxd.com/film/despicable-me-3/
+21,Logan,James Mangold,Hugh Jackman; Dafne Keen; Patrick Stewart,"Drama, Science Fiction, Action",https://letterboxd.com/film/logan-2017/
+22,"Three Billboards Outside Ebbing, Missouri",Martin McDonagh,Frances McDormand; Woody Harrelson; Sam Rockwell,"Crime, Drama",https://letterboxd.com/film/three-billboards-outside-ebbing-missouri/
+23,Creep 2,Patrick Brice,Mark Duplass; Desiree Akhavan; Karan Soni,"Thriller, Horror",https://letterboxd.com/film/creep-2/
+24,The Killing of a Sacred Deer,Yorgos Lanthimos,Colin Farrell; Nicole Kidman; Barry Keoghan,"Mystery, Drama, Thriller",https://letterboxd.com/film/the-killing-of-a-sacred-deer/
+25,John Wick: Chapter 2,Chad Stahelski,Keanu Reeves; Common; Laurence Fishburne,"Crime, Action, Thriller",https://letterboxd.com/film/john-wick-chapter-2/
+26,Cars 3,Brian Fee,Owen Wilson; Cristela Alonzo; Chris Cooper,"Adventure, Family, Drama, Animation",https://letterboxd.com/film/cars-3/
+27,The Shape of Water,Guillermo del Toro,Sally Hawkins; Michael Shannon; Richard Jenkins,"Fantasy, Drama, Romance",https://letterboxd.com/film/the-shape-of-water/
+28,Wonder,Stephen Chbosky,Jacob Tremblay; Julia Roberts; Owen Wilson,"Drama, Family",https://letterboxd.com/film/wonder-2017/
+29,Descendants 2,Kenny Ortega,Dove Cameron; Sofia Carson; Cameron Boyce,"Fantasy, Adventure, Family, TV Movie",https://letterboxd.com/film/descendants-2/
+30,Paddington 2,Paul King,Ben Whishaw; Sally Hawkins; Hugh Bonneville,"Comedy, Family, Adventure",https://letterboxd.com/film/paddington-2/
+31,mother!,Darren Aronofsky,Jennifer Lawrence; Javier Bardem; Ed Harris,"Drama, Horror",https://letterboxd.com/film/mother-2017/
+32,Despicable Me 3,"Kyle Balda, Pierre Coffin",Steve Carell; Kristen Wiig; Trey Parker,"Action, Animation, Adventure, Comedy, Family",https://letterboxd.com/film/despicable-me-3/
+33,Marrowbone,Sergio G. Sánchez,George MacKay; Anya Taylor-Joy; Charlie Heaton,"Thriller, Horror, Mystery",https://letterboxd.com/film/marrowbone/
 34,Beauty and the Beast,Bill Condon,Emma Watson; Dan Stevens; Luke Evans,"Fantasy, Family, Romance",https://letterboxd.com/film/beauty-and-the-beast-2017/
 35,Forgotten,Chang Hang-jun,Kang Ha-neul; Kim Moo-yul; Moon Sung-keun,"Thriller, Crime, Mystery",https://letterboxd.com/film/forgotten-2017/
-36,To the Bone,Marti Noxon,Lily Collins; Keanu Reeves; Carrie Preston,Drama,https://letterboxd.com/film/to-the-bone-2017/
-37,Happy Death Day,Christopher Landon,Jessica Rothe; Israel Broussard; Charles Aitken,"Horror, Mystery, Comedy",https://letterboxd.com/film/happy-death-day/
-38,Pirates of the Caribbean: Dead Men Tell No Tales,"Joachim Rønning, Espen Sandberg",Johnny Depp; Javier Bardem; Geoffrey Rush,"Action, Fantasy, Adventure",https://letterboxd.com/film/pirates-of-the-caribbean-dead-men-tell-no-tales/
-39,God's Own Country,Francis Lee,Josh O'Connor; Alec Secăreanu; Gemma Jones,"Romance, Drama",https://letterboxd.com/film/gods-own-country-2017/
-40,Before I Fall,Ry Russo-Young,Zoey Deutch; Kian Lawley; Halston Sage,"Drama, Fantasy",https://letterboxd.com/film/before-i-fall/
-41,Hot Summer Nights,Elijah Bynum,Timothée Chalamet; Maika Monroe; Alex Roe,"Drama, Crime",https://letterboxd.com/film/hot-summer-nights/
-42,Kingsman: The Golden Circle,Matthew Vaughn,Taron Egerton; Colin Firth; Julianne Moore,"Crime, Action, Adventure, Comedy",https://letterboxd.com/film/kingsman-the-golden-circle/
-43,Descendants 2,Kenny Ortega,Dove Cameron; Sofia Carson; Cameron Boyce,"Music, Fantasy, Adventure, Family, TV Movie",https://letterboxd.com/film/descendants-2/
+36,Pitch Perfect 3,Trish Sie,Anna Kendrick; Rebel Wilson; Brittany Snow,"Music, Comedy",https://letterboxd.com/film/pitch-perfect-3/
+37,Pirates of the Caribbean: Dead Men Tell No Tales,"Joachim Rønning, Espen Sandberg",Johnny Depp; Javier Bardem; Geoffrey Rush,"Action, Fantasy, Adventure",https://letterboxd.com/film/pirates-of-the-caribbean-dead-men-tell-no-tales/
+38,To the Bone,Marti Noxon,Lily Collins; Keanu Reeves; Carrie Preston,Drama,https://letterboxd.com/film/to-the-bone-2017/
+39,Before I Fall,Ry Russo-Young,Zoey Deutch; Kian Lawley; Halston Sage,"Drama, Fantasy",https://letterboxd.com/film/before-i-fall/
+40,Hot Summer Nights,Elijah Bynum,Timothée Chalamet; Maika Monroe; Alex Roe,"Drama, Crime",https://letterboxd.com/film/hot-summer-nights/
+41,Happy Death Day,Christopher Landon,Jessica Rothe; Israel Broussard; Charles Aitken,"Horror, Mystery, Comedy",https://letterboxd.com/film/happy-death-day/
+42,God's Own Country,Francis Lee,Josh O'Connor; Alec Secăreanu; Gemma Jones,"Romance, Drama",https://letterboxd.com/film/gods-own-country-2017/
+43,Kingsman: The Golden Circle,Matthew Vaughn,Taron Egerton; Colin Firth; Julianne Moore,"Crime, Action, Adventure, Comedy",https://letterboxd.com/film/kingsman-the-golden-circle/
 44,Wind River,Taylor Sheridan,Jeremy Renner; Elizabeth Olsen; Gil Birmingham,"Mystery, Thriller, Crime",https://letterboxd.com/film/wind-river-2017/
-45,Alien: Covenant,Ridley Scott,Michael Fassbender; Katherine Waterston; Billy Crudup,"Horror, Science Fiction",https://letterboxd.com/film/alien-covenant/
-46,The Babysitter,McG,Judah Lewis; Samara Weaving; Robbie Amell,"Horror, Comedy",https://letterboxd.com/film/the-babysitter-2017/
-47,War for the Planet of the Apes,Matt Reeves,Andy Serkis; Woody Harrelson; Karin Konoval,"War, Drama, Science Fiction",https://letterboxd.com/film/war-for-the-planet-of-the-apes/
-48,The Emoji Movie,Tony Leondis,T.J. Miller; James Corden; Anna Faris,"Animation, Family, Comedy",https://letterboxd.com/film/the-emoji-movie/
-49,Gifted,Marc Webb,Chris Evans; Mckenna Grace; Lindsay Duncan,"Comedy, Drama",https://letterboxd.com/film/gifted-2017/
-50,C'est la vie!,"Olivier Nakache, Éric Toledano",Jean-Pierre Bacri; Gilles Lellouche; Jean-Paul Rouve,Comedy,https://letterboxd.com/film/cest-la-vie-2017/
+45,The Babysitter,McG,Judah Lewis; Samara Weaving; Robbie Amell,"Horror, Comedy",https://letterboxd.com/film/the-babysitter-2017/
+46,Gifted,Marc Webb,Chris Evans; Mckenna Grace; Lindsay Duncan,"Comedy, Drama",https://letterboxd.com/film/gifted-2017/
+47,Alien: Covenant,Ridley Scott,Michael Fassbender; Katherine Waterston; Billy Crudup,"Horror, Science Fiction",https://letterboxd.com/film/alien-covenant/
+48,The Boss Baby,Tom McGrath,Miles Bakshi; Alec Baldwin; Jimmy Kimmel,"Animation, Comedy, Family",https://letterboxd.com/film/the-boss-baby/
+49,War for the Planet of the Apes,Matt Reeves,Andy Serkis; Woody Harrelson; Karin Konoval,"War, Drama, Science Fiction",https://letterboxd.com/film/war-for-the-planet-of-the-apes/
+50,The Emoji Movie,Tony Leondis,T.J. Miller; James Corden; Anna Faris,"Animation, Family, Comedy",https://letterboxd.com/film/the-emoji-movie/

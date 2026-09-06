@@ -4,6 +4,18 @@
   "films": [
     {
       "rank": 1,
+      "title": "The Odyssey",
+      "url": "https://letterboxd.com/film/the-odyssey-2026/",
+      "director": "Christopher Nolan",
+      "actors": [
+        "Matt Damon",
+        "Tom Holland",
+        "Anne Hathaway"
+      ],
+      "genres": "Adventure, Action, Fantasy"
+    },
+    {
+      "rank": 2,
       "title": "Project Hail Mary",
       "url": "https://letterboxd.com/film/project-hail-mary/",
       "director": "Phil Lord, Christopher Miller",
@@ -15,31 +27,43 @@
       "genres": "Comedy, Science Fiction, Adventure"
     },
     {
-      "rank": 2,
+      "rank": 3,
+      "title": "Spider-Man: Brand New Day",
+      "url": "https://letterboxd.com/film/spider-man-brand-new-day/",
+      "director": "Destin Daniel Cretton",
+      "actors": [
+        "Tom Holland",
+        "Zendaya",
+        "Jacob Batalon"
+      ],
+      "genres": "Science Fiction, Action, Adventure"
+    },
+    {
+      "rank": 4,
       "title": "Backrooms",
       "url": "https://letterboxd.com/film/backrooms-2026/",
       "director": "Kane Parsons",
       "actors": [
         "Chiwetel Ejiofor",
         "Renate Reinsve",
-        "Mark Duplass"
+        "Finn Bennett"
       ],
       "genres": "Mystery, Science Fiction, Horror"
     },
     {
-      "rank": 3,
+      "rank": 5,
       "title": "The Drama",
       "url": "https://letterboxd.com/film/the-drama/",
       "director": "Kristoffer Borgli",
       "actors": [
         "Zendaya",
         "Robert Pattinson",
-        "Mamoudou Athie"
+        "Alana Haim"
       ],
       "genres": "Romance, Drama, Comedy"
     },
     {
-      "rank": 4,
+      "rank": 6,
       "title": "Michael",
       "url": "https://letterboxd.com/film/michael-2026/",
       "director": "Antoine Fuqua",
@@ -51,7 +75,19 @@
       "genres": "Music, Drama"
     },
     {
-      "rank": 5,
+      "rank": 7,
+      "title": "The Devil Wears Prada 2",
+      "url": "https://letterboxd.com/film/the-devil-wears-prada-2/",
+      "director": "David Frankel",
+      "actors": [
+        "Anne Hathaway",
+        "Meryl Streep",
+        "Emily Blunt"
+      ],
+      "genres": "Comedy, Drama"
+    },
+    {
+      "rank": 8,
       "title": "Wuthering Heights",
       "url": "https://letterboxd.com/film/wuthering-heights-2026/",
       "director": "Emerald Fennell",
@@ -63,19 +99,7 @@
       "genres": "Romance, Drama"
     },
     {
-      "rank": 6,
-      "title": "The Devil Wears Prada 2",
-      "url": "https://letterboxd.com/film/the-devil-wears-prada-2/",
-      "director": "David Frankel",
-      "actors": [
-        "Meryl Streep",
-        "Anne Hathaway",
-        "Emily Blunt"
-      ],
-      "genres": "Comedy, Drama"
-    },
-    {
-      "rank": 7,
+      "rank": 9,
       "title": "Send Help",
       "url": "https://letterboxd.com/film/send-help/",
       "director": "Sam Raimi",
@@ -87,7 +111,7 @@
       "genres": "Thriller, Horror, Comedy"
     },
     {
-      "rank": 8,
+      "rank": 10,
       "title": "People We Meet on Vacation",
       "url": "https://letterboxd.com/film/people-we-meet-on-vacation/",
       "director": "Brett Haley",
@@ -99,19 +123,7 @@
       "genres": "Comedy, Romance"
     },
     {
-      "rank": 9,
-      "title": "Hoppers",
-      "url": "https://letterboxd.com/film/hoppers/",
-      "director": "Daniel Chong",
-      "actors": [
-        "Piper Curda",
-        "Bobby Moynihan",
-        "Jon Hamm"
-      ],
-      "genres": "Science Fiction, Animation, Adventure, Comedy, Family"
-    },
-    {
-      "rank": 10,
+      "rank": 11,
       "title": "Disclosure Day",
       "url": "https://letterboxd.com/film/disclosure-day/",
       "director": "Steven Spielberg",
@@ -123,28 +135,16 @@
       "genres": "Thriller, Science Fiction"
     },
     {
-      "rank": 11,
-      "title": "28 Years Later: The Bone Temple",
-      "url": "https://letterboxd.com/film/28-years-later-the-bone-temple/",
-      "director": "Nia DaCosta",
-      "actors": [
-        "Ralph Fiennes",
-        "Jack O'Connell",
-        "Alfie Williams"
-      ],
-      "genres": "Horror, Science Fiction, Thriller"
-    },
-    {
       "rank": 12,
-      "title": "The Super Mario Galaxy Movie",
-      "url": "https://letterboxd.com/film/the-super-mario-galaxy-movie/",
-      "director": "Aaron Horvath, Michael Jelenic",
+      "title": "The Sheep Detectives",
+      "url": "https://letterboxd.com/film/the-sheep-detectives/",
+      "director": "Kyle Balda",
       "actors": [
-        "Chris Pratt",
-        "Anya Taylor-Joy",
-        "Charlie Day"
+        "Hugh Jackman",
+        "Nicholas Braun",
+        "Nicholas Galitzine"
       ],
-      "genres": "Adventure, Fantasy, Family, Animation, Comedy"
+      "genres": "Mystery, Family, Comedy"
     },
     {
       "rank": 13,
@@ -160,18 +160,54 @@
     },
     {
       "rank": 14,
-      "title": "The Sheep Detectives",
-      "url": "https://letterboxd.com/film/the-sheep-detectives/",
-      "director": "Kyle Balda",
+      "title": "Hoppers",
+      "url": "https://letterboxd.com/film/hoppers/",
+      "director": "Daniel Chong",
       "actors": [
-        "Hugh Jackman",
-        "Nicholas Braun",
-        "Nicholas Galitzine"
+        "Piper Curda",
+        "Bobby Moynihan",
+        "Jon Hamm"
       ],
-      "genres": "Mystery, Family, Comedy"
+      "genres": "Science Fiction, Animation, Adventure, Comedy, Family"
     },
     {
       "rank": 15,
+      "title": "The Invite",
+      "url": "https://letterboxd.com/film/the-invite-2026/",
+      "director": "Olivia Wilde",
+      "actors": [
+        "Seth Rogen",
+        "Olivia Wilde",
+        "Penélope Cruz"
+      ],
+      "genres": "Romance, Drama, Comedy"
+    },
+    {
+      "rank": 16,
+      "title": "28 Years Later: The Bone Temple",
+      "url": "https://letterboxd.com/film/28-years-later-the-bone-temple/",
+      "director": "Nia DaCosta",
+      "actors": [
+        "Jack O'Connell",
+        "Alfie Williams",
+        "Erin Kellyman"
+      ],
+      "genres": "Horror, Science Fiction, Thriller"
+    },
+    {
+      "rank": 17,
+      "title": "The Super Mario Galaxy Movie",
+      "url": "https://letterboxd.com/film/the-super-mario-galaxy-movie/",
+      "director": "Aaron Horvath, Michael Jelenic",
+      "actors": [
+        "Chris Pratt",
+        "Charlie Day",
+        "Anya Taylor-Joy"
+      ],
+      "genres": "Adventure, Fantasy, Family, Animation, Comedy"
+    },
+    {
+      "rank": 18,
       "title": "Supergirl",
       "url": "https://letterboxd.com/film/supergirl-2026/",
       "director": "Craig Gillespie",
@@ -183,7 +219,31 @@
       "genres": "Action, Science Fiction, Adventure"
     },
     {
-      "rank": 16,
+      "rank": 19,
+      "title": "Voicemails for Isabelle",
+      "url": "https://letterboxd.com/film/voicemails-for-isabelle/",
+      "director": "Leah McKendrick",
+      "actors": [
+        "Zoey Deutch",
+        "Nick Robinson",
+        "Harry Shum Jr."
+      ],
+      "genres": "Comedy, Romance, Drama"
+    },
+    {
+      "rank": 20,
+      "title": "Ready or Not 2: Here I Come",
+      "url": "https://letterboxd.com/film/ready-or-not-2-here-i-come/",
+      "director": "Matt Bettinelli-Olpin, Tyler Gillett",
+      "actors": [
+        "Samara Weaving",
+        "Kathryn Newton",
+        "Sarah Michelle Gellar"
+      ],
+      "genres": "Comedy, Horror"
+    },
+    {
+      "rank": 21,
       "title": "Scream 7",
       "url": "https://letterboxd.com/film/scream-7/",
       "director": "Kevin Williamson",
@@ -195,43 +255,7 @@
       "genres": "Horror, Crime, Mystery"
     },
     {
-      "rank": 17,
-      "title": "Voicemails for Isabelle",
-      "url": "https://letterboxd.com/film/voicemails-for-isabelle/",
-      "director": "Leah McKendrick",
-      "actors": [
-        "Zoey Deutch",
-        "Nick Robinson",
-        "Ciara Bravo"
-      ],
-      "genres": "Comedy, Romance"
-    },
-    {
-      "rank": 18,
-      "title": "Ready or Not 2: Here I Come",
-      "url": "https://letterboxd.com/film/ready-or-not-2-here-i-come/",
-      "director": "Matt Bettinelli-Olpin, Tyler Gillett",
-      "actors": [
-        "Samara Weaving",
-        "Kathryn Newton",
-        "Sarah Michelle Gellar"
-      ],
-      "genres": "Thriller, Comedy, Horror"
-    },
-    {
-      "rank": 19,
-      "title": "The Mandalorian and Grogu",
-      "url": "https://letterboxd.com/film/the-mandalorian-and-grogu/",
-      "director": "Jon Favreau",
-      "actors": [
-        "Pedro Pascal",
-        "Jeremy Allen White",
-        "Sigourney Weaver"
-      ],
-      "genres": "Science Fiction, Action, Adventure"
-    },
-    {
-      "rank": 20,
+      "rank": 22,
       "title": "Hokum",
       "url": "https://letterboxd.com/film/hokum/",
       "director": "Damian McCarthy",
@@ -240,154 +264,10 @@
         "Peter Coonan",
         "David Wilmot"
       ],
-      "genres": "Horror"
-    },
-    {
-      "rank": 21,
-      "title": "Scary Movie",
-      "url": "https://letterboxd.com/film/scary-movie-2026/",
-      "director": "Michael Tiddes",
-      "actors": [
-        "Marlon Wayans",
-        "Shawn Wayans",
-        "Anna Faris"
-      ],
-      "genres": "Comedy, Horror"
-    },
-    {
-      "rank": 22,
-      "title": "Apex",
-      "url": "https://letterboxd.com/film/apex-2026/",
-      "director": "Baltasar Kormákur",
-      "actors": [
-        "Charlize Theron",
-        "Taron Egerton",
-        "Eric Bana"
-      ],
-      "genres": "Action, Thriller"
+      "genres": "Horror, Thriller"
     },
     {
       "rank": 23,
-      "title": "The Rip",
-      "url": "https://letterboxd.com/film/the-rip-2026/",
-      "director": "Joe Carnahan",
-      "actors": [
-        "Matt Damon",
-        "Ben Affleck",
-        "Teyana Taylor"
-      ],
-      "genres": "Action, Crime, Thriller"
-    },
-    {
-      "rank": 24,
-      "title": "Iron Lung",
-      "url": "https://letterboxd.com/film/iron-lung/",
-      "director": "Mark Fischbach",
-      "actors": [
-        "Mark Fischbach",
-        "Caroline Kaplan",
-        "Troy Baker"
-      ],
-      "genres": "Mystery, Science Fiction, Horror"
-    },
-    {
-      "rank": 25,
-      "title": "The Bride!",
-      "url": "https://letterboxd.com/film/the-bride-2026/",
-      "director": "Maggie Gyllenhaal",
-      "actors": [
-        "Jessie Buckley",
-        "Christian Bale",
-        "Peter Sarsgaard"
-      ],
-      "genres": "Horror, Science Fiction, Fantasy"
-    },
-    {
-      "rank": 26,
-      "title": "Lee Cronin's The Mummy",
-      "url": "https://letterboxd.com/film/lee-cronins-the-mummy/",
-      "director": "Lee Cronin",
-      "actors": [
-        "Jack Reynor",
-        "Laia Costa",
-        "May Calamawy"
-      ],
-      "genres": "Horror, Mystery"
-    },
-    {
-      "rank": 27,
-      "title": "Roommates",
-      "url": "https://letterboxd.com/film/roommates-2026/",
-      "director": "Chandler Levack",
-      "actors": [
-        "Sadie Sandler",
-        "Chloe East",
-        "Billy Bryk"
-      ],
-      "genres": "Comedy"
-    },
-    {
-      "rank": 28,
-      "title": "How to Make a Killing",
-      "url": "https://letterboxd.com/film/how-to-make-a-killing-2026/",
-      "director": "John Patton Ford",
-      "actors": [
-        "Glen Powell",
-        "Margaret Qualley",
-        "Jessica Henwick"
-      ],
-      "genres": "Comedy, Thriller"
-    },
-    {
-      "rank": 29,
-      "title": "GOAT",
-      "url": "https://letterboxd.com/film/goat-2026/",
-      "director": "Tyree Dillihay",
-      "actors": [
-        "Caleb McLaughlin",
-        "Gabrielle Union",
-        "Stephen Curry"
-      ],
-      "genres": "Family, Animation, Comedy"
-    },
-    {
-      "rank": 30,
-      "title": "They Will Kill You",
-      "url": "https://letterboxd.com/film/they-will-kill-you/",
-      "director": "Kirill Sokolov",
-      "actors": [
-        "Zazie Beetz",
-        "Myha'la",
-        "Paterson Joseph"
-      ],
-      "genres": "Action, Comedy, Horror"
-    },
-    {
-      "rank": 31,
-      "title": "Crime 101",
-      "url": "https://letterboxd.com/film/crime-101/",
-      "director": "Bart Layton",
-      "actors": [
-        "Chris Hemsworth",
-        "Mark Ruffalo",
-        "Halle Berry"
-      ],
-      "genres": "Crime, Thriller"
-    },
-    {
-      "rank": 32,
-      "title": "Peaky Blinders: The Immortal Man",
-      "url": "https://letterboxd.com/film/peaky-blinders-the-immortal-man/",
-      "director": "Tom Harper",
-      "actors": [
-        "Cillian Murphy",
-        "Barry Keoghan",
-        "Rebecca Ferguson"
-      ],
-      "genres": "Crime, Drama"
-    },
-    {
-      "rank": 33,
       "title": "Masters of the Universe",
       "url": "https://letterboxd.com/film/masters-of-the-universe-2026/",
       "director": "Travis Knight",
@@ -399,127 +279,79 @@
       "genres": "Science Fiction, Action, Fantasy"
     },
     {
-      "rank": 34,
-      "title": "The Moment",
-      "url": "https://letterboxd.com/film/the-moment-2026/",
-      "director": "Aidan Zamiri",
+      "rank": 24,
+      "title": "Scary Movie",
+      "url": "https://letterboxd.com/film/scary-movie-2026/",
+      "director": "Michael Tiddes",
       "actors": [
-        "Charli xcx",
-        "Alexander Skarsgård",
-        "Rosanna Arquette"
+        "Marlon Wayans",
+        "Shawn Wayans",
+        "Anna Faris"
       ],
-      "genres": "Music, Comedy, Thriller"
+      "genres": "Comedy"
     },
     {
-      "rank": 35,
-      "title": "Louis Theroux: Inside the Manosphere",
-      "url": "https://letterboxd.com/film/louis-theroux-inside-the-manosphere/",
-      "director": "Adrian Choa",
-      "actors": [
-        "Louis Theroux",
-        "HSTikkyTokky",
-        "Myron Gaines"
-      ],
-      "genres": "Documentary"
-    },
-    {
-      "rank": 36,
-      "title": "Mortal Kombat II",
-      "url": "https://letterboxd.com/film/mortal-kombat-ii/",
-      "director": "Simon McQuoid",
-      "actors": [
-        "Karl Urban",
-        "Adeline Rudolph",
-        "Ludi Lin"
-      ],
-      "genres": "Adventure, Fantasy, Action"
-    },
-    {
-      "rank": 37,
-      "title": "Enola Holmes 3",
-      "url": "https://letterboxd.com/film/enola-holmes-3/",
-      "director": "Philip Barantini",
-      "actors": [
-        "Millie Bobby Brown",
-        "Henry Cavill",
-        "Helena Bonham Carter"
-      ],
-      "genres": "Adventure, Mystery, Crime"
-    },
-    {
-      "rank": 38,
-      "title": "Swapped",
-      "url": "https://letterboxd.com/film/swapped-2026/",
-      "director": "Nathan Greno",
-      "actors": [
-        "Michael B. Jordan",
-        "Juno Temple",
-        "Tracy Morgan"
-      ],
-      "genres": "Family, Adventure, Fantasy, Animation"
-    },
-    {
-      "rank": 39,
+      "rank": 25,
       "title": "Minions & Monsters",
       "url": "https://letterboxd.com/film/minions-monsters-2026/",
       "director": "Pierre Coffin",
       "actors": [
         "Pierre Coffin",
         "Trey Parker",
-        "Allison Janney"
+        "Christoph Waltz"
       ],
       "genres": "Adventure, Fantasy, Family, Animation, Comedy"
     },
     {
-      "rank": 40,
-      "title": "Remarkably Bright Creatures",
-      "url": "https://letterboxd.com/film/remarkably-bright-creatures/",
-      "director": "Olivia Newman",
+      "rank": 26,
+      "title": "The Mandalorian and Grogu",
+      "url": "https://letterboxd.com/film/the-mandalorian-and-grogu/",
+      "director": "Jon Favreau",
       "actors": [
-        "Sally Field",
-        "Lewis Pullman",
-        "Colm Meaney"
+        "Pedro Pascal",
+        "Jeremy Allen White",
+        "Sigourney Weaver"
       ],
-      "genres": "Mystery, Drama"
+      "genres": "Science Fiction, Action, Adventure"
     },
     {
-      "rank": 41,
-      "title": "Thrash",
-      "url": "https://letterboxd.com/film/thrash-2026/",
-      "director": "Tommy Wirkola",
+      "rank": 27,
+      "title": "The End of Oak Street",
+      "url": "https://letterboxd.com/film/the-end-of-oak-street/",
+      "director": "David Robert Mitchell",
       "actors": [
-        "Phoebe Dynevor",
-        "Whitney Peak",
-        "Djimon Hounsou"
+        "Anne Hathaway",
+        "Ewan McGregor",
+        "Maisy Stella"
       ],
-      "genres": "Horror, Thriller"
+      "genres": "Mystery, Thriller, Science Fiction"
     },
     {
-      "rank": 42,
-      "title": "I Love Boosters",
-      "url": "https://letterboxd.com/film/i-love-boosters/",
-      "director": "Boots Riley",
+      "rank": 28,
+      "title": "Evil Dead Burn",
+      "url": "https://letterboxd.com/film/evil-dead-burn/",
+      "director": "Sébastien Vaniček",
       "actors": [
-        "Keke Palmer",
-        "Naomi Ackie",
-        "Taylour Paige"
+        "Souheila Yacoub",
+        "Tandi Wright",
+        "Hunter Doohan"
       ],
-      "genres": "Crime, Science Fiction, Comedy"
+      "genres": "Horror"
     },
     {
-      "rank": 43,
-      "title": "War Machine",
-      "url": "https://letterboxd.com/film/war-machine-2026/",
-      "director": "Patrick Hughes",
+      "rank": 29,
+      "title": "Lee Cronin's The Mummy",
+      "url": "https://letterboxd.com/film/lee-cronins-the-mummy/",
+      "director": "Lee Cronin",
       "actors": [
-        "Alan Ritchson",
-        "Dennis Quaid",
-        "Stephan James"
+        "Jack Reynor",
+        "Laia Costa",
+        "May Calamawy"
       ],
-      "genres": "Action, Science Fiction, Thriller"
+      "genres": "Horror, Mystery"
     },
     {
-      "rank": 44,
+      "rank": 30,
       "title": "Leviticus",
       "url": "https://letterboxd.com/film/leviticus-2026/",
       "director": "Adrian Chiarella",
@@ -531,76 +363,244 @@
       "genres": "Horror, Romance"
     },
     {
-      "rank": 45,
-      "title": "Mercy",
-      "url": "https://letterboxd.com/film/mercy-2026/",
-      "director": "Timur Bekmambetov",
+      "rank": 31,
+      "title": "Enola Holmes 3",
+      "url": "https://letterboxd.com/film/enola-holmes-3/",
+      "director": "Philip Barantini",
       "actors": [
-        "Chris Pratt",
-        "Rebecca Ferguson",
-        "Kali Reis"
+        "Millie Bobby Brown",
+        "Henry Cavill",
+        "Helena Bonham Carter"
       ],
-      "genres": "Science Fiction, Action, Thriller"
+      "genres": "Adventure, Mystery, Crime"
+    },
+    {
+      "rank": 32,
+      "title": "Apex",
+      "url": "https://letterboxd.com/film/apex-2026/",
+      "director": "Baltasar Kormákur",
+      "actors": [
+        "Charlize Theron",
+        "Taron Egerton",
+        "Eric Bana"
+      ],
+      "genres": "Action, Thriller"
+    },
+    {
+      "rank": 33,
+      "title": "The Rip",
+      "url": "https://letterboxd.com/film/the-rip-2026/",
+      "director": "Joe Carnahan",
+      "actors": [
+        "Matt Damon",
+        "Ben Affleck",
+        "Teyana Taylor"
+      ],
+      "genres": "Action, Crime, Thriller"
+    },
+    {
+      "rank": 34,
+      "title": "Iron Lung",
+      "url": "https://letterboxd.com/film/iron-lung/",
+      "director": "Mark Fischbach",
+      "actors": [
+        "Mark Fischbach",
+        "Caroline Kaplan",
+        "Troy Baker"
+      ],
+      "genres": "Mystery, Science Fiction, Horror"
+    },
+    {
+      "rank": 35,
+      "title": "How to Make a Killing",
+      "url": "https://letterboxd.com/film/how-to-make-a-killing-2026/",
+      "director": "John Patton Ford",
+      "actors": [
+        "Glen Powell",
+        "Margaret Qualley",
+        "Jessica Henwick"
+      ],
+      "genres": "Comedy, Thriller"
+    },
+    {
+      "rank": 36,
+      "title": "The Last House",
+      "url": "https://letterboxd.com/film/the-last-house-2026/",
+      "director": "Louis Leterrier",
+      "actors": [
+        "Greta Lee",
+        "Wagner Moura",
+        "Riley Chung"
+      ],
+      "genres": "Thriller, Science Fiction, Horror"
+    },
+    {
+      "rank": 37,
+      "title": "The Bride!",
+      "url": "https://letterboxd.com/film/the-bride-2026/",
+      "director": "Maggie Gyllenhaal",
+      "actors": [
+        "Jessie Buckley",
+        "Christian Bale",
+        "Peter Sarsgaard"
+      ],
+      "genres": "Horror, Science Fiction, Fantasy"
+    },
+    {
+      "rank": 38,
+      "title": "Roommates",
+      "url": "https://letterboxd.com/film/roommates-2026/",
+      "director": "Chandler Levack",
+      "actors": [
+        "Sadie Sandler",
+        "Chloe East",
+        "Billy Bryk"
+      ],
+      "genres": "Comedy"
+    },
+    {
+      "rank": 39,
+      "title": "Avatar Aang: The Last Airbender",
+      "url": "https://letterboxd.com/film/avatar-aang-the-last-airbender/",
+      "director": "Lauren Montgomery",
+      "actors": [
+        "Eric Nam",
+        "Dave Bautista",
+        "Jessica Matten"
+      ],
+      "genres": "Animation, Family, Fantasy, Adventure"
+    },
+    {
+      "rank": 40,
+      "title": "They Will Kill You",
+      "url": "https://letterboxd.com/film/they-will-kill-you/",
+      "director": "Kirill Sokolov",
+      "actors": [
+        "Zazie Beetz",
+        "Patricia Arquette",
+        "Myha'la"
+      ],
+      "genres": "Action, Comedy, Thriller, Horror"
+    },
+    {
+      "rank": 41,
+      "title": "GOAT",
+      "url": "https://letterboxd.com/film/goat-2026/",
+      "director": "Tyree Dillihay",
+      "actors": [
+        "Caleb McLaughlin",
+        "Gabrielle Union",
+        "Stephen Curry"
+      ],
+      "genres": "Family, Animation, Comedy"
+    },
+    {
+      "rank": 42,
+      "title": "Mortal Kombat II",
+      "url": "https://letterboxd.com/film/mortal-kombat-ii/",
+      "director": "Simon McQuoid",
+      "actors": [
+        "Adeline Rudolph",
+        "Karl Urban",
+        "Martyn Ford"
+      ],
+      "genres": "Adventure, Fantasy, Action"
+    },
+    {
+      "rank": 43,
+      "title": "Teenage Sex and Death at Camp Miasma",
+      "url": "https://letterboxd.com/film/teenage-sex-and-death-at-camp-miasma/",
+      "director": "Jane Schoenbrun",
+      "actors": [
+        "Hannah Einbinder",
+        "Gillian Anderson",
+        "Amanda Fix"
+      ],
+      "genres": "Horror, Comedy, Romance"
+    },
+    {
+      "rank": 44,
+      "title": "Crime 101",
+      "url": "https://letterboxd.com/film/crime-101/",
+      "director": "Bart Layton",
+      "actors": [
+        "Chris Hemsworth",
+        "Mark Ruffalo",
+        "Halle Berry"
+      ],
+      "genres": "Crime, Thriller"
+    },
+    {
+      "rank": 45,
+      "title": "The Moment",
+      "url": "https://letterboxd.com/film/the-moment-2026/",
+      "director": "Aidan Zamiri",
+      "actors": [
+        "Charli xcx",
+        "Alexander Skarsgård",
+        "Rosanna Arquette"
+      ],
+      "genres": "Music, Comedy, Thriller"
     },
     {
       "rank": 46,
-      "title": "Pizza Movie",
-      "url": "https://letterboxd.com/film/pizza-movie-2026/",
-      "director": "Nick Kocher, Brian McElhaney",
+      "title": "Peaky Blinders: The Immortal Man",
+      "url": "https://letterboxd.com/film/peaky-blinders-the-immortal-man/",
+      "director": "Tom Harper",
       "actors": [
-        "Gaten Matarazzo",
-        "Sean Giambrone",
-        "Lulu Wilson"
+        "Cillian Murphy",
+        "Barry Keoghan",
+        "Rebecca Ferguson"
       ],
-      "genres": "Adventure, Fantasy, Comedy"
+      "genres": "Crime, Drama"
     },
     {
       "rank": 47,
-      "title": "Forbidden Fruits",
-      "url": "https://letterboxd.com/film/forbidden-fruits-2026/",
-      "director": "Meredith Alloway",
+      "title": "Louis Theroux: Inside the Manosphere",
+      "url": "https://letterboxd.com/film/louis-theroux-inside-the-manosphere/",
+      "director": "Adrian Choa",
       "actors": [
-        "Lili Reinhart",
-        "Lola Tung",
-        "Victoria Pedretti"
+        "Louis Theroux",
+        "HSTikkyTokky",
+        "Myron Gaines"
       ],
-      "genres": "Comedy, Horror"
+      "genres": "Documentary"
     },
     {
       "rank": 48,
-      "title": "The Amazing Digital Circus: The Last Act",
-      "url": "https://letterboxd.com/film/the-amazing-digital-circus-the-last-act/",
-      "director": "Gooseworx",
+      "title": "Remarkably Bright Creatures",
+      "url": "https://letterboxd.com/film/remarkably-bright-creatures/",
+      "director": "Olivia Newman",
       "actors": [
-        "Lizzie Freeman",
-        "Alex Rochon",
-        "Michael Kovach"
+        "Sally Field",
+        "Lewis Pullman",
+        "Colm Meaney"
       ],
-      "genres": "Drama, Thriller, Animation, Science Fiction"
+      "genres": "Mystery, Drama"
     },
     {
       "rank": 49,
-      "title": "Pretty Lethal",
-      "url": "https://letterboxd.com/film/pretty-lethal/",
-      "director": "Vicky Jewson",
+      "title": "Swapped",
+      "url": "https://letterboxd.com/film/swapped-2026/",
+      "director": "Nathan Greno",
       "actors": [
-        "Maddie Ziegler",
-        "Lana Condor",
-        "Iris Apatow"
+        "Michael B. Jordan",
+        "Juno Temple",
+        "Tracy Morgan"
       ],
-      "genres": "Music, Horror, Action, Thriller"
+      "genres": "Family, Adventure, Fantasy, Animation"
     },
     {
       "rank": 50,
-      "title": "Return to Silent Hill",
-      "url": "https://letterboxd.com/film/return-to-silent-hill/",
-      "director": "Christophe Gans",
+      "title": "Tony",
+      "url": "https://letterboxd.com/film/tony-2026/",
+      "director": "Matt Johnson",
       "actors": [
-        "Jeremy Irvine",
-        "Hannah Emily Anderson",
-        "Ljiljana Velimirov"
+        "Dominic Sessa",
+        "Antonio Banderas",
+        "Emilia Jones"
       ],
-      "genres": "Mystery, Horror, Drama"
+      "genres": "Comedy, Drama"
     }
   ]
 }

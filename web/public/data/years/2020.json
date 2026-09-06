@@ -16,18 +16,6 @@
     },
     {
       "rank": 2,
-      "title": "Enola Holmes",
-      "url": "https://letterboxd.com/film/enola-holmes/",
-      "director": "Harry Bradbeer",
-      "actors": [
-        "Millie Bobby Brown",
-        "Henry Cavill",
-        "Sam Claflin"
-      ],
-      "genres": "Mystery, Crime, Adventure"
-    },
-    {
-      "rank": 3,
       "title": "Tenet",
       "url": "https://letterboxd.com/film/tenet/",
       "director": "Christopher Nolan",
@@ -37,6 +25,18 @@
         "Elizabeth Debicki"
       ],
       "genres": "Science Fiction, Action, Thriller"
+    },
+    {
+      "rank": 3,
+      "title": "Enola Holmes",
+      "url": "https://letterboxd.com/film/enola-holmes/",
+      "director": "Harry Bradbeer",
+      "actors": [
+        "Millie Bobby Brown",
+        "Henry Cavill",
+        "Sam Claflin"
+      ],
+      "genres": "Mystery, Crime, Adventure"
     },
     {
       "rank": 4,
@@ -76,18 +76,6 @@
     },
     {
       "rank": 7,
-      "title": "Spree",
-      "url": "https://letterboxd.com/film/spree-2020/",
-      "director": "Eugene Kotlyarenko",
-      "actors": [
-        "Joe Keery",
-        "Sasheer Zamata",
-        "David Arquette"
-      ],
-      "genres": "Horror, Thriller, Comedy"
-    },
-    {
-      "rank": 8,
       "title": "To All the Boys: P.S. I Still Love You",
       "url": "https://letterboxd.com/film/to-all-the-boys-ps-i-still-love-you/",
       "director": "Michael Fimognari",
@@ -99,30 +87,7 @@
       "genres": "Comedy, Romance"
     },
     {
-      "rank": 9,
-      "title": "Greenland",
-      "url": "https://letterboxd.com/film/greenland/",
-      "director": "Ric Roman Waugh",
-      "actors": [
-        "Gerard Butler",
-        "Morena Baccarin",
-        "David Denman"
-      ],
-      "genres": "Action, Science Fiction, Thriller"
-    },
-    {
-      "rank": 10,
-      "title": "Normal People",
-      "url": "https://letterboxd.com/film/normal-people-2020/",
-      "director": "Lenny Abrahamson, Hettie Macdonald",
-      "actors": [
-        "Paul Mescal",
-        "Daisy Edgar-Jones"
-      ],
-      "genres": "Drama"
-    },
-    {
-      "rank": 11,
+      "rank": 8,
       "title": "Dinner in America",
       "url": "https://letterboxd.com/film/dinner-in-america/",
       "director": "Adam Rehmeier",
@@ -131,7 +96,42 @@
         "Emily Skeggs",
         "Pat Healy"
       ],
-      "genres": "Comedy, Romance, Music"
+      "genres": "Comedy, Romance"
+    },
+    {
+      "rank": 9,
+      "title": "Emma.",
+      "url": "https://letterboxd.com/film/emma-2020/",
+      "director": "Autumn de Wilde",
+      "actors": [
+        "Anya Taylor-Joy",
+        "Johnny Flynn",
+        "Josh O'Connor"
+      ],
+      "genres": "Drama, Romance, Comedy"
+    },
+    {
+      "rank": 10,
+      "title": "Spree",
+      "url": "https://letterboxd.com/film/spree-2020/",
+      "director": "Eugene Kotlyarenko",
+      "actors": [
+        "Joe Keery",
+        "David Arquette",
+        "Joshua Ovalle"
+      ],
+      "genres": "Horror, Thriller, Comedy"
+    },
+    {
+      "rank": 11,
+      "title": "Normal People",
+      "url": "https://letterboxd.com/film/normal-people-2020/",
+      "director": "Lenny Abrahamson, Hettie Macdonald",
+      "actors": [
+        "Paul Mescal",
+        "Daisy Edgar-Jones"
+      ],
+      "genres": "Drama"
     },
     {
       "rank": 12,
@@ -147,30 +147,18 @@
     },
     {
       "rank": 13,
-      "title": "Emma.",
-      "url": "https://letterboxd.com/film/emma-2020/",
-      "director": "Autumn de Wilde",
+      "title": "Greenland",
+      "url": "https://letterboxd.com/film/greenland/",
+      "director": "Ric Roman Waugh",
       "actors": [
-        "Anya Taylor-Joy",
-        "Johnny Flynn",
-        "Josh O'Connor"
+        "Gerard Butler",
+        "Morena Baccarin",
+        "David Denman"
       ],
-      "genres": "Drama, Romance, Comedy"
+      "genres": "Action, Science Fiction, Thriller"
     },
     {
       "rank": 14,
-      "title": "All the Bright Places",
-      "url": "https://letterboxd.com/film/all-the-bright-places/",
-      "director": "Brett Haley",
-      "actors": [
-        "Elle Fanning",
-        "Justice Smith",
-        "Alexandra Shipp"
-      ],
-      "genres": "Romance, Drama"
-    },
-    {
-      "rank": 15,
       "title": "The Invisible Man",
       "url": "https://letterboxd.com/film/the-invisible-man-2020/",
       "director": "Leigh Whannell",
@@ -182,7 +170,31 @@
       "genres": "Science Fiction, Horror, Thriller"
     },
     {
+      "rank": 15,
+      "title": "The Devil All the Time",
+      "url": "https://letterboxd.com/film/the-devil-all-the-time/",
+      "director": "Antonio Campos",
+      "actors": [
+        "Tom Holland",
+        "Robert Pattinson",
+        "Bill Skarsgård"
+      ],
+      "genres": "Crime, Drama, Thriller"
+    },
+    {
       "rank": 16,
+      "title": "All the Bright Places",
+      "url": "https://letterboxd.com/film/all-the-bright-places/",
+      "director": "Brett Haley",
+      "actors": [
+        "Elle Fanning",
+        "Justice Smith",
+        "Alexandra Shipp"
+      ],
+      "genres": "Romance, Drama"
+    },
+    {
+      "rank": 17,
       "title": "Promising Young Woman",
       "url": "https://letterboxd.com/film/promising-young-woman/",
       "director": "Emerald Fennell",
@@ -194,7 +206,7 @@
       "genres": "Crime, Drama, Thriller"
     },
     {
-      "rank": 17,
+      "rank": 18,
       "title": "A Quiet Place Part II",
       "url": "https://letterboxd.com/film/a-quiet-place-part-ii/",
       "director": "John Krasinski",
@@ -204,18 +216,6 @@
         "Millicent Simmonds"
       ],
       "genres": "Science Fiction, Horror, Thriller"
-    },
-    {
-      "rank": 18,
-      "title": "I'm Thinking of Ending Things",
-      "url": "https://letterboxd.com/film/im-thinking-of-ending-things/",
-      "director": "Charlie Kaufman",
-      "actors": [
-        "Jesse Plemons",
-        "Jessie Buckley",
-        "Toni Collette"
-      ],
-      "genres": "Fantasy, Thriller, Mystery, Drama"
     },
     {
       "rank": 19,
@@ -231,15 +231,15 @@
     },
     {
       "rank": 20,
-      "title": "Caveat",
-      "url": "https://letterboxd.com/film/caveat-2020/",
-      "director": "Damian McCarthy",
+      "title": "I'm Thinking of Ending Things",
+      "url": "https://letterboxd.com/film/im-thinking-of-ending-things/",
+      "director": "Charlie Kaufman",
       "actors": [
-        "Jonathan French",
-        "Leila Sykes",
-        "Ben Caplan"
+        "Jesse Plemons",
+        "Jessie Buckley",
+        "Toni Collette"
       ],
-      "genres": "Mystery, Horror"
+      "genres": "Fantasy, Thriller, Mystery, Drama"
     },
     {
       "rank": 21,
@@ -254,26 +254,6 @@
     },
     {
       "rank": 22,
-      "title": "The Devil All the Time",
-      "url": "https://letterboxd.com/film/the-devil-all-the-time/",
-      "director": "Antonio Campos",
-      "actors": [
-        "Tom Holland",
-        "Robert Pattinson",
-        "Bill Skarsgård"
-      ],
-      "genres": "Crime, Drama, Thriller"
-    },
-    {
-      "rank": 23,
-      "title": "JUJUTSU KAISEN",
-      "url": "https://letterboxd.com/film/jujutsu-kaisen/",
-      "director": "Yui Umemoto, Ryohei Takeshita, Kakushi Ifuku, Hideaki Abe, Yosuke Takada, Eri Osada, Sunghoo Park, Shota Goshozono, Ken Takahashi, Daisuke Tsukushi, Masataka Akai, Hironori Tanaka, Chie Nishizawa, Masato Nakazono, Ryu Nakayama, Tomomi Kamiya, Naoki Miyajima, Arifumi Imai, Atsushi Nakagawa, Ryota Aikei, Yooto, Hiroyuki Kitakubo, Teppei Okuda, Hayato Kurosaki, Shunsuke Okubo, Takumi Sunakohara, Kazuto Arai, Hokuto Sadamoto, Fei Hung, Isuta, Itsuki Tsuchigami, Hakuyu Go, Harumi Yamazaki, Yuji Tokuno, Tetsuya Akutsu, Takumi Ichikawa, Risa Suzuki, Yusuke Sunouchi, Masaomi Ando, Seimei Kidokoro, Takeru Sato, Shinya Iino, Hiroshi Kobayashi, Hiroaki Yamamoto",
-      "actors": [],
-      "genres": "Animation"
-    },
-    {
-      "rank": 24,
       "title": "Host",
       "url": "https://letterboxd.com/film/host-2020/",
       "director": "Rob Savage",
@@ -285,16 +265,36 @@
       "genres": "Horror"
     },
     {
-      "rank": 25,
-      "title": "Your Name Engraved Herein",
-      "url": "https://letterboxd.com/film/your-name-engraved-herein/",
-      "director": "Kuang-Hui Liu",
+      "rank": 23,
+      "title": "Caveat",
+      "url": "https://letterboxd.com/film/caveat-2020/",
+      "director": "Damian McCarthy",
       "actors": [
-        "Edward Chen",
-        "Tseng Jing-hua",
-        "Leon Dai"
+        "Jonathan French",
+        "Leila Sykes",
+        "Ben Caplan"
       ],
-      "genres": "Romance, Drama"
+      "genres": "Mystery, Horror"
+    },
+    {
+      "rank": 24,
+      "title": "JUJUTSU KAISEN",
+      "url": "https://letterboxd.com/film/jujutsu-kaisen/",
+      "director": "Yui Umemoto, Ryohei Takeshita, Kakushi Ifuku, Hideaki Abe, Yosuke Takada, Eri Osada, Sunghoo Park, Shota Goshozono, Ken Takahashi, Daisuke Tsukushi, Masataka Akai, Hironori Tanaka, Chie Nishizawa, Masato Nakazono, Ryu Nakayama, Tomomi Kamiya, Naoki Miyajima, Arifumi Imai, Atsushi Nakagawa, Ryota Aikei, Yooto, Hiroyuki Kitakubo, Teppei Okuda, Hayato Kurosaki, Shunsuke Okubo, Takumi Sunakohara, Kazuto Arai, Hokuto Sadamoto, Fei Hung, Isuta, Itsuki Tsuchigami, Hakuyu Go, Harumi Yamazaki, Yuji Tokuno, Tetsuya Akutsu, Takumi Ichikawa, Risa Suzuki, Yusuke Sunouchi, Masaomi Ando, Seimei Kidokoro, Takeru Sato, Shinya Iino, Hiroshi Kobayashi, Hiroaki Yamamoto",
+      "actors": [],
+      "genres": "Animation"
+    },
+    {
+      "rank": 25,
+      "title": "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)",
+      "url": "https://letterboxd.com/film/birds-of-prey-and-the-fantabulous-emancipation-of-one-harley-quinn/",
+      "director": "Cathy Yan",
+      "actors": [
+        "Margot Robbie",
+        "Rosie Perez",
+        "Mary Elizabeth Winstead"
+      ],
+      "genres": "Action, Crime"
     },
     {
       "rank": 26,
@@ -310,54 +310,18 @@
     },
     {
       "rank": 27,
-      "title": "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)",
-      "url": "https://letterboxd.com/film/birds-of-prey-and-the-fantabulous-emancipation-of-one-harley-quinn/",
-      "director": "Cathy Yan",
+      "title": "Your Name Engraved Herein",
+      "url": "https://letterboxd.com/film/your-name-engraved-herein/",
+      "director": "Kuang-Hui Liu",
       "actors": [
-        "Margot Robbie",
-        "Rosie Perez",
-        "Mary Elizabeth Winstead"
+        "Edward Chen",
+        "Tseng Jing-hua",
+        "Leon Dai"
       ],
-      "genres": "Action, Crime"
+      "genres": "Romance, Drama"
     },
     {
       "rank": 28,
-      "title": "The Half of It",
-      "url": "https://letterboxd.com/film/the-half-of-it/",
-      "director": "Alice Wu",
-      "actors": [
-        "Leah Lewis",
-        "Daniel Diemer",
-        "Alexxis Lemire"
-      ],
-      "genres": "Romance, Comedy, Drama"
-    },
-    {
-      "rank": 29,
-      "title": "Minari",
-      "url": "https://letterboxd.com/film/minari/",
-      "director": "Lee Isaac Chung",
-      "actors": [
-        "Steven Yeun",
-        "Han Ye-ri",
-        "Youn Yuh-jung"
-      ],
-      "genres": "Drama"
-    },
-    {
-      "rank": 30,
-      "title": "Nomadland",
-      "url": "https://letterboxd.com/film/nomadland/",
-      "director": "Chloé Zhao",
-      "actors": [
-        "Frances McDormand",
-        "David Strathairn",
-        "Linda May"
-      ],
-      "genres": "Drama"
-    },
-    {
-      "rank": 31,
       "title": "Sonic the Hedgehog",
       "url": "https://letterboxd.com/film/sonic-the-hedgehog/",
       "director": "Jeff Fowler",
@@ -369,7 +333,31 @@
       "genres": "Comedy, Family, Science Fiction, Action"
     },
     {
-      "rank": 32,
+      "rank": 29,
+      "title": "Nomadland",
+      "url": "https://letterboxd.com/film/nomadland/",
+      "director": "Chloé Zhao",
+      "actors": [
+        "Frances McDormand",
+        "David Strathairn",
+        "Linda May"
+      ],
+      "genres": "Drama"
+    },
+    {
+      "rank": 30,
+      "title": "The Half of It",
+      "url": "https://letterboxd.com/film/the-half-of-it/",
+      "director": "Alice Wu",
+      "actors": [
+        "Leah Lewis",
+        "Daniel Diemer",
+        "Alexxis Lemire"
+      ],
+      "genres": "Romance, Comedy, Drama"
+    },
+    {
+      "rank": 31,
       "title": "The Kissing Booth 2",
       "url": "https://letterboxd.com/film/the-kissing-booth-2/",
       "director": "Vince Marcello",
@@ -381,16 +369,28 @@
       "genres": "Comedy, Romance"
     },
     {
-      "rank": 33,
-      "title": "Love and Monsters",
-      "url": "https://letterboxd.com/film/love-and-monsters/",
-      "director": "Michael Matthews",
+      "rank": 32,
+      "title": "Minari",
+      "url": "https://letterboxd.com/film/minari/",
+      "director": "Lee Isaac Chung",
       "actors": [
-        "Dylan O'Brien",
-        "Jessica Henwick",
-        "Michael Rooker"
+        "Steven Yeun",
+        "Han Ye-ri",
+        "Youn Yuh-jung"
       ],
-      "genres": "Comedy, Adventure, Fantasy"
+      "genres": "Drama"
+    },
+    {
+      "rank": 33,
+      "title": "Little Fish",
+      "url": "https://letterboxd.com/film/little-fish-2020/",
+      "director": "Chad Hartigan",
+      "actors": [
+        "Olivia Cooke",
+        "Jack O'Connell",
+        "Soko"
+      ],
+      "genres": "Science Fiction, Drama, Romance"
     },
     {
       "rank": 34,
@@ -406,15 +406,15 @@
     },
     {
       "rank": 35,
-      "title": "Euphoria: Trouble Don't Last Always",
-      "url": "https://letterboxd.com/film/euphoria-trouble-dont-last-always/",
-      "director": "Sam Levinson",
+      "title": "Run",
+      "url": "https://letterboxd.com/film/run-2020/",
+      "director": "Aneesh Chaganty",
       "actors": [
-        "Zendaya",
-        "Colman Domingo",
-        "Hunter Schafer"
+        "Sarah Paulson",
+        "Kiera Allen",
+        "Pat Healy"
       ],
-      "genres": "Drama"
+      "genres": "Thriller, Horror, Drama"
     },
     {
       "rank": 36,
@@ -430,30 +430,18 @@
     },
     {
       "rank": 37,
-      "title": "Little Fish",
-      "url": "https://letterboxd.com/film/little-fish-2020/",
-      "director": "Chad Hartigan",
+      "title": "Love and Monsters",
+      "url": "https://letterboxd.com/film/love-and-monsters/",
+      "director": "Michael Matthews",
       "actors": [
-        "Olivia Cooke",
-        "Jack O'Connell",
-        "Soko"
+        "Dylan O'Brien",
+        "Jessica Henwick",
+        "Michael Rooker"
       ],
-      "genres": "Science Fiction, Drama, Romance"
+      "genres": "Comedy, Adventure, Fantasy"
     },
     {
       "rank": 38,
-      "title": "Run",
-      "url": "https://letterboxd.com/film/run-2020/",
-      "director": "Aneesh Chaganty",
-      "actors": [
-        "Sarah Paulson",
-        "Kiera Allen",
-        "Pat Healy"
-      ],
-      "genres": "Thriller, Horror, Drama"
-    },
-    {
-      "rank": 39,
       "title": "Onward",
       "url": "https://letterboxd.com/film/onward-2020/",
       "director": "Dan Scanlon",
@@ -465,7 +453,7 @@
       "genres": "Comedy, Fantasy, Adventure, Family, Animation"
     },
     {
-      "rank": 40,
+      "rank": 39,
       "title": "Summer of 85",
       "url": "https://letterboxd.com/film/summer-of-85/",
       "director": "François Ozon",
@@ -477,15 +465,19 @@
       "genres": "Romance, Drama"
     },
     {
-      "rank": 41,
-      "title": "If Anything Happens I Love You",
-      "url": "https://letterboxd.com/film/if-anything-happens-i-love-you/",
-      "director": "Will McCormack, Michael Govier",
-      "actors": [],
-      "genres": "Drama, Animation"
+      "rank": 40,
+      "title": "Euphoria: Trouble Don't Last Always",
+      "url": "https://letterboxd.com/film/euphoria-trouble-dont-last-always/",
+      "director": "Sam Levinson",
+      "actors": [
+        "Zendaya",
+        "Colman Domingo",
+        "Hunter Schafer"
+      ],
+      "genres": "Drama"
     },
     {
-      "rank": 42,
+      "rank": 41,
       "title": "#Alive",
       "url": "https://letterboxd.com/film/alive-2020/",
       "director": "Cho Il",
@@ -497,19 +489,7 @@
       "genres": "Action, Horror, Science Fiction"
     },
     {
-      "rank": 43,
-      "title": "True Beauty",
-      "url": "https://letterboxd.com/film/true-beauty/",
-      "director": "Kim Sang-hyub",
-      "actors": [
-        "Mun Ka-young",
-        "Cha Eun-woo",
-        "Hwang In-youp"
-      ],
-      "genres": "Comedy, Drama"
-    },
-    {
-      "rank": 44,
+      "rank": 42,
       "title": "365 Days",
       "url": "https://letterboxd.com/film/365-days-2020/",
       "director": "Barbara Białowąs, Tomasz Mandes",
@@ -521,16 +501,36 @@
       "genres": "Drama, Romance, Crime"
     },
     {
-      "rank": 45,
-      "title": "Wolfwalkers",
-      "url": "https://letterboxd.com/film/wolfwalkers/",
-      "director": "Tomm Moore, Ross Stewart",
+      "rank": 43,
+      "title": "The New Mutants",
+      "url": "https://letterboxd.com/film/the-new-mutants/",
+      "director": "Josh Boone",
       "actors": [
-        "Honor Kneafsey",
-        "Eva Whittaker",
-        "Sean Bean"
+        "Blu Hunt",
+        "Charlie Heaton",
+        "Maisie Williams"
       ],
-      "genres": "Animation, Family, Fantasy, Adventure"
+      "genres": "Horror, Science Fiction"
+    },
+    {
+      "rank": 44,
+      "title": "If Anything Happens I Love You",
+      "url": "https://letterboxd.com/film/if-anything-happens-i-love-you/",
+      "director": "Will McCormack, Michael Govier",
+      "actors": [],
+      "genres": "Drama, Animation"
+    },
+    {
+      "rank": 45,
+      "title": "True Beauty",
+      "url": "https://letterboxd.com/film/true-beauty/",
+      "director": "Kim Sang-hyub",
+      "actors": [
+        "Mun Ka-young",
+        "Cha Eun-woo",
+        "Hwang In-youp"
+      ],
+      "genres": "Comedy, Drama"
     },
     {
       "rank": 46,
@@ -558,6 +558,18 @@
     },
     {
       "rank": 48,
+      "title": "Wolfwalkers",
+      "url": "https://letterboxd.com/film/wolfwalkers/",
+      "director": "Tomm Moore, Ross Stewart",
+      "actors": [
+        "Honor Kneafsey",
+        "Eva Whittaker",
+        "Sean Bean"
+      ],
+      "genres": "Animation, Family, Fantasy, Adventure"
+    },
+    {
+      "rank": 49,
       "title": "Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train",
       "url": "https://letterboxd.com/film/demon-slayer-kimetsu-no-yaiba-the-movie-mugen/",
       "director": "Haruo Sotozaki",
@@ -569,7 +581,7 @@
       "genres": "Action, Animation, Fantasy"
     },
     {
-      "rank": 49,
+      "rank": 50,
       "title": "His House",
       "url": "https://letterboxd.com/film/his-house/",
       "director": "Remi Weekes",
@@ -579,18 +591,6 @@
         "Malaika Wakoli-Abigaba"
       ],
       "genres": "Horror, Drama"
-    },
-    {
-      "rank": 50,
-      "title": "I Care a Lot",
-      "url": "https://letterboxd.com/film/i-care-a-lot/",
-      "director": "J Blakeson",
-      "actors": [
-        "Rosamund Pike",
-        "Peter Dinklage",
-        "Eiza González"
-      ],
-      "genres": "Drama, Crime, Thriller, Comedy"
     }
   ]
 }

@@ -64,18 +64,6 @@
     },
     {
       "rank": 6,
-      "title": "This Is Spinal Tap",
-      "url": "https://letterboxd.com/film/this-is-spinal-tap/",
-      "director": "Rob Reiner",
-      "actors": [
-        "Christopher Guest",
-        "Michael McKean",
-        "Harry Shearer"
-      ],
-      "genres": "Comedy, Music"
-    },
-    {
-      "rank": 7,
       "title": "A Nightmare on Elm Street",
       "url": "https://letterboxd.com/film/a-nightmare-on-elm-street/",
       "director": "Wes Craven",
@@ -85,6 +73,18 @@
         "Robert Englund"
       ],
       "genres": "Horror"
+    },
+    {
+      "rank": 7,
+      "title": "The Karate Kid",
+      "url": "https://letterboxd.com/film/the-karate-kid/",
+      "director": "John G. Avildsen",
+      "actors": [
+        "Ralph Macchio",
+        "Pat Morita",
+        "Elisabeth Shue"
+      ],
+      "genres": "Action, Drama, Family"
     },
     {
       "rank": 8,
@@ -100,15 +100,15 @@
     },
     {
       "rank": 9,
-      "title": "The Karate Kid",
-      "url": "https://letterboxd.com/film/the-karate-kid/",
-      "director": "John G. Avildsen",
+      "title": "This Is Spinal Tap",
+      "url": "https://letterboxd.com/film/this-is-spinal-tap/",
+      "director": "Rob Reiner",
       "actors": [
-        "Ralph Macchio",
-        "Pat Morita",
-        "Elisabeth Shue"
+        "Christopher Guest",
+        "Michael McKean",
+        "Harry Shearer"
       ],
-      "genres": "Action, Drama, Family"
+      "genres": "Comedy, Music"
     },
     {
       "rank": 10,
@@ -124,18 +124,6 @@
     },
     {
       "rank": 11,
-      "title": "Dune",
-      "url": "https://letterboxd.com/film/dune/",
-      "director": "David Lynch",
-      "actors": [
-        "Kyle MacLachlan",
-        "Francesca Annis",
-        "Patrick Stewart"
-      ],
-      "genres": "Adventure, Science Fiction, Action"
-    },
-    {
-      "rank": 12,
       "title": "Gremlins",
       "url": "https://letterboxd.com/film/gremlins/",
       "director": "Joe Dante",
@@ -147,16 +135,28 @@
       "genres": "Fantasy, Comedy, Horror"
     },
     {
-      "rank": 13,
-      "title": "Stop Making Sense",
-      "url": "https://letterboxd.com/film/stop-making-sense/",
-      "director": "Jonathan Demme",
+      "rank": 12,
+      "title": "Dune",
+      "url": "https://letterboxd.com/film/dune/",
+      "director": "David Lynch",
       "actors": [
-        "David Byrne",
-        "Chris Frantz",
-        "Jerry Harrison"
+        "Kyle MacLachlan",
+        "Francesca Annis",
+        "Patrick Stewart"
       ],
-      "genres": "Music, Documentary"
+      "genres": "Adventure, Science Fiction, Action"
+    },
+    {
+      "rank": 13,
+      "title": "Footloose",
+      "url": "https://letterboxd.com/film/footloose/",
+      "director": "Herbert Ross",
+      "actors": [
+        "Kevin Bacon",
+        "Lori Singer",
+        "John Lithgow"
+      ],
+      "genres": "Drama, Romance"
     },
     {
       "rank": 14,
@@ -172,30 +172,6 @@
     },
     {
       "rank": 15,
-      "title": "Sixteen Candles",
-      "url": "https://letterboxd.com/film/sixteen-candles/",
-      "director": "John Hughes",
-      "actors": [
-        "Molly Ringwald",
-        "Michael Schoeffling",
-        "Haviland Morris"
-      ],
-      "genres": "Romance, Comedy"
-    },
-    {
-      "rank": 16,
-      "title": "Footloose",
-      "url": "https://letterboxd.com/film/footloose/",
-      "director": "Herbert Ross",
-      "actors": [
-        "Kevin Bacon",
-        "Lori Singer",
-        "John Lithgow"
-      ],
-      "genres": "Drama, Romance"
-    },
-    {
-      "rank": 17,
       "title": "Repo Man",
       "url": "https://letterboxd.com/film/repo-man/",
       "director": "Alex Cox",
@@ -207,19 +183,31 @@
       "genres": "Comedy, Science Fiction"
     },
     {
-      "rank": 18,
-      "title": "Body Double",
-      "url": "https://letterboxd.com/film/body-double/",
-      "director": "Brian De Palma",
+      "rank": 16,
+      "title": "Sixteen Candles",
+      "url": "https://letterboxd.com/film/sixteen-candles/",
+      "director": "John Hughes",
       "actors": [
-        "Craig Wasson",
-        "Melanie Griffith",
-        "Gregg Henry"
+        "Molly Ringwald",
+        "Michael Schoeffling",
+        "Haviland Morris"
       ],
-      "genres": "Crime, Thriller, Mystery"
+      "genres": "Romance, Comedy"
     },
     {
-      "rank": 19,
+      "rank": 17,
+      "title": "Stop Making Sense",
+      "url": "https://letterboxd.com/film/stop-making-sense/",
+      "director": "Jonathan Demme",
+      "actors": [
+        "David Byrne",
+        "Chris Frantz",
+        "Jerry Harrison"
+      ],
+      "genres": "Music, Documentary"
+    },
+    {
+      "rank": 18,
       "title": "Blood Simple",
       "url": "https://letterboxd.com/film/blood-simple/",
       "director": "Joel Coen",
@@ -229,6 +217,18 @@
         "Dan Hedaya"
       ],
       "genres": "Thriller, Crime, Drama"
+    },
+    {
+      "rank": 19,
+      "title": "Body Double",
+      "url": "https://letterboxd.com/film/body-double/",
+      "director": "Brian De Palma",
+      "actors": [
+        "Craig Wasson",
+        "Melanie Griffith",
+        "Gregg Henry"
+      ],
+      "genres": "Crime, Thriller, Mystery"
     },
     {
       "rank": 20,
@@ -268,18 +268,6 @@
     },
     {
       "rank": 23,
-      "title": "Threads",
-      "url": "https://letterboxd.com/film/threads/",
-      "director": "Mick Jackson",
-      "actors": [
-        "Karen Meagher",
-        "Reece Dinsdale",
-        "David Brierly"
-      ],
-      "genres": "Drama, War, Science Fiction"
-    },
-    {
-      "rank": 24,
       "title": "Nineteen Eighty-Four",
       "url": "https://letterboxd.com/film/nineteen-eighty-four-1984/",
       "director": "Michael Radford",
@@ -291,19 +279,19 @@
       "genres": "Drama, Science Fiction, Thriller"
     },
     {
-      "rank": 25,
-      "title": "Purple Rain",
-      "url": "https://letterboxd.com/film/purple-rain/",
-      "director": "Albert Magnoli",
+      "rank": 24,
+      "title": "Threads",
+      "url": "https://letterboxd.com/film/threads/",
+      "director": "Mick Jackson",
       "actors": [
-        "Prince",
-        "Apollonia Kotero",
-        "Morris Day"
+        "Karen Meagher",
+        "Reece Dinsdale",
+        "David Brierly"
       ],
-      "genres": "Drama, Romance, Music"
+      "genres": "Drama, War, Science Fiction"
     },
     {
-      "rank": 26,
+      "rank": 25,
       "title": "Splash",
       "url": "https://letterboxd.com/film/splash/",
       "director": "Ron Howard",
@@ -315,19 +303,19 @@
       "genres": "Fantasy, Romance, Comedy"
     },
     {
-      "rank": 27,
-      "title": "Stranger Than Paradise",
-      "url": "https://letterboxd.com/film/stranger-than-paradise/",
-      "director": "Jim Jarmusch",
+      "rank": 26,
+      "title": "Purple Rain",
+      "url": "https://letterboxd.com/film/purple-rain/",
+      "director": "Albert Magnoli",
       "actors": [
-        "John Lurie",
-        "Eszter Balint",
-        "Richard Edson"
+        "Prince",
+        "Apollonia Kotero",
+        "Morris Day"
       ],
-      "genres": "Comedy, Drama"
+      "genres": "Drama, Romance, Music"
     },
     {
-      "rank": 28,
+      "rank": 27,
       "title": "Children of the Corn",
       "url": "https://letterboxd.com/film/children-of-the-corn/",
       "director": "Fritz Kiersch",
@@ -339,19 +327,19 @@
       "genres": "Thriller, Horror"
     },
     {
-      "rank": 29,
-      "title": "The Muppets Take Manhattan",
-      "url": "https://letterboxd.com/film/the-muppets-take-manhattan/",
-      "director": "Frank Oz",
+      "rank": 28,
+      "title": "Stranger Than Paradise",
+      "url": "https://letterboxd.com/film/stranger-than-paradise/",
+      "director": "Jim Jarmusch",
       "actors": [
-        "Jim Henson",
-        "Frank Oz",
-        "Dave Goelz"
+        "John Lurie",
+        "Eszter Balint",
+        "Richard Edson"
       ],
-      "genres": "Family, Comedy, Romance"
+      "genres": "Comedy, Drama"
     },
     {
-      "rank": 30,
+      "rank": 29,
       "title": "Starman",
       "url": "https://letterboxd.com/film/starman/",
       "director": "John Carpenter",
@@ -361,6 +349,18 @@
         "Charles Martin Smith"
       ],
       "genres": "Drama, Romance, Science Fiction"
+    },
+    {
+      "rank": 30,
+      "title": "The Muppets Take Manhattan",
+      "url": "https://letterboxd.com/film/the-muppets-take-manhattan/",
+      "director": "Frank Oz",
+      "actors": [
+        "Jim Henson",
+        "Frank Oz",
+        "Dave Goelz"
+      ],
+      "genres": "Family, Comedy, Romance"
     },
     {
       "rank": 31,
@@ -388,18 +388,6 @@
     },
     {
       "rank": 33,
-      "title": "The Toxic Avenger",
-      "url": "https://letterboxd.com/film/the-toxic-avenger/",
-      "director": "Lloyd Kaufman, Michael Herz",
-      "actors": [
-        "Andree Maranda",
-        "Mitch Cohen",
-        "Jennifer Prichard"
-      ],
-      "genres": "Comedy, Science Fiction, Action, Horror"
-    },
-    {
-      "rank": 34,
       "title": "Romancing the Stone",
       "url": "https://letterboxd.com/film/romancing-the-stone/",
       "director": "Robert Zemeckis",
@@ -409,6 +397,18 @@
         "Danny DeVito"
       ],
       "genres": "Action, Comedy, Romance, Adventure"
+    },
+    {
+      "rank": 34,
+      "title": "The Toxic Avenger",
+      "url": "https://letterboxd.com/film/the-toxic-avenger/",
+      "director": "Lloyd Kaufman, Michael Herz",
+      "actors": [
+        "Andree Maranda",
+        "Mitch Cohen",
+        "Jennifer Prichard"
+      ],
+      "genres": "Comedy, Science Fiction, Action, Horror"
     },
     {
       "rank": 35,
@@ -424,6 +424,18 @@
     },
     {
       "rank": 36,
+      "title": "The Company of Wolves",
+      "url": "https://letterboxd.com/film/the-company-of-wolves/",
+      "director": "Neil Jordan",
+      "actors": [
+        "Sarah Patterson",
+        "Angela Lansbury",
+        "David Warner"
+      ],
+      "genres": "Horror, Fantasy"
+    },
+    {
+      "rank": 37,
       "title": "Supergirl",
       "url": "https://letterboxd.com/film/supergirl/",
       "director": "Jeannot Szwarc",
@@ -435,28 +447,16 @@
       "genres": "Action, Fantasy, Adventure, Science Fiction"
     },
     {
-      "rank": 37,
-      "title": "Twenty Years Later",
-      "url": "https://letterboxd.com/film/twenty-years-later/",
-      "director": "Eduardo Coutinho",
-      "actors": [
-        "Eduardo Coutinho",
-        "Elizabeth Teixeira",
-        "Ferreira Gullar"
-      ],
-      "genres": "History, Documentary"
-    },
-    {
       "rank": 38,
-      "title": "The Company of Wolves",
-      "url": "https://letterboxd.com/film/the-company-of-wolves/",
-      "director": "Neil Jordan",
+      "title": "Love Streams",
+      "url": "https://letterboxd.com/film/love-streams/",
+      "director": "John Cassavetes",
       "actors": [
-        "Sarah Patterson",
-        "Angela Lansbury",
-        "David Warner"
+        "Gena Rowlands",
+        "John Cassavetes",
+        "Diahnne Abbott"
       ],
-      "genres": "Horror, Fantasy"
+      "genres": "Drama"
     },
     {
       "rank": 39,
@@ -472,18 +472,6 @@
     },
     {
       "rank": 40,
-      "title": "Love Streams",
-      "url": "https://letterboxd.com/film/love-streams/",
-      "director": "John Cassavetes",
-      "actors": [
-        "Gena Rowlands",
-        "John Cassavetes",
-        "Diahnne Abbott"
-      ],
-      "genres": "Drama"
-    },
-    {
-      "rank": 41,
       "title": "Streets of Fire",
       "url": "https://letterboxd.com/film/streets-of-fire/",
       "director": "Walter Hill",
@@ -495,31 +483,31 @@
       "genres": "Action"
     },
     {
-      "rank": 42,
-      "title": "Red Dawn",
-      "url": "https://letterboxd.com/film/red-dawn/",
-      "director": "John Milius",
+      "rank": 41,
+      "title": "Twenty Years Later",
+      "url": "https://letterboxd.com/film/twenty-years-later/",
+      "director": "Eduardo Coutinho",
       "actors": [
-        "Patrick Swayze",
-        "Charlie Sheen",
-        "C. Thomas Howell"
+        "Eduardo Coutinho",
+        "Elizabeth Teixeira",
+        "Ferreira Gullar"
       ],
-      "genres": "Thriller, Action, Drama, War"
+      "genres": "History, Documentary"
+    },
+    {
+      "rank": 42,
+      "title": "The Return of Godzilla",
+      "url": "https://letterboxd.com/film/the-return-of-godzilla/",
+      "director": "Koji Hashimoto",
+      "actors": [
+        "Keiju Kobayashi",
+        "Ken Tanaka",
+        "Yasuko Sawaguchi"
+      ],
+      "genres": "Action, Horror, Science Fiction"
     },
     {
       "rank": 43,
-      "title": "The Natural",
-      "url": "https://letterboxd.com/film/the-natural/",
-      "director": "Barry Levinson",
-      "actors": [
-        "Robert Redford",
-        "Robert Duvall",
-        "Glenn Close"
-      ],
-      "genres": "Drama"
-    },
-    {
-      "rank": 44,
       "title": "Night of the Comet",
       "url": "https://letterboxd.com/film/night-of-the-comet/",
       "director": "Thom Eberhardt",
@@ -529,6 +517,18 @@
         "Kelli Maroney"
       ],
       "genres": "Science Fiction, Comedy, Horror"
+    },
+    {
+      "rank": 44,
+      "title": "Red Dawn",
+      "url": "https://letterboxd.com/film/red-dawn/",
+      "director": "John Milius",
+      "actors": [
+        "Patrick Swayze",
+        "Charlie Sheen",
+        "C. Thomas Howell"
+      ],
+      "genres": "Thriller, Action, Drama, War"
     },
     {
       "rank": 45,
@@ -544,6 +544,30 @@
     },
     {
       "rank": 46,
+      "title": "The Natural",
+      "url": "https://letterboxd.com/film/the-natural/",
+      "director": "Barry Levinson",
+      "actors": [
+        "Robert Redford",
+        "Robert Duvall",
+        "Glenn Close"
+      ],
+      "genres": "Drama"
+    },
+    {
+      "rank": 47,
+      "title": "The Adventures of Buckaroo Banzai Across the 8th Dimension",
+      "url": "https://letterboxd.com/film/the-adventures-of-buckaroo-banzai-across-the-8th-dimension/",
+      "director": "W.D. Richter",
+      "actors": [
+        "Peter Weller",
+        "John Lithgow",
+        "Ellen Barkin"
+      ],
+      "genres": "Comedy, Science Fiction, Adventure"
+    },
+    {
+      "rank": 48,
       "title": "Another Country",
       "url": "https://letterboxd.com/film/another-country/",
       "director": "Marek Kanievska",
@@ -555,19 +579,7 @@
       "genres": "Drama, Romance"
     },
     {
-      "rank": 47,
-      "title": "The Return of Godzilla",
-      "url": "https://letterboxd.com/film/the-return-of-godzilla/",
-      "director": "Koji Hashimoto",
-      "actors": [
-        "Keiju Kobayashi",
-        "Ken Tanaka",
-        "Yasuko Sawaguchi"
-      ],
-      "genres": "Action, Horror, Science Fiction"
-    },
-    {
-      "rank": 48,
+      "rank": 49,
       "title": "Shanghai Blues",
       "url": "https://letterboxd.com/film/shanghai-blues/",
       "director": "Tsui Hark",
@@ -577,18 +589,6 @@
         "Sally Yip Sin-Man"
       ],
       "genres": "Romance, Comedy"
-    },
-    {
-      "rank": 49,
-      "title": "The Adventures of Buckaroo Banzai Across the 8th Dimension",
-      "url": "https://letterboxd.com/film/the-adventures-of-buckaroo-banzai-across-the-8th-dimension/",
-      "director": "W.D. Richter",
-      "actors": [
-        "Peter Weller",
-        "John Lithgow",
-        "Ellen Barkin"
-      ],
-      "genres": "Comedy, Science Fiction, Romance, Adventure"
     },
     {
       "rank": 50,

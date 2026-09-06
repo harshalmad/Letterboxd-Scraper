@@ -100,18 +100,6 @@
     },
     {
       "rank": 9,
-      "title": "Fast Times at Ridgemont High",
-      "url": "https://letterboxd.com/film/fast-times-at-ridgemont-high/",
-      "director": "Amy Heckerling",
-      "actors": [
-        "Sean Penn",
-        "Jennifer Jason Leigh",
-        "Judge Reinhold"
-      ],
-      "genres": "Drama, Romance, Comedy"
-    },
-    {
-      "rank": 10,
       "title": "Tootsie",
       "url": "https://letterboxd.com/film/tootsie/",
       "director": "Sydney Pollack",
@@ -123,7 +111,7 @@
       "genres": "Comedy, Romance"
     },
     {
-      "rank": 11,
+      "rank": 10,
       "title": "Poltergeist",
       "url": "https://letterboxd.com/film/poltergeist/",
       "director": "Tobe Hooper",
@@ -135,16 +123,28 @@
       "genres": "Horror"
     },
     {
-      "rank": 12,
+      "rank": 11,
       "title": "Friday the 13th Part III",
       "url": "https://letterboxd.com/film/friday-the-13th-part-iii/",
       "director": "Steve Miner",
       "actors": [
-        "Richard Brooker",
         "Dana Kimmell",
-        "Catherine Parks"
+        "Paul Kratka",
+        "Richard Brooker"
       ],
       "genres": "Thriller, Horror"
+    },
+    {
+      "rank": 12,
+      "title": "Fast Times at Ridgemont High",
+      "url": "https://letterboxd.com/film/fast-times-at-ridgemont-high/",
+      "director": "Amy Heckerling",
+      "actors": [
+        "Sean Penn",
+        "Jennifer Jason Leigh",
+        "Judge Reinhold"
+      ],
+      "genres": "Drama, Romance, Comedy"
     },
     {
       "rank": 13,
@@ -184,18 +184,6 @@
     },
     {
       "rank": 16,
-      "title": "Conan the Barbarian",
-      "url": "https://letterboxd.com/film/conan-the-barbarian/",
-      "director": "John Milius",
-      "actors": [
-        "Arnold Schwarzenegger",
-        "James Earl Jones",
-        "Max von Sydow"
-      ],
-      "genres": "Fantasy, Action, Adventure"
-    },
-    {
-      "rank": 17,
       "title": "Koyaanisqatsi",
       "url": "https://letterboxd.com/film/koyaanisqatsi/",
       "director": "Godfrey Reggio",
@@ -207,17 +195,19 @@
       "genres": "Documentary, Music"
     },
     {
-      "rank": 18,
-      "title": "Vincent",
-      "url": "https://letterboxd.com/film/vincent/",
-      "director": "Tim Burton",
+      "rank": 17,
+      "title": "Conan the Barbarian",
+      "url": "https://letterboxd.com/film/conan-the-barbarian/",
+      "director": "John Milius",
       "actors": [
-        "Vincent Price"
+        "Arnold Schwarzenegger",
+        "James Earl Jones",
+        "Sandahl Bergman"
       ],
-      "genres": "Fantasy, Animation"
+      "genres": "Fantasy, Action, Adventure"
     },
     {
-      "rank": 19,
+      "rank": 18,
       "title": "Tenebre",
       "url": "https://letterboxd.com/film/tenebre/",
       "director": "Dario Argento",
@@ -229,7 +219,29 @@
       "genres": "Horror, Mystery, Thriller"
     },
     {
+      "rank": 19,
+      "title": "Vincent",
+      "url": "https://letterboxd.com/film/vincent/",
+      "director": "Tim Burton",
+      "actors": [
+        "Vincent Price"
+      ],
+      "genres": "Fantasy, Animation"
+    },
+    {
       "rank": 20,
+      "title": "The Best Little Whorehouse in Texas",
+      "url": "https://letterboxd.com/film/the-best-little-whorehouse-in-texas/",
+      "director": "Colin Higgins",
+      "actors": [
+        "Dolly Parton",
+        "Burt Reynolds",
+        "Dom DeLuise"
+      ],
+      "genres": "Comedy"
+    },
+    {
+      "rank": 21,
       "title": "The Secret of NIMH",
       "url": "https://letterboxd.com/film/the-secret-of-nimh/",
       "director": "Don Bluth",
@@ -241,31 +253,7 @@
       "genres": "Mystery, Drama, Animation, Fantasy, Adventure, Family, Science Fiction"
     },
     {
-      "rank": 21,
-      "title": "Star Trek II: The Wrath of Khan",
-      "url": "https://letterboxd.com/film/star-trek-ii-the-wrath-of-khan/",
-      "director": "Nicholas Meyer",
-      "actors": [
-        "William Shatner",
-        "Leonard Nimoy",
-        "Ricardo Montalban"
-      ],
-      "genres": "Action, Thriller, Science Fiction, Adventure"
-    },
-    {
       "rank": 22,
-      "title": "48 Hrs.",
-      "url": "https://letterboxd.com/film/48-hrs/",
-      "director": "Walter Hill",
-      "actors": [
-        "Nick Nolte",
-        "Eddie Murphy",
-        "Annette O'Toole"
-      ],
-      "genres": "Action, Crime, Comedy"
-    },
-    {
-      "rank": 23,
       "title": "The Slumber Party Massacre",
       "url": "https://letterboxd.com/film/the-slumber-party-massacre/",
       "director": "Amy Holden Jones",
@@ -277,19 +265,7 @@
       "genres": "Horror, Comedy"
     },
     {
-      "rank": 24,
-      "title": "The Year of Living Dangerously",
-      "url": "https://letterboxd.com/film/the-year-of-living-dangerously/",
-      "director": "Peter Weir",
-      "actors": [
-        "Mel Gibson",
-        "Sigourney Weaver",
-        "Linda Hunt"
-      ],
-      "genres": "Romance, Drama"
-    },
-    {
-      "rank": 25,
+      "rank": 23,
       "title": "Annie",
       "url": "https://letterboxd.com/film/annie/",
       "director": "John Huston",
@@ -299,6 +275,30 @@
         "Carol Burnett"
       ],
       "genres": "Comedy, Drama, Family"
+    },
+    {
+      "rank": 24,
+      "title": "Star Trek II: The Wrath of Khan",
+      "url": "https://letterboxd.com/film/star-trek-ii-the-wrath-of-khan/",
+      "director": "Nicholas Meyer",
+      "actors": [
+        "William Shatner",
+        "Leonard Nimoy",
+        "Ricardo Montalban"
+      ],
+      "genres": "Action, Thriller, Science Fiction, Adventure"
+    },
+    {
+      "rank": 25,
+      "title": "48 Hrs.",
+      "url": "https://letterboxd.com/film/48-hrs/",
+      "director": "Walter Hill",
+      "actors": [
+        "Nick Nolte",
+        "Eddie Murphy",
+        "Annette O'Toole"
+      ],
+      "genres": "Action, Crime, Comedy"
     },
     {
       "rank": 26,
@@ -314,18 +314,30 @@
     },
     {
       "rank": 27,
-      "title": "Fanny and Alexander",
-      "url": "https://letterboxd.com/film/fanny-and-alexander/",
-      "director": "Ingmar Bergman",
+      "title": "Halloween III: Season of the Witch",
+      "url": "https://letterboxd.com/film/halloween-iii-season-of-the-witch/",
+      "director": "Tommy Lee Wallace",
       "actors": [
-        "Pernilla Allwin",
-        "Bertil Guve",
-        "Jan Malmsjö"
+        "Tom Atkins",
+        "Stacey Nelkin",
+        "Dan O'Herlihy"
       ],
-      "genres": "Mystery, Fantasy, Drama"
+      "genres": "Thriller, Horror, Science Fiction, Mystery"
     },
     {
       "rank": 28,
+      "title": "The Year of Living Dangerously",
+      "url": "https://letterboxd.com/film/the-year-of-living-dangerously/",
+      "director": "Peter Weir",
+      "actors": [
+        "Mel Gibson",
+        "Sigourney Weaver",
+        "Linda Hunt"
+      ],
+      "genres": "Romance, Drama"
+    },
+    {
+      "rank": 29,
       "title": "Sophie's Choice",
       "url": "https://letterboxd.com/film/sophies-choice/",
       "director": "Alan J. Pakula",
@@ -337,19 +349,19 @@
       "genres": "War, Drama, Romance"
     },
     {
-      "rank": 29,
-      "title": "Halloween III: Season of the Witch",
-      "url": "https://letterboxd.com/film/halloween-iii-season-of-the-witch/",
-      "director": "Tommy Lee Wallace",
+      "rank": 30,
+      "title": "Fanny and Alexander",
+      "url": "https://letterboxd.com/film/fanny-and-alexander/",
+      "director": "Ingmar Bergman",
       "actors": [
-        "Tom Atkins",
-        "Stacey Nelkin",
-        "Dan O'Herlihy"
+        "Pernilla Allwin",
+        "Bertil Guve",
+        "Jan Malmsjö"
       ],
-      "genres": "Horror, Science Fiction, Mystery"
+      "genres": "Mystery, Fantasy, Drama"
     },
     {
-      "rank": 30,
+      "rank": 31,
       "title": "Grease 2",
       "url": "https://letterboxd.com/film/grease-2/",
       "director": "Patricia Birch",
@@ -361,31 +373,7 @@
       "genres": "Romance, Music, Comedy"
     },
     {
-      "rank": 31,
-      "title": "Querelle",
-      "url": "https://letterboxd.com/film/querelle/",
-      "director": "Rainer Werner Fassbinder",
-      "actors": [
-        "Brad Davis",
-        "Franco Nero",
-        "Jeanne Moreau"
-      ],
-      "genres": "Crime, Drama"
-    },
-    {
       "rank": 32,
-      "title": "One from the Heart",
-      "url": "https://letterboxd.com/film/one-from-the-heart/",
-      "director": "Francis Ford Coppola",
-      "actors": [
-        "Teri Garr",
-        "Frederic Forrest",
-        "Raúl Juliá"
-      ],
-      "genres": "Drama, Romance"
-    },
-    {
-      "rank": 33,
       "title": "Basket Case",
       "url": "https://letterboxd.com/film/basket-case/",
       "director": "Frank Henenlotter",
@@ -397,7 +385,7 @@
       "genres": "Comedy, Horror"
     },
     {
-      "rank": 34,
+      "rank": 33,
       "title": "Creepshow",
       "url": "https://letterboxd.com/film/creepshow/",
       "director": "George A. Romero",
@@ -409,16 +397,28 @@
       "genres": "Comedy, Horror"
     },
     {
-      "rank": 35,
-      "title": "Smithereens",
-      "url": "https://letterboxd.com/film/smithereens/",
-      "director": "Susan Seidelman",
+      "rank": 34,
+      "title": "Querelle",
+      "url": "https://letterboxd.com/film/querelle/",
+      "director": "Rainer Werner Fassbinder",
       "actors": [
-        "Susan Berman",
-        "Brad Rijn",
-        "Richard Hell"
+        "Brad Davis",
+        "Franco Nero",
+        "Jeanne Moreau"
       ],
-      "genres": "Romance, Drama, Music"
+      "genres": "Crime, Drama"
+    },
+    {
+      "rank": 35,
+      "title": "One from the Heart",
+      "url": "https://letterboxd.com/film/one-from-the-heart/",
+      "director": "Francis Ford Coppola",
+      "actors": [
+        "Teri Garr",
+        "Frederic Forrest",
+        "Raúl Juliá"
+      ],
+      "genres": "Drama, Romance"
     },
     {
       "rank": 36,
@@ -434,6 +434,18 @@
     },
     {
       "rank": 37,
+      "title": "Smithereens",
+      "url": "https://letterboxd.com/film/smithereens/",
+      "director": "Susan Seidelman",
+      "actors": [
+        "Susan Berman",
+        "Brad Rijn",
+        "Richard Hell"
+      ],
+      "genres": "Romance, Drama, Music"
+    },
+    {
+      "rank": 38,
       "title": "Cat People",
       "url": "https://letterboxd.com/film/cat-people-1982/",
       "director": "Paul Schrader",
@@ -445,7 +457,7 @@
       "genres": "Fantasy, Horror"
     },
     {
-      "rank": 38,
+      "rank": 39,
       "title": "The Party 2",
       "url": "https://letterboxd.com/film/the-party-2/",
       "director": "Claude Pinoteau",
@@ -457,7 +469,7 @@
       "genres": "Comedy, Drama, Romance"
     },
     {
-      "rank": 39,
+      "rank": 40,
       "title": "Burden of Dreams",
       "url": "https://letterboxd.com/film/burden-of-dreams/",
       "director": "Les Blank",
@@ -469,7 +481,7 @@
       "genres": "Documentary"
     },
     {
-      "rank": 40,
+      "rank": 41,
       "title": "Time Masters",
       "url": "https://letterboxd.com/film/time-masters/",
       "director": "René Laloux",
@@ -481,7 +493,7 @@
       "genres": "Animation, Science Fiction, Adventure"
     },
     {
-      "rank": 41,
+      "rank": 42,
       "title": "The Plague Dogs",
       "url": "https://letterboxd.com/film/the-plague-dogs/",
       "director": "Martin Rosen",
@@ -491,18 +503,6 @@
         "James Bolam"
       ],
       "genres": "Drama, Adventure, Animation"
-    },
-    {
-      "rank": 42,
-      "title": "Victor/Victoria",
-      "url": "https://letterboxd.com/film/victor-victoria/",
-      "director": "Blake Edwards",
-      "actors": [
-        "Julie Andrews",
-        "James Garner",
-        "Robert Preston"
-      ],
-      "genres": "Comedy, Romance, Music"
     },
     {
       "rank": 43,
@@ -518,30 +518,18 @@
     },
     {
       "rank": 44,
-      "title": "Gandhi",
-      "url": "https://letterboxd.com/film/gandhi/",
-      "director": "Richard Attenborough",
+      "title": "Victor/Victoria",
+      "url": "https://letterboxd.com/film/victor-victoria/",
+      "director": "Blake Edwards",
       "actors": [
-        "Ben Kingsley",
-        "Candice Bergen",
-        "Edward Fox"
+        "Julie Andrews",
+        "James Garner",
+        "Robert Preston"
       ],
-      "genres": "Drama, History"
+      "genres": "Comedy, Romance, Music"
     },
     {
       "rank": 45,
-      "title": "The Last Horror Film",
-      "url": "https://letterboxd.com/film/the-last-horror-film/",
-      "director": "David Winters",
-      "actors": [
-        "Caroline Munro",
-        "Joe Spinell",
-        "Judd Hamilton"
-      ],
-      "genres": "Comedy, Horror"
-    },
-    {
-      "rank": 46,
       "title": "Pieces",
       "url": "https://letterboxd.com/film/pieces/",
       "director": "Juan Piquer Simón",
@@ -553,6 +541,18 @@
       "genres": "Horror, Thriller"
     },
     {
+      "rank": 46,
+      "title": "Gandhi",
+      "url": "https://letterboxd.com/film/gandhi/",
+      "director": "Richard Attenborough",
+      "actors": [
+        "Ben Kingsley",
+        "Candice Bergen",
+        "Edward Fox"
+      ],
+      "genres": "Drama, History"
+    },
+    {
       "rank": 47,
       "title": "Deathtrap",
       "url": "https://letterboxd.com/film/deathtrap/",
@@ -562,29 +562,31 @@
         "Christopher Reeve",
         "Dyan Cannon"
       ],
-      "genres": "Crime, Drama, Thriller, Comedy"
+      "genres": "Crime, Drama, Comedy"
     },
     {
       "rank": 48,
-      "title": "The Best Little Whorehouse in Texas",
-      "url": "https://letterboxd.com/film/the-best-little-whorehouse-in-texas/",
-      "director": "Colin Higgins",
+      "title": "Swamp Thing",
+      "url": "https://letterboxd.com/film/swamp-thing/",
+      "director": "Wes Craven",
       "actors": [
-        "Burt Reynolds",
-        "Dolly Parton",
-        "Dom DeLuise"
+        "Louis Jourdan",
+        "Adrienne Barbeau",
+        "Ray Wise"
       ],
-      "genres": "Comedy"
+      "genres": "Science Fiction, Horror"
     },
     {
       "rank": 49,
-      "title": "Thunder",
-      "url": "https://letterboxd.com/film/thunder-1982/",
-      "director": "Takashi Ito",
+      "title": "The Last Horror Film",
+      "url": "https://letterboxd.com/film/the-last-horror-film/",
+      "director": "David Winters",
       "actors": [
-        "Seiko Nakano"
+        "Caroline Munro",
+        "Joe Spinell",
+        "Judd Hamilton"
       ],
-      "genres": "Fantasy, Animation, Mystery"
+      "genres": "Comedy, Horror"
     },
     {
       "rank": 50,

@@ -12,7 +12,7 @@
         "Margaret Qualley",
         "Dennis Quaid"
       ],
-      "genres": "Horror, Thriller, Science Fiction"
+      "genres": "Horror, Science Fiction"
     },
     {
       "rank": 2,
@@ -52,15 +52,15 @@
     },
     {
       "rank": 5,
-      "title": "The Fall Guy",
-      "url": "https://letterboxd.com/film/the-fall-guy-2024/",
-      "director": "David Leitch",
+      "title": "Deadpool & Wolverine",
+      "url": "https://letterboxd.com/film/deadpool-wolverine/",
+      "director": "Shawn Levy",
       "actors": [
-        "Ryan Gosling",
-        "Emily Blunt",
-        "Aaron Taylor-Johnson"
+        "Ryan Reynolds",
+        "Hugh Jackman",
+        "Emma Corrin"
       ],
-      "genres": "Action, Romance, Comedy"
+      "genres": "Science Fiction, Action, Comedy"
     },
     {
       "rank": 6,
@@ -76,6 +76,18 @@
     },
     {
       "rank": 7,
+      "title": "The Fall Guy",
+      "url": "https://letterboxd.com/film/the-fall-guy-2024/",
+      "director": "David Leitch",
+      "actors": [
+        "Ryan Gosling",
+        "Emily Blunt",
+        "Aaron Taylor-Johnson"
+      ],
+      "genres": "Action, Romance, Comedy"
+    },
+    {
+      "rank": 8,
       "title": "Wicked",
       "url": "https://letterboxd.com/film/wicked-2024/",
       "director": "Jon M. Chu",
@@ -85,18 +97,6 @@
         "Michelle Yeoh"
       ],
       "genres": "Romance, Drama, Fantasy"
-    },
-    {
-      "rank": 8,
-      "title": "Heretic",
-      "url": "https://letterboxd.com/film/heretic-2024/",
-      "director": "Scott Beck, Bryan Woods",
-      "actors": [
-        "Hugh Grant",
-        "Sophie Thatcher",
-        "Chloe East"
-      ],
-      "genres": "Thriller, Horror"
     },
     {
       "rank": 9,
@@ -112,6 +112,18 @@
     },
     {
       "rank": 10,
+      "title": "Heretic",
+      "url": "https://letterboxd.com/film/heretic-2024/",
+      "director": "Scott Beck, Bryan Woods",
+      "actors": [
+        "Hugh Grant",
+        "Sophie Thatcher",
+        "Chloe East"
+      ],
+      "genres": "Thriller, Horror"
+    },
+    {
+      "rank": 11,
       "title": "The Wild Robot",
       "url": "https://letterboxd.com/film/the-wild-robot/",
       "director": "Chris Sanders",
@@ -123,19 +135,31 @@
       "genres": "Adventure, Animation, Family, Science Fiction"
     },
     {
-      "rank": 11,
-      "title": "Deadpool & Wolverine",
-      "url": "https://letterboxd.com/film/deadpool-wolverine/",
-      "director": "Shawn Levy",
+      "rank": 12,
+      "title": "Smile 2",
+      "url": "https://letterboxd.com/film/smile-2-2024/",
+      "director": "Parker Finn",
       "actors": [
-        "Ryan Reynolds",
-        "Hugh Jackman",
-        "Emma Corrin"
+        "Naomi Scott",
+        "Rosemarie DeWitt",
+        "Lukas Gage"
       ],
-      "genres": "Science Fiction, Action, Comedy"
+      "genres": "Mystery, Horror"
     },
     {
-      "rank": 12,
+      "rank": 13,
+      "title": "Speak No Evil",
+      "url": "https://letterboxd.com/film/speak-no-evil-2024/",
+      "director": "James Watkins",
+      "actors": [
+        "James McAvoy",
+        "Mackenzie Davis",
+        "Scoot McNairy"
+      ],
+      "genres": "Thriller, Horror"
+    },
+    {
+      "rank": 14,
       "title": "Longlegs",
       "url": "https://letterboxd.com/film/longlegs/",
       "director": "Osgood Perkins",
@@ -147,7 +171,7 @@
       "genres": "Crime, Horror, Mystery"
     },
     {
-      "rank": 13,
+      "rank": 15,
       "title": "Conclave",
       "url": "https://letterboxd.com/film/conclave/",
       "director": "Edward Berger",
@@ -157,30 +181,6 @@
         "John Lithgow"
       ],
       "genres": "Drama, Thriller"
-    },
-    {
-      "rank": 14,
-      "title": "The Life of Chuck",
-      "url": "https://letterboxd.com/film/the-life-of-chuck/",
-      "director": "Mike Flanagan",
-      "actors": [
-        "Tom Hiddleston",
-        "Benjamin Pajak",
-        "Nick Offerman"
-      ],
-      "genres": "Drama, Fantasy"
-    },
-    {
-      "rank": 15,
-      "title": "Smile 2",
-      "url": "https://letterboxd.com/film/smile-2-2024/",
-      "director": "Parker Finn",
-      "actors": [
-        "Naomi Scott",
-        "Rosemarie DeWitt",
-        "Lukas Gage"
-      ],
-      "genres": "Mystery, Horror, Thriller, Music"
     },
     {
       "rank": 16,
@@ -196,6 +196,18 @@
     },
     {
       "rank": 17,
+      "title": "The Life of Chuck",
+      "url": "https://letterboxd.com/film/the-life-of-chuck/",
+      "director": "Mike Flanagan",
+      "actors": [
+        "Tom Hiddleston",
+        "Benjamin Pajak",
+        "Nick Offerman"
+      ],
+      "genres": "Drama, Fantasy"
+    },
+    {
+      "rank": 18,
       "title": "Look Back",
       "url": "https://letterboxd.com/film/look-back-2024/",
       "director": "Kiyotaka Oshiyama",
@@ -207,7 +219,7 @@
       "genres": "Animation, Drama"
     },
     {
-      "rank": 18,
+      "rank": 19,
       "title": "Flow",
       "url": "https://letterboxd.com/film/flow-2024/",
       "director": "Gints Zilbalodis",
@@ -215,7 +227,7 @@
       "genres": "Family, Animation, Adventure, Fantasy"
     },
     {
-      "rank": 19,
+      "rank": 20,
       "title": "Trap",
       "url": "https://letterboxd.com/film/trap-2024/",
       "director": "M. Night Shyamalan",
@@ -227,31 +239,7 @@
       "genres": "Crime, Thriller, Horror"
     },
     {
-      "rank": 20,
-      "title": "Blink Twice",
-      "url": "https://letterboxd.com/film/blink-twice/",
-      "director": "Zoë Kravitz",
-      "actors": [
-        "Naomi Ackie",
-        "Channing Tatum",
-        "Alia Shawkat"
-      ],
-      "genres": "Mystery, Horror, Thriller"
-    },
-    {
       "rank": 21,
-      "title": "Speak No Evil",
-      "url": "https://letterboxd.com/film/speak-no-evil-2024/",
-      "director": "James Watkins",
-      "actors": [
-        "James McAvoy",
-        "Mackenzie Davis",
-        "Scoot McNairy"
-      ],
-      "genres": "Thriller, Horror"
-    },
-    {
-      "rank": 22,
       "title": "We Live in Time",
       "url": "https://letterboxd.com/film/we-live-in-time/",
       "director": "John Crowley",
@@ -263,6 +251,18 @@
       "genres": "Drama, Romance"
     },
     {
+      "rank": 22,
+      "title": "Blink Twice",
+      "url": "https://letterboxd.com/film/blink-twice/",
+      "director": "Zoë Kravitz",
+      "actors": [
+        "Naomi Ackie",
+        "Channing Tatum",
+        "Alia Shawkat"
+      ],
+      "genres": "Mystery, Horror, Thriller"
+    },
+    {
       "rank": 23,
       "title": "MaXXXine",
       "url": "https://letterboxd.com/film/maxxxine/",
@@ -272,7 +272,7 @@
         "Elizabeth Debicki",
         "Moses Sumney"
       ],
-      "genres": "Horror, Thriller"
+      "genres": "Horror"
     },
     {
       "rank": 24,
@@ -288,6 +288,30 @@
     },
     {
       "rank": 25,
+      "title": "Alien: Romulus",
+      "url": "https://letterboxd.com/film/alien-romulus/",
+      "director": "Fede Álvarez",
+      "actors": [
+        "Cailee Spaeny",
+        "David Jonsson",
+        "Archie Renaux"
+      ],
+      "genres": "Science Fiction, Horror"
+    },
+    {
+      "rank": 26,
+      "title": "Despicable Me 4",
+      "url": "https://letterboxd.com/film/despicable-me-4/",
+      "director": "Chris Renaud",
+      "actors": [
+        "Steve Carell",
+        "Kristen Wiig",
+        "Will Ferrell"
+      ],
+      "genres": "Family, Action, Animation, Comedy, Science Fiction"
+    },
+    {
+      "rank": 27,
       "title": "Abigail",
       "url": "https://letterboxd.com/film/abigail-2024/",
       "director": "Tyler Gillett, Matt Bettinelli-Olpin",
@@ -296,22 +320,10 @@
         "Dan Stevens",
         "Alisha Weir"
       ],
-      "genres": "Horror, Thriller"
+      "genres": "Horror, Thriller, Comedy"
     },
     {
-      "rank": 26,
-      "title": "We Bury the Dead",
-      "url": "https://letterboxd.com/film/we-bury-the-dead/",
-      "director": "Zak Hilditch",
-      "actors": [
-        "Daisy Ridley",
-        "Brenton Thwaites",
-        "Mark Coles Smith"
-      ],
-      "genres": "Thriller, Horror"
-    },
-    {
-      "rank": 27,
+      "rank": 28,
       "title": "A Complete Unknown",
       "url": "https://letterboxd.com/film/a-complete-unknown/",
       "director": "James Mangold",
@@ -321,18 +333,6 @@
         "Elle Fanning"
       ],
       "genres": "Drama, Music"
-    },
-    {
-      "rank": 28,
-      "title": "Two People Exchanging Saliva",
-      "url": "https://letterboxd.com/film/two-people-exchanging-saliva/",
-      "director": "Alexandre Singh, Natalie Musteata",
-      "actors": [
-        "Zar Amir Ebrahimi",
-        "Luàna Bajrami",
-        "Aurélie Boquien"
-      ],
-      "genres": "Science Fiction, Fantasy, Drama"
     },
     {
       "rank": 29,
@@ -348,42 +348,6 @@
     },
     {
       "rank": 30,
-      "title": "Friendship",
-      "url": "https://letterboxd.com/film/friendship-2024/",
-      "director": "Andrew DeYoung",
-      "actors": [
-        "Tim Robinson",
-        "Paul Rudd",
-        "Kate Mara"
-      ],
-      "genres": "Comedy, Drama"
-    },
-    {
-      "rank": 31,
-      "title": "Civil War",
-      "url": "https://letterboxd.com/film/civil-war-2024/",
-      "director": "Alex Garland",
-      "actors": [
-        "Kirsten Dunst",
-        "Wagner Moura",
-        "Cailee Spaeny"
-      ],
-      "genres": "War, Drama, Action"
-    },
-    {
-      "rank": 32,
-      "title": "Alien: Romulus",
-      "url": "https://letterboxd.com/film/alien-romulus/",
-      "director": "Fede Álvarez",
-      "actors": [
-        "Cailee Spaeny",
-        "David Jonsson",
-        "Archie Renaux"
-      ],
-      "genres": "Science Fiction, Horror"
-    },
-    {
-      "rank": 33,
       "title": "Twisters",
       "url": "https://letterboxd.com/film/twisters/",
       "director": "Lee Isaac Chung",
@@ -395,7 +359,55 @@
       "genres": "Thriller, Action"
     },
     {
+      "rank": 31,
+      "title": "We Bury the Dead",
+      "url": "https://letterboxd.com/film/we-bury-the-dead/",
+      "director": "Zak Hilditch",
+      "actors": [
+        "Daisy Ridley",
+        "Brenton Thwaites",
+        "Mark Coles Smith"
+      ],
+      "genres": "Thriller, Horror"
+    },
+    {
+      "rank": 32,
+      "title": "Civil War",
+      "url": "https://letterboxd.com/film/civil-war-2024/",
+      "director": "Alex Garland",
+      "actors": [
+        "Kirsten Dunst",
+        "Wagner Moura",
+        "Cailee Spaeny"
+      ],
+      "genres": "War, Drama, Action"
+    },
+    {
+      "rank": 33,
+      "title": "Friendship",
+      "url": "https://letterboxd.com/film/friendship-2024/",
+      "director": "Andrew DeYoung",
+      "actors": [
+        "Tim Robinson",
+        "Paul Rudd",
+        "Kate Mara"
+      ],
+      "genres": "Comedy, Drama"
+    },
+    {
       "rank": 34,
+      "title": "A Quiet Place: Day One",
+      "url": "https://letterboxd.com/film/a-quiet-place-day-one/",
+      "director": "Michael Sarnoski",
+      "actors": [
+        "Lupita Nyong'o",
+        "Joseph Quinn",
+        "Alex Wolff"
+      ],
+      "genres": "Horror, Thriller, Science Fiction"
+    },
+    {
+      "rank": 35,
       "title": "Babygirl",
       "url": "https://letterboxd.com/film/babygirl-2024/",
       "director": "Halina Reijn",
@@ -405,18 +417,6 @@
         "Antonio Banderas"
       ],
       "genres": "Thriller, Romance"
-    },
-    {
-      "rank": 35,
-      "title": "Despicable Me 4",
-      "url": "https://letterboxd.com/film/despicable-me-4/",
-      "director": "Chris Renaud",
-      "actors": [
-        "Steve Carell",
-        "Kristen Wiig",
-        "Will Ferrell"
-      ],
-      "genres": "Family, Action, Animation, Comedy, Science Fiction"
     },
     {
       "rank": 36,
@@ -432,66 +432,6 @@
     },
     {
       "rank": 37,
-      "title": "A Quiet Place: Day One",
-      "url": "https://letterboxd.com/film/a-quiet-place-day-one/",
-      "director": "Michael Sarnoski",
-      "actors": [
-        "Lupita Nyong'o",
-        "Joseph Quinn",
-        "Alex Wolff"
-      ],
-      "genres": "Horror, Thriller, Science Fiction"
-    },
-    {
-      "rank": 38,
-      "title": "Queer",
-      "url": "https://letterboxd.com/film/queer-2024/",
-      "director": "Luca Guadagnino",
-      "actors": [
-        "Daniel Craig",
-        "Drew Starkey",
-        "Jason Schwartzman"
-      ],
-      "genres": "Romance, Drama"
-    },
-    {
-      "rank": 39,
-      "title": "I'm Still Here",
-      "url": "https://letterboxd.com/film/im-still-here-2024/",
-      "director": "Walter Salles",
-      "actors": [
-        "Fernanda Torres",
-        "Fernanda Montenegro",
-        "Selton Mello"
-      ],
-      "genres": "Drama, History"
-    },
-    {
-      "rank": 40,
-      "title": "Lisa Frankenstein",
-      "url": "https://letterboxd.com/film/lisa-frankenstein/",
-      "director": "Zelda Williams",
-      "actors": [
-        "Kathryn Newton",
-        "Cole Sprouse",
-        "Liza Soberano"
-      ],
-      "genres": "Comedy, Romance, Horror"
-    },
-    {
-      "rank": 41,
-      "title": "It's What's Inside",
-      "url": "https://letterboxd.com/film/its-whats-inside/",
-      "director": "Greg Jardin",
-      "actors": [
-        "James Morosini",
-        "Brittany O'Grady",
-        "David Thompson"
-      ],
-      "genres": "Science Fiction, Comedy, Mystery"
-    },
-    {
-      "rank": 42,
       "title": "The Idea of You",
       "url": "https://letterboxd.com/film/the-idea-of-you-2024/",
       "director": "Michael Showalter",
@@ -503,7 +443,31 @@
       "genres": "Drama, Romance, Comedy, Music"
     },
     {
-      "rank": 43,
+      "rank": 38,
+      "title": "It's What's Inside",
+      "url": "https://letterboxd.com/film/its-whats-inside/",
+      "director": "Greg Jardin",
+      "actors": [
+        "James Morosini",
+        "Brittany O'Grady",
+        "David Thompson"
+      ],
+      "genres": "Science Fiction, Comedy, Mystery"
+    },
+    {
+      "rank": 39,
+      "title": "Two People Exchanging Saliva",
+      "url": "https://letterboxd.com/film/two-people-exchanging-saliva/",
+      "director": "Alexandre Singh, Natalie Musteata",
+      "actors": [
+        "Zar Amir Ebrahimi",
+        "Luàna Bajrami",
+        "Aurélie Boquien"
+      ],
+      "genres": "Science Fiction, Fantasy, Drama"
+    },
+    {
+      "rank": 40,
       "title": "Tarot",
       "url": "https://letterboxd.com/film/tarot-2024/",
       "director": "Spenser Cohen, Anna Halberg",
@@ -513,6 +477,42 @@
         "Adain Bradley"
       ],
       "genres": "Horror"
+    },
+    {
+      "rank": 41,
+      "title": "I'm Still Here",
+      "url": "https://letterboxd.com/film/im-still-here-2024/",
+      "director": "Walter Salles",
+      "actors": [
+        "Fernanda Torres",
+        "Fernanda Montenegro",
+        "Selton Mello"
+      ],
+      "genres": "Drama, History"
+    },
+    {
+      "rank": 42,
+      "title": "Queer",
+      "url": "https://letterboxd.com/film/queer-2024/",
+      "director": "Luca Guadagnino",
+      "actors": [
+        "Daniel Craig",
+        "Drew Starkey",
+        "Jason Schwartzman"
+      ],
+      "genres": "Romance, Drama"
+    },
+    {
+      "rank": 43,
+      "title": "Lisa Frankenstein",
+      "url": "https://letterboxd.com/film/lisa-frankenstein/",
+      "director": "Zelda Williams",
+      "actors": [
+        "Kathryn Newton",
+        "Cole Sprouse",
+        "Liza Soberano"
+      ],
+      "genres": "Comedy, Romance, Horror"
     },
     {
       "rank": 44,
@@ -528,28 +528,18 @@
     },
     {
       "rank": 45,
-      "title": "Shelby Oaks",
-      "url": "https://letterboxd.com/film/shelby-oaks/",
-      "director": "Chris Stuckmann",
+      "title": "Moana 2",
+      "url": "https://letterboxd.com/film/moana-2/",
+      "director": "David G. Derrick Jr., Jason Hand, Dana Ledoux Miller",
       "actors": [
-        "Camille Sullivan",
-        "Sarah Durn",
-        "Brendan Sexton III"
+        "Auliʻi Cravalho",
+        "Dwayne Johnson",
+        "Hualālai Chung"
       ],
-      "genres": "Horror, Mystery"
+      "genres": "Comedy, Fantasy, Animation, Adventure, Family"
     },
     {
       "rank": 46,
-      "title": "Retirement Plan",
-      "url": "https://letterboxd.com/film/retirement-plan/",
-      "director": "John Kelly",
-      "actors": [
-        "Domhnall Gleeson"
-      ],
-      "genres": "Animation"
-    },
-    {
-      "rank": 47,
       "title": "Beetlejuice Beetlejuice",
       "url": "https://letterboxd.com/film/beetlejuice-beetlejuice/",
       "director": "Tim Burton",
@@ -561,19 +551,7 @@
       "genres": "Comedy, Fantasy"
     },
     {
-      "rank": 48,
-      "title": "Butterfly",
-      "url": "https://letterboxd.com/film/butterfly-2024-1/",
-      "director": "Florence Miailhe",
-      "actors": [
-        "Fayçal Zafi",
-        "Jessica Jaouiche",
-        "Yassine Mestaoui"
-      ],
-      "genres": "Animation, Drama, History"
-    },
-    {
-      "rank": 49,
+      "rank": 47,
       "title": "Dìdi (弟弟)",
       "url": "https://letterboxd.com/film/didi-2024/",
       "director": "Sean Wang",
@@ -585,7 +563,7 @@
       "genres": "Comedy, Drama"
     },
     {
-      "rank": 50,
+      "rank": 48,
       "title": "Furiosa: A Mad Max Saga",
       "url": "https://letterboxd.com/film/furiosa-a-mad-max-saga/",
       "director": "George Miller",
@@ -595,6 +573,30 @@
         "Tom Burke"
       ],
       "genres": "Science Fiction, Action, Adventure"
+    },
+    {
+      "rank": 49,
+      "title": "Venom: The Last Dance",
+      "url": "https://letterboxd.com/film/venom-the-last-dance/",
+      "director": "Kelly Marcel",
+      "actors": [
+        "Tom Hardy",
+        "Chiwetel Ejiofor",
+        "Juno Temple"
+      ],
+      "genres": "Action, Science Fiction, Adventure"
+    },
+    {
+      "rank": 50,
+      "title": "Milk & Serial",
+      "url": "https://letterboxd.com/film/milk-serial/",
+      "director": "Curry Barker",
+      "actors": [
+        "Curry Barker",
+        "Cooper Tomlinson",
+        "Tristan Welsh"
+      ],
+      "genres": "Horror, Thriller"
     }
   ]
 }

@@ -1,51 +1,51 @@
 rank,title,director,actors,genres,url
-1,Shutter Island,Martin Scorsese,Leonardo DiCaprio; Mark Ruffalo; Ben Kingsley,"Mystery, Drama, Thriller",https://letterboxd.com/film/shutter-island/
-2,Black Swan,Darren Aronofsky,Natalie Portman; Mila Kunis; Vincent Cassel,"Drama, Thriller, Horror",https://letterboxd.com/film/black-swan/
-3,Inception,Christopher Nolan,Leonardo DiCaprio; Joseph Gordon-Levitt; Ken Watanabe,"Action, Adventure, Science Fiction",https://letterboxd.com/film/inception/
-4,Scott Pilgrim vs. the World,Edgar Wright,Michael Cera; Mary Elizabeth Winstead; Ellen Wong,"Romance, Action, Comedy",https://letterboxd.com/film/scott-pilgrim-vs-the-world/
-5,Toy Story 3,Lee Unkrich,Tom Hanks; Tim Allen; Joan Cusack,"Comedy, Family, Animation",https://letterboxd.com/film/toy-story-3/
-6,Tangled,"Byron Howard, Nathan Greno",Mandy Moore; Zachary Levi; Donna Murphy,"Family, Adventure, Animation",https://letterboxd.com/film/tangled-2010/
-7,The Social Network,David Fincher,Jesse Eisenberg; Andrew Garfield; Armie Hammer,Drama,https://letterboxd.com/film/the-social-network/
-8,How to Train Your Dragon,"Dean DeBlois, Chris Sanders",Jay Baruchel; Gerard Butler; Craig Ferguson,"Fantasy, Family, Adventure, Animation",https://letterboxd.com/film/how-to-train-your-dragon/
+1,Inception,Christopher Nolan,Leonardo DiCaprio; Joseph Gordon-Levitt; Ken Watanabe,"Action, Adventure, Science Fiction",https://letterboxd.com/film/inception/
+2,Shutter Island,Martin Scorsese,Leonardo DiCaprio; Mark Ruffalo; Ben Kingsley,"Mystery, Drama, Thriller",https://letterboxd.com/film/shutter-island/
+3,Black Swan,Darren Aronofsky,Natalie Portman; Mila Kunis; Vincent Cassel,"Drama, Thriller, Horror",https://letterboxd.com/film/black-swan/
+4,Iron Man 2,Jon Favreau,Robert Downey Jr.; Gwyneth Paltrow; Don Cheadle,"Adventure, Science Fiction, Action",https://letterboxd.com/film/iron-man-2/
+5,Scott Pilgrim vs. the World,Edgar Wright,Michael Cera; Mary Elizabeth Winstead; Ellen Wong,"Romance, Action, Comedy",https://letterboxd.com/film/scott-pilgrim-vs-the-world/
+6,Toy Story 3,Lee Unkrich,Tom Hanks; Tim Allen; Joan Cusack,"Comedy, Family, Animation",https://letterboxd.com/film/toy-story-3/
+7,Tangled,"Byron Howard, Nathan Greno",Mandy Moore; Zachary Levi; Donna Murphy,"Family, Adventure, Animation",https://letterboxd.com/film/tangled-2010/
+8,The Social Network,David Fincher,Jesse Eisenberg; Andrew Garfield; Armie Hammer,Drama,https://letterboxd.com/film/the-social-network/
 9,Harry Potter and the Deathly Hallows: Part 1,David Yates,Daniel Radcliffe; Emma Watson; Rupert Grint,"Adventure, Fantasy",https://letterboxd.com/film/harry-potter-and-the-deathly-hallows-part-1/
-10,Iron Man 2,Jon Favreau,Robert Downey Jr.; Gwyneth Paltrow; Don Cheadle,"Adventure, Science Fiction, Action",https://letterboxd.com/film/iron-man-2/
+10,How to Train Your Dragon,"Dean DeBlois, Chris Sanders",Jay Baruchel; Gerard Butler; Craig Ferguson,"Fantasy, Family, Adventure, Animation",https://letterboxd.com/film/how-to-train-your-dragon/
 11,The Twilight Saga: Eclipse,David Slade,Kristen Stewart; Robert Pattinson; Taylor Lautner,"Drama, Romance, Adventure, Fantasy",https://letterboxd.com/film/the-twilight-saga-eclipse/
-12,Letters to Juliet,Gary Winick,Amanda Seyfried; Christopher Egan; Gael García Bernal,"Comedy, Romance, Drama",https://letterboxd.com/film/letters-to-juliet/
-13,Easy A,Will Gluck,Emma Stone; Penn Badgley; Amanda Bynes,Comedy,https://letterboxd.com/film/easy-a/
-14,Diary of a Wimpy Kid,Thor Freudenthal,Zachary Gordon; Robert Capron; Steve Zahn,"Comedy, Family",https://letterboxd.com/film/diary-of-a-wimpy-kid/
-15,Flipped,Rob Reiner,Madeline Carroll; Callan McAuliffe; Rebecca De Mornay,"Drama, Romance",https://letterboxd.com/film/flipped/
-16,Incendies,Denis Villeneuve,Lubna Azabal; Mélissa Désormeaux-Poulin; Maxim Gaudette,"Mystery, Drama, War",https://letterboxd.com/film/incendies/
-17,Grown Ups,Dennis Dugan,Adam Sandler; Kevin James; Chris Rock,Comedy,https://letterboxd.com/film/grown-ups/
-18,Love & Other Drugs,Edward Zwick,Jake Gyllenhaal; Anne Hathaway; Oliver Platt,"Comedy, Drama, Romance",https://letterboxd.com/film/love-other-drugs/
-19,Alice in Wonderland,Tim Burton,Mia Wasikowska; Johnny Depp; Anne Hathaway,"Fantasy, Family, Adventure",https://letterboxd.com/film/alice-in-wonderland-2010/
-20,Despicable Me,"Pierre Coffin, Chris Renaud",Steve Carell; Jason Segel; Russell Brand,"Animation, Science Fiction, Comedy, Family, Crime",https://letterboxd.com/film/despicable-me/
-21,Blue Valentine,Derek Cianfrance,Ryan Gosling; Michelle Williams; John Doman,"Drama, Romance",https://letterboxd.com/film/blue-valentine/
-22,Valentine's Day,Garry Marshall,Jessica Alba; Kathy Bates; Jessica Biel,"Comedy, Romance",https://letterboxd.com/film/valentines-day/
-23,The Secret World of Arrietty,Hiromasa Yonebayashi,Mirai Shida; Ryunosuke Kamiki; Tomokazu Miura,"Animation, Fantasy, Family",https://letterboxd.com/film/the-secret-world-of-arrietty/
-24,Megamind,Tom McGrath,Will Ferrell; Brad Pitt; Tina Fey,"Comedy, Science Fiction, Action, Family, Animation",https://letterboxd.com/film/megamind/
-25,Submarine,Richard Ayoade,Noah Taylor; Paddy Considine; Craig Roberts,"Drama, Comedy, Romance",https://letterboxd.com/film/submarine/
-26,Insidious,James Wan,Patrick Wilson; Rose Byrne; Lin Shaye,"Horror, Thriller",https://letterboxd.com/film/insidious/
+12,Easy A,Will Gluck,Emma Stone; Penn Badgley; Amanda Bynes,Comedy,https://letterboxd.com/film/easy-a/
+13,Incendies,Denis Villeneuve,Lubna Azabal; Mélissa Désormeaux-Poulin; Maxim Gaudette,"Mystery, Drama, War",https://letterboxd.com/film/incendies/
+14,Letters to Juliet,Gary Winick,Amanda Seyfried; Christopher Egan; Gael García Bernal,"Comedy, Romance, Drama",https://letterboxd.com/film/letters-to-juliet/
+15,Diary of a Wimpy Kid,Thor Freudenthal,Zachary Gordon; Robert Capron; Steve Zahn,"Comedy, Family",https://letterboxd.com/film/diary-of-a-wimpy-kid/
+16,Grown Ups,Dennis Dugan,Adam Sandler; Kevin James; Chris Rock,Comedy,https://letterboxd.com/film/grown-ups/
+17,Flipped,Rob Reiner,Madeline Carroll; Callan McAuliffe; Rebecca De Mornay,"Drama, Romance",https://letterboxd.com/film/flipped/
+18,Alice in Wonderland,Tim Burton,Mia Wasikowska; Johnny Depp; Anne Hathaway,"Fantasy, Family, Adventure",https://letterboxd.com/film/alice-in-wonderland-2010/
+19,Love & Other Drugs,Edward Zwick,Jake Gyllenhaal; Anne Hathaway; Oliver Platt,"Comedy, Drama, Romance",https://letterboxd.com/film/love-other-drugs/
+20,Despicable Me,"Chris Renaud, Pierre Coffin",Steve Carell; Jason Segel; Russell Brand,"Animation, Science Fiction, Comedy, Family, Crime",https://letterboxd.com/film/despicable-me/
+21,Insidious,James Wan,Patrick Wilson; Rose Byrne; Lin Shaye,"Horror, Thriller",https://letterboxd.com/film/insidious/
+22,Blue Valentine,Derek Cianfrance,Ryan Gosling; Michelle Williams; John Doman,"Drama, Romance",https://letterboxd.com/film/blue-valentine/
+23,Megamind,Tom McGrath,Will Ferrell; Brad Pitt; Tina Fey,"Comedy, Science Fiction, Action, Family, Animation",https://letterboxd.com/film/megamind/
+24,Valentine's Day,Garry Marshall,Jessica Alba; Kathy Bates; Jessica Biel,"Comedy, Romance",https://letterboxd.com/film/valentines-day/
+25,The Secret World of Arrietty,Hiromasa Yonebayashi,Mirai Shida; Ryunosuke Kamiki; Tomokazu Miura,"Animation, Fantasy, Family",https://letterboxd.com/film/the-secret-world-of-arrietty/
+26,Percy Jackson & the Olympians: The Lightning Thief,Chris Columbus,Logan Lerman; Brandon T. Jackson; Alexandra Daddario,"Adventure, Fantasy, Family",https://letterboxd.com/film/percy-jackson-the-olympians-the-lightning-thief/
 27,Shrek Forever After,Mike Mitchell,Mike Myers; Eddie Murphy; Cameron Diaz,"Adventure, Family, Animation, Fantasy, Comedy",https://letterboxd.com/film/shrek-forever-after/
 28,The Town,Ben Affleck,Ben Affleck; Jeremy Renner; Rebecca Hall,"Crime, Thriller, Drama",https://letterboxd.com/film/the-town/
-29,Remember Me,Allen Coulter,Robert Pattinson; Emilie de Ravin; Pierce Brosnan,"Romance, Drama",https://letterboxd.com/film/remember-me/
-30,Percy Jackson & the Olympians: The Lightning Thief,Chris Columbus,Logan Lerman; Brandon T. Jackson; Alexandra Daddario,"Adventure, Fantasy, Family",https://letterboxd.com/film/percy-jackson-the-olympians-the-lightning-thief/
-31,Burlesque,Steve Antin,Cher; Christina Aguilera; Cam Gigandet,"Drama, Romance",https://letterboxd.com/film/burlesque/
-32,I Saw the Devil,Kim Jee-woon,Lee Byung-hun; Choi Min-sik; Jeon Kuk-hwan,"Thriller, Horror",https://letterboxd.com/film/i-saw-the-devil/
-33,The Karate Kid,Harald Zwart,Jaden Smith; Jackie Chan; Taraji P. Henson,"Drama, Action, Family, Adventure",https://letterboxd.com/film/the-karate-kid-2010/
-34,Life As We Know It,Greg Berlanti,Katherine Heigl; Josh Duhamel; Josh Lucas,"Romance, Comedy, Drama",https://letterboxd.com/film/life-as-we-know-it/
-35,Eat Pray Love,Ryan Murphy,Julia Roberts; Javier Bardem; James Franco,"Drama, Romance",https://letterboxd.com/film/eat-pray-love/
-36,TRON: Legacy,Joseph Kosinski,Garrett Hedlund; Olivia Wilde; Jeff Bridges,"Adventure, Science Fiction, Action",https://letterboxd.com/film/tron-legacy/
-37,Kick-Ass,Matthew Vaughn,Aaron Taylor-Johnson; Chloë Grace Moretz; Nicolas Cage,"Crime, Action",https://letterboxd.com/film/kick-ass/
-38,The Other Guys,Adam McKay,Will Ferrell; Mark Wahlberg; Eva Mendes,"Comedy, Action",https://letterboxd.com/film/the-other-guys/
-39,Jackass 3D,Jeff Tremaine,Johnny Knoxville; Bam Margera; Ryan Dunn,"Comedy, Documentary, Action",https://letterboxd.com/film/jackass-3d/
+29,Submarine,Richard Ayoade,Noah Taylor; Paddy Considine; Craig Roberts,"Drama, Comedy, Romance",https://letterboxd.com/film/submarine/
+30,Remember Me,Allen Coulter,Robert Pattinson; Emilie de Ravin; Pierce Brosnan,"Romance, Drama",https://letterboxd.com/film/remember-me/
+31,Life As We Know It,Greg Berlanti,Katherine Heigl; Josh Duhamel; Josh Lucas,"Romance, Comedy, Drama",https://letterboxd.com/film/life-as-we-know-it/
+32,The Karate Kid,Harald Zwart,Jaden Smith; Jackie Chan; Taraji P. Henson,"Drama, Action, Family, Adventure",https://letterboxd.com/film/the-karate-kid-2010/
+33,I Saw the Devil,Kim Jee-woon,Lee Byung-hun; Choi Min-sik; Jeon Kuk-hwan,"Thriller, Horror",https://letterboxd.com/film/i-saw-the-devil/
+34,Eat Pray Love,Ryan Murphy,Julia Roberts; Javier Bardem; James Franco,"Drama, Romance",https://letterboxd.com/film/eat-pray-love/
+35,Burlesque,Steve Antin,Cher; Christina Aguilera; Cam Gigandet,"Drama, Romance",https://letterboxd.com/film/burlesque/
+36,The Other Guys,Adam McKay,Will Ferrell; Mark Wahlberg; Eva Mendes,"Comedy, Action, Crime",https://letterboxd.com/film/the-other-guys/
+37,Due Date,Todd Phillips,Robert Downey Jr.; Zach Galifianakis; Michelle Monaghan,"Comedy, Drama",https://letterboxd.com/film/due-date/
+38,Kick-Ass,Matthew Vaughn,Aaron Taylor-Johnson; Chloë Grace Moretz; Nicolas Cage,"Crime, Action",https://letterboxd.com/film/kick-ass/
+39,TRON: Legacy,Joseph Kosinski,Garrett Hedlund; Olivia Wilde; Jeff Bridges,"Adventure, Science Fiction, Action",https://letterboxd.com/film/tron-legacy/
 40,127 Hours,Danny Boyle,James Franco; Kate Mara; Amber Tamblyn,"Adventure, Thriller, Drama",https://letterboxd.com/film/127-hours/
-41,Hot Tub Time Machine,Steve Pink,John Cusack; Craig Robinson; Rob Corddry,"Adventure, Comedy, Science Fiction",https://letterboxd.com/film/hot-tub-time-machine/
-42,The Last Song,Julie Anne Robinson,Miley Cyrus; Greg Kinnear; Bobby Coleman,"Drama, Romance, Family",https://letterboxd.com/film/the-last-song/
-43,Sex and the City 2,Michael Patrick King,Sarah Jessica Parker; Kim Cattrall; Kristin Davis,"Drama, Comedy, Romance",https://letterboxd.com/film/sex-and-the-city-2/
-44,The Chronicles of Narnia: The Voyage of the Dawn Treader,Michael Apted,Georgie Henley; Skandar Keynes; Ben Barnes,"Adventure, Family, Fantasy",https://letterboxd.com/film/the-chronicles-of-narnia-the-voyage-of-the-dawn-treader/
-45,Leap Year,Anand Tucker,Amy Adams; Matthew Goode; Adam Scott,"Comedy, Romance",https://letterboxd.com/film/leap-year/
-46,True Grit,"Ethan Coen, Joel Coen",Jeff Bridges; Hailee Steinfeld; Matt Damon,"Western, Adventure, Drama",https://letterboxd.com/film/true-grit-2010/
-47,Starstruck,Michael Grossman,Sterling Knight; Danielle Campbell; Maggie Castle,"Romance, TV Movie, Comedy, Music",https://letterboxd.com/film/starstruck-2010/
-48,Never Let Me Go,Mark Romanek,Carey Mulligan; Keira Knightley; Andrew Garfield,"Drama, Romance, Science Fiction",https://letterboxd.com/film/never-let-me-go-2010/
-49,A Serbian Film,Srđan Spasojević,Srđan 'Žika' Todorović; Sergej Trifunović; Jelena Gavrilović,"Horror, Thriller, Crime",https://letterboxd.com/film/a-serbian-film/
-50,Due Date,Todd Phillips,Robert Downey Jr.; Zach Galifianakis; Michelle Monaghan,"Comedy, Drama",https://letterboxd.com/film/due-date/
+41,Jackass 3D,Jeff Tremaine,Johnny Knoxville; Bam Margera; Ryan Dunn,"Comedy, Documentary, Action",https://letterboxd.com/film/jackass-3d/
+42,Camp Rock 2: The Final Jam,Paul Hoen,Demi Lovato; Joe Jonas; Nick Jonas,"TV Movie, Music, Comedy",https://letterboxd.com/film/camp-rock-2-the-final-jam/
+43,The Last Song,Julie Anne Robinson,Miley Cyrus; Liam Hemsworth; Bobby Coleman,"Drama, Romance, Family",https://letterboxd.com/film/the-last-song/
+44,Sex and the City 2,Michael Patrick King,Sarah Jessica Parker; Kim Cattrall; Kristin Davis,"Drama, Comedy, Romance",https://letterboxd.com/film/sex-and-the-city-2/
+45,Starstruck,Michael Grossman,Sterling Knight; Danielle Campbell; Maggie Castle,"Romance, TV Movie, Comedy, Music",https://letterboxd.com/film/starstruck-2010/
+46,The Chronicles of Narnia: The Voyage of the Dawn Treader,Michael Apted,Georgie Henley; Skandar Keynes; Ben Barnes,"Adventure, Family, Fantasy",https://letterboxd.com/film/the-chronicles-of-narnia-the-voyage-of-the-dawn-treader/
+47,True Grit,"Ethan Coen, Joel Coen",Jeff Bridges; Hailee Steinfeld; Matt Damon,"Western, Adventure, Drama",https://letterboxd.com/film/true-grit-2010/
+48,Hot Tub Time Machine,Steve Pink,John Cusack; Craig Robinson; Rob Corddry,"Adventure, Comedy, Science Fiction",https://letterboxd.com/film/hot-tub-time-machine/
+49,Batman: Under the Red Hood,Brandon Vietti,Bruce Greenwood; Jensen Ackles; Neil Patrick Harris,"Animation, Crime, Mystery",https://letterboxd.com/film/batman-under-the-red-hood/
+50,Leap Year,Anand Tucker,Amy Adams; Matthew Goode; Adam Scott,"Comedy, Romance",https://letterboxd.com/film/leap-year/

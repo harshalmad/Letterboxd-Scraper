@@ -76,18 +76,6 @@
     },
     {
       "rank": 7,
-      "title": "The Wiz",
-      "url": "https://letterboxd.com/film/the-wiz/",
-      "director": "Sidney Lumet",
-      "actors": [
-        "Diana Ross",
-        "Michael Jackson",
-        "Nipsey Russell"
-      ],
-      "genres": "Adventure, Fantasy, Family"
-    },
-    {
-      "rank": 8,
       "title": "Superman",
       "url": "https://letterboxd.com/film/superman/",
       "director": "Richard Donner",
@@ -97,6 +85,18 @@
         "Gene Hackman"
       ],
       "genres": "Action, Adventure, Science Fiction"
+    },
+    {
+      "rank": 8,
+      "title": "The Wiz",
+      "url": "https://letterboxd.com/film/the-wiz/",
+      "director": "Sidney Lumet",
+      "actors": [
+        "Diana Ross",
+        "Michael Jackson",
+        "Nipsey Russell"
+      ],
+      "genres": "Adventure, Fantasy, Family"
     },
     {
       "rank": 9,
@@ -148,6 +148,18 @@
     },
     {
       "rank": 13,
+      "title": "Jaws 2",
+      "url": "https://letterboxd.com/film/jaws-2/",
+      "director": "Jeannot Szwarc",
+      "actors": [
+        "Roy Scheider",
+        "Lorraine Gary",
+        "Murray Hamilton"
+      ],
+      "genres": "Thriller, Horror"
+    },
+    {
+      "rank": 14,
       "title": "Killer of Sheep",
       "url": "https://letterboxd.com/film/killer-of-sheep/",
       "director": "Charles Burnett",
@@ -159,7 +171,7 @@
       "genres": "Drama"
     },
     {
-      "rank": 14,
+      "rank": 15,
       "title": "Faces of Death",
       "url": "https://letterboxd.com/film/faces-of-death/",
       "director": "John Alan Schwartz",
@@ -169,18 +181,6 @@
         "Mary Ellen Brighton"
       ],
       "genres": "Documentary, Horror"
-    },
-    {
-      "rank": 15,
-      "title": "Jaws 2",
-      "url": "https://letterboxd.com/film/jaws-2/",
-      "director": "Jeannot Szwarc",
-      "actors": [
-        "Roy Scheider",
-        "Lorraine Gary",
-        "Murray Hamilton"
-      ],
-      "genres": "Thriller, Horror"
     },
     {
       "rank": 16,
@@ -208,18 +208,6 @@
     },
     {
       "rank": 18,
-      "title": "Beauty and the Beast",
-      "url": "https://letterboxd.com/film/beauty-and-the-beast-1978/",
-      "director": "Juraj Herz",
-      "actors": [
-        "Zdena Studenková",
-        "Vlastimil Harapes",
-        "Václav Voska"
-      ],
-      "genres": "Fantasy, Horror, Romance"
-    },
-    {
-      "rank": 19,
       "title": "The Lord of the Rings",
       "url": "https://letterboxd.com/film/the-lord-of-the-rings/",
       "director": "Ralph Bakshi",
@@ -231,16 +219,28 @@
       "genres": "Fantasy, Adventure, Animation"
     },
     {
-      "rank": 20,
-      "title": "French Fried Vacation",
-      "url": "https://letterboxd.com/film/french-fried-vacation/",
-      "director": "Patrice Leconte",
+      "rank": 19,
+      "title": "I Spit on Your Grave",
+      "url": "https://letterboxd.com/film/i-spit-on-your-grave/",
+      "director": "Meir Zarchi",
       "actors": [
-        "Thierry Lhermitte",
-        "Christian Clavier",
-        "Gérard Jugnot"
+        "Camille Keaton",
+        "Eron Tabor",
+        "Richard Pace"
       ],
-      "genres": "Comedy"
+      "genres": "Horror"
+    },
+    {
+      "rank": 20,
+      "title": "Beauty and the Beast",
+      "url": "https://letterboxd.com/film/beauty-and-the-beast-1978/",
+      "director": "Juraj Herz",
+      "actors": [
+        "Zdena Studenková",
+        "Vlastimil Harapes",
+        "Václav Voska"
+      ],
+      "genres": "Fantasy, Horror, Romance"
     },
     {
       "rank": 21,
@@ -268,90 +268,6 @@
     },
     {
       "rank": 23,
-      "title": "I Spit on Your Grave",
-      "url": "https://letterboxd.com/film/i-spit-on-your-grave/",
-      "director": "Meir Zarchi",
-      "actors": [
-        "Camille Keaton",
-        "Eron Tabor",
-        "Richard Pace"
-      ],
-      "genres": "Horror"
-    },
-    {
-      "rank": 24,
-      "title": "Girlfriends",
-      "url": "https://letterboxd.com/film/girlfriends-1978/",
-      "director": "Claudia Weill",
-      "actors": [
-        "Melanie Mayron",
-        "Eli Wallach",
-        "Adam Cohen"
-      ],
-      "genres": "Comedy, Drama"
-    },
-    {
-      "rank": 25,
-      "title": "The 36th Chamber of Shaolin",
-      "url": "https://letterboxd.com/film/the-36th-chamber-of-shaolin/",
-      "director": "Lau Kar-leung",
-      "actors": [
-        "Gordon Liu Chia-Hui",
-        "Lo Lieh",
-        "John Cheung Ng-Long"
-      ],
-      "genres": "Adventure, Action"
-    },
-    {
-      "rank": 26,
-      "title": "Piranha",
-      "url": "https://letterboxd.com/film/piranha/",
-      "director": "Joe Dante",
-      "actors": [
-        "Bradford Dillman",
-        "Heather Menzies",
-        "Kevin McCarthy"
-      ],
-      "genres": "Science Fiction, Comedy, Horror"
-    },
-    {
-      "rank": 27,
-      "title": "Up in Smoke",
-      "url": "https://letterboxd.com/film/up-in-smoke-1978/",
-      "director": "Lou Adler",
-      "actors": [
-        "Cheech Marin",
-        "Tommy Chong",
-        "Strother Martin"
-      ],
-      "genres": "Adventure, Comedy"
-    },
-    {
-      "rank": 28,
-      "title": "La Cage aux Folles",
-      "url": "https://letterboxd.com/film/la-cage-aux-folles/",
-      "director": "Édouard Molinaro",
-      "actors": [
-        "Ugo Tognazzi",
-        "Michel Serrault",
-        "Claire Maurier"
-      ],
-      "genres": "Comedy"
-    },
-    {
-      "rank": 29,
-      "title": "Magic",
-      "url": "https://letterboxd.com/film/magic/",
-      "director": "Richard Attenborough",
-      "actors": [
-        "Anthony Hopkins",
-        "Ann-Margret",
-        "Burgess Meredith"
-      ],
-      "genres": "Drama, Horror"
-    },
-    {
-      "rank": 30,
       "title": "Straight Time",
       "url": "https://letterboxd.com/film/straight-time/",
       "director": "Ulu Grosbard",
@@ -363,7 +279,103 @@
       "genres": "Drama, Crime"
     },
     {
+      "rank": 24,
+      "title": "French Fried Vacation",
+      "url": "https://letterboxd.com/film/french-fried-vacation/",
+      "director": "Patrice Leconte",
+      "actors": [
+        "Thierry Lhermitte",
+        "Christian Clavier",
+        "Gérard Jugnot"
+      ],
+      "genres": "Comedy"
+    },
+    {
+      "rank": 25,
+      "title": "Piranha",
+      "url": "https://letterboxd.com/film/piranha/",
+      "director": "Joe Dante",
+      "actors": [
+        "Bradford Dillman",
+        "Heather Menzies",
+        "Kevin McCarthy"
+      ],
+      "genres": "Science Fiction, Comedy, Horror"
+    },
+    {
+      "rank": 26,
+      "title": "Girlfriends",
+      "url": "https://letterboxd.com/film/girlfriends-1978/",
+      "director": "Claudia Weill",
+      "actors": [
+        "Melanie Mayron",
+        "Eli Wallach",
+        "Adam Cohen"
+      ],
+      "genres": "Comedy, Drama"
+    },
+    {
+      "rank": 27,
+      "title": "The 36th Chamber of Shaolin",
+      "url": "https://letterboxd.com/film/the-36th-chamber-of-shaolin/",
+      "director": "Lau Kar-leung",
+      "actors": [
+        "Gordon Liu Chia-Hui",
+        "Lo Lieh",
+        "John Cheung Ng-Long"
+      ],
+      "genres": "Adventure, Action"
+    },
+    {
+      "rank": 28,
+      "title": "Up in Smoke",
+      "url": "https://letterboxd.com/film/up-in-smoke-1978/",
+      "director": "Lou Adler",
+      "actors": [
+        "Cheech Marin",
+        "Tommy Chong",
+        "Strother Martin"
+      ],
+      "genres": "Adventure, Comedy"
+    },
+    {
+      "rank": 29,
+      "title": "A Wedding",
+      "url": "https://letterboxd.com/film/a-wedding/",
+      "director": "Robert Altman",
+      "actors": [
+        "Desi Arnaz Jr.",
+        "Carol Burnett",
+        "Geraldine Chaplin"
+      ],
+      "genres": "Comedy, Drama"
+    },
+    {
+      "rank": 30,
+      "title": "La Cage aux Folles",
+      "url": "https://letterboxd.com/film/la-cage-aux-folles/",
+      "director": "Édouard Molinaro",
+      "actors": [
+        "Ugo Tognazzi",
+        "Michel Serrault",
+        "Claire Maurier"
+      ],
+      "genres": "Comedy"
+    },
+    {
       "rank": 31,
+      "title": "Magic",
+      "url": "https://letterboxd.com/film/magic/",
+      "director": "Richard Attenborough",
+      "actors": [
+        "Anthony Hopkins",
+        "Ann-Margret",
+        "Burgess Meredith"
+      ],
+      "genres": "Drama, Horror"
+    },
+    {
+      "rank": 32,
       "title": "Blue Collar",
       "url": "https://letterboxd.com/film/blue-collar/",
       "director": "Paul Schrader",
@@ -375,7 +387,7 @@
       "genres": "Drama, Crime"
     },
     {
-      "rank": 32,
+      "rank": 33,
       "title": "Interiors",
       "url": "https://letterboxd.com/film/interiors/",
       "director": "Woody Allen",
@@ -385,18 +397,6 @@
         "Mary Beth Hurt"
       ],
       "genres": "Drama"
-    },
-    {
-      "rank": 33,
-      "title": "Hooper",
-      "url": "https://letterboxd.com/film/hooper/",
-      "director": "Hal Needham",
-      "actors": [
-        "Burt Reynolds",
-        "Jan-Michael Vincent",
-        "Sally Field"
-      ],
-      "genres": "Action, Comedy"
     },
     {
       "rank": 34,
@@ -424,54 +424,18 @@
     },
     {
       "rank": 36,
-      "title": "The Boys from Brazil",
-      "url": "https://letterboxd.com/film/the-boys-from-brazil/",
-      "director": "Franklin J. Schaffner",
+      "title": "Hooper",
+      "url": "https://letterboxd.com/film/hooper/",
+      "director": "Hal Needham",
       "actors": [
-        "Gregory Peck",
-        "Laurence Olivier",
-        "James Mason"
+        "Burt Reynolds",
+        "Jan-Michael Vincent",
+        "Sally Field"
       ],
-      "genres": "Mystery, Drama, Science Fiction"
+      "genres": "Action, Comedy"
     },
     {
       "rank": 37,
-      "title": "The Star Wars Holiday Special",
-      "url": "https://letterboxd.com/film/the-star-wars-holiday-special/",
-      "director": "Steve Binder",
-      "actors": [
-        "Peter Mayhew",
-        "Mark Hamill",
-        "Carrie Fisher"
-      ],
-      "genres": "Science Fiction, Family, TV Movie, Adventure"
-    },
-    {
-      "rank": 38,
-      "title": "Pretty Baby",
-      "url": "https://letterboxd.com/film/pretty-baby/",
-      "director": "Louis Malle",
-      "actors": [
-        "Brooke Shields",
-        "Keith Carradine",
-        "Susan Sarandon"
-      ],
-      "genres": "Drama"
-    },
-    {
-      "rank": 39,
-      "title": "A Wedding",
-      "url": "https://letterboxd.com/film/a-wedding/",
-      "director": "Robert Altman",
-      "actors": [
-        "Desi Arnaz Jr.",
-        "Carol Burnett",
-        "Geraldine Chaplin"
-      ],
-      "genres": "Comedy, Drama"
-    },
-    {
-      "rank": 40,
       "title": "An Unmarried Woman",
       "url": "https://letterboxd.com/film/an-unmarried-woman/",
       "director": "Paul Mazursky",
@@ -483,55 +447,31 @@
       "genres": "Comedy, Drama, Romance"
     },
     {
-      "rank": 41,
-      "title": "I Wanna Hold Your Hand",
-      "url": "https://letterboxd.com/film/i-wanna-hold-your-hand/",
-      "director": "Robert Zemeckis",
+      "rank": 38,
+      "title": "The Boys from Brazil",
+      "url": "https://letterboxd.com/film/the-boys-from-brazil/",
+      "director": "Franklin J. Schaffner",
       "actors": [
-        "Nancy Allen",
-        "Bobby Di Cicco",
-        "Marc McClure"
+        "Gregory Peck",
+        "Laurence Olivier",
+        "James Mason"
       ],
-      "genres": "Comedy, Music"
+      "genres": "Mystery, Drama, Science Fiction"
     },
     {
-      "rank": 42,
-      "title": "The Fury",
-      "url": "https://letterboxd.com/film/the-fury/",
-      "director": "Brian De Palma",
+      "rank": 39,
+      "title": "Pretty Baby",
+      "url": "https://letterboxd.com/film/pretty-baby/",
+      "director": "Louis Malle",
       "actors": [
-        "Kirk Douglas",
-        "Amy Irving",
-        "John Cassavetes"
+        "Brooke Shields",
+        "Keith Carradine",
+        "Susan Sarandon"
       ],
-      "genres": "Thriller, Science Fiction, Horror"
+      "genres": "Drama"
     },
     {
-      "rank": 43,
-      "title": "Jubilee",
-      "url": "https://letterboxd.com/film/jubilee/",
-      "director": "Derek Jarman",
-      "actors": [
-        "Jenny Runacre",
-        "Nell Campbell",
-        "Toyah Willcox"
-      ],
-      "genres": "Comedy, Music, Drama, Fantasy"
-    },
-    {
-      "rank": 44,
-      "title": "Foul Play",
-      "url": "https://letterboxd.com/film/foul-play/",
-      "director": "Colin Higgins",
-      "actors": [
-        "Goldie Hawn",
-        "Chevy Chase",
-        "Burgess Meredith"
-      ],
-      "genres": "Mystery, Comedy, Thriller"
-    },
-    {
-      "rank": 45,
+      "rank": 40,
       "title": "Damien - Omen II",
       "url": "https://letterboxd.com/film/damien-omen-ii/",
       "director": "Don Taylor",
@@ -543,19 +483,67 @@
       "genres": "Horror, Thriller"
     },
     {
-      "rank": 46,
-      "title": "The Grapes of Death",
-      "url": "https://letterboxd.com/film/the-grapes-of-death/",
-      "director": "Jean Rollin",
+      "rank": 41,
+      "title": "The Fury",
+      "url": "https://letterboxd.com/film/the-fury/",
+      "director": "Brian De Palma",
       "actors": [
-        "Marie-Georges Pascal",
-        "Félix Marten",
-        "Serge Marquand"
+        "Kirk Douglas",
+        "Amy Irving",
+        "John Cassavetes"
       ],
-      "genres": "Horror"
+      "genres": "Thriller, Science Fiction, Horror"
     },
     {
-      "rank": 47,
+      "rank": 42,
+      "title": "The Star Wars Holiday Special",
+      "url": "https://letterboxd.com/film/the-star-wars-holiday-special/",
+      "director": "Steve Binder",
+      "actors": [
+        "Peter Mayhew",
+        "Mark Hamill",
+        "Carrie Fisher"
+      ],
+      "genres": "Science Fiction, Family, TV Movie, Adventure"
+    },
+    {
+      "rank": 43,
+      "title": "I Wanna Hold Your Hand",
+      "url": "https://letterboxd.com/film/i-wanna-hold-your-hand/",
+      "director": "Robert Zemeckis",
+      "actors": [
+        "Nancy Allen",
+        "Bobby Di Cicco",
+        "Marc McClure"
+      ],
+      "genres": "Comedy, Music"
+    },
+    {
+      "rank": 44,
+      "title": "Jubilee",
+      "url": "https://letterboxd.com/film/jubilee/",
+      "director": "Derek Jarman",
+      "actors": [
+        "Jenny Runacre",
+        "Nell Campbell",
+        "Toyah Willcox"
+      ],
+      "genres": "Comedy, Music, Drama, Fantasy"
+    },
+    {
+      "rank": 45,
+      "title": "Foul Play",
+      "url": "https://letterboxd.com/film/foul-play/",
+      "director": "Colin Higgins",
+      "actors": [
+        "Goldie Hawn",
+        "Chevy Chase",
+        "Burgess Meredith"
+      ],
+      "genres": "Mystery, Comedy, Thriller"
+    },
+    {
+      "rank": 46,
       "title": "Game of Death",
       "url": "https://letterboxd.com/film/game-of-death/",
       "director": "Robert Clouse",
@@ -565,6 +553,18 @@
         "Dean Jagger"
       ],
       "genres": "Drama, Action, Thriller"
+    },
+    {
+      "rank": 47,
+      "title": "Heaven Can Wait",
+      "url": "https://letterboxd.com/film/heaven-can-wait-1978/",
+      "director": "Buck Henry, Warren Beatty",
+      "actors": [
+        "Warren Beatty",
+        "Julie Christie",
+        "James Mason"
+      ],
+      "genres": "Drama, Comedy, Fantasy, Romance"
     },
     {
       "rank": 48,
@@ -580,27 +580,27 @@
     },
     {
       "rank": 49,
-      "title": "Heaven Can Wait",
-      "url": "https://letterboxd.com/film/heaven-can-wait-1978/",
-      "director": "Buck Henry, Warren Beatty",
+      "title": "The Grapes of Death",
+      "url": "https://letterboxd.com/film/the-grapes-of-death/",
+      "director": "Jean Rollin",
       "actors": [
-        "Warren Beatty",
-        "Julie Christie",
-        "James Mason"
+        "Marie-Georges Pascal",
+        "Félix Marten",
+        "Serge Marquand"
       ],
-      "genres": "Comedy, Fantasy, Romance"
+      "genres": "Horror"
     },
     {
       "rank": 50,
-      "title": "The Silent Partner",
-      "url": "https://letterboxd.com/film/the-silent-partner/",
-      "director": "Daryl Duke",
+      "title": "Ecce Bombo",
+      "url": "https://letterboxd.com/film/ecce-bombo/",
+      "director": "Nanni Moretti",
       "actors": [
-        "Elliott Gould",
-        "Christopher Plummer",
-        "Susannah York"
+        "Nanni Moretti",
+        "Luisa Rossi",
+        "Lina Sastri"
       ],
-      "genres": "Drama, Thriller"
+      "genres": "Comedy, Drama"
     }
   ]
 }

@@ -28,18 +28,6 @@
     },
     {
       "rank": 3,
-      "title": "Scent of a Woman",
-      "url": "https://letterboxd.com/film/scent-of-a-woman/",
-      "director": "Martin Brest",
-      "actors": [
-        "Al Pacino",
-        "Chris O'Donnell",
-        "James Rebhorn"
-      ],
-      "genres": "Drama"
-    },
-    {
-      "rank": 4,
       "title": "Porco Rosso",
       "url": "https://letterboxd.com/film/porco-rosso/",
       "director": "Hayao Miyazaki",
@@ -51,31 +39,19 @@
       "genres": "Fantasy, Adventure, Animation"
     },
     {
+      "rank": 4,
+      "title": "Scent of a Woman",
+      "url": "https://letterboxd.com/film/scent-of-a-woman/",
+      "director": "Martin Brest",
+      "actors": [
+        "Al Pacino",
+        "Chris O'Donnell",
+        "James Rebhorn"
+      ],
+      "genres": "Drama"
+    },
+    {
       "rank": 5,
-      "title": "Bram Stoker's Dracula",
-      "url": "https://letterboxd.com/film/bram-stokers-dracula/",
-      "director": "Francis Ford Coppola",
-      "actors": [
-        "Gary Oldman",
-        "Winona Ryder",
-        "Anthony Hopkins"
-      ],
-      "genres": "Horror, Romance"
-    },
-    {
-      "rank": 6,
-      "title": "Death Becomes Her",
-      "url": "https://letterboxd.com/film/death-becomes-her/",
-      "director": "Robert Zemeckis",
-      "actors": [
-        "Meryl Streep",
-        "Goldie Hawn",
-        "Bruce Willis"
-      ],
-      "genres": "Comedy, Fantasy, Horror"
-    },
-    {
-      "rank": 7,
       "title": "Aladdin",
       "url": "https://letterboxd.com/film/aladdin/",
       "director": "John Musker, Ron Clements",
@@ -87,31 +63,43 @@
       "genres": "Fantasy, Adventure, Romance, Family, Animation"
     },
     {
-      "rank": 8,
-      "title": "Hard Boiled",
-      "url": "https://letterboxd.com/film/hard-boiled/",
-      "director": "John Woo",
+      "rank": 6,
+      "title": "Bram Stoker's Dracula",
+      "url": "https://letterboxd.com/film/bram-stokers-dracula/",
+      "director": "Francis Ford Coppola",
       "actors": [
-        "Chow Yun-Fat",
-        "Tony Leung Chiu-wai",
-        "Anthony Wong Chau-Sang"
+        "Gary Oldman",
+        "Winona Ryder",
+        "Anthony Hopkins"
       ],
-      "genres": "Action, Thriller, Crime"
+      "genres": "Horror, Romance"
+    },
+    {
+      "rank": 7,
+      "title": "Army of Darkness",
+      "url": "https://letterboxd.com/film/army-of-darkness/",
+      "director": "Sam Raimi",
+      "actors": [
+        "Bruce Campbell",
+        "Embeth Davidtz",
+        "Marcus Gilbert"
+      ],
+      "genres": "Comedy, Fantasy, Horror"
+    },
+    {
+      "rank": 8,
+      "title": "Death Becomes Her",
+      "url": "https://letterboxd.com/film/death-becomes-her/",
+      "director": "Robert Zemeckis",
+      "actors": [
+        "Meryl Streep",
+        "Goldie Hawn",
+        "Bruce Willis"
+      ],
+      "genres": "Comedy, Fantasy, Horror"
     },
     {
       "rank": 9,
-      "title": "My Cousin Vinny",
-      "url": "https://letterboxd.com/film/my-cousin-vinny/",
-      "director": "Jonathan Lynn",
-      "actors": [
-        "Joe Pesci",
-        "Marisa Tomei",
-        "Ralph Macchio"
-      ],
-      "genres": "Drama, Comedy"
-    },
-    {
-      "rank": 10,
       "title": "A Few Good Men",
       "url": "https://letterboxd.com/film/a-few-good-men/",
       "director": "Rob Reiner",
@@ -123,16 +111,28 @@
       "genres": "Drama"
     },
     {
-      "rank": 11,
-      "title": "Army of Darkness",
-      "url": "https://letterboxd.com/film/army-of-darkness/",
-      "director": "Sam Raimi",
+      "rank": 10,
+      "title": "My Cousin Vinny",
+      "url": "https://letterboxd.com/film/my-cousin-vinny/",
+      "director": "Jonathan Lynn",
       "actors": [
-        "Bruce Campbell",
-        "Embeth Davidtz",
-        "Marcus Gilbert"
+        "Ralph Macchio",
+        "Joe Pesci",
+        "Marisa Tomei"
       ],
-      "genres": "Comedy, Fantasy, Horror"
+      "genres": "Drama, Comedy"
+    },
+    {
+      "rank": 11,
+      "title": "Hard Boiled",
+      "url": "https://letterboxd.com/film/hard-boiled/",
+      "director": "John Woo",
+      "actors": [
+        "Chow Yun-Fat",
+        "Tony Leung Chiu-wai",
+        "Anthony Wong Chau-Sang"
+      ],
+      "genres": "Action, Thriller, Crime"
     },
     {
       "rank": 12,
@@ -160,18 +160,6 @@
     },
     {
       "rank": 14,
-      "title": "Malcolm X",
-      "url": "https://letterboxd.com/film/malcolm-x-1992/",
-      "director": "Spike Lee",
-      "actors": [
-        "Denzel Washington",
-        "Angela Bassett",
-        "Albert Hall"
-      ],
-      "genres": "History, Drama"
-    },
-    {
-      "rank": 15,
       "title": "Batman Returns",
       "url": "https://letterboxd.com/film/batman-returns/",
       "director": "Tim Burton",
@@ -181,6 +169,18 @@
         "Michelle Pfeiffer"
       ],
       "genres": "Fantasy, Action"
+    },
+    {
+      "rank": 15,
+      "title": "Malcolm X",
+      "url": "https://letterboxd.com/film/malcolm-x-1992/",
+      "director": "Spike Lee",
+      "actors": [
+        "Denzel Washington",
+        "Angela Bassett",
+        "Albert Hall"
+      ],
+      "genres": "History, Drama"
     },
     {
       "rank": 16,
@@ -232,16 +232,6 @@
     },
     {
       "rank": 20,
-      "title": "Lessons of Darkness",
-      "url": "https://letterboxd.com/film/lessons-of-darkness/",
-      "director": "Werner Herzog",
-      "actors": [
-        "Werner Herzog"
-      ],
-      "genres": "Documentary, TV Movie, War"
-    },
-    {
-      "rank": 21,
       "title": "The Bodyguard",
       "url": "https://letterboxd.com/film/the-bodyguard-1992/",
       "director": "Mick Jackson",
@@ -251,6 +241,18 @@
         "Gary Kemp"
       ],
       "genres": "Drama, Action, Romance"
+    },
+    {
+      "rank": 21,
+      "title": "The Last of the Mohicans",
+      "url": "https://letterboxd.com/film/the-last-of-the-mohicans-1992/",
+      "director": "Michael Mann",
+      "actors": [
+        "Daniel Day-Lewis",
+        "Madeleine Stowe",
+        "Jodhi May"
+      ],
+      "genres": "Drama, War, History"
     },
     {
       "rank": 22,
@@ -266,15 +268,13 @@
     },
     {
       "rank": 23,
-      "title": "The Last of the Mohicans",
-      "url": "https://letterboxd.com/film/the-last-of-the-mohicans-1992/",
-      "director": "Michael Mann",
+      "title": "Lessons of Darkness",
+      "url": "https://letterboxd.com/film/lessons-of-darkness/",
+      "director": "Werner Herzog",
       "actors": [
-        "Daniel Day-Lewis",
-        "Madeleine Stowe",
-        "Jodhi May"
+        "Werner Herzog"
       ],
-      "genres": "Drama, War, History"
+      "genres": "Documentary, TV Movie, War"
     },
     {
       "rank": 24,
@@ -290,18 +290,6 @@
     },
     {
       "rank": 25,
-      "title": "Glengarry Glen Ross",
-      "url": "https://letterboxd.com/film/glengarry-glen-ross/",
-      "director": "James Foley",
-      "actors": [
-        "Al Pacino",
-        "Jack Lemmon",
-        "Alec Baldwin"
-      ],
-      "genres": "Mystery, Crime, Drama"
-    },
-    {
-      "rank": 26,
       "title": "The Hand That Rocks the Cradle",
       "url": "https://letterboxd.com/film/the-hand-that-rocks-the-cradle/",
       "director": "Curtis Hanson",
@@ -313,19 +301,19 @@
       "genres": "Thriller, Drama"
     },
     {
-      "rank": 27,
-      "title": "The Living End",
-      "url": "https://letterboxd.com/film/the-living-end/",
-      "director": "Gregg Araki",
+      "rank": 26,
+      "title": "Glengarry Glen Ross",
+      "url": "https://letterboxd.com/film/glengarry-glen-ross/",
+      "director": "James Foley",
       "actors": [
-        "Mike Dytri",
-        "Craig Gilmore",
-        "Mark Finch"
+        "Al Pacino",
+        "Jack Lemmon",
+        "Alec Baldwin"
       ],
-      "genres": "Romance, Drama, Crime"
+      "genres": "Mystery, Crime, Drama"
     },
     {
-      "rank": 28,
+      "rank": 27,
       "title": "Candyman",
       "url": "https://letterboxd.com/film/candyman/",
       "director": "Bernard Rose",
@@ -337,31 +325,19 @@
       "genres": "Thriller, Horror, Drama"
     },
     {
+      "rank": 28,
+      "title": "The Living End",
+      "url": "https://letterboxd.com/film/the-living-end/",
+      "director": "Gregg Araki",
+      "actors": [
+        "Mike Dytri",
+        "Craig Gilmore",
+        "Mark Finch"
+      ],
+      "genres": "Romance, Drama, Crime"
+    },
+    {
       "rank": 29,
-      "title": "Single White Female",
-      "url": "https://letterboxd.com/film/single-white-female/",
-      "director": "Barbet Schroeder",
-      "actors": [
-        "Bridget Fonda",
-        "Jennifer Jason Leigh",
-        "Steven Weber"
-      ],
-      "genres": "Horror, Thriller"
-    },
-    {
-      "rank": 30,
-      "title": "The Cutting Edge",
-      "url": "https://letterboxd.com/film/the-cutting-edge/",
-      "director": "Paul Michael Glaser",
-      "actors": [
-        "D. B. Sweeney",
-        "Moira Kelly",
-        "Roy Dotrice"
-      ],
-      "genres": "Comedy, Romance, Drama"
-    },
-    {
-      "rank": 31,
       "title": "Braindead",
       "url": "https://letterboxd.com/film/braindead-1992/",
       "director": "Peter Jackson",
@@ -373,7 +349,43 @@
       "genres": "Comedy, Horror"
     },
     {
+      "rank": 30,
+      "title": "Jamon Jamon",
+      "url": "https://letterboxd.com/film/jamon-jamon/",
+      "director": "Bigas Luna",
+      "actors": [
+        "Stefania Sandrelli",
+        "Anna Galiena",
+        "Juan Diego"
+      ],
+      "genres": "Romance, Drama, Comedy"
+    },
+    {
+      "rank": 31,
+      "title": "The Cutting Edge",
+      "url": "https://letterboxd.com/film/the-cutting-edge/",
+      "director": "Paul Michael Glaser",
+      "actors": [
+        "D. B. Sweeney",
+        "Moira Kelly",
+        "Roy Dotrice"
+      ],
+      "genres": "Comedy, Romance, Drama"
+    },
+    {
       "rank": 32,
+      "title": "Single White Female",
+      "url": "https://letterboxd.com/film/single-white-female/",
+      "director": "Barbet Schroeder",
+      "actors": [
+        "Bridget Fonda",
+        "Jennifer Jason Leigh",
+        "Steven Weber"
+      ],
+      "genres": "Thriller"
+    },
+    {
+      "rank": 33,
       "title": "Orlando",
       "url": "https://letterboxd.com/film/orlando/",
       "director": "Sally Potter",
@@ -383,18 +395,6 @@
         "Lothaire Bluteau"
       ],
       "genres": "Drama, Fantasy"
-    },
-    {
-      "rank": 33,
-      "title": "Wuthering Heights",
-      "url": "https://letterboxd.com/film/wuthering-heights-1992/",
-      "director": "Peter Kosminsky",
-      "actors": [
-        "Juliette Binoche",
-        "Ralph Fiennes",
-        "Janet McTeer"
-      ],
-      "genres": "Romance, Drama"
     },
     {
       "rank": 34,
@@ -434,66 +434,6 @@
     },
     {
       "rank": 37,
-      "title": "Jamon Jamon",
-      "url": "https://letterboxd.com/film/jamon-jamon/",
-      "director": "Bigas Luna",
-      "actors": [
-        "Stefania Sandrelli",
-        "Anna Galiena",
-        "Juan Diego"
-      ],
-      "genres": "Romance, Drama, Comedy"
-    },
-    {
-      "rank": 38,
-      "title": "Benny's Video",
-      "url": "https://letterboxd.com/film/bennys-video/",
-      "director": "Michael Haneke",
-      "actors": [
-        "Arno Frisch",
-        "Angela Winkler",
-        "Ulrich Mühe"
-      ],
-      "genres": "Crime, Drama"
-    },
-    {
-      "rank": 39,
-      "title": "Sneakers",
-      "url": "https://letterboxd.com/film/sneakers/",
-      "director": "Phil Alden Robinson",
-      "actors": [
-        "Robert Redford",
-        "Sidney Poitier",
-        "David Strathairn"
-      ],
-      "genres": "Crime, Comedy, Drama"
-    },
-    {
-      "rank": 40,
-      "title": "Singles",
-      "url": "https://letterboxd.com/film/singles/",
-      "director": "Cameron Crowe",
-      "actors": [
-        "Bridget Fonda",
-        "Campbell Scott",
-        "Kyra Sedgwick"
-      ],
-      "genres": "Comedy, Drama, Romance"
-    },
-    {
-      "rank": 41,
-      "title": "Midori",
-      "url": "https://letterboxd.com/film/midori-1992/",
-      "director": "Hiroshi Harada",
-      "actors": [
-        "Minako Naka",
-        "Norihiko Morishita",
-        "Keinosuke Okamoto"
-      ],
-      "genres": "Horror, Drama, Animation"
-    },
-    {
-      "rank": 42,
       "title": "FernGully: The Last Rainforest",
       "url": "https://letterboxd.com/film/ferngully-the-last-rainforest/",
       "director": "Bill Kroyer",
@@ -505,55 +445,55 @@
       "genres": "Animation, Family, Adventure, Fantasy"
     },
     {
-      "rank": 43,
-      "title": "Life, and Nothing More…",
-      "url": "https://letterboxd.com/film/life-and-nothing-more/",
-      "director": "Abbas Kiarostami",
+      "rank": 38,
+      "title": "Wuthering Heights",
+      "url": "https://letterboxd.com/film/wuthering-heights-1992/",
+      "director": "Peter Kosminsky",
       "actors": [
-        "Farhad Kheradmand",
-        "Buba Bayour",
-        "Hossein Rezai"
+        "Juliette Binoche",
+        "Ralph Fiennes",
+        "Janet McTeer"
       ],
-      "genres": "Drama, Adventure"
+      "genres": "Romance, Drama"
     },
     {
-      "rank": 44,
-      "title": "The Muppet Christmas Carol",
-      "url": "https://letterboxd.com/film/the-muppet-christmas-carol/",
-      "director": "Brian Henson",
+      "rank": 39,
+      "title": "Benny's Video",
+      "url": "https://letterboxd.com/film/bennys-video/",
+      "director": "Michael Haneke",
       "actors": [
-        "Michael Caine",
-        "Dave Goelz",
-        "Steve Whitmire"
+        "Arno Frisch",
+        "Angela Winkler",
+        "Ulrich Mühe"
       ],
-      "genres": "Drama, Family, Comedy, Music, Fantasy"
+      "genres": "Crime, Drama"
     },
     {
-      "rank": 45,
-      "title": "Juice",
-      "url": "https://letterboxd.com/film/juice/",
-      "director": "Ernest R. Dickerson",
+      "rank": 40,
+      "title": "Encino Man",
+      "url": "https://letterboxd.com/film/encino-man/",
+      "director": "Les Mayfield",
       "actors": [
-        "Omar Epps",
-        "Tupac Shakur",
-        "Khalil Kain"
+        "Sean Astin",
+        "Brendan Fraser",
+        "Pauly Shore"
       ],
-      "genres": "Thriller, Drama, Crime"
+      "genres": "Comedy"
     },
     {
-      "rank": 46,
-      "title": "Under Siege",
-      "url": "https://letterboxd.com/film/under-siege/",
-      "director": "Andrew Davis",
+      "rank": 41,
+      "title": "Singles",
+      "url": "https://letterboxd.com/film/singles/",
+      "director": "Cameron Crowe",
       "actors": [
-        "Steven Seagal",
-        "Tommy Lee Jones",
-        "Gary Busey"
+        "Bridget Fonda",
+        "Campbell Scott",
+        "Kyra Sedgwick"
       ],
-      "genres": "Thriller, Action"
+      "genres": "Comedy, Drama, Romance"
     },
     {
-      "rank": 47,
+      "rank": 42,
       "title": "Man Bites Dog",
       "url": "https://letterboxd.com/film/man-bites-dog/",
       "director": "Rémy Belvaux, André Bonzel, Benoît Poelvoorde",
@@ -565,7 +505,43 @@
       "genres": "Comedy, Crime"
     },
     {
-      "rank": 48,
+      "rank": 43,
+      "title": "Midori",
+      "url": "https://letterboxd.com/film/midori-1992/",
+      "director": "Hiroshi Harada",
+      "actors": [
+        "Minako Naka",
+        "Norihiko Morishita",
+        "Keinosuke Okamoto"
+      ],
+      "genres": "Horror, Drama, Animation"
+    },
+    {
+      "rank": 44,
+      "title": "Sneakers",
+      "url": "https://letterboxd.com/film/sneakers/",
+      "director": "Phil Alden Robinson",
+      "actors": [
+        "Robert Redford",
+        "Sidney Poitier",
+        "David Strathairn"
+      ],
+      "genres": "Crime, Comedy, Drama"
+    },
+    {
+      "rank": 45,
+      "title": "Life, and Nothing More…",
+      "url": "https://letterboxd.com/film/life-and-nothing-more/",
+      "director": "Abbas Kiarostami",
+      "actors": [
+        "Farhad Kheradmand",
+        "Buba Bayour",
+        "Hossein Rezai"
+      ],
+      "genres": "Drama, Adventure"
+    },
+    {
+      "rank": 46,
       "title": "Sleepwalkers",
       "url": "https://letterboxd.com/film/sleepwalkers/",
       "director": "Mick Garris",
@@ -577,28 +553,52 @@
       "genres": "Fantasy, Thriller, Horror"
     },
     {
-      "rank": 49,
-      "title": "Of Mice and Men",
-      "url": "https://letterboxd.com/film/of-mice-and-men-1992/",
-      "director": "Gary Sinise",
+      "rank": 47,
+      "title": "Juice",
+      "url": "https://letterboxd.com/film/juice/",
+      "director": "Ernest R. Dickerson",
       "actors": [
-        "John Malkovich",
-        "Gary Sinise",
-        "Ray Walston"
+        "Omar Epps",
+        "Tupac Shakur",
+        "Khalil Kain"
       ],
-      "genres": "Drama"
+      "genres": "Thriller, Drama, Crime"
+    },
+    {
+      "rank": 48,
+      "title": "Under Siege",
+      "url": "https://letterboxd.com/film/under-siege/",
+      "director": "Andrew Davis",
+      "actors": [
+        "Steven Seagal",
+        "Tommy Lee Jones",
+        "Gary Busey"
+      ],
+      "genres": "Thriller, Action"
+    },
+    {
+      "rank": 49,
+      "title": "The Muppet Christmas Carol",
+      "url": "https://letterboxd.com/film/the-muppet-christmas-carol/",
+      "director": "Brian Henson",
+      "actors": [
+        "Michael Caine",
+        "Dave Goelz",
+        "Steve Whitmire"
+      ],
+      "genres": "Drama, Family, Comedy, Music, Fantasy"
     },
     {
       "rank": 50,
-      "title": "Newsies",
-      "url": "https://letterboxd.com/film/newsies/",
-      "director": "Kenny Ortega",
+      "title": "Hellraiser III: Hell on Earth",
+      "url": "https://letterboxd.com/film/hellraiser-iii-hell-on-earth/",
+      "director": "Anthony Hickox",
       "actors": [
-        "Christian Bale",
-        "Bill Pullman",
-        "Ann-Margret"
+        "Terry Farrell",
+        "Doug Bradley",
+        "Kevin Bernhardt"
       ],
-      "genres": "History, Drama"
+      "genres": "Thriller, Horror"
     }
   ]
 }

@@ -88,18 +88,6 @@
     },
     {
       "rank": 8,
-      "title": "Indiana Jones and the Last Crusade",
-      "url": "https://letterboxd.com/film/indiana-jones-and-the-last-crusade/",
-      "director": "Steven Spielberg",
-      "actors": [
-        "Harrison Ford",
-        "Sean Connery",
-        "Denholm Elliott"
-      ],
-      "genres": "Adventure, Action"
-    },
-    {
-      "rank": 9,
       "title": "Batman",
       "url": "https://letterboxd.com/film/batman-1989/",
       "director": "Tim Burton",
@@ -111,7 +99,31 @@
       "genres": "Fantasy, Action, Crime"
     },
     {
+      "rank": 9,
+      "title": "Indiana Jones and the Last Crusade",
+      "url": "https://letterboxd.com/film/indiana-jones-and-the-last-crusade/",
+      "director": "Steven Spielberg",
+      "actors": [
+        "Harrison Ford",
+        "Sean Connery",
+        "Denholm Elliott"
+      ],
+      "genres": "Adventure, Action"
+    },
+    {
       "rank": 10,
+      "title": "Steel Magnolias",
+      "url": "https://letterboxd.com/film/steel-magnolias/",
+      "director": "Herbert Ross",
+      "actors": [
+        "Sally Field",
+        "Dolly Parton",
+        "Shirley MacLaine"
+      ],
+      "genres": "Comedy, Drama"
+    },
+    {
+      "rank": 11,
       "title": "The Little Mermaid",
       "url": "https://letterboxd.com/film/the-little-mermaid/",
       "director": "John Musker, Ron Clements",
@@ -123,7 +135,7 @@
       "genres": "Family, Animation, Fantasy"
     },
     {
-      "rank": 11,
+      "rank": 12,
       "title": "Say Anything...",
       "url": "https://letterboxd.com/film/say-anything/",
       "director": "Cameron Crowe",
@@ -133,18 +145,6 @@
         "John Mahoney"
       ],
       "genres": "Romance, Drama, Comedy"
-    },
-    {
-      "rank": 12,
-      "title": "Steel Magnolias",
-      "url": "https://letterboxd.com/film/steel-magnolias/",
-      "director": "Herbert Ross",
-      "actors": [
-        "Sally Field",
-        "Dolly Parton",
-        "Shirley MacLaine"
-      ],
-      "genres": "Romance, Comedy, Drama"
     },
     {
       "rank": 13,
@@ -184,42 +184,6 @@
     },
     {
       "rank": 16,
-      "title": "The Abyss",
-      "url": "https://letterboxd.com/film/the-abyss/",
-      "director": "James Cameron",
-      "actors": [
-        "Ed Harris",
-        "Mary Elizabeth Mastrantonio",
-        "Michael Biehn"
-      ],
-      "genres": "Thriller, Adventure, Science Fiction"
-    },
-    {
-      "rank": 17,
-      "title": "The 'Burbs",
-      "url": "https://letterboxd.com/film/the-burbs/",
-      "director": "Joe Dante",
-      "actors": [
-        "Tom Hanks",
-        "Bruce Dern",
-        "Carrie Fisher"
-      ],
-      "genres": "Comedy, Thriller, Horror"
-    },
-    {
-      "rank": 18,
-      "title": "Tetsuo: The Iron Man",
-      "url": "https://letterboxd.com/film/tetsuo-the-iron-man/",
-      "director": "Shinya Tsukamoto",
-      "actors": [
-        "Tomorowo Taguchi",
-        "Shinya Tsukamoto",
-        "Kei Fujiwara"
-      ],
-      "genres": "Science Fiction, Horror"
-    },
-    {
-      "rank": 19,
       "title": "Field of Dreams",
       "url": "https://letterboxd.com/film/field-of-dreams/",
       "director": "Phil Alden Robinson",
@@ -231,43 +195,43 @@
       "genres": "Drama, Fantasy"
     },
     {
+      "rank": 17,
+      "title": "Tetsuo: The Iron Man",
+      "url": "https://letterboxd.com/film/tetsuo-the-iron-man/",
+      "director": "Shinya Tsukamoto",
+      "actors": [
+        "Tomorowo Taguchi",
+        "Shinya Tsukamoto",
+        "Kei Fujiwara"
+      ],
+      "genres": "Science Fiction, Horror"
+    },
+    {
+      "rank": 18,
+      "title": "The Abyss",
+      "url": "https://letterboxd.com/film/the-abyss/",
+      "director": "James Cameron",
+      "actors": [
+        "Ed Harris",
+        "Mary Elizabeth Mastrantonio",
+        "Michael Biehn"
+      ],
+      "genres": "Thriller, Adventure, Science Fiction"
+    },
+    {
+      "rank": 19,
+      "title": "The 'Burbs",
+      "url": "https://letterboxd.com/film/the-burbs/",
+      "director": "Joe Dante",
+      "actors": [
+        "Tom Hanks",
+        "Bruce Dern",
+        "Carrie Fisher"
+      ],
+      "genres": "Comedy, Thriller, Horror"
+    },
+    {
       "rank": 20,
-      "title": "Drugstore Cowboy",
-      "url": "https://letterboxd.com/film/drugstore-cowboy/",
-      "director": "Gus Van Sant",
-      "actors": [
-        "Matt Dillon",
-        "Kelly Lynch",
-        "James Remar"
-      ],
-      "genres": "Crime, Drama"
-    },
-    {
-      "rank": 21,
-      "title": "Glory",
-      "url": "https://letterboxd.com/film/glory/",
-      "director": "Edward Zwick",
-      "actors": [
-        "Matthew Broderick",
-        "Denzel Washington",
-        "Cary Elwes"
-      ],
-      "genres": "History, War, Drama"
-    },
-    {
-      "rank": 22,
-      "title": "Licence to Kill",
-      "url": "https://letterboxd.com/film/licence-to-kill/",
-      "director": "John Glen",
-      "actors": [
-        "Timothy Dalton",
-        "Carey Lowell",
-        "Robert Davi"
-      ],
-      "genres": "Action, Adventure, Thriller"
-    },
-    {
-      "rank": 23,
       "title": "Road House",
       "url": "https://letterboxd.com/film/road-house/",
       "director": "Rowdy Herrington",
@@ -279,19 +243,19 @@
       "genres": "Action, Thriller"
     },
     {
-      "rank": 24,
-      "title": "The Cook, the Thief, His Wife & Her Lover",
-      "url": "https://letterboxd.com/film/the-cook-the-thief-his-wife-her-lover/",
-      "director": "Peter Greenaway",
+      "rank": 21,
+      "title": "Drugstore Cowboy",
+      "url": "https://letterboxd.com/film/drugstore-cowboy/",
+      "director": "Gus Van Sant",
       "actors": [
-        "Richard Bohringer",
-        "Michael Gambon",
-        "Helen Mirren"
+        "Matt Dillon",
+        "Kelly Lynch",
+        "James Remar"
       ],
       "genres": "Crime, Drama"
     },
     {
-      "rank": 25,
+      "rank": 22,
       "title": "Tie Me Up! Tie Me Down!",
       "url": "https://letterboxd.com/film/tie-me-up-tie-me-down/",
       "director": "Pedro Almodóvar",
@@ -303,43 +267,43 @@
       "genres": "Romance, Drama, Comedy"
     },
     {
+      "rank": 23,
+      "title": "The Cook, the Thief, His Wife & Her Lover",
+      "url": "https://letterboxd.com/film/the-cook-the-thief-his-wife-her-lover/",
+      "director": "Peter Greenaway",
+      "actors": [
+        "Richard Bohringer",
+        "Michael Gambon",
+        "Helen Mirren"
+      ],
+      "genres": "Crime, Drama"
+    },
+    {
+      "rank": 24,
+      "title": "Glory",
+      "url": "https://letterboxd.com/film/glory/",
+      "director": "Edward Zwick",
+      "actors": [
+        "Matthew Broderick",
+        "Denzel Washington",
+        "Cary Elwes"
+      ],
+      "genres": "History, War, Drama"
+    },
+    {
+      "rank": 25,
+      "title": "Licence to Kill",
+      "url": "https://letterboxd.com/film/licence-to-kill/",
+      "director": "John Glen",
+      "actors": [
+        "Timothy Dalton",
+        "Carey Lowell",
+        "Robert Davi"
+      ],
+      "genres": "Action, Adventure, Thriller"
+    },
+    {
       "rank": 26,
-      "title": "She-Devil",
-      "url": "https://letterboxd.com/film/she-devil/",
-      "director": "Susan Seidelman",
-      "actors": [
-        "Meryl Streep",
-        "Roseanne Barr",
-        "Ed Begley Jr."
-      ],
-      "genres": "Comedy"
-    },
-    {
-      "rank": 27,
-      "title": "Ghostbusters II",
-      "url": "https://letterboxd.com/film/ghostbusters-ii/",
-      "director": "Ivan Reitman",
-      "actors": [
-        "Bill Murray",
-        "Dan Aykroyd",
-        "Sigourney Weaver"
-      ],
-      "genres": "Comedy, Fantasy"
-    },
-    {
-      "rank": 28,
-      "title": "Decalogue I",
-      "url": "https://letterboxd.com/film/decalogue-i/",
-      "director": "Krzysztof Kieślowski",
-      "actors": [
-        "Henryk Baranowski",
-        "Wojciech Klata",
-        "Maja Komorowska"
-      ],
-      "genres": "Drama, TV Movie"
-    },
-    {
-      "rank": 29,
       "title": "Pet Sematary",
       "url": "https://letterboxd.com/film/pet-sematary/",
       "director": "Mary Lambert",
@@ -351,43 +315,43 @@
       "genres": "Horror"
     },
     {
-      "rank": 30,
-      "title": "Uncle Buck",
-      "url": "https://letterboxd.com/film/uncle-buck/",
-      "director": "John Hughes",
+      "rank": 27,
+      "title": "Decalogue I",
+      "url": "https://letterboxd.com/film/decalogue-i/",
+      "director": "Krzysztof Kieślowski",
       "actors": [
-        "John Candy",
-        "Jean Louisa Kelly",
-        "Gaby Hoffmann"
+        "Henryk Baranowski",
+        "Wojciech Klata",
+        "Maja Komorowska"
       ],
-      "genres": "Family, Drama, Comedy"
+      "genres": "Drama, TV Movie"
     },
     {
-      "rank": 31,
-      "title": "Mystery Train",
-      "url": "https://letterboxd.com/film/mystery-train/",
-      "director": "Jim Jarmusch",
+      "rank": 28,
+      "title": "She-Devil",
+      "url": "https://letterboxd.com/film/she-devil/",
+      "director": "Susan Seidelman",
       "actors": [
-        "Youki Kudoh",
-        "Masatoshi Nagase",
-        "Screamin' Jay Hawkins"
+        "Meryl Streep",
+        "Roseanne Barr",
+        "Ed Begley Jr."
       ],
       "genres": "Comedy"
     },
     {
-      "rank": 32,
-      "title": "Honey, I Shrunk the Kids",
-      "url": "https://letterboxd.com/film/honey-i-shrunk-the-kids/",
-      "director": "Joe Johnston",
+      "rank": 29,
+      "title": "Ghostbusters II",
+      "url": "https://letterboxd.com/film/ghostbusters-ii/",
+      "director": "Ivan Reitman",
       "actors": [
-        "Rick Moranis",
-        "Matt Frewer",
-        "Marcia Strassman"
+        "Bill Murray",
+        "Dan Aykroyd",
+        "Sigourney Weaver"
       ],
-      "genres": "Science Fiction, Adventure, Comedy, Family"
+      "genres": "Comedy, Fantasy"
     },
     {
-      "rank": 33,
+      "rank": 30,
       "title": "Friday the 13th Part VIII: Jason Takes Manhattan",
       "url": "https://letterboxd.com/film/friday-the-13th-part-viii-jason-takes-manhattan/",
       "director": "Rob Hedden",
@@ -399,16 +363,52 @@
       "genres": "Horror, Thriller"
     },
     {
-      "rank": 34,
-      "title": "Santa Sangre",
-      "url": "https://letterboxd.com/film/santa-sangre/",
-      "director": "Alejandro Jodorowsky",
+      "rank": 31,
+      "title": "Honey, I Shrunk the Kids",
+      "url": "https://letterboxd.com/film/honey-i-shrunk-the-kids/",
+      "director": "Joe Johnston",
       "actors": [
-        "Axel Jodorowsky",
-        "Blanca Guerra",
-        "Guy Stockwell"
+        "Rick Moranis",
+        "Matt Frewer",
+        "Marcia Strassman"
       ],
-      "genres": "Horror, Thriller, Drama"
+      "genres": "Science Fiction, Adventure, Comedy, Family"
+    },
+    {
+      "rank": 32,
+      "title": "Uncle Buck",
+      "url": "https://letterboxd.com/film/uncle-buck/",
+      "director": "John Hughes",
+      "actors": [
+        "John Candy",
+        "Jean Louisa Kelly",
+        "Gaby Hoffmann"
+      ],
+      "genres": "Family, Drama, Comedy"
+    },
+    {
+      "rank": 33,
+      "title": "Mystery Train",
+      "url": "https://letterboxd.com/film/mystery-train/",
+      "director": "Jim Jarmusch",
+      "actors": [
+        "Youki Kudoh",
+        "Masatoshi Nagase",
+        "Screamin' Jay Hawkins"
+      ],
+      "genres": "Comedy"
+    },
+    {
+      "rank": 34,
+      "title": "Society",
+      "url": "https://letterboxd.com/film/society/",
+      "director": "Brian Yuzna",
+      "actors": [
+        "Billy Warlock",
+        "Connie Danese",
+        "Ben Slack"
+      ],
+      "genres": "Comedy, Horror, Mystery"
     },
     {
       "rank": 35,
@@ -422,15 +422,15 @@
     },
     {
       "rank": 36,
-      "title": "Society",
-      "url": "https://letterboxd.com/film/society/",
-      "director": "Brian Yuzna",
+      "title": "Born on the Fourth of July",
+      "url": "https://letterboxd.com/film/born-on-the-fourth-of-july/",
+      "director": "Oliver Stone",
       "actors": [
-        "Billy Warlock",
-        "Connie Danese",
-        "Ben Slack"
+        "Tom Cruise",
+        "Raymond J. Barry",
+        "Caroline Kava"
       ],
-      "genres": "Comedy, Horror, Mystery"
+      "genres": "War, Drama"
     },
     {
       "rank": 37,
@@ -446,42 +446,30 @@
     },
     {
       "rank": 38,
-      "title": "Godzilla vs. Biollante",
-      "url": "https://letterboxd.com/film/godzilla-vs-biollante/",
-      "director": "Kazuki Ōmori",
+      "title": "Santa Sangre",
+      "url": "https://letterboxd.com/film/santa-sangre/",
+      "director": "Alejandro Jodorowsky",
       "actors": [
-        "Kunihiko Mitamura",
-        "Yoshiko Tanaka",
-        "Masanobu Takashima"
+        "Axel Jodorowsky",
+        "Blanca Guerra",
+        "Guy Stockwell"
       ],
-      "genres": "Science Fiction, Horror, Action"
+      "genres": "Horror, Thriller, Drama"
     },
     {
       "rank": 39,
-      "title": "Isle of Flowers",
-      "url": "https://letterboxd.com/film/isle-of-flowers/",
-      "director": "Jorge Furtado",
+      "title": "Dead Calm",
+      "url": "https://letterboxd.com/film/dead-calm/",
+      "director": "Phillip Noyce",
       "actors": [
-        "Paulo José",
-        "Júlia Barth",
-        "Luciane Azevedo"
+        "Nicole Kidman",
+        "Sam Neill",
+        "Billy Zane"
       ],
-      "genres": "Documentary"
+      "genres": "Thriller, Drama, Horror"
     },
     {
       "rank": 40,
-      "title": "Born on the Fourth of July",
-      "url": "https://letterboxd.com/film/born-on-the-fourth-of-july/",
-      "director": "Oliver Stone",
-      "actors": [
-        "Tom Cruise",
-        "Raymond J. Barry",
-        "Caroline Kava"
-      ],
-      "genres": "War, Drama"
-    },
-    {
-      "rank": 41,
       "title": "Major League",
       "url": "https://letterboxd.com/film/major-league/",
       "director": "David S. Ward",
@@ -493,31 +481,31 @@
       "genres": "Comedy"
     },
     {
-      "rank": 42,
-      "title": "Decalogue II",
-      "url": "https://letterboxd.com/film/decalogue-ii/",
-      "director": "Krzysztof Kieślowski",
+      "rank": 41,
+      "title": "Godzilla vs. Biollante",
+      "url": "https://letterboxd.com/film/godzilla-vs-biollante/",
+      "director": "Kazuki Ōmori",
       "actors": [
-        "Krystyna Janda",
-        "Aleksander Bardini",
-        "Olgierd Łukaszewicz"
+        "Kunihiko Mitamura",
+        "Yoshiko Tanaka",
+        "Masanobu Takashima"
       ],
-      "genres": "TV Movie, Drama"
+      "genres": "Science Fiction, Horror, Action"
+    },
+    {
+      "rank": 42,
+      "title": "Isle of Flowers",
+      "url": "https://letterboxd.com/film/isle-of-flowers/",
+      "director": "Jorge Furtado",
+      "actors": [
+        "Paulo José",
+        "Júlia Barth",
+        "Luciane Azevedo"
+      ],
+      "genres": "Documentary"
     },
     {
       "rank": 43,
-      "title": "Driving Miss Daisy",
-      "url": "https://letterboxd.com/film/driving-miss-daisy/",
-      "director": "Bruce Beresford",
-      "actors": [
-        "Morgan Freeman",
-        "Jessica Tandy",
-        "Dan Aykroyd"
-      ],
-      "genres": "Drama"
-    },
-    {
-      "rank": 44,
       "title": "UHF",
       "url": "https://letterboxd.com/film/uhf/",
       "director": "Jay Levey",
@@ -529,7 +517,7 @@
       "genres": "Comedy"
     },
     {
-      "rank": 45,
+      "rank": 44,
       "title": "My Left Foot: The Story of Christy Brown",
       "url": "https://letterboxd.com/film/my-left-foot-the-story-of-christy-brown/",
       "director": "Jim Sheridan",
@@ -541,7 +529,7 @@
       "genres": "Drama"
     },
     {
-      "rank": 46,
+      "rank": 45,
       "title": "Lethal Weapon 2",
       "url": "https://letterboxd.com/film/lethal-weapon-2/",
       "director": "Richard Donner",
@@ -553,19 +541,19 @@
       "genres": "Action, Crime, Thriller"
     },
     {
-      "rank": 47,
-      "title": "All Dogs Go to Heaven",
-      "url": "https://letterboxd.com/film/all-dogs-go-to-heaven/",
-      "director": "Don Bluth",
+      "rank": 46,
+      "title": "Decalogue II",
+      "url": "https://letterboxd.com/film/decalogue-ii/",
+      "director": "Krzysztof Kieślowski",
       "actors": [
-        "Burt Reynolds",
-        "Dom DeLuise",
-        "Judith Barsi"
+        "Krystyna Janda",
+        "Aleksander Bardini",
+        "Olgierd Łukaszewicz"
       ],
-      "genres": "Fantasy, Drama, Animation, Comedy, Family"
+      "genres": "TV Movie, Drama"
     },
     {
-      "rank": 48,
+      "rank": 47,
       "title": "Weekend at Bernie's",
       "url": "https://letterboxd.com/film/weekend-at-bernies/",
       "director": "Ted Kotcheff",
@@ -577,19 +565,19 @@
       "genres": "Crime, Comedy"
     },
     {
-      "rank": 49,
-      "title": "The Seventh Continent",
-      "url": "https://letterboxd.com/film/the-seventh-continent/",
-      "director": "Michael Haneke",
+      "rank": 48,
+      "title": "Driving Miss Daisy",
+      "url": "https://letterboxd.com/film/driving-miss-daisy/",
+      "director": "Bruce Beresford",
       "actors": [
-        "Birgit Doll",
-        "Dieter Berner",
-        "Leni Tanzer"
+        "Morgan Freeman",
+        "Jessica Tandy",
+        "Dan Aykroyd"
       ],
       "genres": "Drama"
     },
     {
-      "rank": 50,
+      "rank": 49,
       "title": "A Nightmare on Elm Street: The Dream Child",
       "url": "https://letterboxd.com/film/a-nightmare-on-elm-street-the-dream-child/",
       "director": "Stephen Hopkins",
@@ -599,6 +587,18 @@
         "Erika Anderson"
       ],
       "genres": "Thriller, Horror"
+    },
+    {
+      "rank": 50,
+      "title": "The Seventh Continent",
+      "url": "https://letterboxd.com/film/the-seventh-continent/",
+      "director": "Michael Haneke",
+      "actors": [
+        "Birgit Doll",
+        "Dieter Berner",
+        "Leni Tanzer"
+      ],
+      "genres": "Drama"
     }
   ]
 }
