@@ -13,8 +13,8 @@ rank,title,director,actors,genres,url
 12,The Big Short,Adam McKay,Steve Carell; Christian Bale; Ryan Gosling,"Drama, Comedy",https://letterboxd.com/film/the-big-short/
 13,Jurassic World,Colin Trevorrow,Chris Pratt; Bryce Dallas Howard; Irrfan Khan,"Adventure, Thriller, Action, Science Fiction",https://letterboxd.com/film/jurassic-world/
 14,Pitch Perfect 2,Elizabeth Banks,Anna Kendrick; Brittany Snow; Hailee Steinfeld,"Comedy, Music",https://letterboxd.com/film/pitch-perfect-2/
-15,Ex Machina,Alex Garland,Domhnall Gleeson; Alicia Vikander; Oscar Isaac,"Science Fiction, Drama",https://letterboxd.com/film/ex-machina-2015/
-16,The Lobster,Yorgos Lanthimos,Colin Farrell; Rachel Weisz; Olivia Colman,"Romance, Drama, Comedy",https://letterboxd.com/film/the-lobster/
+15,The Lobster,Yorgos Lanthimos,Colin Farrell; Rachel Weisz; Olivia Colman,"Romance, Drama, Comedy",https://letterboxd.com/film/the-lobster/
+16,Ex Machina,Alex Garland,Domhnall Gleeson; Alicia Vikander; Oscar Isaac,"Science Fiction, Drama",https://letterboxd.com/film/ex-machina-2015/
 17,The Visit,M. Night Shyamalan,Olivia DeJonge; Ed Oxenbould; Deanna Dunagan,"Horror, Thriller",https://letterboxd.com/film/the-visit-2015/
 18,Star Wars: The Force Awakens,J.J. Abrams,Daisy Ridley; John Boyega; Oscar Isaac,"Action, Adventure, Science Fiction",https://letterboxd.com/film/star-wars-the-force-awakens/
 19,The Hateful Eight,Quentin Tarantino,Samuel L. Jackson; Kurt Russell; Jennifer Jason Leigh,"Drama, Mystery, Western",https://letterboxd.com/film/the-hateful-eight/
@@ -28,24 +28,24 @@ rank,title,director,actors,genres,url
 27,Carol,Todd Haynes,Cate Blanchett; Rooney Mara; Kyle Chandler,"Drama, Romance",https://letterboxd.com/film/carol-2015/
 28,Spotlight,Tom McCarthy,Mark Ruffalo; Michael Keaton; Rachel McAdams,"History, Drama",https://letterboxd.com/film/spotlight/
 29,Pixels,Chris Columbus,Adam Sandler; Kevin James; Michelle Monaghan,"Science Fiction, Fantasy, Action, Adventure, Comedy",https://letterboxd.com/film/pixels-2015/
-30,Vacation,"John Francis Daley, Jonathan Goldstein",Ed Helms; Christina Applegate; Skyler Gisondo,"Adventure, Comedy",https://letterboxd.com/film/vacation-2015/
-31,Home,Tim Johnson,Jim Parsons; Rihanna; Steve Martin,"Comedy, Fantasy, Family, Science Fiction, Animation",https://letterboxd.com/film/home-2015/
-32,Ted 2,Seth MacFarlane,Mark Wahlberg; Seth MacFarlane; Amanda Seyfried,"Comedy, Fantasy",https://letterboxd.com/film/ted-2/
-33,Cinderella,Kenneth Branagh,Lily James; Cate Blanchett; Richard Madden,"Fantasy, Romance, Family, Drama",https://letterboxd.com/film/cinderella-2015/
-34,Crimson Peak,Guillermo del Toro,Mia Wasikowska; Jessica Chastain; Tom Hiddleston,"Drama, Thriller, Horror, Mystery, Romance",https://letterboxd.com/film/crimson-peak/
+30,Ted 2,Seth MacFarlane,Mark Wahlberg; Seth MacFarlane; Amanda Seyfried,"Comedy, Fantasy",https://letterboxd.com/film/ted-2/
+31,Vacation,"John Francis Daley, Jonathan Goldstein",Ed Helms; Christina Applegate; Skyler Gisondo,"Adventure, Comedy",https://letterboxd.com/film/vacation-2015/
+32,Home,Tim Johnson,Jim Parsons; Rihanna; Steve Martin,"Comedy, Fantasy, Family, Science Fiction, Animation",https://letterboxd.com/film/home-2015/
+33,Crimson Peak,Guillermo del Toro,Mia Wasikowska; Jessica Chastain; Tom Hiddleston,"Drama, Thriller, Horror, Mystery, Romance",https://letterboxd.com/film/crimson-peak/
+34,Cinderella,Kenneth Branagh,Lily James; Cate Blanchett; Richard Madden,"Fantasy, Romance, Family, Drama",https://letterboxd.com/film/cinderella-2015/
 35,Furious 7,James Wan,Vin Diesel; Paul Walker; Dwayne Johnson,"Thriller, Crime, Action",https://letterboxd.com/film/furious-7/
 36,The Age of Adaline,Lee Toland Krieger,Blake Lively; Michiel Huisman; Harrison Ford,"Drama, Fantasy, Romance",https://letterboxd.com/film/the-age-of-adaline/
 37,Insurgent,Robert Schwentke,Shailene Woodley; Theo James; Miles Teller,"Action, Science Fiction, Thriller",https://letterboxd.com/film/insurgent/
-38,Tangerine,Sean Baker,Kitana Kiki Rodriguez; Mya Taylor; Karren Karagulian,"Comedy, Drama",https://letterboxd.com/film/tangerine/
+38,Insidious: Chapter 3,Leigh Whannell,Stefanie Scott; Lin Shaye; Dermot Mulroney,"Horror, Thriller",https://letterboxd.com/film/insidious-chapter-3/
 39,Hell House LLC,Stephen Cognetti,Danny Bellini; Ryan Jennifer Jones; Gore Abrams,"Mystery, Horror",https://letterboxd.com/film/hell-house-llc/
-40,Insidious: Chapter 3,Leigh Whannell,Stefanie Scott; Lin Shaye; Dermot Mulroney,"Horror, Thriller",https://letterboxd.com/film/insidious-chapter-3/
+40,Tangerine,Sean Baker,Kitana Kiki Rodriguez; Mya Taylor; Karren Karagulian,"Comedy, Drama",https://letterboxd.com/film/tangerine/
 41,Green Room,Jeremy Saulnier,Anton Yelchin; Imogen Poots; Patrick Stewart,"Horror, Thriller, Crime",https://letterboxd.com/film/green-room/
 42,Hotel Transylvania 2,Genndy Tartakovsky,Adam Sandler; Selena Gomez; Andy Samberg,"Fantasy, Family, Animation, Comedy",https://letterboxd.com/film/hotel-transylvania-2/
 43,The Little Prince,Mark Osborne,Riley Osborne; Mackenzie Foy; Jeff Bridges,"Fantasy, Animation, Family, Adventure",https://letterboxd.com/film/the-little-prince-2015/
-44,Mustang,Deniz Gamze Ergüven,Güneş Şensoy; Doğa Doğuşlu; Elit İşcan,Drama,https://letterboxd.com/film/mustang-2015/
-45,Legend,Brian Helgeland,Tom Hardy; Emily Browning; Christopher Eccleston,"Crime, Thriller",https://letterboxd.com/film/legend-2015/
-46,The DUFF,Ari Sandel,Mae Whitman; Robbie Amell; Bella Thorne,"Comedy, Romance",https://letterboxd.com/film/the-duff/
-47,Focus,"Glenn Ficarra, John Requa",Will Smith; Margot Robbie; Adrian Martinez,"Crime, Comedy, Romance",https://letterboxd.com/film/focus-2015/
-48,The Good Dinosaur,Peter Sohn,Raymond Ochoa; Frances McDormand; Jeffrey Wright,"Animation, Family, Adventure",https://letterboxd.com/film/the-good-dinosaur/
+44,Legend,Brian Helgeland,Tom Hardy; Emily Browning; Christopher Eccleston,"Crime, Thriller",https://letterboxd.com/film/legend-2015/
+45,The DUFF,Ari Sandel,Mae Whitman; Robbie Amell; Bella Thorne,"Comedy, Romance",https://letterboxd.com/film/the-duff/
+46,Mustang,Deniz Gamze Ergüven,Güneş Şensoy; Doğa Doğuşlu; Elit İşcan,Drama,https://letterboxd.com/film/mustang-2015/
+47,The Good Dinosaur,Peter Sohn,Raymond Ochoa; Frances McDormand; Jeffrey Wright,"Animation, Family, Adventure",https://letterboxd.com/film/the-good-dinosaur/
+48,Focus,"Glenn Ficarra, John Requa",Will Smith; Margot Robbie; Adrian Martinez,"Crime, Comedy, Romance",https://letterboxd.com/film/focus-2015/
 49,Room,Lenny Abrahamson,Brie Larson; Jacob Tremblay; Joan Allen,"Drama, Thriller",https://letterboxd.com/film/room-2015/
 50,Mission: Impossible – Rogue Nation,Christopher McQuarrie,Tom Cruise; Jeremy Renner; Simon Pegg,"Action, Adventure",https://letterboxd.com/film/mission-impossible-rogue-nation/

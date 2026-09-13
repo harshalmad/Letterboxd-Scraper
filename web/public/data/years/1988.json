@@ -124,18 +124,6 @@
     },
     {
       "rank": 11,
-      "title": "Women on the Verge of a Nervous Breakdown",
-      "url": "https://letterboxd.com/film/women-on-the-verge-of-a-nervous-breakdown/",
-      "director": "Pedro Almodóvar",
-      "actors": [
-        "Carmen Maura",
-        "Antonio Banderas",
-        "Julieta Serrano"
-      ],
-      "genres": "Drama, Comedy"
-    },
-    {
-      "rank": 12,
       "title": "The Naked Gun: From the Files of Police Squad!",
       "url": "https://letterboxd.com/film/the-naked-gun-from-the-files-of-police-squad/",
       "director": "David Zucker",
@@ -145,6 +133,18 @@
         "Ricardo Montalban"
       ],
       "genres": "Crime, Comedy"
+    },
+    {
+      "rank": 12,
+      "title": "Women on the Verge of a Nervous Breakdown",
+      "url": "https://letterboxd.com/film/women-on-the-verge-of-a-nervous-breakdown/",
+      "director": "Pedro Almodóvar",
+      "actors": [
+        "Carmen Maura",
+        "Antonio Banderas",
+        "Julieta Serrano"
+      ],
+      "genres": "Drama, Comedy"
     },
     {
       "rank": 13,
@@ -256,18 +256,6 @@
     },
     {
       "rank": 22,
-      "title": "A Fish Called Wanda",
-      "url": "https://letterboxd.com/film/a-fish-called-wanda/",
-      "director": "Charles Crichton",
-      "actors": [
-        "Jamie Lee Curtis",
-        "John Cleese",
-        "Kevin Kline"
-      ],
-      "genres": "Crime, Comedy"
-    },
-    {
-      "rank": 23,
       "title": "Mystic Pizza",
       "url": "https://letterboxd.com/film/mystic-pizza/",
       "director": "Donald Petrie",
@@ -277,6 +265,18 @@
         "Lili Taylor"
       ],
       "genres": "Drama, Comedy, Romance"
+    },
+    {
+      "rank": 23,
+      "title": "A Fish Called Wanda",
+      "url": "https://letterboxd.com/film/a-fish-called-wanda/",
+      "director": "Charles Crichton",
+      "actors": [
+        "Jamie Lee Curtis",
+        "John Cleese",
+        "Kevin Kline"
+      ],
+      "genres": "Crime, Comedy"
     },
     {
       "rank": 24,
@@ -292,18 +292,6 @@
     },
     {
       "rank": 25,
-      "title": "Bloodsport",
-      "url": "https://letterboxd.com/film/bloodsport/",
-      "director": "Newt Arnold",
-      "actors": [
-        "Jean-Claude Van Damme",
-        "Donald Gibb",
-        "Leah Ayres"
-      ],
-      "genres": "Drama, Action"
-    },
-    {
-      "rank": 26,
       "title": "Midnight Run",
       "url": "https://letterboxd.com/film/midnight-run/",
       "director": "Martin Brest",
@@ -315,19 +303,19 @@
       "genres": "Thriller, Crime, Comedy"
     },
     {
-      "rank": 27,
-      "title": "Moonwalker",
-      "url": "https://letterboxd.com/film/moonwalker/",
-      "director": "Colin Chilvers, Will Vinton, Jerry Kramer, Jim Blashfield",
+      "rank": 26,
+      "title": "Bloodsport",
+      "url": "https://letterboxd.com/film/bloodsport/",
+      "director": "Newt Arnold",
       "actors": [
-        "Michael Jackson",
-        "Joe Pesci",
-        "Sean Ono Lennon"
+        "Jean-Claude Van Damme",
+        "Donald Gibb",
+        "Leah Ayres"
       ],
-      "genres": "Fantasy, Music"
+      "genres": "Drama, Action"
     },
     {
-      "rank": 28,
+      "rank": 27,
       "title": "Coming to America",
       "url": "https://letterboxd.com/film/coming-to-america/",
       "director": "John Landis",
@@ -337,6 +325,18 @@
         "Shari Headley"
       ],
       "genres": "Romance, Comedy"
+    },
+    {
+      "rank": 28,
+      "title": "Moonwalker",
+      "url": "https://letterboxd.com/film/moonwalker/",
+      "director": "Colin Chilvers, Will Vinton, Jerry Kramer, Jim Blashfield",
+      "actors": [
+        "Michael Jackson",
+        "Joe Pesci",
+        "Sean Ono Lennon"
+      ],
+      "genres": "Fantasy, Music"
     },
     {
       "rank": 29,
@@ -436,28 +436,6 @@
     },
     {
       "rank": 37,
-      "title": "Alice",
-      "url": "https://letterboxd.com/film/alice-1988/",
-      "director": "Jan Švankmajer",
-      "actors": [
-        "Kristýna Kohoutová"
-      ],
-      "genres": "Horror, Animation, Fantasy, Adventure"
-    },
-    {
-      "rank": 38,
-      "title": "Dangerous Liaisons",
-      "url": "https://letterboxd.com/film/dangerous-liaisons/",
-      "director": "Stephen Frears",
-      "actors": [
-        "Glenn Close",
-        "John Malkovich",
-        "Michelle Pfeiffer"
-      ],
-      "genres": "Drama, Romance"
-    },
-    {
-      "rank": 39,
       "title": "The Blob",
       "url": "https://letterboxd.com/film/the-blob-1988/",
       "director": "Chuck Russell",
@@ -467,6 +445,28 @@
         "Donovan Leitch"
       ],
       "genres": "Science Fiction, Thriller, Horror"
+    },
+    {
+      "rank": 38,
+      "title": "Alice",
+      "url": "https://letterboxd.com/film/alice-1988/",
+      "director": "Jan Švankmajer",
+      "actors": [
+        "Kristýna Kohoutová"
+      ],
+      "genres": "Horror, Animation, Fantasy, Adventure"
+    },
+    {
+      "rank": 39,
+      "title": "Dangerous Liaisons",
+      "url": "https://letterboxd.com/film/dangerous-liaisons/",
+      "director": "Stephen Frears",
+      "actors": [
+        "Glenn Close",
+        "John Malkovich",
+        "Michelle Pfeiffer"
+      ],
+      "genres": "Drama, Romance"
     },
     {
       "rank": 40,
@@ -506,18 +506,6 @@
     },
     {
       "rank": 43,
-      "title": "Bull Durham",
-      "url": "https://letterboxd.com/film/bull-durham/",
-      "director": "Ron Shelton",
-      "actors": [
-        "Kevin Costner",
-        "Susan Sarandon",
-        "Tim Robbins"
-      ],
-      "genres": "Romance, Comedy"
-    },
-    {
-      "rank": 44,
       "title": "A Nightmare on Elm Street 4: The Dream Master",
       "url": "https://letterboxd.com/film/a-nightmare-on-elm-street-4-the-dream-master/",
       "director": "Renny Harlin",
@@ -529,7 +517,7 @@
       "genres": "Thriller, Horror"
     },
     {
-      "rank": 45,
+      "rank": 44,
       "title": "Beaches",
       "url": "https://letterboxd.com/film/beaches/",
       "director": "Garry Marshall",
@@ -538,7 +526,19 @@
         "Barbara Hershey",
         "John Heard"
       ],
-      "genres": "Drama, Comedy"
+      "genres": "Drama, Music, Comedy"
+    },
+    {
+      "rank": 45,
+      "title": "Bull Durham",
+      "url": "https://letterboxd.com/film/bull-durham/",
+      "director": "Ron Shelton",
+      "actors": [
+        "Kevin Costner",
+        "Susan Sarandon",
+        "Tim Robbins"
+      ],
+      "genres": "Romance, Comedy"
     },
     {
       "rank": 46,
@@ -578,18 +578,6 @@
     },
     {
       "rank": 49,
-      "title": "Running on Empty",
-      "url": "https://letterboxd.com/film/running-on-empty-1988/",
-      "director": "Sidney Lumet",
-      "actors": [
-        "Christine Lahti",
-        "River Phoenix",
-        "Judd Hirsch"
-      ],
-      "genres": "Drama, Romance, Crime"
-    },
-    {
-      "rank": 50,
       "title": "Oliver & Company",
       "url": "https://letterboxd.com/film/oliver-company/",
       "director": "George Scribner",
@@ -599,6 +587,18 @@
         "Cheech Marin"
       ],
       "genres": "Family, Animation, Comedy"
+    },
+    {
+      "rank": 50,
+      "title": "Running on Empty",
+      "url": "https://letterboxd.com/film/running-on-empty-1988/",
+      "director": "Sidney Lumet",
+      "actors": [
+        "Christine Lahti",
+        "River Phoenix",
+        "Judd Hirsch"
+      ],
+      "genres": "Drama, Romance, Crime"
     }
   ]
 }

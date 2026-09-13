@@ -60,7 +60,7 @@
         "Talia Shire",
         "Burt Young"
       ],
-      "genres": "Drama"
+      "genres": "Drama, Action"
     },
     {
       "rank": 6,
@@ -132,7 +132,7 @@
         "Paul Kratka",
         "Richard Brooker"
       ],
-      "genres": "Thriller, Horror"
+      "genres": "Horror"
     },
     {
       "rank": 12,
@@ -184,52 +184,6 @@
     },
     {
       "rank": 16,
-      "title": "Koyaanisqatsi",
-      "url": "https://letterboxd.com/film/koyaanisqatsi/",
-      "director": "Godfrey Reggio",
-      "actors": [
-        "Ed Asner",
-        "Pat Benatar",
-        "Johnny Carson"
-      ],
-      "genres": "Documentary, Music"
-    },
-    {
-      "rank": 17,
-      "title": "Conan the Barbarian",
-      "url": "https://letterboxd.com/film/conan-the-barbarian/",
-      "director": "John Milius",
-      "actors": [
-        "Arnold Schwarzenegger",
-        "James Earl Jones",
-        "Sandahl Bergman"
-      ],
-      "genres": "Fantasy, Action, Adventure"
-    },
-    {
-      "rank": 18,
-      "title": "Tenebre",
-      "url": "https://letterboxd.com/film/tenebre/",
-      "director": "Dario Argento",
-      "actors": [
-        "Anthony Franciosa",
-        "John Saxon",
-        "Daria Nicolodi"
-      ],
-      "genres": "Horror, Mystery, Thriller"
-    },
-    {
-      "rank": 19,
-      "title": "Vincent",
-      "url": "https://letterboxd.com/film/vincent/",
-      "director": "Tim Burton",
-      "actors": [
-        "Vincent Price"
-      ],
-      "genres": "Fantasy, Animation"
-    },
-    {
-      "rank": 20,
       "title": "The Best Little Whorehouse in Texas",
       "url": "https://letterboxd.com/film/the-best-little-whorehouse-in-texas/",
       "director": "Colin Higgins",
@@ -241,16 +195,62 @@
       "genres": "Comedy"
     },
     {
-      "rank": 21,
-      "title": "The Secret of NIMH",
-      "url": "https://letterboxd.com/film/the-secret-of-nimh/",
-      "director": "Don Bluth",
+      "rank": 17,
+      "title": "Koyaanisqatsi",
+      "url": "https://letterboxd.com/film/koyaanisqatsi/",
+      "director": "Godfrey Reggio",
       "actors": [
-        "Elizabeth Hartman",
-        "Derek Jacobi",
-        "Arthur Malet"
+        "Ed Asner",
+        "Pat Benatar",
+        "Johnny Carson"
       ],
-      "genres": "Mystery, Drama, Animation, Fantasy, Adventure, Family, Science Fiction"
+      "genres": "Documentary, Music"
+    },
+    {
+      "rank": 18,
+      "title": "Conan the Barbarian",
+      "url": "https://letterboxd.com/film/conan-the-barbarian/",
+      "director": "John Milius",
+      "actors": [
+        "Arnold Schwarzenegger",
+        "James Earl Jones",
+        "Sandahl Bergman"
+      ],
+      "genres": "Fantasy, Action, Adventure"
+    },
+    {
+      "rank": 19,
+      "title": "Tenebre",
+      "url": "https://letterboxd.com/film/tenebre/",
+      "director": "Dario Argento",
+      "actors": [
+        "Anthony Franciosa",
+        "John Saxon",
+        "Daria Nicolodi"
+      ],
+      "genres": "Horror, Mystery, Thriller"
+    },
+    {
+      "rank": 20,
+      "title": "Vincent",
+      "url": "https://letterboxd.com/film/vincent/",
+      "director": "Tim Burton",
+      "actors": [
+        "Vincent Price"
+      ],
+      "genres": "Fantasy, Animation"
+    },
+    {
+      "rank": 21,
+      "title": "Star Trek II: The Wrath of Khan",
+      "url": "https://letterboxd.com/film/star-trek-ii-the-wrath-of-khan/",
+      "director": "Nicholas Meyer",
+      "actors": [
+        "William Shatner",
+        "Leonard Nimoy",
+        "Ricardo Montalban"
+      ],
+      "genres": "Action, Thriller, Science Fiction, Adventure"
     },
     {
       "rank": 22,
@@ -266,6 +266,18 @@
     },
     {
       "rank": 23,
+      "title": "The Secret of NIMH",
+      "url": "https://letterboxd.com/film/the-secret-of-nimh/",
+      "director": "Don Bluth",
+      "actors": [
+        "Elizabeth Hartman",
+        "Derek Jacobi",
+        "Arthur Malet"
+      ],
+      "genres": "Mystery, Drama, Animation, Fantasy, Adventure, Family, Science Fiction"
+    },
+    {
+      "rank": 24,
       "title": "Annie",
       "url": "https://letterboxd.com/film/annie/",
       "director": "John Huston",
@@ -277,19 +289,19 @@
       "genres": "Comedy, Drama, Family"
     },
     {
-      "rank": 24,
-      "title": "Star Trek II: The Wrath of Khan",
-      "url": "https://letterboxd.com/film/star-trek-ii-the-wrath-of-khan/",
-      "director": "Nicholas Meyer",
+      "rank": 25,
+      "title": "Halloween III: Season of the Witch",
+      "url": "https://letterboxd.com/film/halloween-iii-season-of-the-witch/",
+      "director": "Tommy Lee Wallace",
       "actors": [
-        "William Shatner",
-        "Leonard Nimoy",
-        "Ricardo Montalban"
+        "Tom Atkins",
+        "Stacey Nelkin",
+        "Dan O'Herlihy"
       ],
-      "genres": "Action, Thriller, Science Fiction, Adventure"
+      "genres": "Thriller, Horror, Science Fiction, Mystery"
     },
     {
-      "rank": 25,
+      "rank": 26,
       "title": "48 Hrs.",
       "url": "https://letterboxd.com/film/48-hrs/",
       "director": "Walter Hill",
@@ -301,7 +313,7 @@
       "genres": "Action, Crime, Comedy"
     },
     {
-      "rank": 26,
+      "rank": 27,
       "title": "The Verdict",
       "url": "https://letterboxd.com/film/the-verdict-1982/",
       "director": "Sidney Lumet",
@@ -311,18 +323,6 @@
         "Jack Warden"
       ],
       "genres": "Drama"
-    },
-    {
-      "rank": 27,
-      "title": "Halloween III: Season of the Witch",
-      "url": "https://letterboxd.com/film/halloween-iii-season-of-the-witch/",
-      "director": "Tommy Lee Wallace",
-      "actors": [
-        "Tom Atkins",
-        "Stacey Nelkin",
-        "Dan O'Herlihy"
-      ],
-      "genres": "Thriller, Horror, Science Fiction, Mystery"
     },
     {
       "rank": 28,
@@ -410,15 +410,15 @@
     },
     {
       "rank": 35,
-      "title": "One from the Heart",
-      "url": "https://letterboxd.com/film/one-from-the-heart/",
-      "director": "Francis Ford Coppola",
+      "title": "Smithereens",
+      "url": "https://letterboxd.com/film/smithereens/",
+      "director": "Susan Seidelman",
       "actors": [
-        "Teri Garr",
-        "Frederic Forrest",
-        "Raúl Juliá"
+        "Susan Berman",
+        "Brad Rijn",
+        "Richard Hell"
       ],
-      "genres": "Drama, Romance"
+      "genres": "Romance, Drama, Music"
     },
     {
       "rank": 36,
@@ -434,15 +434,15 @@
     },
     {
       "rank": 37,
-      "title": "Smithereens",
-      "url": "https://letterboxd.com/film/smithereens/",
-      "director": "Susan Seidelman",
+      "title": "One from the Heart",
+      "url": "https://letterboxd.com/film/one-from-the-heart/",
+      "director": "Francis Ford Coppola",
       "actors": [
-        "Susan Berman",
-        "Brad Rijn",
-        "Richard Hell"
+        "Teri Garr",
+        "Frederic Forrest",
+        "Raúl Juliá"
       ],
-      "genres": "Romance, Drama, Music"
+      "genres": "Drama, Romance"
     },
     {
       "rank": 38,
@@ -566,6 +566,18 @@
     },
     {
       "rank": 48,
+      "title": "Airplane II: The Sequel",
+      "url": "https://letterboxd.com/film/airplane-ii-the-sequel/",
+      "director": "Ken Finkleman",
+      "actors": [
+        "Lloyd Bridges",
+        "Raymond Burr",
+        "Chuck Connors"
+      ],
+      "genres": "Comedy"
+    },
+    {
+      "rank": 49,
       "title": "Swamp Thing",
       "url": "https://letterboxd.com/film/swamp-thing/",
       "director": "Wes Craven",
@@ -577,7 +589,7 @@
       "genres": "Science Fiction, Horror"
     },
     {
-      "rank": 49,
+      "rank": 50,
       "title": "The Last Horror Film",
       "url": "https://letterboxd.com/film/the-last-horror-film/",
       "director": "David Winters",
@@ -587,18 +599,6 @@
         "Judd Hamilton"
       ],
       "genres": "Comedy, Horror"
-    },
-    {
-      "rank": 50,
-      "title": "Airplane II: The Sequel",
-      "url": "https://letterboxd.com/film/airplane-ii-the-sequel/",
-      "director": "Ken Finkleman",
-      "actors": [
-        "Lloyd Bridges",
-        "Raymond Burr",
-        "Chuck Connors"
-      ],
-      "genres": "Comedy"
     }
   ]
 }

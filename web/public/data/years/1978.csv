@@ -13,8 +13,8 @@ rank,title,director,actors,genres,url
 12,Animal House,John Landis,John Belushi; Karen Allen; Tom Hulce,Comedy,https://letterboxd.com/film/animal-house/
 13,Jaws 2,Jeannot Szwarc,Roy Scheider; Lorraine Gary; Murray Hamilton,"Thriller, Horror",https://letterboxd.com/film/jaws-2/
 14,Killer of Sheep,Charles Burnett,Henry G. Sanders; Kaycee Moore; Charles Bracy,Drama,https://letterboxd.com/film/killer-of-sheep/
-15,Faces of Death,John Alan Schwartz,Michael Carr; Samuel Berkowitz; Mary Ellen Brighton,"Documentary, Horror",https://letterboxd.com/film/faces-of-death/
-16,The Last Waltz,Martin Scorsese,Robbie Robertson; Rick Danko; Levon Helm,"Music, Documentary",https://letterboxd.com/film/the-last-waltz/
+15,The Last Waltz,Martin Scorsese,Robbie Robertson; Rick Danko; Levon Helm,"Music, Documentary",https://letterboxd.com/film/the-last-waltz/
+16,Faces of Death,John Alan Schwartz,Michael Carr; Samuel Berkowitz; Mary Ellen Brighton,"Documentary, Horror",https://letterboxd.com/film/faces-of-death/
 17,Death on the Nile,John Guillermin,Peter Ustinov; Jane Birkin; Lois Chiles,Mystery,https://letterboxd.com/film/death-on-the-nile/
 18,The Lord of the Rings,Ralph Bakshi,Christopher Guard; William Squire; Michael Scholes,"Fantasy, Adventure, Animation",https://letterboxd.com/film/the-lord-of-the-rings/
 19,I Spit on Your Grave,Meir Zarchi,Camille Keaton; Eron Tabor; Richard Pace,Horror,https://letterboxd.com/film/i-spit-on-your-grave/
@@ -23,12 +23,12 @@ rank,title,director,actors,genres,url
 22,Drunken Master,Yuen Woo-ping,Jackie Chan; Simon Yuen Siu-Tien; Hwang Jang-Lee,"Comedy, Action",https://letterboxd.com/film/drunken-master/
 23,Straight Time,Ulu Grosbard,Dustin Hoffman; Theresa Russell; Gary Busey,"Drama, Crime",https://letterboxd.com/film/straight-time/
 24,French Fried Vacation,Patrice Leconte,Thierry Lhermitte; Christian Clavier; Gérard Jugnot,Comedy,https://letterboxd.com/film/french-fried-vacation/
-25,Piranha,Joe Dante,Bradford Dillman; Heather Menzies; Kevin McCarthy,"Science Fiction, Comedy, Horror",https://letterboxd.com/film/piranha/
-26,Girlfriends,Claudia Weill,Melanie Mayron; Eli Wallach; Adam Cohen,"Comedy, Drama",https://letterboxd.com/film/girlfriends-1978/
+25,Girlfriends,Claudia Weill,Melanie Mayron; Eli Wallach; Adam Cohen,"Comedy, Drama",https://letterboxd.com/film/girlfriends-1978/
+26,Piranha,Joe Dante,Bradford Dillman; Heather Menzies; Kevin McCarthy,"Science Fiction, Comedy, Horror",https://letterboxd.com/film/piranha/
 27,The 36th Chamber of Shaolin,Lau Kar-leung,Gordon Liu Chia-Hui; Lo Lieh; John Cheung Ng-Long,"Adventure, Action",https://letterboxd.com/film/the-36th-chamber-of-shaolin/
 28,Up in Smoke,Lou Adler,Cheech Marin; Tommy Chong; Strother Martin,"Adventure, Comedy",https://letterboxd.com/film/up-in-smoke-1978/
-29,A Wedding,Robert Altman,Desi Arnaz Jr.; Carol Burnett; Geraldine Chaplin,"Comedy, Drama",https://letterboxd.com/film/a-wedding/
-30,La Cage aux Folles,Édouard Molinaro,Ugo Tognazzi; Michel Serrault; Claire Maurier,Comedy,https://letterboxd.com/film/la-cage-aux-folles/
+29,La Cage aux Folles,Édouard Molinaro,Ugo Tognazzi; Michel Serrault; Claire Maurier,Comedy,https://letterboxd.com/film/la-cage-aux-folles/
+30,A Wedding,Robert Altman,Desi Arnaz Jr.; Carol Burnett; Geraldine Chaplin,"Comedy, Drama",https://letterboxd.com/film/a-wedding/
 31,Magic,Richard Attenborough,Anthony Hopkins; Ann-Margret; Burgess Meredith,"Drama, Horror",https://letterboxd.com/film/magic/
 32,Blue Collar,Paul Schrader,Richard Pryor; Harvey Keitel; Yaphet Kotto,"Drama, Crime",https://letterboxd.com/film/blue-collar/
 33,Interiors,Woody Allen,Geraldine Page; Kristin Griffith; Mary Beth Hurt,Drama,https://letterboxd.com/film/interiors/
@@ -37,9 +37,9 @@ rank,title,director,actors,genres,url
 36,Hooper,Hal Needham,Burt Reynolds; Jan-Michael Vincent; Sally Field,"Action, Comedy",https://letterboxd.com/film/hooper/
 37,An Unmarried Woman,Paul Mazursky,Jill Clayburgh; Alan Bates; Michael Murphy,"Comedy, Drama, Romance",https://letterboxd.com/film/an-unmarried-woman/
 38,The Boys from Brazil,Franklin J. Schaffner,Gregory Peck; Laurence Olivier; James Mason,"Mystery, Drama, Science Fiction",https://letterboxd.com/film/the-boys-from-brazil/
-39,Pretty Baby,Louis Malle,Brooke Shields; Keith Carradine; Susan Sarandon,Drama,https://letterboxd.com/film/pretty-baby/
-40,Damien - Omen II,Don Taylor,William Holden; Lee Grant; Jonathan Scott-Taylor,"Horror, Thriller",https://letterboxd.com/film/damien-omen-ii/
-41,The Fury,Brian De Palma,Kirk Douglas; Amy Irving; John Cassavetes,"Thriller, Science Fiction, Horror",https://letterboxd.com/film/the-fury/
+39,Damien - Omen II,Don Taylor,William Holden; Lee Grant; Jonathan Scott-Taylor,"Horror, Thriller",https://letterboxd.com/film/damien-omen-ii/
+40,The Fury,Brian De Palma,Kirk Douglas; Amy Irving; John Cassavetes,"Thriller, Science Fiction, Horror",https://letterboxd.com/film/the-fury/
+41,Pretty Baby,Louis Malle,Brooke Shields; Keith Carradine; Susan Sarandon,Drama,https://letterboxd.com/film/pretty-baby/
 42,The Star Wars Holiday Special,Steve Binder,Peter Mayhew; Mark Hamill; Carrie Fisher,"Science Fiction, Family, TV Movie, Adventure",https://letterboxd.com/film/the-star-wars-holiday-special/
 43,I Wanna Hold Your Hand,Robert Zemeckis,Nancy Allen; Bobby Di Cicco; Marc McClure,"Comedy, Music",https://letterboxd.com/film/i-wanna-hold-your-hand/
 44,Jubilee,Derek Jarman,Jenny Runacre; Nell Campbell; Toyah Willcox,"Comedy, Music, Drama, Fantasy",https://letterboxd.com/film/jubilee/
@@ -47,5 +47,5 @@ rank,title,director,actors,genres,url
 46,Game of Death,Robert Clouse,Bruce Lee; Gig Young; Dean Jagger,"Drama, Action, Thriller",https://letterboxd.com/film/game-of-death/
 47,Heaven Can Wait,"Buck Henry, Warren Beatty",Warren Beatty; Julie Christie; James Mason,"Drama, Comedy, Fantasy, Romance",https://letterboxd.com/film/heaven-can-wait-1978/
 48,Eyes of Laura Mars,Irvin Kershner,Faye Dunaway; Tommy Lee Jones; Brad Dourif,"Horror, Thriller, Mystery",https://letterboxd.com/film/eyes-of-laura-mars/
-49,The Grapes of Death,Jean Rollin,Marie-Georges Pascal; Félix Marten; Serge Marquand,Horror,https://letterboxd.com/film/the-grapes-of-death/
-50,Ecce Bombo,Nanni Moretti,Nanni Moretti; Luisa Rossi; Lina Sastri,"Comedy, Drama",https://letterboxd.com/film/ecce-bombo/
+49,Ecce Bombo,Nanni Moretti,Nanni Moretti; Luisa Rossi; Lina Sastri,"Comedy, Drama",https://letterboxd.com/film/ecce-bombo/
+50,The Grapes of Death,Jean Rollin,Marie-Georges Pascal; Félix Marten; Serge Marquand,Horror,https://letterboxd.com/film/the-grapes-of-death/

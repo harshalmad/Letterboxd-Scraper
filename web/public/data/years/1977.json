@@ -208,15 +208,15 @@
     },
     {
       "rank": 18,
-      "title": "Slap Shot",
-      "url": "https://letterboxd.com/film/slap-shot/",
-      "director": "George Roy Hill",
+      "title": "New York, New York",
+      "url": "https://letterboxd.com/film/new-york-new-york/",
+      "director": "Martin Scorsese",
       "actors": [
-        "Paul Newman",
-        "Strother Martin",
-        "Michael Ontkean"
+        "Liza Minnelli",
+        "Robert De Niro",
+        "Lionel Stander"
       ],
-      "genres": "Comedy, Drama"
+      "genres": "Drama, Music, Romance"
     },
     {
       "rank": 19,
@@ -232,6 +232,18 @@
     },
     {
       "rank": 20,
+      "title": "Slap Shot",
+      "url": "https://letterboxd.com/film/slap-shot/",
+      "director": "George Roy Hill",
+      "actors": [
+        "Paul Newman",
+        "Strother Martin",
+        "Michael Ontkean"
+      ],
+      "genres": "Comedy, Drama"
+    },
+    {
+      "rank": 21,
       "title": "Wizards",
       "url": "https://letterboxd.com/film/wizards/",
       "director": "Ralph Bakshi",
@@ -243,7 +255,7 @@
       "genres": "Fantasy, Animation, Science Fiction"
     },
     {
-      "rank": 21,
+      "rank": 22,
       "title": "The American Friend",
       "url": "https://letterboxd.com/film/the-american-friend/",
       "director": "Wim Wenders",
@@ -255,7 +267,7 @@
       "genres": "Crime, Drama, Thriller"
     },
     {
-      "rank": 22,
+      "rank": 23,
       "title": "The Last Wave",
       "url": "https://letterboxd.com/film/the-last-wave/",
       "director": "Peter Weir",
@@ -267,7 +279,7 @@
       "genres": "Drama, Fantasy, Mystery"
     },
     {
-      "rank": 23,
+      "rank": 24,
       "title": "One Sings, the Other Doesn't",
       "url": "https://letterboxd.com/film/one-sings-the-other-doesnt/",
       "director": "Agnès Varda",
@@ -279,7 +291,7 @@
       "genres": "Music, Drama"
     },
     {
-      "rank": 24,
+      "rank": 25,
       "title": "Alucarda",
       "url": "https://letterboxd.com/film/alucarda/",
       "director": "Juan López Moctezuma",
@@ -291,7 +303,7 @@
       "genres": "Horror"
     },
     {
-      "rank": 25,
+      "rank": 26,
       "title": "The Devil, Probably",
       "url": "https://letterboxd.com/film/the-devil-probably/",
       "director": "Robert Bresson",
@@ -303,31 +315,7 @@
       "genres": "Drama"
     },
     {
-      "rank": 26,
-      "title": "New York, New York",
-      "url": "https://letterboxd.com/film/new-york-new-york/",
-      "director": "Martin Scorsese",
-      "actors": [
-        "Liza Minnelli",
-        "Robert De Niro",
-        "Lionel Stander"
-      ],
-      "genres": "Drama, Music, Romance"
-    },
-    {
       "rank": 27,
-      "title": "Desperate Living",
-      "url": "https://letterboxd.com/film/desperate-living/",
-      "director": "John Waters",
-      "actors": [
-        "Liz Renay",
-        "Mink Stole",
-        "Susan Lowe"
-      ],
-      "genres": "Comedy, Crime"
-    },
-    {
-      "rank": 28,
       "title": "The Duellists",
       "url": "https://letterboxd.com/film/the-duellists/",
       "director": "Ridley Scott",
@@ -337,6 +325,18 @@
         "Albert Finney"
       ],
       "genres": "Drama, War"
+    },
+    {
+      "rank": 28,
+      "title": "Desperate Living",
+      "url": "https://letterboxd.com/film/desperate-living/",
+      "director": "John Waters",
+      "actors": [
+        "Liz Renay",
+        "Mink Stole",
+        "Susan Lowe"
+      ],
+      "genres": "Comedy, Crime"
     },
     {
       "rank": 29,
@@ -364,18 +364,6 @@
     },
     {
       "rank": 31,
-      "title": "High Anxiety",
-      "url": "https://letterboxd.com/film/high-anxiety/",
-      "director": "Mel Brooks",
-      "actors": [
-        "Mel Brooks",
-        "Madeline Kahn",
-        "Cloris Leachman"
-      ],
-      "genres": "Crime, Thriller, Mystery, Comedy"
-    },
-    {
-      "rank": 32,
       "title": "Stroszek",
       "url": "https://letterboxd.com/film/stroszek/",
       "director": "Werner Herzog",
@@ -385,6 +373,18 @@
         "Clemens Scheitz"
       ],
       "genres": "Drama"
+    },
+    {
+      "rank": 32,
+      "title": "High Anxiety",
+      "url": "https://letterboxd.com/film/high-anxiety/",
+      "director": "Mel Brooks",
+      "actors": [
+        "Mel Brooks",
+        "Madeline Kahn",
+        "Cloris Leachman"
+      ],
+      "genres": "Crime, Thriller, Mystery, Comedy"
     },
     {
       "rank": 33,
@@ -400,6 +400,18 @@
     },
     {
       "rank": 34,
+      "title": "Exorcist II: The Heretic",
+      "url": "https://letterboxd.com/film/exorcist-ii-the-heretic/",
+      "director": "John Boorman",
+      "actors": [
+        "Richard Burton",
+        "Linda Blair",
+        "Louise Fletcher"
+      ],
+      "genres": "Horror"
+    },
+    {
+      "rank": 35,
       "title": "A Bridge Too Far",
       "url": "https://letterboxd.com/film/a-bridge-too-far/",
       "director": "Richard Attenborough",
@@ -411,7 +423,7 @@
       "genres": "History, Drama, War"
     },
     {
-      "rank": 35,
+      "rank": 36,
       "title": "That Obscure Object of Desire",
       "url": "https://letterboxd.com/film/that-obscure-object-of-desire/",
       "director": "Luis Buñuel",
@@ -421,18 +433,6 @@
         "Ángela Molina"
       ],
       "genres": "Drama, Comedy, Romance"
-    },
-    {
-      "rank": 36,
-      "title": "Exorcist II: The Heretic",
-      "url": "https://letterboxd.com/film/exorcist-ii-the-heretic/",
-      "director": "John Boorman",
-      "actors": [
-        "Richard Burton",
-        "Linda Blair",
-        "Louise Fletcher"
-      ],
-      "genres": "Horror"
     },
     {
       "rank": 37,
@@ -476,9 +476,9 @@
       "url": "https://letterboxd.com/film/shock-1977/",
       "director": "Mario Bava",
       "actors": [
-        "Ángel Aranda",
-        "Sandra Alberti",
-        "Mariana Karr"
+        "Daria Nicolodi",
+        "John Steiner",
+        "David Colin Jr."
       ],
       "genres": "Horror"
     },

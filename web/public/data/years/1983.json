@@ -88,6 +88,18 @@
     },
     {
       "rank": 8,
+      "title": "Risky Business",
+      "url": "https://letterboxd.com/film/risky-business/",
+      "director": "Paul Brickman",
+      "actors": [
+        "Tom Cruise",
+        "Rebecca De Mornay",
+        "Joe Pantoliano"
+      ],
+      "genres": "Drama, Comedy, Romance"
+    },
+    {
+      "rank": 9,
       "title": "Possibly in Michigan",
       "url": "https://letterboxd.com/film/possibly-in-michigan/",
       "director": "Cecelia Condit",
@@ -99,7 +111,7 @@
       "genres": "Horror, Music"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "Christine",
       "url": "https://letterboxd.com/film/christine-1983/",
       "director": "John Carpenter",
@@ -109,18 +121,6 @@
         "Alexandra Paul"
       ],
       "genres": "Horror"
-    },
-    {
-      "rank": 10,
-      "title": "Risky Business",
-      "url": "https://letterboxd.com/film/risky-business/",
-      "director": "Paul Brickman",
-      "actors": [
-        "Tom Cruise",
-        "Rebecca De Mornay",
-        "Joe Pantoliano"
-      ],
-      "genres": "Drama, Comedy, Romance"
     },
     {
       "rank": 11,
@@ -268,18 +268,6 @@
     },
     {
       "rank": 23,
-      "title": "Never Say Never Again",
-      "url": "https://letterboxd.com/film/never-say-never-again/",
-      "director": "Irvin Kershner",
-      "actors": [
-        "Sean Connery",
-        "Klaus Maria Brandauer",
-        "Max von Sydow"
-      ],
-      "genres": "Action, Adventure, Thriller"
-    },
-    {
-      "rank": 24,
       "title": "Terms of Endearment",
       "url": "https://letterboxd.com/film/terms-of-endearment/",
       "director": "James L. Brooks",
@@ -289,6 +277,18 @@
         "Jack Nicholson"
       ],
       "genres": "Comedy, Drama"
+    },
+    {
+      "rank": 24,
+      "title": "Never Say Never Again",
+      "url": "https://letterboxd.com/film/never-say-never-again/",
+      "director": "Irvin Kershner",
+      "actors": [
+        "Sean Connery",
+        "Klaus Maria Brandauer",
+        "Max von Sydow"
+      ],
+      "genres": "Action, Adventure, Thriller"
     },
     {
       "rank": 25,
@@ -316,18 +316,6 @@
     },
     {
       "rank": 27,
-      "title": "National Lampoon's Vacation",
-      "url": "https://letterboxd.com/film/national-lampoons-vacation/",
-      "director": "Harold Ramis",
-      "actors": [
-        "Chevy Chase",
-        "Beverly D'Angelo",
-        "Anthony Michael Hall"
-      ],
-      "genres": "Comedy, Adventure"
-    },
-    {
-      "rank": 28,
       "title": "Psycho II",
       "url": "https://letterboxd.com/film/psycho-ii/",
       "director": "Richard Franklin",
@@ -337,6 +325,18 @@
         "Vera Miles"
       ],
       "genres": "Thriller, Mystery, Horror"
+    },
+    {
+      "rank": 28,
+      "title": "National Lampoon's Vacation",
+      "url": "https://letterboxd.com/film/national-lampoons-vacation/",
+      "director": "Harold Ramis",
+      "actors": [
+        "Chevy Chase",
+        "Beverly D'Angelo",
+        "Anthony Michael Hall"
+      ],
+      "genres": "Comedy, Adventure"
     },
     {
       "rank": 29,
@@ -587,15 +587,15 @@
     },
     {
       "rank": 50,
-      "title": "Silkwood",
-      "url": "https://letterboxd.com/film/silkwood/",
-      "director": "Mike Nichols",
+      "title": "Krull",
+      "url": "https://letterboxd.com/film/krull/",
+      "director": "Peter Yates",
       "actors": [
-        "Meryl Streep",
-        "Kurt Russell",
-        "Cher"
+        "Ken Marshall",
+        "Lysette Anthony",
+        "Freddie Jones"
       ],
-      "genres": "Drama"
+      "genres": "Science Fiction, Action, Adventure, Fantasy"
     }
   ]
 }

@@ -64,18 +64,6 @@
     },
     {
       "rank": 6,
-      "title": "Friday the 13th",
-      "url": "https://letterboxd.com/film/friday-the-13th/",
-      "director": "Sean S. Cunningham",
-      "actors": [
-        "Adrienne King",
-        "Betsy Palmer",
-        "Kevin Bacon"
-      ],
-      "genres": "Horror"
-    },
-    {
-      "rank": 7,
       "title": "Nine to Five",
       "url": "https://letterboxd.com/film/nine-to-five/",
       "director": "Colin Higgins",
@@ -85,6 +73,18 @@
         "Dolly Parton"
       ],
       "genres": "Comedy"
+    },
+    {
+      "rank": 7,
+      "title": "Friday the 13th",
+      "url": "https://letterboxd.com/film/friday-the-13th/",
+      "director": "Sean S. Cunningham",
+      "actors": [
+        "Adrienne King",
+        "Betsy Palmer",
+        "Kevin Bacon"
+      ],
+      "genres": "Horror"
     },
     {
       "rank": 8,
@@ -124,18 +124,6 @@
     },
     {
       "rank": 11,
-      "title": "Altered States",
-      "url": "https://letterboxd.com/film/altered-states/",
-      "director": "Ken Russell",
-      "actors": [
-        "William Hurt",
-        "Blair Brown",
-        "Bob Balaban"
-      ],
-      "genres": "Thriller, Horror, Science Fiction"
-    },
-    {
-      "rank": 12,
       "title": "The Fog",
       "url": "https://letterboxd.com/film/the-fog/",
       "director": "John Carpenter",
@@ -145,6 +133,18 @@
         "Jamie Lee Curtis"
       ],
       "genres": "Horror"
+    },
+    {
+      "rank": 12,
+      "title": "Altered States",
+      "url": "https://letterboxd.com/film/altered-states/",
+      "director": "Ken Russell",
+      "actors": [
+        "William Hurt",
+        "Blair Brown",
+        "Bob Balaban"
+      ],
+      "genres": "Thriller, Horror, Science Fiction"
     },
     {
       "rank": 13,
@@ -320,22 +320,10 @@
         "Melody Anderson",
         "Max von Sydow"
       ],
-      "genres": "Action, Adventure, Science Fiction"
+      "genres": "Family, Action, Adventure, Science Fiction"
     },
     {
       "rank": 28,
-      "title": "Night of the Juggler",
-      "url": "https://letterboxd.com/film/night-of-the-juggler/",
-      "director": "Robert Butler",
-      "actors": [
-        "James Brolin",
-        "Cliff Gorman",
-        "Richard S. Castellano"
-      ],
-      "genres": "Action, Crime, Thriller"
-    },
-    {
-      "rank": 29,
       "title": "Prom Night",
       "url": "https://letterboxd.com/film/prom-night/",
       "director": "Paul Lynch",
@@ -345,6 +333,18 @@
         "Casey Stevens"
       ],
       "genres": "Mystery, Horror"
+    },
+    {
+      "rank": 29,
+      "title": "Night of the Juggler",
+      "url": "https://letterboxd.com/film/night-of-the-juggler/",
+      "director": "Robert Butler",
+      "actors": [
+        "James Brolin",
+        "Cliff Gorman",
+        "Richard S. Castellano"
+      ],
+      "genres": "Action, Crime, Thriller"
     },
     {
       "rank": 30,
@@ -492,18 +492,6 @@
     },
     {
       "rank": 42,
-      "title": "Permanent Vacation",
-      "url": "https://letterboxd.com/film/permanent-vacation/",
-      "director": "Jim Jarmusch",
-      "actors": [
-        "Chris Parker",
-        "Leila Gastil",
-        "John Lurie"
-      ],
-      "genres": "Comedy, Drama"
-    },
-    {
-      "rank": 43,
       "title": "Bubble Bath",
       "url": "https://letterboxd.com/film/bubble-bath/",
       "director": "György Kovásznai",
@@ -513,6 +501,18 @@
         "Katalin Dobos"
       ],
       "genres": "Drama, Comedy, Animation, Music"
+    },
+    {
+      "rank": 43,
+      "title": "Permanent Vacation",
+      "url": "https://letterboxd.com/film/permanent-vacation/",
+      "director": "Jim Jarmusch",
+      "actors": [
+        "Chris Parker",
+        "Leila Gastil",
+        "John Lurie"
+      ],
+      "genres": "Comedy, Drama"
     },
     {
       "rank": 44,

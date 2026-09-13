@@ -304,18 +304,6 @@
     },
     {
       "rank": 26,
-      "title": "Copycat",
-      "url": "https://letterboxd.com/film/copycat/",
-      "director": "Jon Amiel",
-      "actors": [
-        "Sigourney Weaver",
-        "Holly Hunter",
-        "Dermot Mulroney"
-      ],
-      "genres": "Mystery, Thriller, Crime"
-    },
-    {
-      "rank": 27,
       "title": "Neon Genesis Evangelion",
       "url": "https://letterboxd.com/film/neon-genesis-evangelion/",
       "director": "Kazuya Tsurumaki, Hiroyuki Ishido, Tsuyoshi Kaga, Keiichi Sugiyama, Seiji Mizushima, Tetsuya Watanabe, Tensai Okamura, Masahiko Otsuka, Ken Ando, Naoyasu Habu, Minoru Ohara, Masayuki, Akira Takamura, Hideaki Anno, Shoichi Masuo",
@@ -327,19 +315,19 @@
       "genres": "Animation, Drama"
     },
     {
-      "rank": 28,
-      "title": "GoldenEye",
-      "url": "https://letterboxd.com/film/goldeneye/",
-      "director": "Martin Campbell",
+      "rank": 27,
+      "title": "Copycat",
+      "url": "https://letterboxd.com/film/copycat/",
+      "director": "Jon Amiel",
       "actors": [
-        "Pierce Brosnan",
-        "Sean Bean",
-        "Izabella Scorupco"
+        "Sigourney Weaver",
+        "Holly Hunter",
+        "Dermot Mulroney"
       ],
-      "genres": "Action, Adventure, Thriller"
+      "genres": "Mystery, Thriller, Crime"
     },
     {
-      "rank": 29,
+      "rank": 28,
       "title": "Party Girl",
       "url": "https://letterboxd.com/film/party-girl-1995/",
       "director": "Daisy von Scherler Mayer",
@@ -349,6 +337,18 @@
         "Guillermo Díaz"
       ],
       "genres": "Drama, Romance, Comedy"
+    },
+    {
+      "rank": 29,
+      "title": "GoldenEye",
+      "url": "https://letterboxd.com/film/goldeneye/",
+      "director": "Martin Campbell",
+      "actors": [
+        "Pierce Brosnan",
+        "Sean Bean",
+        "Izabella Scorupco"
+      ],
+      "genres": "Action, Adventure, Thriller"
     },
     {
       "rank": 30,
@@ -388,18 +388,6 @@
     },
     {
       "rank": 33,
-      "title": "Bad Boys",
-      "url": "https://letterboxd.com/film/bad-boys-1995/",
-      "director": "Michael Bay",
-      "actors": [
-        "Will Smith",
-        "Martin Lawrence",
-        "Téa Leoni"
-      ],
-      "genres": "Comedy, Thriller, Action, Crime"
-    },
-    {
-      "rank": 34,
       "title": "Hackers",
       "url": "https://letterboxd.com/film/hackers/",
       "director": "Iain Softley",
@@ -409,6 +397,18 @@
         "Matthew Lillard"
       ],
       "genres": "Drama, Action, Crime, Thriller"
+    },
+    {
+      "rank": 34,
+      "title": "Bad Boys",
+      "url": "https://letterboxd.com/film/bad-boys-1995/",
+      "director": "Michael Bay",
+      "actors": [
+        "Will Smith",
+        "Martin Lawrence",
+        "Téa Leoni"
+      ],
+      "genres": "Comedy, Thriller, Action, Crime"
     },
     {
       "rank": 35,
@@ -484,18 +484,6 @@
     },
     {
       "rank": 41,
-      "title": "The Quick and the Dead",
-      "url": "https://letterboxd.com/film/the-quick-and-the-dead-1995/",
-      "director": "Sam Raimi",
-      "actors": [
-        "Sharon Stone",
-        "Gene Hackman",
-        "Russell Crowe"
-      ],
-      "genres": "Thriller, Drama, Western, Action"
-    },
-    {
-      "rank": 42,
       "title": "Strange Days",
       "url": "https://letterboxd.com/film/strange-days/",
       "director": "Kathryn Bigelow",
@@ -505,6 +493,18 @@
         "Juliette Lewis"
       ],
       "genres": "Crime, Science Fiction, Thriller"
+    },
+    {
+      "rank": 42,
+      "title": "The Quick and the Dead",
+      "url": "https://letterboxd.com/film/the-quick-and-the-dead-1995/",
+      "director": "Sam Raimi",
+      "actors": [
+        "Sharon Stone",
+        "Gene Hackman",
+        "Russell Crowe"
+      ],
+      "genres": "Thriller, Drama, Western, Action"
     },
     {
       "rank": 43,
@@ -520,6 +520,18 @@
     },
     {
       "rank": 44,
+      "title": "Desperado",
+      "url": "https://letterboxd.com/film/desperado/",
+      "director": "Robert Rodriguez",
+      "actors": [
+        "Antonio Banderas",
+        "Salma Hayek Pinault",
+        "Joaquim de Almeida"
+      ],
+      "genres": "Action, Crime, Thriller"
+    },
+    {
+      "rank": 45,
       "title": "Mallrats",
       "url": "https://letterboxd.com/film/mallrats/",
       "director": "Kevin Smith",
@@ -531,7 +543,7 @@
       "genres": "Romance, Comedy"
     },
     {
-      "rank": 45,
+      "rank": 46,
       "title": "Dead Man",
       "url": "https://letterboxd.com/film/dead-man/",
       "director": "Jim Jarmusch",
@@ -541,18 +553,6 @@
         "Crispin Glover"
       ],
       "genres": "Fantasy, Western, Drama"
-    },
-    {
-      "rank": 46,
-      "title": "Desperado",
-      "url": "https://letterboxd.com/film/desperado/",
-      "director": "Robert Rodriguez",
-      "actors": [
-        "Antonio Banderas",
-        "Salma Hayek Pinault",
-        "Joaquim de Almeida"
-      ],
-      "genres": "Action, Crime, Thriller"
     },
     {
       "rank": 47,
@@ -592,15 +592,15 @@
     },
     {
       "rank": 50,
-      "title": "The American President",
-      "url": "https://letterboxd.com/film/the-american-president/",
-      "director": "Rob Reiner",
+      "title": "The Cure",
+      "url": "https://letterboxd.com/film/the-cure-1995/",
+      "director": "Peter Horton",
       "actors": [
-        "Michael Douglas",
-        "Annette Bening",
-        "Martin Sheen"
+        "Joseph Mazzello",
+        "Brad Renfro",
+        "Annabella Sciorra"
       ],
-      "genres": "Romance, Drama"
+      "genres": "Family, Drama"
     }
   ]
 }

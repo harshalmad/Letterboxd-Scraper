@@ -172,18 +172,6 @@
     },
     {
       "rank": 15,
-      "title": "Faces of Death",
-      "url": "https://letterboxd.com/film/faces-of-death/",
-      "director": "John Alan Schwartz",
-      "actors": [
-        "Michael Carr",
-        "Samuel Berkowitz",
-        "Mary Ellen Brighton"
-      ],
-      "genres": "Documentary, Horror"
-    },
-    {
-      "rank": 16,
       "title": "The Last Waltz",
       "url": "https://letterboxd.com/film/the-last-waltz/",
       "director": "Martin Scorsese",
@@ -193,6 +181,18 @@
         "Levon Helm"
       ],
       "genres": "Music, Documentary"
+    },
+    {
+      "rank": 16,
+      "title": "Faces of Death",
+      "url": "https://letterboxd.com/film/faces-of-death/",
+      "director": "John Alan Schwartz",
+      "actors": [
+        "Michael Carr",
+        "Samuel Berkowitz",
+        "Mary Ellen Brighton"
+      ],
+      "genres": "Documentary, Horror"
     },
     {
       "rank": 17,
@@ -292,18 +292,6 @@
     },
     {
       "rank": 25,
-      "title": "Piranha",
-      "url": "https://letterboxd.com/film/piranha/",
-      "director": "Joe Dante",
-      "actors": [
-        "Bradford Dillman",
-        "Heather Menzies",
-        "Kevin McCarthy"
-      ],
-      "genres": "Science Fiction, Comedy, Horror"
-    },
-    {
-      "rank": 26,
       "title": "Girlfriends",
       "url": "https://letterboxd.com/film/girlfriends-1978/",
       "director": "Claudia Weill",
@@ -313,6 +301,18 @@
         "Adam Cohen"
       ],
       "genres": "Comedy, Drama"
+    },
+    {
+      "rank": 26,
+      "title": "Piranha",
+      "url": "https://letterboxd.com/film/piranha/",
+      "director": "Joe Dante",
+      "actors": [
+        "Bradford Dillman",
+        "Heather Menzies",
+        "Kevin McCarthy"
+      ],
+      "genres": "Science Fiction, Comedy, Horror"
     },
     {
       "rank": 27,
@@ -340,18 +340,6 @@
     },
     {
       "rank": 29,
-      "title": "A Wedding",
-      "url": "https://letterboxd.com/film/a-wedding/",
-      "director": "Robert Altman",
-      "actors": [
-        "Desi Arnaz Jr.",
-        "Carol Burnett",
-        "Geraldine Chaplin"
-      ],
-      "genres": "Comedy, Drama"
-    },
-    {
-      "rank": 30,
       "title": "La Cage aux Folles",
       "url": "https://letterboxd.com/film/la-cage-aux-folles/",
       "director": "Édouard Molinaro",
@@ -361,6 +349,18 @@
         "Claire Maurier"
       ],
       "genres": "Comedy"
+    },
+    {
+      "rank": 30,
+      "title": "A Wedding",
+      "url": "https://letterboxd.com/film/a-wedding/",
+      "director": "Robert Altman",
+      "actors": [
+        "Desi Arnaz Jr.",
+        "Carol Burnett",
+        "Geraldine Chaplin"
+      ],
+      "genres": "Comedy, Drama"
     },
     {
       "rank": 31,
@@ -460,18 +460,6 @@
     },
     {
       "rank": 39,
-      "title": "Pretty Baby",
-      "url": "https://letterboxd.com/film/pretty-baby/",
-      "director": "Louis Malle",
-      "actors": [
-        "Brooke Shields",
-        "Keith Carradine",
-        "Susan Sarandon"
-      ],
-      "genres": "Drama"
-    },
-    {
-      "rank": 40,
       "title": "Damien - Omen II",
       "url": "https://letterboxd.com/film/damien-omen-ii/",
       "director": "Don Taylor",
@@ -483,7 +471,7 @@
       "genres": "Horror, Thriller"
     },
     {
-      "rank": 41,
+      "rank": 40,
       "title": "The Fury",
       "url": "https://letterboxd.com/film/the-fury/",
       "director": "Brian De Palma",
@@ -493,6 +481,18 @@
         "John Cassavetes"
       ],
       "genres": "Thriller, Science Fiction, Horror"
+    },
+    {
+      "rank": 41,
+      "title": "Pretty Baby",
+      "url": "https://letterboxd.com/film/pretty-baby/",
+      "director": "Louis Malle",
+      "actors": [
+        "Brooke Shields",
+        "Keith Carradine",
+        "Susan Sarandon"
+      ],
+      "genres": "Drama"
     },
     {
       "rank": 42,
@@ -580,18 +580,6 @@
     },
     {
       "rank": 49,
-      "title": "The Grapes of Death",
-      "url": "https://letterboxd.com/film/the-grapes-of-death/",
-      "director": "Jean Rollin",
-      "actors": [
-        "Marie-Georges Pascal",
-        "Félix Marten",
-        "Serge Marquand"
-      ],
-      "genres": "Horror"
-    },
-    {
-      "rank": 50,
       "title": "Ecce Bombo",
       "url": "https://letterboxd.com/film/ecce-bombo/",
       "director": "Nanni Moretti",
@@ -601,6 +589,18 @@
         "Lina Sastri"
       ],
       "genres": "Comedy, Drama"
+    },
+    {
+      "rank": 50,
+      "title": "The Grapes of Death",
+      "url": "https://letterboxd.com/film/the-grapes-of-death/",
+      "director": "Jean Rollin",
+      "actors": [
+        "Marie-Georges Pascal",
+        "Félix Marten",
+        "Serge Marquand"
+      ],
+      "genres": "Horror"
     }
   ]
 }

@@ -6,9 +6,9 @@ rank,title,director,actors,genres,url
 5,Sleepaway Camp,Robert Hiltzik,Mike Kellin; Katherine Kamhi; Paul DeAngelo,Horror,https://letterboxd.com/film/sleepaway-camp/
 6,Michael Jackson's Thriller,John Landis,Michael Jackson; Ola Ray; Vincent Price,"Thriller, Horror, Music",https://letterboxd.com/film/michael-jacksons-thriller/
 7,Flashdance,Adrian Lyne,Jennifer Beals; Michael Nouri; Sunny Johnson,"Romance, Drama",https://letterboxd.com/film/flashdance/
-8,Possibly in Michigan,Cecelia Condit,Jill Sands; Karen Skladany; Bill Blume,"Horror, Music",https://letterboxd.com/film/possibly-in-michigan/
-9,Christine,John Carpenter,Keith Gordon; John Stockwell; Alexandra Paul,Horror,https://letterboxd.com/film/christine-1983/
-10,Risky Business,Paul Brickman,Tom Cruise; Rebecca De Mornay; Joe Pantoliano,"Drama, Comedy, Romance",https://letterboxd.com/film/risky-business/
+8,Risky Business,Paul Brickman,Tom Cruise; Rebecca De Mornay; Joe Pantoliano,"Drama, Comedy, Romance",https://letterboxd.com/film/risky-business/
+9,Possibly in Michigan,Cecelia Condit,Jill Sands; Karen Skladany; Bill Blume,"Horror, Music",https://letterboxd.com/film/possibly-in-michigan/
+10,Christine,John Carpenter,Keith Gordon; John Stockwell; Alexandra Paul,Horror,https://letterboxd.com/film/christine-1983/
 11,The Hunger,Tony Scott,Catherine Deneuve; David Bowie; Susan Sarandon,"Drama, Horror",https://letterboxd.com/film/the-hunger/
 12,Trading Places,John Landis,Dan Aykroyd; Eddie Murphy; Ralph Bellamy,Comedy,https://letterboxd.com/film/trading-places/
 13,Nostalgia,Andrei Tarkovsky,Oleg Yankovskiy; Erland Josephson; Domiziana Giordano,"Drama, Romance",https://letterboxd.com/film/nostalgia-1983/
@@ -21,12 +21,12 @@ rank,title,director,actors,genres,url
 20,Pauline at the Beach,Éric Rohmer,Amanda Langlet; Arielle Dombasle; Pascal Greggory,"Romance, Drama, Comedy",https://letterboxd.com/film/pauline-at-the-beach/
 21,Rumble Fish,Francis Ford Coppola,Matt Dillon; Mickey Rourke; Diane Lane,"Romance, Crime, Drama",https://letterboxd.com/film/rumble-fish/
 22,Valley Girl,Martha Coolidge,Nicolas Cage; Deborah Foreman; E. G. Daily,"Comedy, Romance",https://letterboxd.com/film/valley-girl/
-23,Never Say Never Again,Irvin Kershner,Sean Connery; Klaus Maria Brandauer; Max von Sydow,"Action, Adventure, Thriller",https://letterboxd.com/film/never-say-never-again/
-24,Terms of Endearment,James L. Brooks,Shirley MacLaine; Debra Winger; Jack Nicholson,"Comedy, Drama",https://letterboxd.com/film/terms-of-endearment/
+23,Terms of Endearment,James L. Brooks,Shirley MacLaine; Debra Winger; Jack Nicholson,"Comedy, Drama",https://letterboxd.com/film/terms-of-endearment/
+24,Never Say Never Again,Irvin Kershner,Sean Connery; Klaus Maria Brandauer; Max von Sydow,"Action, Adventure, Thriller",https://letterboxd.com/film/never-say-never-again/
 25,"Merry Christmas, Mr. Lawrence",Nagisa Ōshima,David Bowie; Tom Conti; Ryuichi Sakamoto,"War, Drama, History",https://letterboxd.com/film/merry-christmas-mr-lawrence/
 26,Local Hero,Bill Forsyth,Burt Lancaster; Peter Riegert; Denis Lawson,"Drama, Comedy",https://letterboxd.com/film/local-hero/
-27,National Lampoon's Vacation,Harold Ramis,Chevy Chase; Beverly D'Angelo; Anthony Michael Hall,"Comedy, Adventure",https://letterboxd.com/film/national-lampoons-vacation/
-28,Psycho II,Richard Franklin,Anthony Perkins; Meg Tilly; Vera Miles,"Thriller, Mystery, Horror",https://letterboxd.com/film/psycho-ii/
+27,Psycho II,Richard Franklin,Anthony Perkins; Meg Tilly; Vera Miles,"Thriller, Mystery, Horror",https://letterboxd.com/film/psycho-ii/
+28,National Lampoon's Vacation,Harold Ramis,Chevy Chase; Beverly D'Angelo; Anthony Michael Hall,"Comedy, Adventure",https://letterboxd.com/film/national-lampoons-vacation/
 29,Sans Soleil,Chris Marker,Florence Delay; Amílcar Cabral; Arielle Dombasle,Documentary,https://letterboxd.com/film/sans-soleil/
 30,Born in Flames,Lizzie Borden,Honey; Adele Bertei; Jean Satterfield,"Science Fiction, Drama",https://letterboxd.com/film/born-in-flames/
 31,Cujo,Lewis Teague,Dee Wallace; Danny Pintauro; Daniel Hugh Kelly,"Horror, Drama",https://letterboxd.com/film/cujo/
@@ -48,4 +48,4 @@ rank,title,director,actors,genres,url
 47,Fire and Ice,Ralph Bakshi,Randy Norton; Cynthia Leake; Steve Sandor,"Animation, Adventure, Fantasy, Science Fiction",https://letterboxd.com/film/fire-and-ice/
 48,Barefoot Gen,Mori Masaki,Issei Miyazaki; Masaki Kouda; Seiko Nakano,"Animation, History, War, Drama",https://letterboxd.com/film/barefoot-gen/
 49,Rock & Rule,Clive A. Smith,Don Francks; Lou Reed; Susan Roman,"Animation, Adventure, Fantasy",https://letterboxd.com/film/rock-rule/
-50,Silkwood,Mike Nichols,Meryl Streep; Kurt Russell; Cher,Drama,https://letterboxd.com/film/silkwood/
+50,Krull,Peter Yates,Ken Marshall; Lysette Anthony; Freddie Jones,"Science Fiction, Action, Adventure, Fantasy",https://letterboxd.com/film/krull/

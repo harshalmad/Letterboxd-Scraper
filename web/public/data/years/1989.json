@@ -88,6 +88,18 @@
     },
     {
       "rank": 8,
+      "title": "Steel Magnolias",
+      "url": "https://letterboxd.com/film/steel-magnolias/",
+      "director": "Herbert Ross",
+      "actors": [
+        "Sally Field",
+        "Dolly Parton",
+        "Shirley MacLaine"
+      ],
+      "genres": "Comedy, Drama"
+    },
+    {
+      "rank": 9,
       "title": "Batman",
       "url": "https://letterboxd.com/film/batman-1989/",
       "director": "Tim Burton",
@@ -99,7 +111,7 @@
       "genres": "Fantasy, Action, Crime"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "Indiana Jones and the Last Crusade",
       "url": "https://letterboxd.com/film/indiana-jones-and-the-last-crusade/",
       "director": "Steven Spielberg",
@@ -109,18 +121,6 @@
         "Denholm Elliott"
       ],
       "genres": "Adventure, Action"
-    },
-    {
-      "rank": 10,
-      "title": "Steel Magnolias",
-      "url": "https://letterboxd.com/film/steel-magnolias/",
-      "director": "Herbert Ross",
-      "actors": [
-        "Sally Field",
-        "Dolly Parton",
-        "Shirley MacLaine"
-      ],
-      "genres": "Comedy, Drama"
     },
     {
       "rank": 11,
@@ -328,18 +328,6 @@
     },
     {
       "rank": 28,
-      "title": "She-Devil",
-      "url": "https://letterboxd.com/film/she-devil/",
-      "director": "Susan Seidelman",
-      "actors": [
-        "Meryl Streep",
-        "Roseanne Barr",
-        "Ed Begley Jr."
-      ],
-      "genres": "Comedy"
-    },
-    {
-      "rank": 29,
       "title": "Ghostbusters II",
       "url": "https://letterboxd.com/film/ghostbusters-ii/",
       "director": "Ivan Reitman",
@@ -349,6 +337,18 @@
         "Sigourney Weaver"
       ],
       "genres": "Comedy, Fantasy"
+    },
+    {
+      "rank": 29,
+      "title": "She-Devil",
+      "url": "https://letterboxd.com/film/she-devil/",
+      "director": "Susan Seidelman",
+      "actors": [
+        "Meryl Streep",
+        "Roseanne Barr",
+        "Ed Begley Jr."
+      ],
+      "genres": "Comedy"
     },
     {
       "rank": 30,
@@ -364,18 +364,6 @@
     },
     {
       "rank": 31,
-      "title": "Honey, I Shrunk the Kids",
-      "url": "https://letterboxd.com/film/honey-i-shrunk-the-kids/",
-      "director": "Joe Johnston",
-      "actors": [
-        "Rick Moranis",
-        "Matt Frewer",
-        "Marcia Strassman"
-      ],
-      "genres": "Science Fiction, Adventure, Comedy, Family"
-    },
-    {
-      "rank": 32,
       "title": "Uncle Buck",
       "url": "https://letterboxd.com/film/uncle-buck/",
       "director": "John Hughes",
@@ -385,6 +373,18 @@
         "Gaby Hoffmann"
       ],
       "genres": "Family, Drama, Comedy"
+    },
+    {
+      "rank": 32,
+      "title": "Honey, I Shrunk the Kids",
+      "url": "https://letterboxd.com/film/honey-i-shrunk-the-kids/",
+      "director": "Joe Johnston",
+      "actors": [
+        "Rick Moranis",
+        "Matt Frewer",
+        "Marcia Strassman"
+      ],
+      "genres": "Science Fiction, Adventure, Comedy, Family"
     },
     {
       "rank": 33,
@@ -434,18 +434,6 @@
     },
     {
       "rank": 37,
-      "title": "The Karate Kid Part III",
-      "url": "https://letterboxd.com/film/the-karate-kid-part-iii/",
-      "director": "John G. Avildsen",
-      "actors": [
-        "Ralph Macchio",
-        "Pat Morita",
-        "Robyn Lively"
-      ],
-      "genres": "Action, Drama, Family, Adventure"
-    },
-    {
-      "rank": 38,
       "title": "Santa Sangre",
       "url": "https://letterboxd.com/film/santa-sangre/",
       "director": "Alejandro Jodorowsky",
@@ -455,6 +443,18 @@
         "Guy Stockwell"
       ],
       "genres": "Horror, Thriller, Drama"
+    },
+    {
+      "rank": 38,
+      "title": "The Karate Kid Part III",
+      "url": "https://letterboxd.com/film/the-karate-kid-part-iii/",
+      "director": "John G. Avildsen",
+      "actors": [
+        "Ralph Macchio",
+        "Pat Morita",
+        "Robyn Lively"
+      ],
+      "genres": "Action, Drama, Family, Adventure"
     },
     {
       "rank": 39,
@@ -470,15 +470,15 @@
     },
     {
       "rank": 40,
-      "title": "Major League",
-      "url": "https://letterboxd.com/film/major-league/",
-      "director": "David S. Ward",
+      "title": "Isle of Flowers",
+      "url": "https://letterboxd.com/film/isle-of-flowers/",
+      "director": "Jorge Furtado",
       "actors": [
-        "Tom Berenger",
-        "Charlie Sheen",
-        "Corbin Bernsen"
+        "Paulo José",
+        "Júlia Barth",
+        "Luciane Azevedo"
       ],
-      "genres": "Comedy"
+      "genres": "Documentary"
     },
     {
       "rank": 41,
@@ -494,15 +494,15 @@
     },
     {
       "rank": 42,
-      "title": "Isle of Flowers",
-      "url": "https://letterboxd.com/film/isle-of-flowers/",
-      "director": "Jorge Furtado",
+      "title": "Major League",
+      "url": "https://letterboxd.com/film/major-league/",
+      "director": "David S. Ward",
       "actors": [
-        "Paulo José",
-        "Júlia Barth",
-        "Luciane Azevedo"
+        "Tom Berenger",
+        "Charlie Sheen",
+        "Corbin Bernsen"
       ],
-      "genres": "Documentary"
+      "genres": "Comedy"
     },
     {
       "rank": 43,
@@ -530,18 +530,6 @@
     },
     {
       "rank": 45,
-      "title": "Lethal Weapon 2",
-      "url": "https://letterboxd.com/film/lethal-weapon-2/",
-      "director": "Richard Donner",
-      "actors": [
-        "Mel Gibson",
-        "Danny Glover",
-        "Joe Pesci"
-      ],
-      "genres": "Action, Crime, Thriller"
-    },
-    {
-      "rank": 46,
       "title": "Decalogue II",
       "url": "https://letterboxd.com/film/decalogue-ii/",
       "director": "Krzysztof Kieślowski",
@@ -551,6 +539,18 @@
         "Olgierd Łukaszewicz"
       ],
       "genres": "TV Movie, Drama"
+    },
+    {
+      "rank": 46,
+      "title": "Lethal Weapon 2",
+      "url": "https://letterboxd.com/film/lethal-weapon-2/",
+      "director": "Richard Donner",
+      "actors": [
+        "Mel Gibson",
+        "Danny Glover",
+        "Joe Pesci"
+      ],
+      "genres": "Action, Crime, Thriller"
     },
     {
       "rank": 47,

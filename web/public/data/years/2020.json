@@ -76,18 +76,6 @@
     },
     {
       "rank": 7,
-      "title": "To All the Boys: P.S. I Still Love You",
-      "url": "https://letterboxd.com/film/to-all-the-boys-ps-i-still-love-you/",
-      "director": "Michael Fimognari",
-      "actors": [
-        "Lana Condor",
-        "Noah Centineo",
-        "Jordan Fisher"
-      ],
-      "genres": "Comedy, Romance"
-    },
-    {
-      "rank": 8,
       "title": "Dinner in America",
       "url": "https://letterboxd.com/film/dinner-in-america/",
       "director": "Adam Rehmeier",
@@ -95,6 +83,18 @@
         "Kyle Gallner",
         "Emily Skeggs",
         "Pat Healy"
+      ],
+      "genres": "Comedy, Romance"
+    },
+    {
+      "rank": 8,
+      "title": "To All the Boys: P.S. I Still Love You",
+      "url": "https://letterboxd.com/film/to-all-the-boys-ps-i-still-love-you/",
+      "director": "Michael Fimognari",
+      "actors": [
+        "Lana Condor",
+        "Noah Centineo",
+        "Jordan Fisher"
       ],
       "genres": "Comedy, Romance"
     },
@@ -124,17 +124,6 @@
     },
     {
       "rank": 11,
-      "title": "Normal People",
-      "url": "https://letterboxd.com/film/normal-people-2020/",
-      "director": "Lenny Abrahamson, Hettie Macdonald",
-      "actors": [
-        "Paul Mescal",
-        "Daisy Edgar-Jones"
-      ],
-      "genres": "Drama"
-    },
-    {
-      "rank": 12,
       "title": "Another Round",
       "url": "https://letterboxd.com/film/another-round/",
       "director": "Thomas Vinterberg",
@@ -144,6 +133,17 @@
         "Magnus Millang"
       ],
       "genres": "Drama, Comedy"
+    },
+    {
+      "rank": 12,
+      "title": "Normal People",
+      "url": "https://letterboxd.com/film/normal-people-2020/",
+      "director": "Lenny Abrahamson, Hettie Macdonald",
+      "actors": [
+        "Paul Mescal",
+        "Daisy Edgar-Jones"
+      ],
+      "genres": "Drama"
     },
     {
       "rank": 13,
@@ -159,18 +159,6 @@
     },
     {
       "rank": 14,
-      "title": "The Invisible Man",
-      "url": "https://letterboxd.com/film/the-invisible-man-2020/",
-      "director": "Leigh Whannell",
-      "actors": [
-        "Elisabeth Moss",
-        "Aldis Hodge",
-        "Storm Reid"
-      ],
-      "genres": "Science Fiction, Horror, Thriller"
-    },
-    {
-      "rank": 15,
       "title": "The Devil All the Time",
       "url": "https://letterboxd.com/film/the-devil-all-the-time/",
       "director": "Antonio Campos",
@@ -180,6 +168,18 @@
         "Bill Skarsgård"
       ],
       "genres": "Crime, Drama, Thriller"
+    },
+    {
+      "rank": 15,
+      "title": "The Invisible Man",
+      "url": "https://letterboxd.com/film/the-invisible-man-2020/",
+      "director": "Leigh Whannell",
+      "actors": [
+        "Elisabeth Moss",
+        "Aldis Hodge",
+        "Storm Reid"
+      ],
+      "genres": "Science Fiction, Horror, Thriller"
     },
     {
       "rank": 16,
@@ -310,18 +310,6 @@
     },
     {
       "rank": 27,
-      "title": "Your Name Engraved Herein",
-      "url": "https://letterboxd.com/film/your-name-engraved-herein/",
-      "director": "Kuang-Hui Liu",
-      "actors": [
-        "Edward Chen",
-        "Tseng Jing-hua",
-        "Leon Dai"
-      ],
-      "genres": "Romance, Drama"
-    },
-    {
-      "rank": 28,
       "title": "Sonic the Hedgehog",
       "url": "https://letterboxd.com/film/sonic-the-hedgehog/",
       "director": "Jeff Fowler",
@@ -331,6 +319,18 @@
         "Tika Sumpter"
       ],
       "genres": "Comedy, Family, Science Fiction, Action"
+    },
+    {
+      "rank": 28,
+      "title": "Your Name Engraved Herein",
+      "url": "https://letterboxd.com/film/your-name-engraved-herein/",
+      "director": "Kuang-Hui Liu",
+      "actors": [
+        "Edward Chen",
+        "Tseng Jing-hua",
+        "Leon Dai"
+      ],
+      "genres": "Romance, Drama"
     },
     {
       "rank": 29,
@@ -466,18 +466,6 @@
     },
     {
       "rank": 40,
-      "title": "Euphoria: Trouble Don't Last Always",
-      "url": "https://letterboxd.com/film/euphoria-trouble-dont-last-always/",
-      "director": "Sam Levinson",
-      "actors": [
-        "Zendaya",
-        "Colman Domingo",
-        "Hunter Schafer"
-      ],
-      "genres": "Drama"
-    },
-    {
-      "rank": 41,
       "title": "#Alive",
       "url": "https://letterboxd.com/film/alive-2020/",
       "director": "Cho Il",
@@ -489,19 +477,7 @@
       "genres": "Action, Horror, Science Fiction"
     },
     {
-      "rank": 42,
-      "title": "365 Days",
-      "url": "https://letterboxd.com/film/365-days-2020/",
-      "director": "Barbara Białowąs, Tomasz Mandes",
-      "actors": [
-        "Anna-Maria Sieklucka",
-        "Michele Morrone",
-        "Bronisław Wrocławski"
-      ],
-      "genres": "Drama, Romance, Crime"
-    },
-    {
-      "rank": 43,
+      "rank": 41,
       "title": "The New Mutants",
       "url": "https://letterboxd.com/film/the-new-mutants/",
       "director": "Josh Boone",
@@ -511,6 +487,30 @@
         "Maisie Williams"
       ],
       "genres": "Horror, Science Fiction"
+    },
+    {
+      "rank": 42,
+      "title": "Euphoria: Trouble Don't Last Always",
+      "url": "https://letterboxd.com/film/euphoria-trouble-dont-last-always/",
+      "director": "Sam Levinson",
+      "actors": [
+        "Zendaya",
+        "Colman Domingo",
+        "Hunter Schafer"
+      ],
+      "genres": "Drama"
+    },
+    {
+      "rank": 43,
+      "title": "365 Days",
+      "url": "https://letterboxd.com/film/365-days-2020/",
+      "director": "Barbara Białowąs, Tomasz Mandes",
+      "actors": [
+        "Anna-Maria Sieklucka",
+        "Michele Morrone",
+        "Bronisław Wrocławski"
+      ],
+      "genres": "Drama, Romance, Crime"
     },
     {
       "rank": 44,

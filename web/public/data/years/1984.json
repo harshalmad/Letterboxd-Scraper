@@ -172,18 +172,6 @@
     },
     {
       "rank": 15,
-      "title": "Repo Man",
-      "url": "https://letterboxd.com/film/repo-man/",
-      "director": "Alex Cox",
-      "actors": [
-        "Emilio Estevez",
-        "Harry Dean Stanton",
-        "Tracey Walter"
-      ],
-      "genres": "Comedy, Science Fiction"
-    },
-    {
-      "rank": 16,
       "title": "Sixteen Candles",
       "url": "https://letterboxd.com/film/sixteen-candles/",
       "director": "John Hughes",
@@ -193,6 +181,18 @@
         "Haviland Morris"
       ],
       "genres": "Romance, Comedy"
+    },
+    {
+      "rank": 16,
+      "title": "Repo Man",
+      "url": "https://letterboxd.com/film/repo-man/",
+      "director": "Alex Cox",
+      "actors": [
+        "Emilio Estevez",
+        "Harry Dean Stanton",
+        "Tracey Walter"
+      ],
+      "genres": "Comedy, Science Fiction"
     },
     {
       "rank": 17,
@@ -304,18 +304,6 @@
     },
     {
       "rank": 26,
-      "title": "Purple Rain",
-      "url": "https://letterboxd.com/film/purple-rain/",
-      "director": "Albert Magnoli",
-      "actors": [
-        "Prince",
-        "Apollonia Kotero",
-        "Morris Day"
-      ],
-      "genres": "Drama, Romance, Music"
-    },
-    {
-      "rank": 27,
       "title": "Children of the Corn",
       "url": "https://letterboxd.com/film/children-of-the-corn/",
       "director": "Fritz Kiersch",
@@ -325,6 +313,18 @@
         "R.G. Armstrong"
       ],
       "genres": "Thriller, Horror"
+    },
+    {
+      "rank": 27,
+      "title": "Purple Rain",
+      "url": "https://letterboxd.com/film/purple-rain/",
+      "director": "Albert Magnoli",
+      "actors": [
+        "Prince",
+        "Apollonia Kotero",
+        "Morris Day"
+      ],
+      "genres": "Drama, Romance, Music"
     },
     {
       "rank": 28,
@@ -388,6 +388,18 @@
     },
     {
       "rank": 33,
+      "title": "Star Trek III: The Search for Spock",
+      "url": "https://letterboxd.com/film/star-trek-iii-the-search-for-spock/",
+      "director": "Leonard Nimoy",
+      "actors": [
+        "William Shatner",
+        "DeForest Kelley",
+        "James Doohan"
+      ],
+      "genres": "Science Fiction, Action, Thriller, Adventure"
+    },
+    {
+      "rank": 34,
       "title": "Romancing the Stone",
       "url": "https://letterboxd.com/film/romancing-the-stone/",
       "director": "Robert Zemeckis",
@@ -399,7 +411,7 @@
       "genres": "Action, Comedy, Romance, Adventure"
     },
     {
-      "rank": 34,
+      "rank": 35,
       "title": "The Toxic Avenger",
       "url": "https://letterboxd.com/film/the-toxic-avenger/",
       "director": "Lloyd Kaufman, Michael Herz",
@@ -411,7 +423,7 @@
       "genres": "Comedy, Science Fiction, Action, Horror"
     },
     {
-      "rank": 35,
+      "rank": 36,
       "title": "Streetwise",
       "url": "https://letterboxd.com/film/streetwise/",
       "director": "Martin Bell",
@@ -423,7 +435,7 @@
       "genres": "Documentary"
     },
     {
-      "rank": 36,
+      "rank": 37,
       "title": "The Company of Wolves",
       "url": "https://letterboxd.com/film/the-company-of-wolves/",
       "director": "Neil Jordan",
@@ -435,7 +447,7 @@
       "genres": "Horror, Fantasy"
     },
     {
-      "rank": 37,
+      "rank": 38,
       "title": "Supergirl",
       "url": "https://letterboxd.com/film/supergirl/",
       "director": "Jeannot Szwarc",
@@ -447,7 +459,7 @@
       "genres": "Action, Fantasy, Adventure, Science Fiction"
     },
     {
-      "rank": 38,
+      "rank": 39,
       "title": "Love Streams",
       "url": "https://letterboxd.com/film/love-streams/",
       "director": "John Cassavetes",
@@ -457,18 +469,6 @@
         "Diahnne Abbott"
       ],
       "genres": "Drama"
-    },
-    {
-      "rank": 39,
-      "title": "Star Trek III: The Search for Spock",
-      "url": "https://letterboxd.com/film/star-trek-iii-the-search-for-spock/",
-      "director": "Leonard Nimoy",
-      "actors": [
-        "William Shatner",
-        "DeForest Kelley",
-        "James Doohan"
-      ],
-      "genres": "Science Fiction, Action, Thriller, Adventure"
     },
     {
       "rank": 40,
@@ -544,6 +544,18 @@
     },
     {
       "rank": 46,
+      "title": "Shanghai Blues",
+      "url": "https://letterboxd.com/film/shanghai-blues/",
+      "director": "Tsui Hark",
+      "actors": [
+        "Kenny Bee",
+        "Sylvia Chang",
+        "Sally Yip Sin-Man"
+      ],
+      "genres": "Romance, Comedy"
+    },
+    {
+      "rank": 47,
       "title": "The Natural",
       "url": "https://letterboxd.com/film/the-natural/",
       "director": "Barry Levinson",
@@ -555,7 +567,7 @@
       "genres": "Drama"
     },
     {
-      "rank": 47,
+      "rank": 48,
       "title": "The Adventures of Buckaroo Banzai Across the 8th Dimension",
       "url": "https://letterboxd.com/film/the-adventures-of-buckaroo-banzai-across-the-8th-dimension/",
       "director": "W.D. Richter",
@@ -567,7 +579,7 @@
       "genres": "Comedy, Science Fiction, Adventure"
     },
     {
-      "rank": 48,
+      "rank": 49,
       "title": "Another Country",
       "url": "https://letterboxd.com/film/another-country/",
       "director": "Marek Kanievska",
@@ -577,18 +589,6 @@
         "Michael Jenn"
       ],
       "genres": "Drama, Romance"
-    },
-    {
-      "rank": 49,
-      "title": "Shanghai Blues",
-      "url": "https://letterboxd.com/film/shanghai-blues/",
-      "director": "Tsui Hark",
-      "actors": [
-        "Kenny Bee",
-        "Sylvia Chang",
-        "Sally Yip Sin-Man"
-      ],
-      "genres": "Romance, Comedy"
     },
     {
       "rank": 50,

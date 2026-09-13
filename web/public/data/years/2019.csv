@@ -3,13 +3,13 @@ rank,title,director,actors,genres,url
 2,Parasite,Bong Joon Ho,Song Kang-ho; Lee Sun-kyun; Cho Yeo-jeong,"Thriller, Comedy, Drama",https://letterboxd.com/film/parasite-2019/
 3,Ready or Not,"Matt Bettinelli-Olpin, Tyler Gillett",Samara Weaving; Adam Brody; Mark O'Brien,"Horror, Comedy",https://letterboxd.com/film/ready-or-not-2019/
 4,Avengers: Endgame,"Anthony Russo, Joe Russo",Robert Downey Jr.; Chris Evans; Mark Ruffalo,"Science Fiction, Action, Adventure",https://letterboxd.com/film/avengers-endgame/
-5,Knives Out,Rian Johnson,Daniel Craig; Chris Evans; Ana de Armas,"Mystery, Comedy, Crime",https://letterboxd.com/film/knives-out-2019/
-6,Little Women,Greta Gerwig,Saoirse Ronan; Emma Watson; Florence Pugh,"Drama, Romance",https://letterboxd.com/film/little-women-2019/
-7,Midsommar,Ari Aster,Florence Pugh; Jack Reynor; William Jackson Harper,"Mystery, Drama, Horror",https://letterboxd.com/film/midsommar/
+5,Little Women,Greta Gerwig,Saoirse Ronan; Emma Watson; Florence Pugh,"Drama, Romance",https://letterboxd.com/film/little-women-2019/
+6,Midsommar,Ari Aster,Florence Pugh; Jack Reynor; William Jackson Harper,"Mystery, Drama, Horror",https://letterboxd.com/film/midsommar/
+7,Knives Out,Rian Johnson,Daniel Craig; Chris Evans; Ana de Armas,"Mystery, Comedy, Crime",https://letterboxd.com/film/knives-out-2019/
 8,Once Upon a Time... in Hollywood,Quentin Tarantino,Leonardo DiCaprio; Brad Pitt; Margot Robbie,"Thriller, Drama, Comedy",https://letterboxd.com/film/once-upon-a-time-in-hollywood/
 9,Uncut Gems,"Josh Safdie, Benny Safdie",Adam Sandler; LaKeith Stanfield; Julia Fox,"Crime, Thriller, Drama",https://letterboxd.com/film/uncut-gems/
 10,Toy Story 4,Josh Cooley,Tom Hanks; Tim Allen; Annie Potts,"Adventure, Animation, Comedy, Family",https://letterboxd.com/film/toy-story-4/
-11,Us,Jordan Peele,Lupita Nyong'o; Winston Duke; Elisabeth Moss,"Horror, Thriller, Mystery",https://letterboxd.com/film/us-2019/
+11,Us,Jordan Peele,Lupita Nyong'o; Winston Duke; Elisabeth Moss,"Horror, Mystery",https://letterboxd.com/film/us-2019/
 12,Portrait of a Lady on Fire,Céline Sciamma,Noémie Merlant; Adèle Haenel; Luàna Bajrami,"Drama, Romance",https://letterboxd.com/film/portrait-of-a-lady-on-fire/
 13,Joker,Todd Phillips,Joaquin Phoenix; Robert De Niro; Zazie Beetz,"Drama, Thriller, Crime",https://letterboxd.com/film/joker-2019/
 14,Captain Marvel,"Ryan Fleck, Anna Boden",Brie Larson; Samuel L. Jackson; Ben Mendelsohn,"Science Fiction, Action, Adventure",https://letterboxd.com/film/captain-marvel/
@@ -31,21 +31,21 @@ rank,title,director,actors,genres,url
 30,Chernobyl,Johan Renck,Jared Harris; Stellan Skarsgård; Emily Watson,Drama,https://letterboxd.com/film/chernobyl/
 31,Five Feet Apart,Justin Baldoni,Haley Lu Richardson; Cole Sprouse; Moisés Arias,"Romance, Drama",https://letterboxd.com/film/five-feet-apart/
 32,Fractured,Brad Anderson,Sam Worthington; Lily Rabe; Lucy Capri,"Drama, Thriller",https://letterboxd.com/film/fractured-2019/
-33,The Platform,Galder Gaztelu-Urrutia,Ivan Massagué; Antonia San Juan; Zorion Eguileor,"Thriller, Drama, Science Fiction",https://letterboxd.com/film/the-platform/
-34,The Gentlemen,Guy Ritchie,Matthew McConaughey; Charlie Hunnam; Michelle Dockery,"Crime, Action, Comedy",https://letterboxd.com/film/the-gentlemen/
-35,The Irishman,Martin Scorsese,Robert De Niro; Al Pacino; Joe Pesci,"History, Drama, Crime",https://letterboxd.com/film/the-irishman-2019/
-36,John Wick: Chapter 3 – Parabellum,Chad Stahelski,Keanu Reeves; Halle Berry; Ian McShane,"Action, Crime, Thriller",https://letterboxd.com/film/john-wick-chapter-3-parabellum/
-37,Dark Phoenix,Simon Kinberg,Sophie Turner; James McAvoy; Nicholas Hoult,"Science Fiction, Action, Adventure",https://letterboxd.com/film/dark-phoenix/
+33,The Gentlemen,Guy Ritchie,Matthew McConaughey; Charlie Hunnam; Michelle Dockery,"Crime, Action, Comedy",https://letterboxd.com/film/the-gentlemen/
+34,Dark Phoenix,Simon Kinberg,Sophie Turner; James McAvoy; Nicholas Hoult,"Science Fiction, Action, Adventure",https://letterboxd.com/film/dark-phoenix/
+35,The Platform,Galder Gaztelu-Urrutia,Ivan Massagué; Antonia San Juan; Zorion Eguileor,"Thriller, Drama, Science Fiction",https://letterboxd.com/film/the-platform/
+36,The Irishman,Martin Scorsese,Robert De Niro; Al Pacino; Joe Pesci,"History, Drama, Crime",https://letterboxd.com/film/the-irishman-2019/
+37,John Wick: Chapter 3 – Parabellum,Chad Stahelski,Keanu Reeves; Halle Berry; Ian McShane,"Action, Crime, Thriller",https://letterboxd.com/film/john-wick-chapter-3-parabellum/
 38,Murder Mystery,Kyle Newacheck,Adam Sandler; Jennifer Aniston; Luke Evans,"Crime, Comedy, Mystery",https://letterboxd.com/film/murder-mystery/
 39,Zombieland: Double Tap,Ruben Fleischer,Jesse Eisenberg; Woody Harrelson; Emma Stone,"Horror, Comedy",https://letterboxd.com/film/zombieland-double-tap/
 40,Aladdin,Guy Ritchie,Mena Massoud; Will Smith; Naomi Scott,"Fantasy, Romance, Family, Adventure",https://letterboxd.com/film/aladdin-2019/
 41,Jumanji: The Next Level,Jake Kasdan,Dwayne Johnson; Kevin Hart; Jack Black,"Comedy, Adventure, Fantasy",https://letterboxd.com/film/jumanji-the-next-level/
 42,Descendants 3,Kenny Ortega,Dove Cameron; Sofia Carson; Sarah Jeffery,"Family, Adventure, TV Movie, Fantasy",https://letterboxd.com/film/descendants-3/
 43,The Hustle,Chris Addison,Anne Hathaway; Rebel Wilson; Alex Sharp,"Crime, Comedy",https://letterboxd.com/film/the-hustle-2019/
-44,After,Jenny Gage,Josephine Langford; Hero Fiennes Tiffin; Shane Paul McGhie,"Romance, Drama",https://letterboxd.com/film/after-2019/
+44,Ma,Tate Taylor,Octavia Spencer; Juliette Lewis; Diana Silvers,"Horror, Thriller",https://letterboxd.com/film/ma-2019/
 45,Yesterday,Danny Boyle,Himesh Patel; Lily James; Sophia Di Martino,"Comedy, Fantasy, Romance, Music",https://letterboxd.com/film/yesterday-2019/
-46,Ad Astra,James Gray,Brad Pitt; Tommy Lee Jones; Liv Tyler,"Science Fiction, Drama",https://letterboxd.com/film/ad-astra-2019/
-47,Rocketman,Dexter Fletcher,Taron Egerton; Jamie Bell; Richard Madden,"Drama, Music",https://letterboxd.com/film/rocketman-2019/
-48,Better Days,Derek Tsang Kwok-Cheung,Zhou Dongyu; Jackson Yee; Yin Fang,"Romance, Crime, Drama",https://letterboxd.com/film/better-days-2019/
-49,In the Tall Grass,Vincenzo Natali,Laysla De Oliveira; Harrison Gilbertson; Avery Whitted,Horror,https://letterboxd.com/film/in-the-tall-grass-2019/
-50,Ma,Tate Taylor,Octavia Spencer; Juliette Lewis; Diana Silvers,"Horror, Thriller",https://letterboxd.com/film/ma-2019/
+46,After,Jenny Gage,Josephine Langford; Hero Fiennes Tiffin; Shane Paul McGhie,"Romance, Drama",https://letterboxd.com/film/after-2019/
+47,Ad Astra,James Gray,Brad Pitt; Tommy Lee Jones; Liv Tyler,"Science Fiction, Drama",https://letterboxd.com/film/ad-astra-2019/
+48,Rocketman,Dexter Fletcher,Taron Egerton; Jamie Bell; Richard Madden,"Drama, Music",https://letterboxd.com/film/rocketman-2019/
+49,Better Days,Derek Tsang Kwok-Cheung,Zhou Dongyu; Jackson Yee; Yin Fang,"Romance, Crime, Drama",https://letterboxd.com/film/better-days-2019/
+50,In the Tall Grass,Vincenzo Natali,Laysla De Oliveira; Harrison Gilbertson; Avery Whitted,Horror,https://letterboxd.com/film/in-the-tall-grass-2019/

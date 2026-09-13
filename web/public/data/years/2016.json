@@ -28,18 +28,6 @@
     },
     {
       "rank": 3,
-      "title": "Arrival",
-      "url": "https://letterboxd.com/film/arrival-2016/",
-      "director": "Denis Villeneuve",
-      "actors": [
-        "Amy Adams",
-        "Jeremy Renner",
-        "Forest Whitaker"
-      ],
-      "genres": "Mystery, Science Fiction, Drama"
-    },
-    {
-      "rank": 4,
       "title": "Captain America: Civil War",
       "url": "https://letterboxd.com/film/captain-america-civil-war/",
       "director": "Joe Russo, Anthony Russo",
@@ -49,6 +37,18 @@
         "Scarlett Johansson"
       ],
       "genres": "Adventure, Action, Science Fiction"
+    },
+    {
+      "rank": 4,
+      "title": "Arrival",
+      "url": "https://letterboxd.com/film/arrival-2016/",
+      "director": "Denis Villeneuve",
+      "actors": [
+        "Amy Adams",
+        "Jeremy Renner",
+        "Forest Whitaker"
+      ],
+      "genres": "Mystery, Science Fiction, Drama"
     },
     {
       "rank": 5,
@@ -192,7 +192,7 @@
         "Kim Su-an",
         "Jung Yu-mi"
       ],
-      "genres": "Thriller, Horror, Action"
+      "genres": "Thriller, Horror, Action, Adventure"
     },
     {
       "rank": 17,
@@ -256,18 +256,6 @@
     },
     {
       "rank": 22,
-      "title": "The Conjuring 2",
-      "url": "https://letterboxd.com/film/the-conjuring-2/",
-      "director": "James Wan",
-      "actors": [
-        "Vera Farmiga",
-        "Patrick Wilson",
-        "Madison Wolfe"
-      ],
-      "genres": "Horror"
-    },
-    {
-      "rank": 23,
       "title": "X-Men: Apocalypse",
       "url": "https://letterboxd.com/film/x-men-apocalypse/",
       "director": "Bryan Singer",
@@ -279,19 +267,19 @@
       "genres": "Science Fiction, Action, Fantasy"
     },
     {
-      "rank": 24,
-      "title": "Passengers",
-      "url": "https://letterboxd.com/film/passengers-2016/",
-      "director": "Morten Tyldum",
+      "rank": 23,
+      "title": "The Conjuring 2",
+      "url": "https://letterboxd.com/film/the-conjuring-2/",
+      "director": "James Wan",
       "actors": [
-        "Jennifer Lawrence",
-        "Chris Pratt",
-        "Michael Sheen"
+        "Vera Farmiga",
+        "Patrick Wilson",
+        "Madison Wolfe"
       ],
-      "genres": "Drama, Science Fiction, Romance"
+      "genres": "Horror"
     },
     {
-      "rank": 25,
+      "rank": 24,
       "title": "Suicide Squad",
       "url": "https://letterboxd.com/film/suicide-squad-2016/",
       "director": "David Ayer",
@@ -301,6 +289,18 @@
         "Margot Robbie"
       ],
       "genres": "Action, Adventure, Fantasy"
+    },
+    {
+      "rank": 25,
+      "title": "Passengers",
+      "url": "https://letterboxd.com/film/passengers-2016/",
+      "director": "Morten Tyldum",
+      "actors": [
+        "Jennifer Lawrence",
+        "Chris Pratt",
+        "Michael Sheen"
+      ],
+      "genres": "Drama, Science Fiction, Romance"
     },
     {
       "rank": 26,
@@ -340,18 +340,6 @@
     },
     {
       "rank": 29,
-      "title": "Kung Fu Panda 3",
-      "url": "https://letterboxd.com/film/kung-fu-panda-3/",
-      "director": "Jennifer Yuh Nelson, Alessandro Carloni",
-      "actors": [
-        "Jack Black",
-        "Bryan Cranston",
-        "Dustin Hoffman"
-      ],
-      "genres": "Adventure, Comedy, Action, Family, Animation"
-    },
-    {
-      "rank": 30,
       "title": "Terrifier",
       "url": "https://letterboxd.com/film/terrifier-2016/",
       "director": "Damien Leone",
@@ -361,6 +349,18 @@
         "Samantha Scaffidi"
       ],
       "genres": "Horror"
+    },
+    {
+      "rank": 30,
+      "title": "Kung Fu Panda 3",
+      "url": "https://letterboxd.com/film/kung-fu-panda-3/",
+      "director": "Jennifer Yuh Nelson, Alessandro Carloni",
+      "actors": [
+        "Jack Black",
+        "Bryan Cranston",
+        "Dustin Hoffman"
+      ],
+      "genres": "Adventure, Comedy, Action, Family, Animation"
     },
     {
       "rank": 31,
@@ -408,22 +408,10 @@
         "Gian Keys",
         "Laura Waddell"
       ],
-      "genres": "Romance, Horror, Comedy, Fantasy"
+      "genres": "Romance, Horror, Comedy"
     },
     {
       "rank": 35,
-      "title": "Nerve",
-      "url": "https://letterboxd.com/film/nerve-2016/",
-      "director": "Henry Joost, Ariel Schulman",
-      "actors": [
-        "Emma Roberts",
-        "Dave Franco",
-        "Emily Meade"
-      ],
-      "genres": "Mystery, Adventure, Crime"
-    },
-    {
-      "rank": 36,
       "title": "Fantastic Beasts and Where to Find Them",
       "url": "https://letterboxd.com/film/fantastic-beasts-and-where-to-find-them/",
       "director": "David Yates",
@@ -435,7 +423,7 @@
       "genres": "Fantasy, Adventure"
     },
     {
-      "rank": 37,
+      "rank": 36,
       "title": "Batman v Superman: Dawn of Justice",
       "url": "https://letterboxd.com/film/batman-v-superman-dawn-of-justice/",
       "director": "Zack Snyder",
@@ -445,6 +433,18 @@
         "Jesse Eisenberg"
       ],
       "genres": "Action, Fantasy, Adventure"
+    },
+    {
+      "rank": 37,
+      "title": "Nerve",
+      "url": "https://letterboxd.com/film/nerve-2016/",
+      "director": "Henry Joost, Ariel Schulman",
+      "actors": [
+        "Emma Roberts",
+        "Dave Franco",
+        "Emily Meade"
+      ],
+      "genres": "Mystery, Adventure, Crime"
     },
     {
       "rank": 38,
@@ -472,6 +472,18 @@
     },
     {
       "rank": 40,
+      "title": "Trolls",
+      "url": "https://letterboxd.com/film/trolls/",
+      "director": "Mike Mitchell",
+      "actors": [
+        "Anna Kendrick",
+        "Justin Timberlake",
+        "Zooey Deschanel"
+      ],
+      "genres": "Fantasy, Animation, Comedy, Family, Adventure"
+    },
+    {
+      "rank": 41,
       "title": "Sing Street",
       "url": "https://letterboxd.com/film/sing-street/",
       "director": "John Carney",
@@ -483,7 +495,7 @@
       "genres": "Romance, Drama, Music, Comedy"
     },
     {
-      "rank": 41,
+      "rank": 42,
       "title": "Hunt for the Wilderpeople",
       "url": "https://letterboxd.com/film/hunt-for-the-wilderpeople/",
       "director": "Taika Waititi",
@@ -493,18 +505,6 @@
         "Rima Te Wiata"
       ],
       "genres": "Comedy, Drama, Family, Adventure"
-    },
-    {
-      "rank": 42,
-      "title": "Trolls",
-      "url": "https://letterboxd.com/film/trolls/",
-      "director": "Mike Mitchell",
-      "actors": [
-        "Anna Kendrick",
-        "Justin Timberlake",
-        "Zooey Deschanel"
-      ],
-      "genres": "Fantasy, Animation, Comedy, Family, Adventure"
     },
     {
       "rank": 43,
@@ -532,18 +532,6 @@
     },
     {
       "rank": 45,
-      "title": "Sausage Party",
-      "url": "https://letterboxd.com/film/sausage-party/",
-      "director": "Conrad Vernon, Greg Tiernan",
-      "actors": [
-        "Seth Rogen",
-        "Kristen Wiig",
-        "Jonah Hill"
-      ],
-      "genres": "Comedy, Animation, Adventure, Fantasy"
-    },
-    {
-      "rank": 46,
       "title": "Nocturnal Animals",
       "url": "https://letterboxd.com/film/nocturnal-animals/",
       "director": "Tom Ford",
@@ -553,6 +541,18 @@
         "Michael Shannon"
       ],
       "genres": "Drama, Thriller"
+    },
+    {
+      "rank": 46,
+      "title": "Sausage Party",
+      "url": "https://letterboxd.com/film/sausage-party/",
+      "director": "Conrad Vernon, Greg Tiernan",
+      "actors": [
+        "Seth Rogen",
+        "Kristen Wiig",
+        "Jonah Hill"
+      ],
+      "genres": "Comedy, Animation, Adventure, Fantasy"
     },
     {
       "rank": 47,

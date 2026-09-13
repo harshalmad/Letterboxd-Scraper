@@ -14,22 +14,22 @@ rank,title,director,actors,genres,url
 13,Total Recall,Paul Verhoeven,Arnold Schwarzenegger; Rachel Ticotin; Sharon Stone,"Action, Adventure, Science Fiction",https://letterboxd.com/film/total-recall/
 14,Dreams,Akira Kurosawa,Akira Terao; Mitsuko Baisho; Toshie Negishi,"Drama, Fantasy",https://letterboxd.com/film/dreams/
 15,Close-Up,Abbas Kiarostami,Hossain Sabzian; Monoochehr Ahankhah; Mahrokh Ahankhah,"Crime, Drama",https://letterboxd.com/film/close-up/
-16,Awakenings,Penny Marshall,Robert De Niro; Robin Williams; John Heard,Drama,https://letterboxd.com/film/awakenings/
-17,It,Tommy Lee Wallace,Tim Curry; Harry Anderson; Dennis Christopher,"Mystery, Drama, Horror",https://letterboxd.com/film/it-1990/
-18,Rocky V,John G. Avildsen,Sylvester Stallone; Talia Shire; Burt Young,Drama,https://letterboxd.com/film/rocky-v/
-19,Frankenhooker,Frank Henenlotter,James Lorinz; Patty Mullen; Joanne Ritchie,"Comedy, Science Fiction, Horror",https://letterboxd.com/film/frankenhooker/
-20,King of New York,Abel Ferrara,Christopher Walken; David Caruso; Laurence Fishburne,"Thriller, Crime",https://letterboxd.com/film/king-of-new-york/
+16,It,Tommy Lee Wallace,Tim Curry; Harry Anderson; Dennis Christopher,"Mystery, Drama, Horror",https://letterboxd.com/film/it-1990/
+17,Awakenings,Penny Marshall,Robert De Niro; Robin Williams; John Heard,Drama,https://letterboxd.com/film/awakenings/
+18,Rocky V,John G. Avildsen,Sylvester Stallone; Talia Shire; Burt Young,"Action, Drama",https://letterboxd.com/film/rocky-v/
+19,King of New York,Abel Ferrara,Christopher Walken; David Caruso; Laurence Fishburne,"Thriller, Crime",https://letterboxd.com/film/king-of-new-york/
+20,Frankenhooker,Frank Henenlotter,James Lorinz; Patty Mullen; Joanne Ritchie,"Comedy, Science Fiction, Horror",https://letterboxd.com/film/frankenhooker/
 21,Days of Thunder,Tony Scott,Tom Cruise; Robert Duvall; Nicole Kidman,"Drama, Adventure, Action",https://letterboxd.com/film/days-of-thunder/
 22,The Hunt for Red October,John McTiernan,Sean Connery; Alec Baldwin; Scott Glenn,"Thriller, Action",https://letterboxd.com/film/the-hunt-for-red-october/
 23,Tremors,Ron Underwood,Kevin Bacon; Fred Ward; Finn Carter,"Horror, Science Fiction, Comedy",https://letterboxd.com/film/tremors/
 24,Cry-Baby,John Waters,Johnny Depp; Amy Locane; Susan Tyrrell,"Comedy, Romance",https://letterboxd.com/film/cry-baby/
-25,Postcards from the Edge,Mike Nichols,Meryl Streep; Shirley MacLaine; Dennis Quaid,"Comedy, Drama",https://letterboxd.com/film/postcards-from-the-edge/
-26,Days of Being Wild,Wong Kar-Wai,Leslie Cheung; Maggie Cheung; Andy Lau,"Drama, Romance, Crime",https://letterboxd.com/film/ah-fei-jing-juen/
+25,Days of Being Wild,Wong Kar-Wai,Leslie Cheung; Maggie Cheung; Andy Lau,"Drama, Romance, Crime",https://letterboxd.com/film/ah-fei-jing-juen/
+26,Postcards from the Edge,Mike Nichols,Meryl Streep; Shirley MacLaine; Dennis Quaid,"Comedy, Drama",https://letterboxd.com/film/postcards-from-the-edge/
 27,Predator 2,Stephen Hopkins,Danny Glover; Gary Busey; Rubén Blades,"Action, Science Fiction, Thriller",https://letterboxd.com/film/predator-2/
 28,Kindergarten Cop,Ivan Reitman,Arnold Schwarzenegger; Penelope Ann Miller; Pamela Reed,Comedy,https://letterboxd.com/film/kindergarten-cop/
 29,Child's Play 2,John Lafia,Alex Vincent; Brad Dourif; Christine Elise,Horror,https://letterboxd.com/film/childs-play-2/
-30,Dances with Wolves,Kevin Costner,Kevin Costner; Mary McDonnell; Graham Greene,"Western, Drama, Adventure",https://letterboxd.com/film/dances-with-wolves/
-31,Miller's Crossing,Joel Coen,Gabriel Byrne; Marcia Gay Harden; John Turturro,"Drama, Thriller, Crime",https://letterboxd.com/film/millers-crossing/
+30,Miller's Crossing,Joel Coen,Gabriel Byrne; Marcia Gay Harden; John Turturro,"Drama, Thriller, Crime",https://letterboxd.com/film/millers-crossing/
+31,Dances with Wolves,Kevin Costner,Kevin Costner; Mary McDonnell; Graham Greene,"Western, Drama, Adventure",https://letterboxd.com/film/dances-with-wolves/
 32,Teenage Mutant Ninja Turtles,Steve Barron,Brian Tochi; Josh Pais; Corey Feldman,"Comedy, Family, Science Fiction, Action, Adventure",https://letterboxd.com/film/teenage-mutant-ninja-turtles/
 33,Bullet in the Head,John Woo,Tony Leung Chiu-wai; Jacky Cheung Hok-Yau; Waise Lee Chi-Hung,"Crime, War, Thriller, Action",https://letterboxd.com/film/bullet-in-the-head/
 34,Die Hard 2,Renny Harlin,Bruce Willis; Bonnie Bedelia; William Sadler,"Action, Thriller",https://letterboxd.com/film/die-hard-2/
@@ -46,6 +46,6 @@ rank,title,director,actors,genres,url
 45,Presumed Innocent,Alan J. Pakula,Harrison Ford; Brian Dennehy; Raúl Juliá,"Mystery, Thriller, Crime",https://letterboxd.com/film/presumed-innocent/
 46,Metropolitan,Whit Stillman,Edward Clements; Chris Eigeman; Taylor Nichols,"Romance, Comedy, Drama",https://letterboxd.com/film/metropolitan/
 47,State of Grace,Phil Joanou,Sean Penn; Ed Harris; Gary Oldman,"Thriller, Drama, Crime",https://letterboxd.com/film/state-of-grace/
-48,The Match Factory Girl,Aki Kaurismäki,Kati Outinen; Elina Salo; Esko Nikkari,Drama,https://letterboxd.com/film/the-match-factory-girl/
-49,Nikita,Luc Besson,Anne Parillaud; Jean-Hugues Anglade; Tchéky Karyo,"Action, Thriller",https://letterboxd.com/film/nikita/
+48,Nikita,Luc Besson,Anne Parillaud; Jean-Hugues Anglade; Tchéky Karyo,"Action, Thriller",https://letterboxd.com/film/nikita/
+49,The Match Factory Girl,Aki Kaurismäki,Kati Outinen; Elina Salo; Esko Nikkari,Drama,https://letterboxd.com/film/the-match-factory-girl/
 50,Green Card,Peter Weir,Gérard Depardieu; Andie MacDowell; Bebe Neuwirth,"Comedy, Drama, Romance",https://letterboxd.com/film/green-card/

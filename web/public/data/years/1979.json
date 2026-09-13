@@ -48,7 +48,7 @@
         "Talia Shire",
         "Burt Young"
       ],
-      "genres": "Drama"
+      "genres": "Drama, Action"
     },
     {
       "rank": 5,
@@ -160,18 +160,6 @@
     },
     {
       "rank": 14,
-      "title": "Moonraker",
-      "url": "https://letterboxd.com/film/moonraker/",
-      "director": "Lewis Gilbert",
-      "actors": [
-        "Roger Moore",
-        "Lois Chiles",
-        "Michael Lonsdale"
-      ],
-      "genres": "Science Fiction, Thriller, Adventure, Action"
-    },
-    {
-      "rank": 15,
       "title": "The Brood",
       "url": "https://letterboxd.com/film/the-brood/",
       "director": "David Cronenberg",
@@ -181,6 +169,18 @@
         "Art Hindle"
       ],
       "genres": "Science Fiction, Horror"
+    },
+    {
+      "rank": 15,
+      "title": "Moonraker",
+      "url": "https://letterboxd.com/film/moonraker/",
+      "director": "Lewis Gilbert",
+      "actors": [
+        "Roger Moore",
+        "Lois Chiles",
+        "Michael Lonsdale"
+      ],
+      "genres": "Science Fiction, Thriller, Adventure, Action"
     },
     {
       "rank": 16,
@@ -220,18 +220,6 @@
     },
     {
       "rank": 19,
-      "title": "Hair",
-      "url": "https://letterboxd.com/film/hair/",
-      "director": "Miloš Forman",
-      "actors": [
-        "John Savage",
-        "Treat Williams",
-        "Beverly D'Angelo"
-      ],
-      "genres": "Drama, Music, Comedy"
-    },
-    {
-      "rank": 20,
       "title": "Phantasm",
       "url": "https://letterboxd.com/film/phantasm/",
       "director": "Don Coscarelli",
@@ -243,7 +231,31 @@
       "genres": "Science Fiction, Horror"
     },
     {
+      "rank": 20,
+      "title": "Hair",
+      "url": "https://letterboxd.com/film/hair/",
+      "director": "Miloš Forman",
+      "actors": [
+        "John Savage",
+        "Treat Williams",
+        "Beverly D'Angelo"
+      ],
+      "genres": "Drama, Music, Comedy"
+    },
+    {
       "rank": 21,
+      "title": "Star Trek: The Motion Picture",
+      "url": "https://letterboxd.com/film/star-trek-the-motion-picture/",
+      "director": "Robert Wise",
+      "actors": [
+        "William Shatner",
+        "Leonard Nimoy",
+        "DeForest Kelley"
+      ],
+      "genres": "Mystery, Science Fiction, Adventure"
+    },
+    {
+      "rank": 22,
       "title": "Hardcore",
       "url": "https://letterboxd.com/film/hardcore/",
       "director": "Paul Schrader",
@@ -255,7 +267,7 @@
       "genres": "Drama, Crime, Thriller"
     },
     {
-      "rank": 22,
+      "rank": 23,
       "title": "The Jerk",
       "url": "https://letterboxd.com/film/the-jerk/",
       "director": "Carl Reiner",
@@ -265,18 +277,6 @@
         "Catlin Adams"
       ],
       "genres": "Comedy"
-    },
-    {
-      "rank": 23,
-      "title": "Star Trek: The Motion Picture",
-      "url": "https://letterboxd.com/film/star-trek-the-motion-picture/",
-      "director": "Robert Wise",
-      "actors": [
-        "William Shatner",
-        "Leonard Nimoy",
-        "DeForest Kelley"
-      ],
-      "genres": "Mystery, Science Fiction, Adventure"
     },
     {
       "rank": 24,
@@ -304,18 +304,6 @@
     },
     {
       "rank": 26,
-      "title": "Quadrophenia",
-      "url": "https://letterboxd.com/film/quadrophenia/",
-      "director": "Franc Roddam",
-      "actors": [
-        "Phil Daniels",
-        "Leslie Ash",
-        "Phil Davis"
-      ],
-      "genres": "Drama, Music"
-    },
-    {
-      "rank": 27,
       "title": "1941",
       "url": "https://letterboxd.com/film/1941/",
       "director": "Steven Spielberg",
@@ -325,6 +313,18 @@
         "John Belushi"
       ],
       "genres": "Action, War, Comedy"
+    },
+    {
+      "rank": 27,
+      "title": "Quadrophenia",
+      "url": "https://letterboxd.com/film/quadrophenia/",
+      "director": "Franc Roddam",
+      "actors": [
+        "Phil Daniels",
+        "Leslie Ash",
+        "Phil Davis"
+      ],
+      "genres": "Drama, Music"
     },
     {
       "rank": 28,
@@ -360,6 +360,18 @@
     },
     {
       "rank": 31,
+      "title": "The Driller Killer",
+      "url": "https://letterboxd.com/film/the-driller-killer/",
+      "director": "Abel Ferrara",
+      "actors": [
+        "Abel Ferrara",
+        "Carolyn Marz",
+        "Baybi Day"
+      ],
+      "genres": "Horror"
+    },
+    {
+      "rank": 32,
       "title": "Tourist Trap",
       "url": "https://letterboxd.com/film/tourist-trap/",
       "director": "David Schmoeller",
@@ -371,7 +383,7 @@
       "genres": "Fantasy, Horror"
     },
     {
-      "rank": 32,
+      "rank": 33,
       "title": "Salem's Lot",
       "url": "https://letterboxd.com/film/salems-lot/",
       "director": "Tobe Hooper",
@@ -383,7 +395,7 @@
       "genres": "Horror, Mystery"
     },
     {
-      "rank": 33,
+      "rank": 34,
       "title": "The Wizard of Speed and Time",
       "url": "https://letterboxd.com/film/the-wizard-of-speed-and-time-1979/",
       "director": "Mike Jittlov",
@@ -394,7 +406,7 @@
       "genres": "Fantasy, Animation, Music, Comedy"
     },
     {
-      "rank": 34,
+      "rank": 35,
       "title": "Breaking Away",
       "url": "https://letterboxd.com/film/breaking-away/",
       "director": "Peter Yates",
@@ -404,18 +416,6 @@
         "Daniel Stern"
       ],
       "genres": "Comedy, Drama"
-    },
-    {
-      "rank": 35,
-      "title": "The Driller Killer",
-      "url": "https://letterboxd.com/film/the-driller-killer/",
-      "director": "Abel Ferrara",
-      "actors": [
-        "Abel Ferrara",
-        "Carolyn Marz",
-        "Baybi Day"
-      ],
-      "genres": "Horror"
     },
     {
       "rank": 36,
@@ -443,18 +443,6 @@
     },
     {
       "rank": 38,
-      "title": "The Plumber",
-      "url": "https://letterboxd.com/film/the-plumber/",
-      "director": "Peter Weir",
-      "actors": [
-        "Ivar Kants",
-        "Judy Morris",
-        "Robert Coleby"
-      ],
-      "genres": "Thriller, TV Movie, Drama"
-    },
-    {
-      "rank": 39,
       "title": "Scum",
       "url": "https://letterboxd.com/film/scum/",
       "director": "Alan Clarke",
@@ -466,19 +454,19 @@
       "genres": "Crime, Drama"
     },
     {
-      "rank": 40,
-      "title": "Camera Buff",
-      "url": "https://letterboxd.com/film/camera-buff/",
-      "director": "Krzysztof Kieślowski",
+      "rank": 39,
+      "title": "The Plumber",
+      "url": "https://letterboxd.com/film/the-plumber/",
+      "director": "Peter Weir",
       "actors": [
-        "Jerzy Stuhr",
-        "Małgorzata Ząbkowska",
-        "Ewa Pokas"
+        "Ivar Kants",
+        "Judy Morris",
+        "Robert Coleby"
       ],
-      "genres": "Drama"
+      "genres": "Thriller, TV Movie, Drama"
     },
     {
-      "rank": 41,
+      "rank": 40,
       "title": "Rapture",
       "url": "https://letterboxd.com/film/rapture-1979/",
       "director": "Iván Zulueta",
@@ -490,7 +478,7 @@
       "genres": "Horror, Drama, Fantasy"
     },
     {
-      "rank": 42,
+      "rank": 41,
       "title": "When a Stranger Calls",
       "url": "https://letterboxd.com/film/when-a-stranger-calls/",
       "director": "Fred Walton",
@@ -500,6 +488,18 @@
         "Colleen Dewhurst"
       ],
       "genres": "Thriller, Horror"
+    },
+    {
+      "rank": 42,
+      "title": "Camera Buff",
+      "url": "https://letterboxd.com/film/camera-buff/",
+      "director": "Krzysztof Kieślowski",
+      "actors": [
+        "Jerzy Stuhr",
+        "Małgorzata Ząbkowska",
+        "Ewa Pokas"
+      ],
+      "genres": "Drama"
     },
     {
       "rank": 43,
@@ -575,18 +575,6 @@
     },
     {
       "rank": 49,
-      "title": "Rock 'n' Roll High School",
-      "url": "https://letterboxd.com/film/rock-n-roll-high-school/",
-      "director": "Allan Arkush",
-      "actors": [
-        "P. J. Soles",
-        "Vincent Van Patten",
-        "Clint Howard"
-      ],
-      "genres": "Music, Comedy"
-    },
-    {
-      "rank": 50,
       "title": "Wise Blood",
       "url": "https://letterboxd.com/film/wise-blood/",
       "director": "John Huston",
@@ -596,6 +584,18 @@
         "Amy Wright"
       ],
       "genres": "Drama, Comedy"
+    },
+    {
+      "rank": 50,
+      "title": "Rock 'n' Roll High School",
+      "url": "https://letterboxd.com/film/rock-n-roll-high-school/",
+      "director": "Allan Arkush",
+      "actors": [
+        "P. J. Soles",
+        "Vincent Van Patten",
+        "Clint Howard"
+      ],
+      "genres": "Music, Comedy"
     }
   ]
 }

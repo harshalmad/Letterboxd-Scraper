@@ -304,15 +304,15 @@
     },
     {
       "rank": 26,
-      "title": "The Swan Princess",
-      "url": "https://letterboxd.com/film/the-swan-princess/",
-      "director": "Richard Rich",
+      "title": "Reality Bites",
+      "url": "https://letterboxd.com/film/reality-bites/",
+      "director": "Ben Stiller",
       "actors": [
-        "Jack Palance",
-        "Howard McGillin",
-        "Michelle Nicastro"
+        "Winona Ryder",
+        "Ethan Hawke",
+        "Janeane Garofalo"
       ],
-      "genres": "Family, Adventure, Comedy, Fantasy, Animation"
+      "genres": "Romance, Comedy, Drama"
     },
     {
       "rank": 27,
@@ -328,15 +328,15 @@
     },
     {
       "rank": 28,
-      "title": "Reality Bites",
-      "url": "https://letterboxd.com/film/reality-bites/",
-      "director": "Ben Stiller",
+      "title": "The Swan Princess",
+      "url": "https://letterboxd.com/film/the-swan-princess/",
+      "director": "Richard Rich",
       "actors": [
-        "Winona Ryder",
-        "Ethan Hawke",
-        "Janeane Garofalo"
+        "Jack Palance",
+        "Howard McGillin",
+        "Michelle Nicastro"
       ],
-      "genres": "Romance, Comedy, Drama"
+      "genres": "Family, Adventure, Comedy, Fantasy, Animation"
     },
     {
       "rank": 29,
@@ -372,7 +372,7 @@
         "Alain Chabat",
         "Dominique Farrugia"
       ],
-      "genres": "Horror, Comedy"
+      "genres": "Comedy"
     },
     {
       "rank": 32,
@@ -400,18 +400,6 @@
     },
     {
       "rank": 34,
-      "title": "Heavenly Creatures",
-      "url": "https://letterboxd.com/film/heavenly-creatures/",
-      "director": "Peter Jackson",
-      "actors": [
-        "Melanie Lynskey",
-        "Kate Winslet",
-        "Sarah Peirse"
-      ],
-      "genres": "Drama, Fantasy"
-    },
-    {
-      "rank": 35,
       "title": "Dream Lover",
       "url": "https://letterboxd.com/film/dream-lover/",
       "director": "Nicholas Kazan",
@@ -421,6 +409,18 @@
         "Fredric Lehne"
       ],
       "genres": "Drama, Thriller, Mystery"
+    },
+    {
+      "rank": 35,
+      "title": "Heavenly Creatures",
+      "url": "https://letterboxd.com/film/heavenly-creatures/",
+      "director": "Peter Jackson",
+      "actors": [
+        "Melanie Lynskey",
+        "Kate Winslet",
+        "Sarah Peirse"
+      ],
+      "genres": "Drama, Fantasy"
     },
     {
       "rank": 36,
@@ -436,18 +436,6 @@
     },
     {
       "rank": 37,
-      "title": "Satantango",
-      "url": "https://letterboxd.com/film/satantango/",
-      "director": "Béla Tarr",
-      "actors": [
-        "Mihály Víg",
-        "Putyi Horváth",
-        "Székely B. Miklós"
-      ],
-      "genres": "Drama"
-    },
-    {
-      "rank": 38,
       "title": "Shallow Grave",
       "url": "https://letterboxd.com/film/shallow-grave/",
       "director": "Danny Boyle",
@@ -457,6 +445,18 @@
         "Kerry Fox"
       ],
       "genres": "Thriller, Crime"
+    },
+    {
+      "rank": 38,
+      "title": "Satantango",
+      "url": "https://letterboxd.com/film/satantango/",
+      "director": "Béla Tarr",
+      "actors": [
+        "Mihály Víg",
+        "Putyi Horváth",
+        "Székely B. Miklós"
+      ],
+      "genres": "Drama"
     },
     {
       "rank": 39,
@@ -520,18 +520,6 @@
     },
     {
       "rank": 44,
-      "title": "Quiz Show",
-      "url": "https://letterboxd.com/film/quiz-show/",
-      "director": "Robert Redford",
-      "actors": [
-        "John Turturro",
-        "Rob Morrow",
-        "Ralph Fiennes"
-      ],
-      "genres": "Drama, History"
-    },
-    {
-      "rank": 45,
       "title": "Wes Craven's New Nightmare",
       "url": "https://letterboxd.com/film/wes-cravens-new-nightmare/",
       "director": "Wes Craven",
@@ -543,43 +531,19 @@
       "genres": "Fantasy, Mystery, Horror"
     },
     {
+      "rank": 45,
+      "title": "Quiz Show",
+      "url": "https://letterboxd.com/film/quiz-show/",
+      "director": "Robert Redford",
+      "actors": [
+        "John Turturro",
+        "Rob Morrow",
+        "Ralph Fiennes"
+      ],
+      "genres": "Drama, History"
+    },
+    {
       "rank": 46,
-      "title": "Baby's Day Out",
-      "url": "https://letterboxd.com/film/babys-day-out/",
-      "director": "Patrick Read Johnson",
-      "actors": [
-        "Joe Mantegna",
-        "Lara Flynn Boyle",
-        "Joe Pantoliano"
-      ],
-      "genres": "Comedy, Adventure, Family, Crime"
-    },
-    {
-      "rank": 47,
-      "title": "Cemetery Man",
-      "url": "https://letterboxd.com/film/cemetery-man/",
-      "director": "Michele Soavi",
-      "actors": [
-        "Rupert Everett",
-        "François Hadji-Lazaro",
-        "Anna Falchi"
-      ],
-      "genres": "Comedy, Horror"
-    },
-    {
-      "rank": 48,
-      "title": "Hoop Dreams",
-      "url": "https://letterboxd.com/film/hoop-dreams/",
-      "director": "Steve James",
-      "actors": [
-        "William Gates",
-        "Arthur Agee",
-        "Gene Pingatore"
-      ],
-      "genres": "Documentary"
-    },
-    {
-      "rank": 49,
       "title": "The Flintstones",
       "url": "https://letterboxd.com/film/the-flintstones/",
       "director": "Brian Levant",
@@ -591,16 +555,52 @@
       "genres": "Comedy, Fantasy, Family"
     },
     {
-      "rank": 50,
-      "title": "D2: The Mighty Ducks",
-      "url": "https://letterboxd.com/film/d2-the-mighty-ducks/",
-      "director": "Sam Weisman",
+      "rank": 47,
+      "title": "Baby's Day Out",
+      "url": "https://letterboxd.com/film/babys-day-out/",
+      "director": "Patrick Read Johnson",
       "actors": [
-        "Emilio Estevez",
-        "Kathryn Erbe",
-        "Michael Tucker"
+        "Joe Mantegna",
+        "Lara Flynn Boyle",
+        "Joe Pantoliano"
       ],
-      "genres": "Action, Family, Comedy, Drama"
+      "genres": "Comedy, Adventure, Family, Crime"
+    },
+    {
+      "rank": 48,
+      "title": "Cemetery Man",
+      "url": "https://letterboxd.com/film/cemetery-man/",
+      "director": "Michele Soavi",
+      "actors": [
+        "Rupert Everett",
+        "François Hadji-Lazaro",
+        "Anna Falchi"
+      ],
+      "genres": "Comedy, Horror"
+    },
+    {
+      "rank": 49,
+      "title": "Hoop Dreams",
+      "url": "https://letterboxd.com/film/hoop-dreams/",
+      "director": "Steve James",
+      "actors": [
+        "William Gates",
+        "Arthur Agee",
+        "Gene Pingatore"
+      ],
+      "genres": "Documentary"
+    },
+    {
+      "rank": 50,
+      "title": "Clear and Present Danger",
+      "url": "https://letterboxd.com/film/clear-and-present-danger/",
+      "director": "Phillip Noyce",
+      "actors": [
+        "Harrison Ford",
+        "Willem Dafoe",
+        "Joaquim de Almeida"
+      ],
+      "genres": "Action, Drama, Thriller"
     }
   ]
 }

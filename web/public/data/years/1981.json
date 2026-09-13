@@ -108,7 +108,7 @@
         "Russell Todd",
         "John Furey"
       ],
-      "genres": "Thriller, Horror"
+      "genres": "Horror"
     },
     {
       "rank": 10,
@@ -148,18 +148,6 @@
     },
     {
       "rank": 13,
-      "title": "Mad Max 2",
-      "url": "https://letterboxd.com/film/mad-max-2/",
-      "director": "George Miller",
-      "actors": [
-        "Mel Gibson",
-        "Bruce Spence",
-        "Michael Preston"
-      ],
-      "genres": "Thriller, Action, Science Fiction"
-    },
-    {
-      "rank": 14,
       "title": "The Fox and the Hound",
       "url": "https://letterboxd.com/film/the-fox-and-the-hound/",
       "director": "Richard Rich, Art Stevens, Ted Berman",
@@ -169,6 +157,18 @@
         "Pearl Bailey"
       ],
       "genres": "Animation, Adventure, Drama, Family"
+    },
+    {
+      "rank": 14,
+      "title": "Mad Max 2",
+      "url": "https://letterboxd.com/film/mad-max-2/",
+      "director": "George Miller",
+      "actors": [
+        "Mel Gibson",
+        "Bruce Spence",
+        "Michael Preston"
+      ],
+      "genres": "Thriller, Action, Science Fiction"
     },
     {
       "rank": 15,
@@ -196,6 +196,18 @@
     },
     {
       "rank": 17,
+      "title": "Halloween II",
+      "url": "https://letterboxd.com/film/halloween-ii-1981/",
+      "director": "Rick Rosenthal",
+      "actors": [
+        "Jamie Lee Curtis",
+        "Donald Pleasence",
+        "Charles Cyphers"
+      ],
+      "genres": "Thriller, Horror"
+    },
+    {
+      "rank": 18,
       "title": "The Great Muppet Caper",
       "url": "https://letterboxd.com/film/the-great-muppet-caper/",
       "director": "Jim Henson",
@@ -207,7 +219,7 @@
       "genres": "Romance, Family, Mystery, Comedy, Crime"
     },
     {
-      "rank": 18,
+      "rank": 19,
       "title": "For Your Eyes Only",
       "url": "https://letterboxd.com/film/for-your-eyes-only/",
       "director": "John Glen",
@@ -219,7 +231,7 @@
       "genres": "Thriller, Action, Adventure"
     },
     {
-      "rank": 19,
+      "rank": 20,
       "title": "Das Boot",
       "url": "https://letterboxd.com/film/das-boot/",
       "director": "Wolfgang Petersen",
@@ -229,18 +241,6 @@
         "Klaus Wennemann"
       ],
       "genres": "Drama, War, History"
-    },
-    {
-      "rank": 20,
-      "title": "Halloween II",
-      "url": "https://letterboxd.com/film/halloween-ii-1981/",
-      "director": "Rick Rosenthal",
-      "actors": [
-        "Jamie Lee Curtis",
-        "Donald Pleasence",
-        "Charles Cyphers"
-      ],
-      "genres": "Thriller, Horror"
     },
     {
       "rank": 21,
@@ -364,18 +364,6 @@
     },
     {
       "rank": 31,
-      "title": "Mommie Dearest",
-      "url": "https://letterboxd.com/film/mommie-dearest/",
-      "director": "Frank Perry",
-      "actors": [
-        "Faye Dunaway",
-        "Diana Scarwid",
-        "Steve Forrest"
-      ],
-      "genres": "Drama"
-    },
-    {
-      "rank": 32,
       "title": "The Howling",
       "url": "https://letterboxd.com/film/the-howling/",
       "director": "Joe Dante",
@@ -385,6 +373,18 @@
         "Dennis Dugan"
       ],
       "genres": "Horror"
+    },
+    {
+      "rank": 32,
+      "title": "Mommie Dearest",
+      "url": "https://letterboxd.com/film/mommie-dearest/",
+      "director": "Frank Perry",
+      "actors": [
+        "Faye Dunaway",
+        "Diana Scarwid",
+        "Steve Forrest"
+      ],
+      "genres": "Drama"
     },
     {
       "rank": 33,
@@ -508,18 +508,6 @@
     },
     {
       "rank": 43,
-      "title": "The Inquisitor",
-      "url": "https://letterboxd.com/film/the-inquisitor/",
-      "director": "Claude Miller",
-      "actors": [
-        "Lino Ventura",
-        "Michel Serrault",
-        "Romy Schneider"
-      ],
-      "genres": "Crime, Drama, Thriller"
-    },
-    {
-      "rank": 44,
       "title": "The Decline of Western Civilization",
       "url": "https://letterboxd.com/film/the-decline-of-western-civilization/",
       "director": "Penelope Spheeris",
@@ -531,7 +519,7 @@
       "genres": "Documentary, Music"
     },
     {
-      "rank": 45,
+      "rank": 44,
       "title": "The Four Seasons",
       "url": "https://letterboxd.com/film/the-four-seasons/",
       "director": "Alan Alda",
@@ -541,6 +529,18 @@
         "Len Cariou"
       ],
       "genres": "Romance, Drama, Comedy"
+    },
+    {
+      "rank": 45,
+      "title": "The Inquisitor",
+      "url": "https://letterboxd.com/film/the-inquisitor/",
+      "director": "Claude Miller",
+      "actors": [
+        "Lino Ventura",
+        "Michel Serrault",
+        "Romy Schneider"
+      ],
+      "genres": "Crime, Drama, Thriller"
     },
     {
       "rank": 46,
@@ -592,15 +592,15 @@
     },
     {
       "rank": 50,
-      "title": "Nightshift",
-      "url": "https://letterboxd.com/film/nightshift-1981/",
-      "director": "Robina Rose",
+      "title": "The Funhouse",
+      "url": "https://letterboxd.com/film/the-funhouse/",
+      "director": "Tobe Hooper",
       "actors": [
-        "Pamela Rooke",
-        "Anna Rees-Mogg",
-        "Mitch Davies"
+        "Elizabeth Berridge",
+        "Cooper Huckabee",
+        "Kevin Conway"
       ],
-      "genres": "Drama"
+      "genres": "Horror"
     }
   ]
 }

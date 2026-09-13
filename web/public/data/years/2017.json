@@ -472,18 +472,6 @@
     },
     {
       "rank": 40,
-      "title": "Hot Summer Nights",
-      "url": "https://letterboxd.com/film/hot-summer-nights/",
-      "director": "Elijah Bynum",
-      "actors": [
-        "Timothée Chalamet",
-        "Maika Monroe",
-        "Alex Roe"
-      ],
-      "genres": "Drama, Crime"
-    },
-    {
-      "rank": 41,
       "title": "Happy Death Day",
       "url": "https://letterboxd.com/film/happy-death-day/",
       "director": "Christopher Landon",
@@ -493,6 +481,18 @@
         "Charles Aitken"
       ],
       "genres": "Horror, Mystery, Comedy"
+    },
+    {
+      "rank": 41,
+      "title": "Hot Summer Nights",
+      "url": "https://letterboxd.com/film/hot-summer-nights/",
+      "director": "Elijah Bynum",
+      "actors": [
+        "Timothée Chalamet",
+        "Maika Monroe",
+        "Alex Roe"
+      ],
+      "genres": "Drama, Crime"
     },
     {
       "rank": 42,

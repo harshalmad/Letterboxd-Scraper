@@ -15,13 +15,13 @@ rank,title,director,actors,genres,url
 14,Bound,"Lana Wachowski, Lilly Wachowski",Gina Gershon; Jennifer Tilly; Joe Pantoliano,"Crime, Thriller, Drama",https://letterboxd.com/film/bound/
 15,Mission: Impossible,Brian De Palma,Tom Cruise; Jon Voight; Emmanuelle Béart,"Thriller, Action, Adventure",https://letterboxd.com/film/mission-impossible/
 16,Fear,James Foley,Mark Wahlberg; Reese Witherspoon; William L. Petersen,"Horror, Thriller",https://letterboxd.com/film/fear-1996/
-17,From Dusk Till Dawn,Robert Rodriguez,George Clooney; Quentin Tarantino; Harvey Keitel,"Horror, Crime, Action",https://letterboxd.com/film/from-dusk-till-dawn/
-18,Thesis,Alejandro Amenábar,Ana Torrent; Fele Martínez; Eduardo Noriega,"Thriller, Horror",https://letterboxd.com/film/thesis/
+17,Thesis,Alejandro Amenábar,Ana Torrent; Fele Martínez; Eduardo Noriega,"Thriller, Horror",https://letterboxd.com/film/thesis/
+18,From Dusk Till Dawn,Robert Rodriguez,George Clooney; Quentin Tarantino; Harvey Keitel,"Horror, Crime, Action",https://letterboxd.com/film/from-dusk-till-dawn/
 19,The Hunchback of Notre Dame,"Gary Trousdale, Kirk Wise",Tom Hulce; Demi Moore; Kevin Kline,"Drama, Family, Animation",https://letterboxd.com/film/the-hunchback-of-notre-dame-1996/
-20,Happy Gilmore,Dennis Dugan,Adam Sandler; Christopher McDonald; Julie Bowen,Comedy,https://letterboxd.com/film/happy-gilmore/
+20,Happy Gilmore,Dennis Dugan,Adam Sandler; Julie Bowen; Christopher McDonald,Comedy,https://letterboxd.com/film/happy-gilmore/
 21,The Watermelon Woman,Cheryl Dunye,Cheryl Dunye; Guinevere Turner; Valarie Walker,"Comedy, Drama, Romance",https://letterboxd.com/film/the-watermelon-woman/
-22,Waiting for Guffman,Christopher Guest,Christopher Guest; Eugene Levy; Fred Willard,"Music, Comedy",https://letterboxd.com/film/waiting-for-guffman/
-23,Pusher,Nicolas Winding Refn,Kim Bodnia; Mads Mikkelsen; Laura Drasbæk,"Action, Crime, Drama",https://letterboxd.com/film/pusher/
+22,Pusher,Nicolas Winding Refn,Kim Bodnia; Mads Mikkelsen; Laura Drasbæk,"Action, Crime, Drama",https://letterboxd.com/film/pusher/
+23,Waiting for Guffman,Christopher Guest,Christopher Guest; Eugene Levy; Fred Willard,"Music, Comedy",https://letterboxd.com/film/waiting-for-guffman/
 24,Mars Attacks!,Tim Burton,Jack Nicholson; Glenn Close; Annette Bening,"Fantasy, Science Fiction, Comedy",https://letterboxd.com/film/mars-attacks/
 25,Space Jam,Joe Pytka,Michael Jordan; Wayne Knight; Theresa Randle,"Family, Fantasy, Comedy, Animation, Science Fiction",https://letterboxd.com/film/space-jam/
 26,Muppet Treasure Island,Brian Henson,Tim Curry; Kevin Bishop; Billy Connolly,"Family, Comedy, Adventure, Romance",https://letterboxd.com/film/muppet-treasure-island/
@@ -35,17 +35,17 @@ rank,title,director,actors,genres,url
 34,The Cable Guy,Ben Stiller,Jim Carrey; Matthew Broderick; Leslie Mann,"Thriller, Comedy, Drama",https://letterboxd.com/film/the-cable-guy/
 35,The Daytrippers,Greg Mottola,Hope Davis; Pat McNamara; Anne Meara,"Comedy, Drama",https://letterboxd.com/film/the-daytrippers/
 36,Don't Be a Menace to South Central While Drinking Your Juice in the Hood,Paris Barclay,Shawn Wayans; Marlon Wayans; Tracey Cherelle Jones,Comedy,https://letterboxd.com/film/dont-be-a-menace-to-south-central-while-drinking-your-juice-in-the-hood/
-37,Breaking the Waves,Lars von Trier,Emily Watson; Stellan Skarsgård; Katrin Cartlidge,"Drama, Romance",https://letterboxd.com/film/breaking-the-waves/
-38,James and the Giant Peach,Henry Selick,Paul Terry; Miriam Margolyes; Joanna Lumley,"Adventure, Fantasy, Family, Animation",https://letterboxd.com/film/james-and-the-giant-peach/
+37,James and the Giant Peach,Henry Selick,Paul Terry; Miriam Margolyes; Joanna Lumley,"Adventure, Fantasy, Family, Animation",https://letterboxd.com/film/james-and-the-giant-peach/
+38,Breaking the Waves,Lars von Trier,Emily Watson; Stellan Skarsgård; Katrin Cartlidge,"Drama, Romance",https://letterboxd.com/film/breaking-the-waves/
 39,Swingers,Doug Liman,Jon Favreau; Vince Vaughn; Ron Livingston,"Drama, Comedy",https://letterboxd.com/film/swingers/
-40,101 Dalmatians,Stephen Herek,Glenn Close; Jeff Daniels; Joely Richardson,"Family, Comedy",https://letterboxd.com/film/101-dalmatians/
-41,Secrets & Lies,Mike Leigh,Brenda Blethyn; Marianne Jean-Baptiste; Timothy Spall,Drama,https://letterboxd.com/film/secrets-lies/
-42,Picnic,Shunji Iwai,Chara; Tadanobu Asano; Koichi Hashizume,"Drama, Adventure",https://letterboxd.com/film/picnic-1996/
-43,The English Patient,Anthony Minghella,Ralph Fiennes; Juliette Binoche; Willem Dafoe,"Drama, Romance, War",https://letterboxd.com/film/the-english-patient/
-44,She's the One,Edward Burns,Jennifer Aniston; Maxine Bahns; Edward Burns,"Romance, Comedy",https://letterboxd.com/film/shes-the-one/
-45,Irma Vep,Olivier Assayas,Maggie Cheung; Jean-Pierre Léaud; Nathalie Richard,"Drama, Comedy",https://letterboxd.com/film/irma-vep/
-46,The People vs. Larry Flynt,Miloš Forman,Woody Harrelson; Courtney Love; Edward Norton,Drama,https://letterboxd.com/film/the-people-vs-larry-flynt/
-47,The Nutty Professor,Tom Shadyac,Eddie Murphy; Jada Pinkett Smith; James Coburn,"Comedy, Science Fiction, Romance",https://letterboxd.com/film/the-nutty-professor-1996/
+40,Secrets & Lies,Mike Leigh,Brenda Blethyn; Marianne Jean-Baptiste; Timothy Spall,Drama,https://letterboxd.com/film/secrets-lies/
+41,101 Dalmatians,Stephen Herek,Glenn Close; Jeff Daniels; Joely Richardson,"Family, Comedy",https://letterboxd.com/film/101-dalmatians/
+42,She's the One,Edward Burns,Jennifer Aniston; Maxine Bahns; Edward Burns,"Romance, Comedy",https://letterboxd.com/film/shes-the-one/
+43,Picnic,Shunji Iwai,Chara; Tadanobu Asano; Koichi Hashizume,"Drama, Adventure",https://letterboxd.com/film/picnic-1996/
+44,The English Patient,Anthony Minghella,Ralph Fiennes; Juliette Binoche; Willem Dafoe,"Drama, Romance, War",https://letterboxd.com/film/the-english-patient/
+45,The Nutty Professor,Tom Shadyac,Eddie Murphy; Jada Pinkett Smith; James Coburn,"Comedy, Science Fiction, Romance",https://letterboxd.com/film/the-nutty-professor-1996/
+46,Irma Vep,Olivier Assayas,Maggie Cheung; Jean-Pierre Léaud; Nathalie Richard,"Drama, Comedy",https://letterboxd.com/film/irma-vep/
+47,The People vs. Larry Flynt,Miloš Forman,Woody Harrelson; Courtney Love; Edward Norton,Drama,https://letterboxd.com/film/the-people-vs-larry-flynt/
 48,The Mirror Has Two Faces,Barbra Streisand,Barbra Streisand; Jeff Bridges; Pierce Brosnan,"Romance, Comedy, Drama",https://letterboxd.com/film/the-mirror-has-two-faces/
-49,That Thing You Do!,Tom Hanks,Tom Hanks; Tom Everett Scott; Liv Tyler,"Music, Drama, Comedy",https://letterboxd.com/film/that-thing-you-do/
-50,The Fan,Tony Scott,Robert De Niro; Wesley Snipes; Ellen Barkin,"Thriller, Action, Drama",https://letterboxd.com/film/the-fan/
+49,The Fan,Tony Scott,Robert De Niro; Wesley Snipes; Ellen Barkin,"Thriller, Action, Drama",https://letterboxd.com/film/the-fan/
+50,That Thing You Do!,Tom Hanks,Tom Hanks; Tom Everett Scott; Liv Tyler,"Music, Drama, Comedy",https://letterboxd.com/film/that-thing-you-do/

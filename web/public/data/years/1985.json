@@ -76,18 +76,6 @@
     },
     {
       "rank": 7,
-      "title": "To Live and Die in L.A.",
-      "url": "https://letterboxd.com/film/to-live-and-die-in-la/",
-      "director": "William Friedkin",
-      "actors": [
-        "William L. Petersen",
-        "Willem Dafoe",
-        "John Pankow"
-      ],
-      "genres": "Action, Crime, Thriller"
-    },
-    {
-      "rank": 8,
       "title": "The Goonies",
       "url": "https://letterboxd.com/film/the-goonies/",
       "director": "Richard Donner",
@@ -97,6 +85,18 @@
         "Jeff Cohen"
       ],
       "genres": "Adventure, Family, Comedy"
+    },
+    {
+      "rank": 8,
+      "title": "To Live and Die in L.A.",
+      "url": "https://letterboxd.com/film/to-live-and-die-in-la/",
+      "director": "William Friedkin",
+      "actors": [
+        "William L. Petersen",
+        "Willem Dafoe",
+        "John Pankow"
+      ],
+      "genres": "Action, Crime, Thriller"
     },
     {
       "rank": 9,
@@ -120,7 +120,7 @@
         "Dolph Lundgren",
         "Carl Weathers"
       ],
-      "genres": "Drama"
+      "genres": "Action, Drama"
     },
     {
       "rank": 11,
@@ -196,18 +196,6 @@
     },
     {
       "rank": 17,
-      "title": "Desert Hearts",
-      "url": "https://letterboxd.com/film/desert-hearts/",
-      "director": "Donna Deitch",
-      "actors": [
-        "Helen Shaver",
-        "Patricia Charbonneau",
-        "Audra Lindley"
-      ],
-      "genres": "Drama, Romance"
-    },
-    {
-      "rank": 18,
       "title": "Re-Animator",
       "url": "https://letterboxd.com/film/re-animator/",
       "director": "Stuart Gordon",
@@ -217,6 +205,18 @@
         "Barbara Crampton"
       ],
       "genres": "Comedy, Horror, Science Fiction"
+    },
+    {
+      "rank": 18,
+      "title": "Desert Hearts",
+      "url": "https://letterboxd.com/film/desert-hearts/",
+      "director": "Donna Deitch",
+      "actors": [
+        "Helen Shaver",
+        "Patricia Charbonneau",
+        "Audra Lindley"
+      ],
+      "genres": "Drama, Romance"
     },
     {
       "rank": 19,
@@ -232,18 +232,6 @@
     },
     {
       "rank": 20,
-      "title": "Vagabond",
-      "url": "https://letterboxd.com/film/vagabond/",
-      "director": "Agnès Varda",
-      "actors": [
-        "Sandrine Bonnaire",
-        "Macha Méril",
-        "Yolande Moreau"
-      ],
-      "genres": "Drama"
-    },
-    {
-      "rank": 21,
       "title": "Legend",
       "url": "https://letterboxd.com/film/legend/",
       "director": "Ridley Scott",
@@ -255,7 +243,31 @@
       "genres": "Adventure, Fantasy"
     },
     {
+      "rank": 21,
+      "title": "Vagabond",
+      "url": "https://letterboxd.com/film/vagabond/",
+      "director": "Agnès Varda",
+      "actors": [
+        "Sandrine Bonnaire",
+        "Macha Méril",
+        "Yolande Moreau"
+      ],
+      "genres": "Drama"
+    },
+    {
       "rank": 22,
+      "title": "A Nightmare on Elm Street Part 2: Freddy's Revenge",
+      "url": "https://letterboxd.com/film/a-nightmare-on-elm-street-part-2-freddys-revenge/",
+      "director": "Jack Sholder",
+      "actors": [
+        "Mark Patton",
+        "Kim Myers",
+        "Robert Rusler"
+      ],
+      "genres": "Horror"
+    },
+    {
+      "rank": 23,
       "title": "Pee-wee's Big Adventure",
       "url": "https://letterboxd.com/film/pee-wees-big-adventure/",
       "director": "Tim Burton",
@@ -265,18 +277,6 @@
         "Mark Holton"
       ],
       "genres": "Adventure, Family, Comedy"
-    },
-    {
-      "rank": 23,
-      "title": "A Nightmare on Elm Street Part 2: Freddy's Revenge",
-      "url": "https://letterboxd.com/film/a-nightmare-on-elm-street-part-2-freddys-revenge/",
-      "director": "Jack Sholder",
-      "actors": [
-        "Mark Patton",
-        "Robert Englund",
-        "Kim Myers"
-      ],
-      "genres": "Horror"
     },
     {
       "rank": 24,
@@ -292,18 +292,6 @@
     },
     {
       "rank": 25,
-      "title": "The Color Purple",
-      "url": "https://letterboxd.com/film/the-color-purple/",
-      "director": "Steven Spielberg",
-      "actors": [
-        "Danny Glover",
-        "Whoopi Goldberg",
-        "Margaret Avery"
-      ],
-      "genres": "History, Drama"
-    },
-    {
-      "rank": 26,
       "title": "Friday the 13th: A New Beginning",
       "url": "https://letterboxd.com/film/friday-the-13th-a-new-beginning/",
       "director": "Danny Steinmann",
@@ -315,7 +303,7 @@
       "genres": "Thriller, Horror"
     },
     {
-      "rank": 27,
+      "rank": 26,
       "title": "Rambo: First Blood Part II",
       "url": "https://letterboxd.com/film/rambo-first-blood-part-ii/",
       "director": "George P. Cosmatos",
@@ -327,31 +315,19 @@
       "genres": "Adventure, Action, War, Thriller"
     },
     {
+      "rank": 27,
+      "title": "The Color Purple",
+      "url": "https://letterboxd.com/film/the-color-purple/",
+      "director": "Steven Spielberg",
+      "actors": [
+        "Danny Glover",
+        "Whoopi Goldberg",
+        "Margaret Avery"
+      ],
+      "genres": "History, Drama"
+    },
+    {
       "rank": 28,
-      "title": "Lost in America",
-      "url": "https://letterboxd.com/film/lost-in-america/",
-      "director": "Albert Brooks",
-      "actors": [
-        "Albert Brooks",
-        "Julie Hagerty",
-        "Michael Greene"
-      ],
-      "genres": "Comedy"
-    },
-    {
-      "rank": 29,
-      "title": "A View to a Kill",
-      "url": "https://letterboxd.com/film/a-view-to-a-kill/",
-      "director": "John Glen",
-      "actors": [
-        "Roger Moore",
-        "Tanya Roberts",
-        "Christopher Walken"
-      ],
-      "genres": "Action, Adventure, Thriller"
-    },
-    {
-      "rank": 30,
       "title": "Fright Night",
       "url": "https://letterboxd.com/film/fright-night/",
       "director": "Tom Holland",
@@ -363,7 +339,7 @@
       "genres": "Comedy, Horror"
     },
     {
-      "rank": 31,
+      "rank": 29,
       "title": "Phenomena",
       "url": "https://letterboxd.com/film/phenomena/",
       "director": "Dario Argento",
@@ -375,7 +351,7 @@
       "genres": "Horror, Thriller"
     },
     {
-      "rank": 32,
+      "rank": 30,
       "title": "Desperately Seeking Susan",
       "url": "https://letterboxd.com/film/desperately-seeking-susan/",
       "director": "Susan Seidelman",
@@ -385,6 +361,30 @@
         "Aidan Quinn"
       ],
       "genres": "Crime, Comedy"
+    },
+    {
+      "rank": 31,
+      "title": "A View to a Kill",
+      "url": "https://letterboxd.com/film/a-view-to-a-kill/",
+      "director": "John Glen",
+      "actors": [
+        "Roger Moore",
+        "Tanya Roberts",
+        "Christopher Walken"
+      ],
+      "genres": "Action, Adventure, Thriller"
+    },
+    {
+      "rank": 32,
+      "title": "Lost in America",
+      "url": "https://letterboxd.com/film/lost-in-america/",
+      "director": "Albert Brooks",
+      "actors": [
+        "Albert Brooks",
+        "Julie Hagerty",
+        "Michael Greene"
+      ],
+      "genres": "Comedy"
     },
     {
       "rank": 33,
@@ -484,15 +484,15 @@
     },
     {
       "rank": 41,
-      "title": "Waiting for the Hearse",
-      "url": "https://letterboxd.com/film/waiting-for-the-hearse/",
-      "director": "Alejandro Doria",
+      "title": "Weird Science",
+      "url": "https://letterboxd.com/film/weird-science/",
+      "director": "John Hughes",
       "actors": [
-        "Luis Brandoni",
-        "China Zorrilla",
-        "Antonio Gasalla"
+        "Anthony Michael Hall",
+        "Ilan Mitchell-Smith",
+        "Kelly LeBrock"
       ],
-      "genres": "Comedy"
+      "genres": "Romance, Fantasy, Comedy, Science Fiction"
     },
     {
       "rank": 42,
@@ -508,15 +508,15 @@
     },
     {
       "rank": 43,
-      "title": "Weird Science",
-      "url": "https://letterboxd.com/film/weird-science/",
-      "director": "John Hughes",
+      "title": "Waiting for the Hearse",
+      "url": "https://letterboxd.com/film/waiting-for-the-hearse/",
+      "director": "Alejandro Doria",
       "actors": [
-        "Anthony Michael Hall",
-        "Ilan Mitchell-Smith",
-        "Kelly LeBrock"
+        "Luis Brandoni",
+        "China Zorrilla",
+        "Antonio Gasalla"
       ],
-      "genres": "Romance, Fantasy, Comedy, Science Fiction"
+      "genres": "Comedy"
     },
     {
       "rank": 44,
@@ -568,18 +568,6 @@
     },
     {
       "rank": 48,
-      "title": "Kiss of the Spider Woman",
-      "url": "https://letterboxd.com/film/kiss-of-the-spider-woman/",
-      "director": "Héctor Babenco",
-      "actors": [
-        "William Hurt",
-        "Raúl Juliá",
-        "Sonia Braga"
-      ],
-      "genres": "Drama"
-    },
-    {
-      "rank": 49,
       "title": "Lifeforce",
       "url": "https://letterboxd.com/film/lifeforce/",
       "director": "Tobe Hooper",
@@ -589,6 +577,18 @@
         "Frank Finlay"
       ],
       "genres": "Action, Science Fiction, Horror, Mystery"
+    },
+    {
+      "rank": 49,
+      "title": "Kiss of the Spider Woman",
+      "url": "https://letterboxd.com/film/kiss-of-the-spider-woman/",
+      "director": "Héctor Babenco",
+      "actors": [
+        "William Hurt",
+        "Raúl Juliá",
+        "Sonia Braga"
+      ],
+      "genres": "Drama"
     },
     {
       "rank": 50,

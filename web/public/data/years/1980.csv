@@ -4,13 +4,13 @@ rank,title,director,actors,genres,url
 3,Raging Bull,Martin Scorsese,Robert De Niro; Cathy Moriarty; Joe Pesci,"History, Drama",https://letterboxd.com/film/raging-bull/
 4,The Elephant Man,David Lynch,Anthony Hopkins; John Hurt; Anne Bancroft,"History, Drama",https://letterboxd.com/film/the-elephant-man/
 5,Airplane!,"Jerry Zucker, David Zucker, Jim Abrahams",Robert Hays; Julie Hagerty; Leslie Nielsen,Comedy,https://letterboxd.com/film/airplane/
-6,Friday the 13th,Sean S. Cunningham,Adrienne King; Betsy Palmer; Kevin Bacon,Horror,https://letterboxd.com/film/friday-the-13th/
-7,Nine to Five,Colin Higgins,Jane Fonda; Lily Tomlin; Dolly Parton,Comedy,https://letterboxd.com/film/nine-to-five/
+6,Nine to Five,Colin Higgins,Jane Fonda; Lily Tomlin; Dolly Parton,Comedy,https://letterboxd.com/film/nine-to-five/
+7,Friday the 13th,Sean S. Cunningham,Adrienne King; Betsy Palmer; Kevin Bacon,Horror,https://letterboxd.com/film/friday-the-13th/
 8,The Blues Brothers,John Landis,John Belushi; Dan Aykroyd; James Brown,"Music, Comedy, Crime",https://letterboxd.com/film/the-blues-brothers/
 9,Cruising,William Friedkin,Al Pacino; Paul Sorvino; Karen Allen,"Thriller, Crime, Mystery",https://letterboxd.com/film/cruising/
 10,Dressed to Kill,Brian De Palma,Nancy Allen; Michael Caine; Angie Dickinson,"Horror, Mystery, Thriller",https://letterboxd.com/film/dressed-to-kill-1980/
-11,Altered States,Ken Russell,William Hurt; Blair Brown; Bob Balaban,"Thriller, Horror, Science Fiction",https://letterboxd.com/film/altered-states/
-12,The Fog,John Carpenter,Adrienne Barbeau; Tom Atkins; Jamie Lee Curtis,Horror,https://letterboxd.com/film/the-fog/
+11,The Fog,John Carpenter,Adrienne Barbeau; Tom Atkins; Jamie Lee Curtis,Horror,https://letterboxd.com/film/the-fog/
+12,Altered States,Ken Russell,William Hurt; Blair Brown; Bob Balaban,"Thriller, Horror, Science Fiction",https://letterboxd.com/film/altered-states/
 13,The Party,Claude Pinoteau,Claude Brasseur; Brigitte Fossey; Sophie Marceau,"Drama, Comedy, Romance",https://letterboxd.com/film/the-party-1980/
 14,Pixote,Héctor Babenco,Fernando Ramos da Silva; Jorge Julião; Gilberto Moura,"Drama, Crime",https://letterboxd.com/film/pixote/
 15,Cannibal Holocaust,Ruggero Deodato,Robert Kerman; Francesca Ciardi; Perry Pirkanen,Horror,https://letterboxd.com/film/cannibal-holocaust/
@@ -25,9 +25,9 @@ rank,title,director,actors,genres,url
 24,Kagemusha,Akira Kurosawa,Tatsuya Nakadai; Tsutomu Yamazaki; Kenichi Hagiwara,"Action, Drama, War, History",https://letterboxd.com/film/kagemusha/
 25,The Changeling,Peter Medak,George C. Scott; Trish Van Devere; Melvyn Douglas,Horror,https://letterboxd.com/film/the-changeling/
 26,American Gigolo,Paul Schrader,Richard Gere; Lauren Hutton; Héctor Elizondo,"Mystery, Crime, Drama",https://letterboxd.com/film/american-gigolo/
-27,Flash Gordon,Mike Hodges,Sam J. Jones; Melody Anderson; Max von Sydow,"Action, Adventure, Science Fiction",https://letterboxd.com/film/flash-gordon-1980/
-28,Night of the Juggler,Robert Butler,James Brolin; Cliff Gorman; Richard S. Castellano,"Action, Crime, Thriller",https://letterboxd.com/film/night-of-the-juggler/
-29,Prom Night,Paul Lynch,Leslie Nielsen; Jamie Lee Curtis; Casey Stevens,"Mystery, Horror",https://letterboxd.com/film/prom-night/
+27,Flash Gordon,Mike Hodges,Sam J. Jones; Melody Anderson; Max von Sydow,"Family, Action, Adventure, Science Fiction",https://letterboxd.com/film/flash-gordon-1980/
+28,Prom Night,Paul Lynch,Leslie Nielsen; Jamie Lee Curtis; Casey Stevens,"Mystery, Horror",https://letterboxd.com/film/prom-night/
+29,Night of the Juggler,Robert Butler,James Brolin; Cliff Gorman; Richard S. Castellano,"Action, Crime, Thriller",https://letterboxd.com/film/night-of-the-juggler/
 30,"Pepi, Luci, Bom",Pedro Almodóvar,Carmen Maura; Eva Siva; Alaska,"Drama, Comedy",https://letterboxd.com/film/pepi-luci-bom/
 31,The King and the Mockingbird,Paul Grimault,Jean Martin; Renaud Marx; Agnès Viala,"Fantasy, Animation, Family",https://letterboxd.com/film/the-king-and-the-mockingbird/
 32,Somewhere in Time,Jeannot Szwarc,Christopher Reeve; Jane Seymour; Christopher Plummer,"Drama, Romance, Fantasy",https://letterboxd.com/film/somewhere-in-time/
@@ -40,8 +40,8 @@ rank,title,director,actors,genres,url
 39,Bye Bye Brazil,Carlos Diegues,José Wilker; Betty Faria; Fábio Júnior,Drama,https://letterboxd.com/film/bye-bye-brazil/
 40,Heaven's Gate,Michael Cimino,Kris Kristofferson; Christopher Walken; John Hurt,"Drama, Western, History",https://letterboxd.com/film/heavens-gate/
 41,Gloria,John Cassavetes,Gena Rowlands; Buck Henry; Julie Carmen,"Thriller, Drama, Crime",https://letterboxd.com/film/gloria/
-42,Permanent Vacation,Jim Jarmusch,Chris Parker; Leila Gastil; John Lurie,"Comedy, Drama",https://letterboxd.com/film/permanent-vacation/
-43,Bubble Bath,György Kovásznai,Albert Antalffy; Katalin Bontovics; Katalin Dobos,"Drama, Comedy, Animation, Music",https://letterboxd.com/film/bubble-bath/
+42,Bubble Bath,György Kovásznai,Albert Antalffy; Katalin Bontovics; Katalin Dobos,"Drama, Comedy, Animation, Music",https://letterboxd.com/film/bubble-bath/
+43,Permanent Vacation,Jim Jarmusch,Chris Parker; Leila Gastil; John Lurie,"Comedy, Drama",https://letterboxd.com/film/permanent-vacation/
 44,The Gods Must Be Crazy,Jamie Uys,Marius Weyers; Sandra Prinsloo; N!xau,"Action, Comedy",https://letterboxd.com/film/the-gods-must-be-crazy/
 45,Moscow Does Not Believe in Tears,Vladimir Menshov,Vera Alentova; Aleksey Batalov; Irina Muravyova,"Romance, Comedy, Drama",https://letterboxd.com/film/moscow-does-not-believe-in-tears/
 46,The Stunt Man,Richard Rush,Peter O'Toole; Steve Railsback; Barbara Hershey,"Action, Thriller, Romance, Comedy, Drama",https://letterboxd.com/film/the-stunt-man/

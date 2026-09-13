@@ -1,7 +1,7 @@
 rank,title,director,actors,genres,url
 1,The Truman Show,Peter Weir,Jim Carrey; Laura Linney; Noah Emmerich,"Comedy, Drama",https://letterboxd.com/film/the-truman-show/
-2,The Big Lebowski,Joel Coen,Jeff Bridges; John Goodman; Julianne Moore,"Comedy, Crime",https://letterboxd.com/film/the-big-lebowski/
-3,Practical Magic,Griffin Dunne,Sandra Bullock; Nicole Kidman; Stockard Channing,"Fantasy, Comedy, Romance",https://letterboxd.com/film/practical-magic/
+2,Practical Magic,Griffin Dunne,Sandra Bullock; Nicole Kidman; Stockard Channing,"Fantasy, Comedy, Romance",https://letterboxd.com/film/practical-magic/
+3,The Big Lebowski,Joel Coen,Jeff Bridges; John Goodman; Julianne Moore,"Comedy, Crime",https://letterboxd.com/film/the-big-lebowski/
 4,The Parent Trap,Nancy Meyers,Lindsay Lohan; Dennis Quaid; Natasha Richardson,"Family, Romance, Comedy",https://letterboxd.com/film/the-parent-trap-1998/
 5,Mulan,"Tony Bancroft, Barry Cook",Ming-Na Wen; Eddie Murphy; BD Wong,"Family, Animation, Adventure",https://letterboxd.com/film/mulan/
 6,Saving Private Ryan,Steven Spielberg,Tom Hanks; Tom Sizemore; Edward Burns,"History, Drama, War",https://letterboxd.com/film/saving-private-ryan/
@@ -36,16 +36,16 @@ rank,title,director,actors,genres,url
 35,The Thin Red Line,Terrence Malick,Jim Caviezel; Nick Nolte; Sean Penn,"History, War, Drama",https://letterboxd.com/film/the-thin-red-line/
 36,Cowboy Bebop,"Ikuro Sato, Kunihiro Mori, Yoshiyuki Takei, Hirokazu Yamada, Tetsuya Watanabe, Shinichiro Watanabe",Koichi Yamadera; Unsho Ishizuka; Megumi Hayashibara,"Western, Animation",https://letterboxd.com/film/cowboy-bebop/
 37,Fallen,Gregory Hoblit,Denzel Washington; John Goodman; Donald Sutherland,"Thriller, Drama, Fantasy, Crime",https://letterboxd.com/film/fallen-1998/
-38,Shakespeare in Love,John Madden,Joseph Fiennes; Gwyneth Paltrow; Geoffrey Rush,"Comedy, Romance, Drama, History",https://letterboxd.com/film/shakespeare-in-love/
-39,Bride of Chucky,Ronny Yu,Brad Dourif; Jennifer Tilly; Katherine Heigl,"Comedy, Horror",https://letterboxd.com/film/bride-of-chucky/
+38,Bride of Chucky,Ronny Yu,Brad Dourif; Jennifer Tilly; Katherine Heigl,"Comedy, Horror",https://letterboxd.com/film/bride-of-chucky/
+39,Shakespeare in Love,John Madden,Joseph Fiennes; Gwyneth Paltrow; Geoffrey Rush,"Comedy, Romance, Drama, History",https://letterboxd.com/film/shakespeare-in-love/
 40,The Man in the Iron Mask,Randall Wallace,Leonardo DiCaprio; Gabriel Byrne; Jeremy Irons,"Drama, Action, Adventure",https://letterboxd.com/film/the-man-in-the-iron-mask-1998/
 41,Velvet Goldmine,Todd Haynes,Ewan McGregor; Jonathan Rhys Meyers; Toni Collette,"Drama, Music",https://letterboxd.com/film/velvet-goldmine/
 42,Urban Legend,Jamie Blanks,Alicia Witt; Jared Leto; Rebecca Gayheart,"Horror, Mystery",https://letterboxd.com/film/urban-legend/
-43,A Simple Plan,Sam Raimi,Billy Bob Thornton; Bill Paxton; Bridget Fonda,"Crime, Drama, Thriller",https://letterboxd.com/film/a-simple-plan/
-44,Ever After,Andy Tennant,Drew Barrymore; Anjelica Huston; Dougray Scott,"Romance, Comedy, Drama",https://letterboxd.com/film/ever-after-1998/
-45,Ronin,John Frankenheimer,Robert De Niro; Jean Reno; Natascha McElhone,"Thriller, Action, Crime",https://letterboxd.com/film/ronin/
-46,Pi,Darren Aronofsky,Sean Gullette; Mark Margolis; Ben Shenkman,"Drama, Mystery, Thriller",https://letterboxd.com/film/pi/
-47,The Dinner Game,Francis Veber,Jacques Villeret; Thierry Lhermitte; Francis Huster,Comedy,https://letterboxd.com/film/the-dinner-game/
-48,Pokémon: The First Movie,Kunihiko Yuyama,Rica Matsumoto; Ikue Otani; Mayumi Izuka,"Family, Fantasy, Animation, Adventure, Action",https://letterboxd.com/film/pokemon-the-first-movie/
-49,Scooby-Doo on Zombie Island,Jim Stenstrum,Scott Innes; Billy West; Mary Kay Bergman,"Mystery, Animation, Family, Horror",https://letterboxd.com/film/scooby-doo-on-zombie-island/
-50,Snake Eyes,Brian De Palma,Nicolas Cage; Gary Sinise; Carla Gugino,"Crime, Mystery, Thriller",https://letterboxd.com/film/snake-eyes/
+43,Ever After,Andy Tennant,Drew Barrymore; Anjelica Huston; Dougray Scott,"Romance, Comedy, Drama",https://letterboxd.com/film/ever-after-1998/
+44,A Simple Plan,Sam Raimi,Billy Bob Thornton; Bill Paxton; Bridget Fonda,"Crime, Drama, Thriller",https://letterboxd.com/film/a-simple-plan/
+45,Pi,Darren Aronofsky,Sean Gullette; Mark Margolis; Ben Shenkman,"Drama, Mystery, Thriller",https://letterboxd.com/film/pi/
+46,Pokémon: The First Movie,Kunihiko Yuyama,Rica Matsumoto; Ikue Otani; Mayumi Izuka,"Family, Fantasy, Animation, Adventure, Action",https://letterboxd.com/film/pokemon-the-first-movie/
+47,Ronin,John Frankenheimer,Robert De Niro; Jean Reno; Natascha McElhone,"Thriller, Action, Crime",https://letterboxd.com/film/ronin/
+48,Scooby-Doo on Zombie Island,Jim Stenstrum,Scott Innes; Billy West; Mary Kay Bergman,"Mystery, Animation, Family, Horror",https://letterboxd.com/film/scooby-doo-on-zombie-island/
+49,The Dinner Game,Francis Veber,Jacques Villeret; Thierry Lhermitte; Francis Huster,Comedy,https://letterboxd.com/film/the-dinner-game/
+50,The Negotiator,F. Gary Gray,Samuel L. Jackson; Kevin Spacey; David Morse,"Action, Thriller, Drama, Crime",https://letterboxd.com/film/the-negotiator/

@@ -160,18 +160,6 @@
     },
     {
       "rank": 14,
-      "title": "Frankenstein",
-      "url": "https://letterboxd.com/film/frankenstein-2025/",
-      "director": "Guillermo del Toro",
-      "actors": [
-        "Oscar Isaac",
-        "Jacob Elordi",
-        "Christoph Waltz"
-      ],
-      "genres": "Fantasy, Drama, Horror, Science Fiction"
-    },
-    {
-      "rank": 15,
       "title": "Weapons",
       "url": "https://letterboxd.com/film/weapons-2025/",
       "director": "Zach Cregger",
@@ -181,6 +169,18 @@
         "Alden Ehrenreich"
       ],
       "genres": "Horror, Mystery"
+    },
+    {
+      "rank": 15,
+      "title": "Frankenstein",
+      "url": "https://letterboxd.com/film/frankenstein-2025/",
+      "director": "Guillermo del Toro",
+      "actors": [
+        "Oscar Isaac",
+        "Jacob Elordi",
+        "Christoph Waltz"
+      ],
+      "genres": "Fantasy, Drama, Horror, Science Fiction"
     },
     {
       "rank": 16,
@@ -250,7 +250,7 @@
       "actors": [
         "Nina Kiri",
         "Adam DiMarco",
-        "Keana Bastidas"
+        "Michèle Duquet"
       ],
       "genres": "Horror, Mystery"
     },
@@ -316,18 +316,6 @@
     },
     {
       "rank": 27,
-      "title": "28 Years Later",
-      "url": "https://letterboxd.com/film/28-years-later/",
-      "director": "Danny Boyle",
-      "actors": [
-        "Aaron Taylor-Johnson",
-        "Alfie Williams",
-        "Ralph Fiennes"
-      ],
-      "genres": "Science Fiction, Thriller, Horror"
-    },
-    {
-      "rank": 28,
       "title": "Good Luck, Have Fun, Don't Die",
       "url": "https://letterboxd.com/film/good-luck-have-fun-dont-die/",
       "director": "Gore Verbinski",
@@ -339,19 +327,19 @@
       "genres": "Action, Science Fiction, Comedy"
     },
     {
-      "rank": 29,
-      "title": "Rental Family",
-      "url": "https://letterboxd.com/film/rental-family-2025/",
-      "director": "Hikari",
+      "rank": 28,
+      "title": "28 Years Later",
+      "url": "https://letterboxd.com/film/28-years-later/",
+      "director": "Danny Boyle",
       "actors": [
-        "Brendan Fraser",
-        "Takehiro Hira",
-        "Mari Yamamoto"
+        "Aaron Taylor-Johnson",
+        "Alfie Williams",
+        "Ralph Fiennes"
       ],
-      "genres": "Drama, Comedy"
+      "genres": "Science Fiction, Thriller, Horror"
     },
     {
-      "rank": 30,
+      "rank": 29,
       "title": "Companion",
       "url": "https://letterboxd.com/film/companion-2025/",
       "director": "Drew Hancock",
@@ -363,19 +351,19 @@
       "genres": "Thriller, Science Fiction, Horror"
     },
     {
-      "rank": 31,
-      "title": "Pillion",
-      "url": "https://letterboxd.com/film/pillion-2025/",
-      "director": "Harry Lighton",
+      "rank": 30,
+      "title": "Rental Family",
+      "url": "https://letterboxd.com/film/rental-family-2025/",
+      "director": "Hikari",
       "actors": [
-        "Harry Melling",
-        "Alexander Skarsgård",
-        "Lesley Sharp"
+        "Brendan Fraser",
+        "Takehiro Hira",
+        "Mari Yamamoto"
       ],
-      "genres": "Drama, Romance, Comedy"
+      "genres": "Drama, Comedy"
     },
     {
-      "rank": 32,
+      "rank": 31,
       "title": "Exit 8",
       "url": "https://letterboxd.com/film/exit-8/",
       "director": "Genki Kawamura",
@@ -385,6 +373,18 @@
         "Naru Asanuma"
       ],
       "genres": "Mystery, Horror, Thriller"
+    },
+    {
+      "rank": 32,
+      "title": "Pillion",
+      "url": "https://letterboxd.com/film/pillion-2025/",
+      "director": "Harry Lighton",
+      "actors": [
+        "Harry Melling",
+        "Alexander Skarsgård",
+        "Lesley Sharp"
+      ],
+      "genres": "Drama, Romance, Comedy"
     },
     {
       "rank": 33,
@@ -412,42 +412,6 @@
     },
     {
       "rank": 35,
-      "title": "Materialists",
-      "url": "https://letterboxd.com/film/materialists/",
-      "director": "Celine Song",
-      "actors": [
-        "Dakota Johnson",
-        "Chris Evans",
-        "Pedro Pascal"
-      ],
-      "genres": "Romance, Drama"
-    },
-    {
-      "rank": 36,
-      "title": "Wicked: For Good",
-      "url": "https://letterboxd.com/film/wicked-for-good/",
-      "director": "Jon M. Chu",
-      "actors": [
-        "Cynthia Erivo",
-        "Ariana Grande",
-        "Jeff Goldblum"
-      ],
-      "genres": "Adventure, Fantasy, Romance"
-    },
-    {
-      "rank": 37,
-      "title": "Together",
-      "url": "https://letterboxd.com/film/together-2025/",
-      "director": "Michael Shanks",
-      "actors": [
-        "Dave Franco",
-        "Alison Brie",
-        "Damon Herriman"
-      ],
-      "genres": "Horror, Romance"
-    },
-    {
-      "rank": 38,
       "title": "The Fantastic 4: First Steps",
       "url": "https://letterboxd.com/film/the-fantastic-4-first-steps/",
       "director": "Matt Shakman",
@@ -459,7 +423,19 @@
       "genres": "Action, Science Fiction, Adventure"
     },
     {
-      "rank": 39,
+      "rank": 36,
+      "title": "Materialists",
+      "url": "https://letterboxd.com/film/materialists/",
+      "director": "Celine Song",
+      "actors": [
+        "Dakota Johnson",
+        "Chris Evans",
+        "Pedro Pascal"
+      ],
+      "genres": "Romance, Drama"
+    },
+    {
+      "rank": 37,
       "title": "Mickey 17",
       "url": "https://letterboxd.com/film/mickey-17/",
       "director": "Bong Joon Ho",
@@ -469,6 +445,30 @@
         "Steven Yeun"
       ],
       "genres": "Comedy, Adventure, Science Fiction"
+    },
+    {
+      "rank": 38,
+      "title": "Wicked: For Good",
+      "url": "https://letterboxd.com/film/wicked-for-good/",
+      "director": "Jon M. Chu",
+      "actors": [
+        "Cynthia Erivo",
+        "Ariana Grande",
+        "Jeff Goldblum"
+      ],
+      "genres": "Adventure, Fantasy, Romance"
+    },
+    {
+      "rank": 39,
+      "title": "Together",
+      "url": "https://letterboxd.com/film/together-2025/",
+      "director": "Michael Shanks",
+      "actors": [
+        "Dave Franco",
+        "Alison Brie",
+        "Damon Herriman"
+      ],
+      "genres": "Horror, Romance"
     },
     {
       "rank": 40,
@@ -532,18 +532,6 @@
     },
     {
       "rank": 45,
-      "title": "Sirāt",
-      "url": "https://letterboxd.com/film/sirat-2025/",
-      "director": "Oliver Laxe",
-      "actors": [
-        "Sergi López",
-        "Bruno Núñez",
-        "Stefania Gadda"
-      ],
-      "genres": "Thriller, Drama"
-    },
-    {
-      "rank": 46,
       "title": "Bring Her Back",
       "url": "https://letterboxd.com/film/bring-her-back/",
       "director": "Michael Philippou, Danny Philippou",
@@ -553,6 +541,18 @@
         "Mischa Heywood"
       ],
       "genres": "Horror"
+    },
+    {
+      "rank": 46,
+      "title": "Sirāt",
+      "url": "https://letterboxd.com/film/sirat-2025/",
+      "director": "Oliver Laxe",
+      "actors": [
+        "Sergi López",
+        "Bruno Núñez",
+        "Stefania Gadda"
+      ],
+      "genres": "Thriller, Drama"
     },
     {
       "rank": 47,

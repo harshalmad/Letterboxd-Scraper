@@ -112,6 +112,18 @@
     },
     {
       "rank": 10,
+      "title": "Smile 2",
+      "url": "https://letterboxd.com/film/smile-2-2024/",
+      "director": "Parker Finn",
+      "actors": [
+        "Naomi Scott",
+        "Rosemarie DeWitt",
+        "Lukas Gage"
+      ],
+      "genres": "Mystery, Horror"
+    },
+    {
+      "rank": 11,
       "title": "Heretic",
       "url": "https://letterboxd.com/film/heretic-2024/",
       "director": "Scott Beck, Bryan Woods",
@@ -123,7 +135,7 @@
       "genres": "Thriller, Horror"
     },
     {
-      "rank": 11,
+      "rank": 12,
       "title": "The Wild Robot",
       "url": "https://letterboxd.com/film/the-wild-robot/",
       "director": "Chris Sanders",
@@ -133,18 +145,6 @@
         "Kit Connor"
       ],
       "genres": "Adventure, Animation, Family, Science Fiction"
-    },
-    {
-      "rank": 12,
-      "title": "Smile 2",
-      "url": "https://letterboxd.com/film/smile-2-2024/",
-      "director": "Parker Finn",
-      "actors": [
-        "Naomi Scott",
-        "Rosemarie DeWitt",
-        "Lukas Gage"
-      ],
-      "genres": "Mystery, Horror"
     },
     {
       "rank": 13,
@@ -300,18 +300,6 @@
     },
     {
       "rank": 26,
-      "title": "Despicable Me 4",
-      "url": "https://letterboxd.com/film/despicable-me-4/",
-      "director": "Chris Renaud",
-      "actors": [
-        "Steve Carell",
-        "Kristen Wiig",
-        "Will Ferrell"
-      ],
-      "genres": "Family, Action, Animation, Comedy, Science Fiction"
-    },
-    {
-      "rank": 27,
       "title": "Abigail",
       "url": "https://letterboxd.com/film/abigail-2024/",
       "director": "Tyler Gillett, Matt Bettinelli-Olpin",
@@ -321,6 +309,18 @@
         "Alisha Weir"
       ],
       "genres": "Horror, Thriller, Comedy"
+    },
+    {
+      "rank": 27,
+      "title": "Despicable Me 4",
+      "url": "https://letterboxd.com/film/despicable-me-4/",
+      "director": "Chris Renaud",
+      "actors": [
+        "Steve Carell",
+        "Kristen Wiig",
+        "Will Ferrell"
+      ],
+      "genres": "Family, Action, Animation, Comedy, Science Fiction"
     },
     {
       "rank": 28,
@@ -384,15 +384,15 @@
     },
     {
       "rank": 33,
-      "title": "Friendship",
-      "url": "https://letterboxd.com/film/friendship-2024/",
-      "director": "Andrew DeYoung",
+      "title": "Babygirl",
+      "url": "https://letterboxd.com/film/babygirl-2024/",
+      "director": "Halina Reijn",
       "actors": [
-        "Tim Robinson",
-        "Paul Rudd",
-        "Kate Mara"
+        "Nicole Kidman",
+        "Harris Dickinson",
+        "Antonio Banderas"
       ],
-      "genres": "Comedy, Drama"
+      "genres": "Thriller, Romance"
     },
     {
       "rank": 34,
@@ -408,15 +408,15 @@
     },
     {
       "rank": 35,
-      "title": "Babygirl",
-      "url": "https://letterboxd.com/film/babygirl-2024/",
-      "director": "Halina Reijn",
+      "title": "Friendship",
+      "url": "https://letterboxd.com/film/friendship-2024/",
+      "director": "Andrew DeYoung",
       "actors": [
-        "Nicole Kidman",
-        "Harris Dickinson",
-        "Antonio Banderas"
+        "Tim Robinson",
+        "Paul Rudd",
+        "Kate Mara"
       ],
-      "genres": "Thriller, Romance"
+      "genres": "Comedy, Drama"
     },
     {
       "rank": 36,
@@ -432,18 +432,6 @@
     },
     {
       "rank": 37,
-      "title": "The Idea of You",
-      "url": "https://letterboxd.com/film/the-idea-of-you-2024/",
-      "director": "Michael Showalter",
-      "actors": [
-        "Anne Hathaway",
-        "Nicholas Galitzine",
-        "Ella Rubin"
-      ],
-      "genres": "Drama, Romance, Comedy, Music"
-    },
-    {
-      "rank": 38,
       "title": "It's What's Inside",
       "url": "https://letterboxd.com/film/its-whats-inside/",
       "director": "Greg Jardin",
@@ -453,6 +441,18 @@
         "David Thompson"
       ],
       "genres": "Science Fiction, Comedy, Mystery"
+    },
+    {
+      "rank": 38,
+      "title": "The Idea of You",
+      "url": "https://letterboxd.com/film/the-idea-of-you-2024/",
+      "director": "Michael Showalter",
+      "actors": [
+        "Anne Hathaway",
+        "Nicholas Galitzine",
+        "Ella Rubin"
+      ],
+      "genres": "Drama, Romance, Comedy, Music"
     },
     {
       "rank": 39,
@@ -516,6 +516,18 @@
     },
     {
       "rank": 44,
+      "title": "Beetlejuice Beetlejuice",
+      "url": "https://letterboxd.com/film/beetlejuice-beetlejuice/",
+      "director": "Tim Burton",
+      "actors": [
+        "Michael Keaton",
+        "Winona Ryder",
+        "Catherine O'Hara"
+      ],
+      "genres": "Comedy, Fantasy"
+    },
+    {
+      "rank": 45,
       "title": "How to Make Millions Before Grandma Dies",
       "url": "https://letterboxd.com/film/how-to-make-millions-before-grandma-dies/",
       "director": "Pat Boonnitipat",
@@ -527,7 +539,7 @@
       "genres": "Drama"
     },
     {
-      "rank": 45,
+      "rank": 46,
       "title": "Moana 2",
       "url": "https://letterboxd.com/film/moana-2/",
       "director": "David G. Derrick Jr., Jason Hand, Dana Ledoux Miller",
@@ -537,18 +549,6 @@
         "Hualālai Chung"
       ],
       "genres": "Comedy, Fantasy, Animation, Adventure, Family"
-    },
-    {
-      "rank": 46,
-      "title": "Beetlejuice Beetlejuice",
-      "url": "https://letterboxd.com/film/beetlejuice-beetlejuice/",
-      "director": "Tim Burton",
-      "actors": [
-        "Michael Keaton",
-        "Winona Ryder",
-        "Catherine O'Hara"
-      ],
-      "genres": "Comedy, Fantasy"
     },
     {
       "rank": 47,
@@ -588,15 +588,15 @@
     },
     {
       "rank": 50,
-      "title": "Milk & Serial",
-      "url": "https://letterboxd.com/film/milk-serial/",
-      "director": "Curry Barker",
+      "title": "Joker: Folie à Deux",
+      "url": "https://letterboxd.com/film/joker-folie-a-deux/",
+      "director": "Todd Phillips",
       "actors": [
-        "Curry Barker",
-        "Cooper Tomlinson",
-        "Tristan Welsh"
+        "Joaquin Phoenix",
+        "Lady Gaga",
+        "Brendan Gleeson"
       ],
-      "genres": "Horror, Thriller"
+      "genres": "Thriller, Crime, Drama"
     }
   ]
 }
